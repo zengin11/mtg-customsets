@@ -9,6 +9,26 @@
         </sets>
     <cards>
         <card>
+            <name>Abby, Icon of Strength</name>
+            <text>Shame -  Whenever an opponent reveals their first card or cards each turn, Abby gets +X/+X until end of turn, where X is the highest mana value amoung cards revealed this way. If X is 5 or greater, Abby also gains haste and trample until end of turn.
+Partner - Saja  (You can have two commanders if both have this.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{rg}{rg}</manacost>
+                <cmc>4</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4gw3wwjS/Abby-Icon-of-Strength-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -86,8 +106,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Junk Token</related>
             <related>Treasure Token</related>
+            <related>Junk Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
@@ -3675,26 +3695,6 @@ When this land enters, target opponent reveals a card at random from their hand.
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/vxjq96ZB/Observed-Alleyway-png.png">kpdh</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Abby, Icon of Strength</name>
-            <text>Shame -  Whenever a player reveals one or more cards, Abby gets +X/+X until end of turn, where X is the highest mana value of cards revealed this way. If X is 5 or greater, Abby also gains haste and trample until end of turn.
-Partner - Saja  (You can have two commanders if both have this.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{rg}{rg}</manacost>
-                <cmc>4</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dsx5XsRN/Abby-Icon-of-Strength-png.png">kpdh</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Gwi-ma, Otherworld King</name>
