@@ -1,0 +1,170 @@
+-Hunter's Stance-
+Cuz it's arcane, you can splice onto it, so it sort of enables itself. But on its own it's a dead card. Which is generally pretty bad design.
+
+But if you've revealed one of the cards, it's slightly overcosted (these are pretty much all 1.5 mana effects). If you've revealed 2, it's efficient, and strong because of its flexibility. If you've revealed all 3 colors, it's honestly nuts as a 2 mana spell 
+It says "up to one target" because if you can't provide all required targets for a spell, you can't cast it. Meaning even if you haven't revealed a white or red card, if it just said "target" you couldn't cast this spell unless you pointed at an artifact and a creature. It then wouldn't do anything to them anyway.
+
+So, "up to one", so you can pick zero while casting and not be forced to pick stuff.
+(the forced picking would problematic if there weren't any artifacts around, but you wanted the white and/or blue modes)
+
+Plus the art's a banger
+
+-Entrancing Melody-
+This is just a flavor reprint cuz of the name, ngl. I saw that art and went looking for a card to slap it on cuz I NEEDED IT!
+
+-Arcane Infusion-
+Arcane Infusion reveals, which is great for the set, and nice spellslinger-reveals support in case people want to build that with Zoey as a commander. I was eyeing this art as perfect for an Izzet Instant card ever since I found it on Pinterest.
+
+-Grand Crescendo-
+This is specifically to support the alt commander, HUNTR/X, Flame of the Fans, which gets +1/+0 for each Citizen you control.
+
+-Guiding Voice-
+Learn to find Lessons doesn't actually work in commander because you're explicitly not allowed to pull cards from outside the game. 
+But that's tournament rules and it's really dumb in casual commander, where "outside the game" should JUST MEAN "outside the game," so I'm ignoring that because it lets you reveal in a really unique way
+
+-Environmental Sciences-
+Wild serendipity: Environmental Sciences is the ONLY lesson card that reveals stuff. So it's the only lesson that would realistically play into this deck. But it's also a LOVELY little reprint for our favorite Maknae, so that works out real freaking well!
+
+-Swarm of Secrets-
+The flavor text there is one of the Takedown lyrics, translating to "Boldly face the darkness and bring it all down." Which I think is sick as heck.
+
+-Mother of Runes-
+A famously strong card, though not broken. It's extremely popular, and is pretty common in precon decks, so I figured it needed a reprint.
+Also, Can we just admire how much absolutely insane concept art this movie was gifted?
+
+-Anguish-
+Most of the time, the average mana value of most decks is around 3 when NOT considering lands—which are zero and count for around 40% of most decks and drop the real average to around 2. But it can vary significantly.
+
+One thing I LOVE about Anguish (wild sentence to say) that I only noticed well after designing it, is that when you flashback it (cast it from your graveyard for a higher cost), it's supposed to go to exile afterwards (so you can't flashback spells over and over). However, if you hit a zero off of it, it goes to your hand instead, letting you regular cast it for 1 mana again, potentially to rinse and repeat if you're lucky.
+
+Which feels pretty perfectly incessant for a card named Anguish.
+
+-Temple of the False God-
+A very popular land in commander, and a staple in precons.
+
+-Abby, Icon of Strength-
+This ability was originally Mira's (albeit triggering off only your own reveals), but I preferred Mira getting counters so you could build her over time.
+
+-Huntrix's Rising Harmony-
+
+Keep in mind that a Legendary instant means you can only play it if you control a legendary creature. So it's pretty restricted, though less so in commander, and less so again in a partner deck.
+
+You thought thinking about splice normally was a mental exercise, gee whizz does this make it so much harder. It does NOTHING on its own, which is why it has Arcanecycling (Pay 1 mana and Discard the card from your hand to search your library for any Arcane card of your choice). So just in case you don't have any cards to splice, it works as a tutor.
+
+But really the goal is to slam this late game, splice 2-4 cards onto it for discounts, and copy it to get triple the value.
+
+And then, hopefully, win.
+
+It only reduces colored costs, so something like Overblaze, which costs 2RR to splice, still costs 2R instead of just 1 mana. But splicing Overblaze is still EASILY the best option, since for 6 total mana you get to double, then double, then double the damage dealt by one creature. And Mira with 8x damage BETTER win you a game.
+
+-Silundi Isle (Seoul Aquarium)-
+Silundi is an official part of the MtG IP, so they wouldn't directly reprint it in a UB set without changing the name.
+
+-Legion Angel-
+I don't make AU cards often, but when I do, I like to think that they're bangers.
+
+Peep the reveal synergy, too.
+
+-Legion Angel Alt-
+I like to think that the AU cards I do make are bangers, but I don't make them often.
+
+-Silence-
+This is one of my top 3 favorite reprint arts of the set.
+
+-Blessed Breath-
+Blessed Breath is pretty subpar in regular magic. But it does WORK in this deck, mainly because protection helps prevent blocking. So slamming this on a mega-buffed Mira is often how I win games. Secret 1-mana wincon.
+
+-Arcane Signet-
+Arcane signet is in, no joke, 96% of official commander precons (I counted). So it NEEDS to be reprinted. It's just good.
+
+-Command Tower-
+You know it, you love it, it's in 97% of official commander precons.
+
+-Sol Ring-
+In 99% of official commander recons. All but ONE (I didn't write down the one... womp) 
+
+At my tables, we house rule Sol Ring to enter tapped and tap for one colorless instead of 2. And it's still incredible value.
+
+-Thoughtcutter Agent-
+This is a silly AU card, but because the ✨ *evil* ✨ half of the kpdh set is about punishing opponents revealing stuff it fits mechanically. And when I saw this art I couldn't help myself. Despite Thoughtcutter Agent being, just, a really bad card.
+
+-Romance, Alluring Star-
+This is a lot of words for a relatively simple ability, just to close off edge cases because temp-control is really annoying to write.
+
+-Harmonic Restoration-
+I think the flavor here is super sweet. Partially save a creature from "death", but if you've revealed secrets they instead come right back into the fight. Very lore accurate. And the art is GORG.
+
+-Horde Ambusher-
+This art goes so hard, I even used it as splash art for a KPDH dnd subclass I made.
+
+-Zoey, Colors Swirling-
+This is a mirrored design of Mira, Napalm Era.
+
+This is one of the best resonate enablers in the entire set. Getting a free reveal every turn (when you draw a card, you reveal a new one) is INCREDIBLY strong in this deck. She's been nerfed a little
+
+My friend says "zoey deserves to be broken powerful 😌 that's my queen right there:
+
+-Truth and Power-
+This was *originally* printed for my JJK set, but mechanically it fits so well into the KPDH set that I figured I'd reprint *my own card* for it.
+
+-Mira, Napalm Era-
+This Mira is a solid example (IMO) of what more custom cards should be: Kinda weak. It's not BAD, but it requires quite a lot of juice to get off the ground. In a Resonate deck, it can be pretty solid with its self-buffs once you get some reveal engines running. Note that it's got Partner—HUNTR/X, so if you want you can use her as a partner commander, or find her in your deck with Rumi, Leader of Idols.
+
+-Rumi's Sain-geom-
+This is very good, because Hexproof is very strong in commander.
+It's a little more of a complex exploration of the "Reveals matter" design space, caring specifically about the colors you reveal. Which are white and blue because Rumi, Leader of Idols is white and blue. There's two other equipment that are VERY similarly designed.
+
+-Resounding Negation-
+This is the kind of spell that I guarantee would be printed if there was ever an official Reveals-Matter set. It's a bad counterspell normally, but if you've revealed something it's a good counterspell. Simple. And holy smokes that concept art is GORGEOUS and absolutely PERFECT for a counterspell card. I was giddy when I found it!
+
+-Prodder of Sin-
+This is shamelessly based on Sin Prodder. But Sin prodder is really bad for several reasons that I fixed on this card. That's why it's so wordy; I'd never straight-up design a card with that many words. But it's a great way to trigger resonate for free every turn.
+
+-Port Town-
+The reveal lands are really nice example of staple cards that go in a LOT of decks, but suddenly when they're here they shoot up in power because for the first time in MtG history we care about revealing stuff!
+
+-Furycalm Snarl-
+I'm very pleased with how this card—and to a lesser extent Frostboil Snarl—is rather close to the official art in vibe.
+
+-Frostboil Snarl-
+A little less so than Furycalm Snarl, but I'm rather pleased with how close this art is to the official printing of Frostboil in vibe.
+
+-Mystery, Silencer of Secrets-
+Mystery is REALLY sucky to play against in a discard-focused deck, because you can use something like Thoughtsieze to make someone reveal their hand so you can handrip them, AND Mystery gets to snag a second one for his troubles for *you* to cast later.
+
+That's the Demon way, though. Hope you brought some removal for this guy.
+
+-Baby Saja, Ungodly Lyricist-
+Baby's ability—giving pseudo-splice to all your cards—was the ability I gave to the first draft of Zoey, HUNTR/X Maknae. I removed it because it was extremely confusing; far too much so for the face commander of a precon designed for dads to get their young daughters to play magic with them.
+
+It's very limited in three color decks, which hurts in these orecons. And it's REALLY expensive unless you have a low-cost and reliably useful card in hand. Suffers the same "man I do not have the mana budget for this" problem that Splice always does.
+
+Something like Swords or Path is amazing to spam, though. I won a playlets game off spamming Path like five times with Baby.
+
+A deck that's ALL cheap spells could go crazy, I suppose. If someone else builds that, I'll play against it.
+
+-Path to Exile-
+It was really hard to find art for this. Not a lot of Path-ing or Exile-ing in this movie. I did consider Rumi meeting with Celine under the tree, but that really feels like a black card.
+
+With Path of Ancestry, that's TWO paths I needed to art-ify for this set. Crazy. Too many paths.
+
+-Zoey's Shin-kal-
+The art here is actually a Fortnite weapon render, which I put over a Honmoon wallpaper I found.
+
+-Rumi's Sain-geom-
+The art here is actually a Fortnite weapon render, which I put over a Honmoon wallpaper I found.
+
+-Mira's Gok-do-
+The art here is actually a Fortnite weapon render, which I put over a Honmoon wallpaper I found.
+
+-Chaos Warp-
+Arguably a color pie break... But with gambling, all things are in Red's pie.
+
+-Rakshasa's Secret-
+Rakshasa's Secret is one of the first cards I ever owned (my friend who introduced me to the game gave it to me). It's hot garbage (it's a 5 cent card lol), but the art is iconic to me and this art instantly reminded me of it.
+
+-Bloodthirsty Conquerer-
+Because Gwi-ma, Otherworld King makes you pay life for stuff, being able to regain life is important.
+
+-Songwriter's Notebook-
+Based heavily on Druidic Satchel. Notebook's creature and ramp modes are less powerful, but it's more consistent and cheaper.

@@ -1,0 +1,8 @@
+-Ambessa, Matriarch of War-
+This isn't an official frame design, but I'm partial towards it for hybrid cards that can be cast monocolored. Colorless title and P/T box (like all hybrids), but with a mono colored rules and pinline, and off-colored frame border.
+
+-Grayson, Piltover Chief-
+Grayson's last ability feels like such on-the-nose obvious crime hate I am shocked that wizards has never printed it before. But they hate crime hate for some reason. Maybe the Pinkertons told them to avoid it...
+
+-Ekko, Firelight Leader-
+The first ability works fine, because the static "Landers are equipment" ability becomes active as soon as Ekko enters, but the "attach it" ability is slower since it needs to resolve on the stack.

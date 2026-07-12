@@ -1,0 +1,48 @@
+# Target Format
+- Commander
+- One preconstructed deck for HUNTR/X
+- One preconstructed deck for Gwi-ma and the Saja Boys
+- Balanced with real WOTC recons
+
+# Colors:
+- Huntrix: Jeskai (RWU; Red + White + Blue)
+- Gwi-ma: Grixis (BUR; Black + Blue + Red)
+
+# Choices for your Commander (Huntrix):
+HUNTR/X, Flame of the Fans
+- Use this commander for a simple game plan that creates lots of tokens to block with. Win the game by buffing and attacking with your commander.
+
+Partner—HUNTR/X (with 6 creatures to pair up, you have several options! Combinations unlisted here LACK one or more colors, and can’t helm this 3-color deck.)
+- Rumi, Leader of Idols + Mira, Blade Dancer (recommended)
+
+- Rumi, Leader of Idols + Zoey, HUNTR/X Maknae
+- Mira, Blade Dancer + Zoey, HUNTR/X Maknae
+- Bobby, Supportive Manager + Zoey, HUNTR/X Maknae
+- Bobby, Supportive Manager + Mira, Blade Dancer
+- Rumi, Leader of Idols + Mira, Napalm Era
+- Mira, Blade Dancer + Zoey, Colors Swirling
+
+# Themes: 
+**Core theme:** Reveals matter.
+
+So far, official MtG has not printed any “Whenever you reveal” effects, but the rules have been intentionally left open for such an effect to exist. With K-pop Demon Hunter’s theme about revealing secrets, this felt like the perfect place! There are numerous mechanics in MtG that reveal cards already, so this deck leverages several of them.
+	
+**Subtheme:** Arcane spells and Splice
+
+A more complex option for revealing cards, Arcane spells work as canvases that you can add effects to. When you cast an Arcane spell, you can reveal a card with Splice from your hand to add that card’s effects to the spell. This keeps the card in your hand for later, either casting it regularly or using it to Splice again!
+
+Some cards have “Splice onto instant or sorcery”, which means they can use more than just Arcane spells as their canvas. These are incredibly flexible; try to chain them together to get lots of reveals!
+	
+**Subtheme:** Buffs and Voltron
+
+Kpop Demon Hunters has lots of combat. To win with this deck, just keep attacking with your commanders until you kill via commander damage! To help with that, many cards here will buff creatures.
+
+**Alternate Theme:** Forced Reveals
+
+I've been working on an alternate deck in colors Blue, Red, and Black that focused on forcing your opponents to reveal cards, and punishing them when they do. This is problematic, because most force-reveal effects are discard effects, and everybody hates those. The deck is very work in progress, but there might be enough juice in this set already to create it yourself, helmed by either Gwi-ma or a pair of the Saja Boys!
+
+# Custom mechanics: 
+
+**Resonate**
+
+Resonate is currently being reworked into a Keyword. Old cards write out text fully ("Resonate — whenever you reveal..."). New cards write that out in reminder text ("Resonate — do a thing").

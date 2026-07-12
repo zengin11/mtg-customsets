@@ -1,0 +1,81 @@
+# Target format
+- Booster Draft set
+- Many of the cards are made with commander in mind, but draft is the primary goal
+
+# Draft Archetypes
+
+RW — VALIANT TRICKS
+With windrunners and warriors galore, shock your opponents using rapid offensive and defensive plays. Activated abilities and instant-speed buffs combine with Valiant creatures to get you fast value from the tricks up your sleeve.
+
+WB — HISTORIC CONTROL
+Dominate the board with legendary creatures, a variety of artifacts, and well-rounded sagas. Keep your permanents with a slew of protection and reanimation, and carefully build an array of effects no one can win against.
+
+BR — BIG SACRIFICE
+Odium returns, and he’s ruthlessly culling his ranks to fuel his master plan. Leverage Emerge and X-value spells to sacrifice your biggest creatures for even bigger value, and resurrect your best minions to win the fight.
+
+GU — TOUGH CRABS
+Build up an army of the biggest crabs that Roshar has to offer, pump their toughness for new abilities, then simply beat your foes into submission.
+
+UW — ARTIFACT ENERGY
+With artifabrians like Navani at the helm, build up your energy cache to fuel your fabrial artifacts. Use broam tokens for long-term energy generation to outlast your opponents, then sweep the game with an energy-enhanced finisher.
+
+UB — UNORTHODOX ARTIFACTS
+Get extra value from your broams, clues, and treasures (courtesy of the Ghostbloods), sacrificing them for unseen potential. Soulcast foes into treasure to fuel your machinations, and maintain the pressure until you grab victory.
+
+UR — ENERGY SLINGING
+Harness the power of a highstorm with rapid-fire energy-based spells. Build your pool of energy with attack and spell triggers, then unleash it all at once for an explosive win.
+
+RG — MODIFIED FORMS
+Follow the Dawnsinger way. Adapt your creatures with counters, equipment, and auras, balancing power and flexibility with either a well-supplied army or one hyper-focused warrior.
+
+BG — GRINDING MILL
+Pull value from the chasms of your graveyard with Delve and Scavenge, recall lost cards to your hand, and mill until you have the options you need to close out the game.
+
+GW — COUNTERS CONNECTION
+Forge new bonds as your creatures share their strengths. Buff your permanents with a variety of counters, redistribute them to optimize resources, then proliferate to secure your advantage.
+
+
+# Custom mechanics
+
+**Flare**
+An alternative casting cost on permanent spells. Casting with Flare gives the spell Flash, but it only lasts one turn.
+
+*(You may cast this spell for its flare cost as though it had flash. If you do, sacrifice it at the beginning of the next upkeep)*
+
+**Bond**
+Activated ability that appears on True Spren. Functions like Reconfigure for Auras, and lasts until the enchanted creature dies.
+
+*([cost]: Attach "to target creature you control. While attached, this is an Aura with enchant creature and isn't a creature. Bond only while detached, as a sorcery)*
+
+**Unite**
+Attack-trigger ability. A creature with Unite chooses another as it attacks, and they must be blocked together or not at all. Essentially, it's pseudo-banding. This does target, so it can trigger Valiant.
+
+*(Whenever this creature attacks, choose another target creature attacking the same player or permanent. While both are attacking this turn, they can’t be blocked unless both are blocked. Multiple instances of unite each trigger individually)*
+
+Rulings: Multiple creatures with Unite can make a chain (A → B, and B → C, in which case A, B, and C must all be blocked). A chain can be broken by removing a member before blockers are declared (removing B leaves A and C un-united).
+
+**Reemerge**
+Alternative cost that appears on the Fused, which allows you to cast them from your graveyard by exiling a creature. Emerge, but with more "re".
+
+*(You may cast this card from your graveyard by sacrificing a creature and paying [cost] reduced by that creature's mana value. Exile the sacrificed card.)*
+
+Rulings: The creature is exiled immediately after it enters the yard. This triggers sacrifice, dies, and "enters yard" triggers.
+
+
+**Oathsworn**
+
+Ability word (which means no rules built in, like Valiant) which marks that a card uses level counters in the same way that the Station keyword uses charge counters. Each Oathsworn card has a triggered ability that puts level counters on it, and one or more abilities it gains once it reaches a certain number of level counters
+
+Rulings: It loses these abilities if it loses level counters and drops below the required number
+
+**Broam token**
+
+A predefined Artifact token that generates energy counters. The mana → energy rate is inefficient, but repeatable over turns.
+
+*“{2}, {t}: You get {e}{e}”*
+
+**Lightweaving token**
+
+A 0/1 Illusion creature token that attracts blockers.
+
+*“When this becomes the target of a spell or ability, sacrifice it. This creature must be blocked if able.”*

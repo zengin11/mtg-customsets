@@ -1,0 +1,4274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set> v1.4<releasedate>2026-07-12</releasedate>
+            <name>kpdh</name>
+            <longname>kpdh</longname>
+            <settype>Custom</settype>
+            </set>
+        </sets>
+    <cards>
+        <card>
+            <name>Chorus of the First Hunters</name>
+            <text>Cycling {2u}, flashback {2r}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{0}</manacost>
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane Lesson</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8S6WxHJ/Chorus-of-the-First-Hunters-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Denied by the Arcane</name>
+            <text>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
+You draw a card at the beginning of the next turn's upkeep.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PzM3SSNM/Denied-by-the-Arcane-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Monumental Henge</name>
+            <text>This land enters tapped unless you control a Plains.
+{T}: Add {W}.
+{2}{W}{W}, {T}: Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.  (Artifacts, legendaries, and Sagas are historic.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>W</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XZD4pP8q/Monumental-Henge-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Songwriter’s Notebook</name>
+            <text>{t}: Reveal the top card of your library. If it's a creature card, create a 0/1 white Citizen creature token. If it's a land card, create a tapped Treasure token. If it's a noncreature, nonland card, create a tapped Junk token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Book</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            <related>Treasure Token</related>
+            <related>Junk Token</related>
+            </card>
+        <card>
+            <name>Cast for Rehearsal</name>
+            <text>Arcane spells you control have rebound.  (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}{u}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Performer</type>
+                <pt>2/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5hbxZKm6/Cast-for-Rehearsal-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Wrath of God</name>
+            <text>Destroy all creatures. They can't be regenerated.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/p6sVhtTh/Wrath-of-God-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Splicer’s Skill</name>
+            <text>Create a 3/3 colorless Phyrexian Golem artifact creature token.
+Splice onto instant or sorcery {3}{W}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/67FvLxYy/Splicer-s-Skill-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Mira, Blade Dancer</name>
+            <text>Resonate - Put a +1/+1 counter on Mira.  (Do so whenever an effect has you reveal one or more cards.) 
+Mira has trample as long as you've revealed a card from your hand this turn.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/prXCsDY3/Mira-Blade-Dancer-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Plains</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Plains</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DgPG6T6z/Plains-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Flawless Maneuver</name>
+            <text>If you control a commander, you may cast this spell without paying its mana cost.
+Creatures you control gain indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WNVSPz6N/Flawless-Maneuver-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Stormchaser Chimera</name>
+            <text>Flying
+{2}{U}{R}: Scry 1, then reveal the top card of your library. This creature gets +X/+0 until end of turn, where X is that card's mana value.  (To scry 1, look at the top card of your library, then you may put that card on the bottom.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}{R}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Chimera</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/678jqwfs/Stormchaser-Chimera-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Bobby, Supportive Manager</name>
+            <text>Performer creatures you control get +1/+1 and have ward {3}.
+Partner—HUNTR/X </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Advisor</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/M4b2MjL/Bobby-Supportive-Manager-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Silundi Isle (Seoul Aquarium)</name>
+            <text>This land enters tapped.
+{T}: Add {U}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>U</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTtyJSHZ/Silundi-Isle-Seoul-Aquarium-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Zoey, Colors Swirling</name>
+            <text>Flash
+Play with the top card of your library revealed.  (Whenever an unrevealed card is on top of your library, reveal it.) 
+{3}{u}: Draw a card.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HDPRH40w/Zoey-Colors-Swirling-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Soulbound Reinforcements</name>
+            <text>Choose one - 
+•  Reveal your hand. Create a 0/1 white Citizen creature token for each card you revealed this turn.
+•  Target opponent reveals their hand. Create a 1/1 red Demon creature token. Put a +1/+1 counter on it for each card that opponent revealed this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{u}{u}</manacost>
+                <cmc>6</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpyBfPc7/Soulbound-Reinforcements-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Broken Glass</name>
+            <text>{2}{wb}: Target player reveals their hand.
+Whenever a player reveals a white card, Rumi gains lifelink until end of turn. The same is true for blue and flying, black and hexproof, red and first strike, and green and indestructible.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{wb}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Demon</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DB0GL55/Rumi-Broken-Glass-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Open the Armory Alt</name>
+            <text>Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5XmkMjSP/Open-the-Armory-Alt-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Treasure</name>
+            <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Treasure</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Q7Rm3xBJ/Treasure-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Meet the Light</name>
+            <text>Each player reveals their hand, all face-down permanents they control, and all face-down cards they own in exile.  (Do so all at once.) 
+Scry 2.
+Splice onto instant or sorcery {u}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KxYWjmgx/Meet-the-Light-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Echoing Banishment</name>
+            <text>Return target creature to its owner's hand.
+ Reverberate -  If you cast this spell and you've revealed a card this turn, copy this spell. You may choose new targets for the copy.
+Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nN5r4yp8/Echoing-Banishment-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Ruby Medallion</name>
+            <text>Red spells you cast cost {1} less to cast.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zhmL5LJB/Ruby-Medallion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Junk</name>
+            <text>{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Junk</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wh1vKS1z/Junk-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Arcane Signet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/kg2VWbVC/Arcane-Signet-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Ponder</name>
+            <text>Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0yy05zsY/Ponder-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Fierce Guardianship</name>
+            <text>If you control a commander, you may cast this spell without paying its mana cost.
+Counter target noncreature spell.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xKPktHTf/Fierce-Guardianship-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Spiritual Visit</name>
+            <text>Create a 1/1 colorless Spirit creature token.
+Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dJB7tZxP/Spiritual-Visit-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Resounding Negation</name>
+            <text>Counter target spell unless its controller pays {2}.
+ Reverberate  — If you or that spell's controller revealed a card this turn, counter that spell instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8DcgXzjn/Resounding-Negation-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Beast Within</name>
+            <text>Destroy target permanent. Its controller creates a 3/3 green Beast creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XZG7LYTr/Beast-Within-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Arcane Infusion</name>
+            <text>Look at the top four cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Flashback {3}{U}{R}  (You may cast this card from your graveyard for its flashback cost. Then exile it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tMttN54g/Arcane-Infusion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>HUNTR/X, Ft. the Fans</name>
+            <text>First strike, vigilance, reach
+Resonate - Create a 0/1 white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
+HUNTR/X gets +1/+0 for each Citizen you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WUG</colors>
+                <coloridentity>WUG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bRvRt5rd/HUNTR-X-Ft-the-Fans-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Grand Crescendo</name>
+            <text>Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{W}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XnrM2kL/Grand-Crescendo-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Swamp</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Swamp</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vCmbxjsL/Swamp-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Resonating Strike</name>
+            <text>Reverberate -  Exile target attacking or blocking creature. If you revealed one or more cards this turn, exile up to one other target attacking or blocking creature with power 4 or less.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jPMZh7kn/Resonating-Strike-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Support Crew</name>
+            <text>When this creature enters, create two 0/1 white Citizen creature tokens.
+Creatures you control have exalted.  (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.) 
+Miracle {1}{w}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{w}{w}</manacost>
+                <cmc>5</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Advisor Citizen</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HpGB7Vzg/Support-Crew-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rakdos Charm</name>
+            <text>Choose one —
+•  Exile target player's graveyard.
+•  Destroy target artifact.
+•  Each creature deals 1 damage to its controller.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{b}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RpHp0Hdv/Rakdos-Charm-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Silver Shroud Costume</name>
+            <text>Flash
+When this Equipment enters, attach it to target creature you control. That creature gains shroud until end of turn.  (It can't be the target of spells or abilities.) 
+Equipped creature can't be blocked.
+Equip {3}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nqFBfbrz/Silver-Shroud-Costume-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Instant Ramen</name>
+            <text>Flash
+When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Food</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JFB0dd9X/Instant-Ramen-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Glacial Fortress</name>
+            <text>This land enters tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WU</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6cYjJrJM/Glacial-Fortress-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Harmonic Restoration</name>
+            <text>Resonate -  Return target creature card from your graveyard to your hand. If you revealed one or more cards this turn, return it to the battlefield instead.
+Splice onto instant or sorcery {4}{w}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dwKJtDkX/Harmonic-Restoration-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Clifftop Retreat</name>
+            <text>This land enters tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/t5BrDYd/Clifftop-Retreat-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Temple of the False God</name>
+            <text>{T}: Add {C}{C}. Activate only if you control five or more lands.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CFM4P1B/Temple-of-the-False-God-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Scheduled Thoroughfare</name>
+            <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
+{t}: Add {g} or {u}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UG</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xt8865SY/Scheduled-Thoroughfare-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Celine, Trainer of Hunters Alt</name>
+            <text>Double strike
+Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
+Other Warriors you control get +1/+1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hJv2mN8M/Celine-Trainer-of-Hunters-Alt-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Weathered Wayfarer</name>
+            <text>{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Nomad Cleric</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2YtKNkN8/Weathered-Wayfarer-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sidequest: Catch a Fish</name>
+            <text>At the beginning of your upkeep, look at the top card of your library. If it's an artifact or creature card, you may reveal it and put it into your hand. If you put a card into your hand this way, create a Food token and transform this enchantment.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LzbSLZ4b/Sidequest-Catch-a-Fish-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            <related>Food Token</related>
+            </card>
+        <card>
+            <name>Compelled Torment</name>
+            <text>Target player reveals their hand. When they do, this spell deals damage to them or to target creature they control equal to the greatest mana value of cards revealed this way.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dwY50wWn/Compelled-Torment-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Zoey, HUNTR_X Maknae Promo</name>
+            <text>Resonate - Untap Zoey.  (Do so whenever an effect has you reveal one or more cards) 
+{t}: Add one mana of any color. This mana can't be spent to cast a creature spell.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ym7sKkbM/Zoey-HUNTR-X-Maknae-Promo-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Resonating Scream</name>
+            <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Cycling {1}{u}{b}{r}  ({1}{u}{b}{r}, Discard this card: Draw a card.) 
+When you cycle this card, each opponent discards two cards at random then reveals their hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{b}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wFNtGp9s/Resonating-Scream-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>HUNTR/X, Feast of the Fans</name>
+            <text>Shame  - Whenever an opponent reveals their first card each turn, create a 0/1 green and white Human Citizen creature token.
+{b}, Sacrifice a creature: You gain 2 life. Put a +1/+1 counter on target creature. It's a Demon with lifelink as long as it has a +1/+1 counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{b}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9m2KXLsp/HUNTR-X-Feast-of-the-Fans-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Island</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Island</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vxQZ202w/Island-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Silundi Vision (Soul Vision)</name>
+            <text>Look at the top six cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/27NP0vhH/Silundi-Vision-Soul-Vision-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Murmurs from Beyond</name>
+            <text>Reveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/VcjmqVZS/Murmurs-from-Beyond-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Imperial Recruiter</name>
+            <text>When this creature enters, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Advisor</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NnxxMbBM/Imperial-Recruiter-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Into the Fray</name>
+            <text>Target creature attacks this turn if able.
+Splice onto Arcane {R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/r2bRGbbY/Into-the-Fray-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Overblaze</name>
+            <text>Each time target permanent would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.
+Splice onto Arcane {2}{R}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{R}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CKrVT6Hx/Overblaze-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Idol’s Stage</name>
+            <text>When this land enters, you may reveal a card from your hand.
+{t}: Add {c}.
+{t}: Add one mana of any color. Activate only if you've revealed a card this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3mChTw9s/Idol-s-Stage-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Glacial Ray</name>
+            <text>This spell deals 2 damage to any target.
+Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2YdCk5c1/Glacial-Ray-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Citizen alt 3</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xS3mH1GN/Citizen-alt-3-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Resonant Memorial</name>
+            <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
+{t}: Add {r} or {g}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>RG</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MDRqPf5B/Resonant-Memorial-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Open the Armory</name>
+            <text>Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/DHyd6tv8/Open-the-Armory-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Banishing Strike</name>
+            <text>Reverberate -  Choose one. If you revealed a card this turn, instead choose any number.
+•  Exile target artifact.
+•  Exile target creature.
+•  Exile target enchantment.
+Miracle {2}{w}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{w}{w}</manacost>
+                <cmc>5</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hRPs2rbn/Banishing-Strike-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Lifted by Clouds</name>
+            <text>Target creature gains flying until end of turn.
+Splice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hJdTSBqH/Lifted-by-Clouds-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Celine, Trainer of Hunters</name>
+            <text>Double strike
+Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
+Other Warriors you control get +1/+1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLXN2LSp/Celine-Trainer-of-Hunters-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Guiltsapper</name>
+            <text>Undying  (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.) 
+ Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain undying until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/k6W4wRtM/Gwi-ma-s-Guiltsapper-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Vibrant Cityscape</name>
+            <text>{t}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v4GsXfRt/Vibrant-Cityscape-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Baby Saja, Ungodly Lyricist</name>
+            <text>Rhyme Scheme -  Each instant and sorcery card in your hand has “Splice onto instant or sorcery that shares a color with this card.” The splice cost is equal to its mana cost.  (As you cast an instant or sorcery spell, you may reveal any number of cards from your hand that share a color with it and pay their costs. If you do, add that card's effects to that spell.) 
+Partner - Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{ur}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/R4C2DFkC/Baby-Saja-Ungodly-Lyricist-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Friendly Neighborhood</name>
+            <text>Enchant land
+When this Aura enters, create three 1/1 green and white Human Citizen creature tokens.
+Enchanted land has “{1}, {T}: Target creature gets +1/+1 until end of turn for each creature you control. Activate only as a sorcery.”</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/C5QH0Fcn/Friendly-Neighborhood-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Cherished Melody</name>
+            <text>Resonate - You gain 2 life. If this is the third time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
+Partner—HUNTR/X
+---
+Prepare Spell — Found Harmony
+{4}{g} Sorcery - Arcane
+Draw a card for each creature you control.
+ (While Rumi is prepared, you may cast a copy of this spell. Doing so unprepares her.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{g}</manacost>
+                <cmc>4</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Demon Performer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HvqhXk7/Rumi-Cherished-Melody-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Forest</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Forest</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BHNNkRTc/Forest-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Port Town</name>
+            <text>As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.
+{T}: Add {W} or {U}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WU</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NnZZfkh8/Port-Town-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Citizen alt 3</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xS3mH1GN/Citizen-alt-3-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Recruitment Officer</name>
+            <text>{3}{W}: Look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CppffJkr/Recruitment-Officer-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Legion Angel</name>
+            <text>Flying
+When this creature enters, you may reveal a card you own named Legion Angel from outside the game and put it into your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Angel Warrior</type>
+                <pt>4/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GQhdLCj3/Legion-Angel-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Deflecting Swat</name>
+            <text>If you control a commander, you may cast this spell without paying its mana cost.
+You may choose new targets for target spell or ability.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9HWpPmFD/Deflecting-Swat-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Citizen alt 3</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xS3mH1GN/Citizen-alt-3-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Blessed Breath</name>
+            <text>Target creature you control gains protection from the color of your choice until end of turn.
+Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6cVwqYZR/Blessed-Breath-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Soulripper</name>
+            <text>Wither  (This deals damage to creatures in the form of -1/-1 counters.) 
+ Shame -  Whenever an opponent reveals their first card each turn, you may have this creature fight target creature they control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/g0y5fdg/Gwi-ma-s-Soulripper-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Truth and Power</name>
+            <text>Play with your hand revealed.
+Cards you own have flash.
+Creatures you control have haste.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{ur}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8njdZzXb/Truth-and-Power-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Fact or Fiction</name>
+            <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/B570BRD0/Fact-or-Fiction-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Honmoon Reawakened</name>
+            <text>Ward {2}
+Instant and sorcery spells you cast are Arcane.
+Whenever you cast a spell, copy it for each spell spliced onto it. You may choose new targets for the copy.
+Performers you control have flying.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}{u}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Legendary Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NgxHkL9N/The-Honmoon-Reawakened-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Cooking Campsite</name>
+            <text>{T}: Add {W}.
+{3}, {T}, Sacrifice an artifact: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>W</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/b5dmFp3x/Cooking-Campsite-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Holistic Clinic</name>
+            <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
+{t}: Add {g} or {w}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WG</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dxRLYDc/Holistic-Clinic-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Jinu, Ashamed Idol</name>
+            <text>Menace, haste
+ Shame -  Whenever a player reveals one or more cards, you gain that much life.
+Whenever Jinu deals combat damage to a player, that player reveals their hand. Choose a nonland card from it. That player discards that card.
+Partner - Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{b}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yw2sS6X/Jinu-Ashamed-Idol-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Guiding Voice</name>
+            <text>Put a +1/+1 counter on target creature.
+Learn.  (You may reveal a Lesson card you own from outside the game and put it into your hand, or may discard a card to draw a card.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HwkdWGr/Guiding-Voice-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Rumi’s Sain-geom</name>
+            <text>Equipped creature gets +3/+3 and has hexproof.
+If you've revealed a white card this turn, equipped creature has lifelink.
+If you've revealed a blue card this turn, equipped creature has flying.
+Equip - {2}, {t}, Reveal your hand</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6RCkByN5/Rumi-s-Sain-geom-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Shaper of the Pride</name>
+            <text>Shadow  (This creature can block or be blocked by only creatures with shadow.) 
+Once each turn when a player reveals one or more nonland cards from their hand, you may exile any number of them. If you do, that player draws that many cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon Illusion</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yn2p3bhP/Shaper-of-the-Pride-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Seething Song</name>
+            <text>Add {R}{R}{R}{R}{R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DPSLLbDH/Seething-Song-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Skyline View</name>
+            <text>This land enters tapped.
+When ~ enters, sacrifice it unless you reveal your hand.
+{T}: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zWKkxLxW/Skyline-View-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Cabal Therapist</name>
+            <text>Menace
+At the beginning of your first main phase, you may sacrifice a creature. When you do, choose a nonland card name, then target player reveals their hand and discards all cards with that name.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{B}</manacost>
+                <cmc>1</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Horror</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Rpp3Gg5K/Cabal-Therapist-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Martyr of Sands</name>
+            <text>{1}, Reveal X white cards from your hand, Sacrifice this creature: You gain three times X life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Cleric</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bj2bLwVD/Martyr-of-Sands-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Pearl Medallion</name>
+            <text>White spells you cast cost {1} less to cast.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Qs5V3G7/Pearl-Medallion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Swords to Plowshares</name>
+            <text>Exile target creature. Its controller gains life equal to its power.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NnrKJH83/Swords-to-Plowshares-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Romance, Alluring Star</name>
+            <text>Shame -  Whenever a player reveals one or more cards, you may gain control of target creature they control with mana value X or less, where X is the highest mana value of cards revealed this way, until end of turn. Untap it. It gains haste until end of turn. Do so only once for each player each turn.
+Partner - Saja  (You can have two commanders if both have this ability.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y7zyKJWQ/Romance-Alluring-Star-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Leader of Idols</name>
+            <text>When Rumi enters, search your library for a card with “Partner—HUNTR/X,” reveal it, put it into your hand, then shuffle.
+{2}{wu}, {t}: You may reveal a card from your hand. If you do, prevent all damage a source of your choice would deal this turn. Otherwise, draw a card.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Demon Warrior Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cH63wMH/Rumi-Leader-of-Idols-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Banishing Light</name>
+            <text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/b5yzHyWd/Banishing-Light-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Legion Angel Alt</name>
+            <text>Flying
+When this creature enters, you may reveal a card you own named Legion Angel from outside the game and put it into your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Angel Warrior</type>
+                <pt>4/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/N2rfSj5c/Legion-Angel-Alt-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Spirit en-Dal</name>
+            <text>Shadow  (This creature can block or be blocked by only creatures with shadow.) 
+Forecast — {1}{W}, Reveal this creature from your hand: Target creature gains shadow until end of turn.  (Activate only during your upkeep and only once each turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Spirit</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HD2R8KTf/Spirit-en-Dal-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Plaguespitter</name>
+            <text>Deathtouch  (Any amount of damage this deals to a creature is enough to destroy it.) 
+ Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain deathtouch until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qtsZCRS/Gwi-ma-s-Plaguespitter-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Brutal Deceivers</name>
+            <text>{1}: Look at the top card of target player's library.
+{r}: Target player reveals the top card of their library. If it's a land card, this creature gets +1/+1 and gains first strike and menace until end of turn. Activate only once each turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon Shapeshifter</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GQbLScFB/Brutal-Deceivers-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Inspirational Studio</name>
+            <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
+{t}: Add {u} or {r}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/VcpkjD2R/Inspirational-Studio-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Run Away Together</name>
+            <text>Choose two target creatures controlled by different players. Return those creatures to their owners' hands.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/YTXptcqV/Run-Away-Together-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Through the Breach</name>
+            <text>You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.
+Splice onto Arcane {2}{r}{r}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/60nRb2T9/Through-the-Breach-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mira, Blade Dancer Promo</name>
+            <text>Resonate - Put a +1/+1 counter on Mira.  (Do so whenever an effect has you reveal one or more cards.) 
+Mira has trample as long as you've revealed a card from your hand this turn.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y4F7Kx1M/Mira-Blade-Dancer-Promo-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Calibrated Blast</name>
+            <text>Reveal cards from the top of your library until you reveal a nonland card. Put the revealed cards on the bottom of your library in a random order. When you reveal a nonland card this way, Calibrated Blast deals damage equal to that card's mana value to any target.  (Each revealed card triggers resonate abilities seperately.) 
+Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashback cost. Then exile it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9QjZjJH/Calibrated-Blast-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Horde Ambusher</name>
+            <text>Whenever this creature blocks, it deals 1 damage to you.
+Morph—Reveal a red card in your hand.  (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) 
+When this creature is turned face up,  target creature can't block this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Berserker</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4RYqWqMS/Horde-Ambusher-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Commander’s Plate</name>
+            <text>Equipped creature gets +3/+3 and has protection from each color that's not in your commander's color identity.
+Equip commander {3}
+Equip {5}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4gS1XPCq/Commander-s-Plate-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Heartflayer</name>
+            <text>Ward—Pay 2 life
+ Shame -  Whenever an opponent reveals their first card each turn, creatures they control get -2/-0 and creatures you control get +2/+0 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{ub}{br}</manacost>
+                <cmc>4</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cSy06ySK/Gwi-ma-s-Heartflayer-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Swiftfoot Boots</name>
+            <text>Equipped creature has hexproof and haste.  (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.) 
+Equip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9zNBKTy/Swiftfoot-Boots-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Derpy and Sussie, Loyal Messengers</name>
+            <text>Whenever you reveal your first card each turn, you may draw a card. If you do, target opponent draws a card then discards a card.
+Derpy and Sussie can't be blocked.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spirit Cat Bird</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RGDJgHgY/Derpy-and-Sussie-Loyal-Messengers-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Romantic Getaway</name>
+            <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
+{t}: Add {r} or {w}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/SgG3HC4/Romantic-Getaway-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Huntrix’s Rising Harmony</name>
+            <text>You may pay {0} rather than pay the splice cost of cards you splice onto this spell. 
+When you cast this spell, copy it twice. You may choose new targets for the copies.  (Spliced effects are also copied.) 
+Arcanecycling {1}{u}{r}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{u}{r}</manacost>
+                <cmc>6</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Legendary Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rRrD9G3p/Huntrix-s-Rising-Harmony-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Strange Inversion</name>
+            <text>Switch target creature's power and toughness until end of turn.
+Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rK7k6YSR/Strange-Inversion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Myriad Landscape</name>
+            <text>This land enters tapped.
+{T}: Add {C}.
+{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cKcfdfDS/Myriad-Landscape-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Farewell</name>
+            <text>Choose one or more —
+•  Exile all artifacts.
+•  Exile all creatures.
+•  Exile all enchantments.
+•  Exile all graveyards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{w}{w}</manacost>
+                <cmc>6</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7drg6PMP/Farewell-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Enlightened Tutor</name>
+            <text>Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Lz9X8hqs/Enlightened-Tutor-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Eerie Procession</name>
+            <text>Search your library for an Arcane card, reveal that card, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cKGBNyN2/Eerie-Procession-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Memories Returning</name>
+            <text>Reveal the top five cards of your library. Put one of them into your hand. Then choose an opponent. They put one on the bottom of your library. Then you put one into your hand. Then they put one on the bottom of your library. Put the other into your hand.
+Flashback {7}{U}{U}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}{U}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9kjNMpZM/Memories-Returning-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Woeseeker</name>
+            <text>Vigilance
+ Shame -  Whenever an opponent reveals their first card each turn, surveil 2.  (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLL32d4Q/Gwi-ma-s-Woeseeker-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Spirit</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Spirit</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7xv0x816/Spirit-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Brainstorm</name>
+            <text>Draw three cards, then put two cards from your hand on top of your library in any order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qYHWx142/Brainstorm-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Djinn of Wishes</name>
+            <text>Flying
+This creature enters with three wish counters on it.
+{2}{u}{u}, Remove a wish counter from this creature: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}{u}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Djinn</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/204ZcqrB/Djinn-of-Wishes-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Food</name>
+            <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Food</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v4hNM0n7/Food-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Furycalm Snarl</name>
+            <text>As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.
+{T}: Add {R} or {W}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vCvwv1Wn/Furycalm-Snarl-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Dragon’s Eye Savants</name>
+            <text>Morph—Reveal a blue card in your hand.  (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) 
+When this creature is turned face up, look at target opponent's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Wizard</type>
+                <pt>0/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/s9QHYdPp/Dragon-s-Eye-Savants-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Reforge the Soul</name>
+            <text>Each player discards their hand, then draws seven cards.
+Miracle {1}{R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{R}{R}</manacost>
+                <cmc>5</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/d0w769Lm/Reforge-the-Soul-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Stock Up</name>
+            <text>Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/n8fCr5Qr/Stock-Up-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Veil of Secrecy</name>
+            <text>Target creature gains shroud until end of turn and can't be blocked this turn.  (A creature with shroud can't be the target of spells or abilities.) 
+Splice onto Arcane—Return a blue creature you control to its owner's hand.  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5x66SBhx/Veil-of-Secrecy-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Powerbalance</name>
+            <text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, you may cast that card without paying its mana cost if the two spells have the same mana value.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jknx9g7n/Powerbalance-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rakshasa’s Secret</name>
+            <text>Target opponent discards two cards. You mill two cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/SXXyr20T/Rakshasa-s-Secret-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Counterbalance</name>
+            <text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fdGFyH6Z/Counterbalance-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Shamegorger</name>
+            <text>Trample, haste
+ Shame  - Whenever an opponent reveals their first card each turn, this creature deals 1 damage to each opponent and each non-Demon creature.
+Whenever this creature deals combat damage to a player, they reveal their hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{b}{r}{r}</manacost>
+                <cmc>6</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon Incarnation</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/273g0zt9/Gwi-ma-s-Shamegorger-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Zoey, HUNTR/X Maknae</name>
+            <text>Resonate - Untap Zoey.  (Do so whenever an effect has you reveal one or more cards) 
+{t}: Add one mana of any color. This mana can't be spent to cast a creature spell.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xqhy3CW7/Zoey-HUNTR-X-Maknae-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>HUNTR_X, Ft. the Fans Promo</name>
+            <text>First strike, vigilance, reach
+Resonate - Create a 0/1 white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
+HUNTR/X gets +1/+0 for each Citizen you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WUG</colors>
+                <coloridentity>WUG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PZfd2njd/HUNTR-X-Ft-the-Fans-Promo-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sphinx of Uthuun (Tiger of the Hojak-do)</name>
+            <text>Flying
+When this creature enters, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{u}{u}</manacost>
+                <cmc>7</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Sphinx</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KxNcZPd9/Sphinx-of-Uthuun-Tiger-of-the-Hojak-do-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mountain</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Mountain</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nNYVd8B9/Mountain-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Path of Ancestry</name>
+            <text>This land enters tapped.
+{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JWdKtvLP/Path-of-Ancestry-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Dive in the Fire</name>
+            <text>Resonate -  If you revealed one or more cards this turn, creatures you don't control lose indestructible until end of turn
+This spell deals 3 damage to any target.
+Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mF6Bxzm1/Dive-in-the-Fire-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Counterspell</name>
+            <text>Counter target spell.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JW8TJrCB/Counterspell-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Thoughtcutter Agent</name>
+            <text>{U}{B}, {T}: Target player loses 1 life and reveals their hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Human Rogue</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WNGrt7M4/Thoughtcutter-Agent-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sapphire Medallion</name>
+            <text>Blue spells you cast cost {1} less to cast.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2L5YDp5/Sapphire-Medallion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rogue’s Passage</name>
+            <text>{t}: Add {c}.
+{4}, {t}: Target creature can't be blocked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/W44436Z1/Rogue-s-Passage-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Prodder of Sin</name>
+            <text>Menace
+At the beginning of your upkeep, reveal cards from the top of your library until you reveal a nonland card. Draw it and put the other cards on the bottom of your library in any order. Then any opponent may have you discard the drawn card. If a player does, this creature deals damage to them equal to that card's mana value. </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QFgTwHsJ/Prodder-of-Sin-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Blasphemous Act</name>
+            <text>This spell costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{8}{R}</manacost>
+                <cmc>9</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KjSNYjdc/Blasphemous-Act-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Harmonize</name>
+            <text>Draw three cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}{G}</manacost>
+                <cmc>4</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cSxpMV7P/Harmonize-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Mira, the Broken Blade</name>
+            <text>Menace
+ Shame  - Whenever an opponent reveals their first card each turn, put a +1/+1 counter on Mira.
+Partner—Lost to shame</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v41sxFnk/Mira-the-Broken-Blade-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Resonant Arcanists</name>
+            <text>{t}: Add two mana in any combination of colors. Spend this mana only to cast an Arcane spell or to pay a splice cost.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{ur}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Druid Performer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GvgrWd8R/Resonant-Arcanists-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Command Tower</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9mwMMvNB/Command-Tower-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>In Garruk’s Wake (Kpop DEMON slayers)</name>
+            <text>Destroy all creatures you don't control and all planeswalkers you don't control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{7}{b}{b}</manacost>
+                <cmc>9</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTyM1Qtc/In-Garruk-s-Wake-Kpop-DEMON-slayers-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Hundred-Talon Strike</name>
+            <text>Target creature gets +1/+0 and gains first strike until end of turn.
+Splice onto Arcane—Tap an untapped white creature you control.  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qLDpm1v8/Hundred-Talon-Strike-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Food alt Sexy</name>
+            <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Food</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2pp1Fr4/Food-alt-Sexy-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Psychic Puppetry</name>
+            <text>You may tap or untap target permanent.
+Splice onto Arcane {U}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fVy5YQwS/Psychic-Puppetry-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Ascendant Finale</name>
+            <text>Creatures you control get +1/+0 and gain indestructible until end of turn.
+ Reverberate -  If you revealed one or more cards this turn, those creatures also gain flying until end of turn.
+Miracle {w}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/d49LYdZr/Ascendant-Finale-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Wash Away</name>
+            <text>Cleave {1}{U}{U}  (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.) 
+Counter target spell [that wasn't cast from its owner's hand].</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JRs1f6GX/Wash-Away-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Distortion</name>
+            <text>Target player reveals their hand. When they do, this spell deals damage to them equal to the greatest mana value of cards revealed this way. Put that many -1/-1 counters on target creature they control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fYWtjHWb/Gwi-ma-s-Distortion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Spirit Alt Derpy</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Spirit</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Nnk9w0rj/Spirit-Alt-Derpy-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Echoing Harmony</name>
+            <text>Storm  (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.) 
+Splice onto instant or sorcery {2}{u}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{ur}</manacost>
+                <cmc>1</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bZbyJmn/Echoing-Harmony-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Thunderous Wrath</name>
+            <text>Thunderous Wrath deals 5 damage to any target.
+Miracle {R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{R}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLFjL0cV/Thunderous-Wrath-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Commander's Plate</name>
+            <text>Equipped creature gets +3/+3 and has protection from each color that's not in your commander's color identity.
+Equip commander {3}
+Equip {5}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/XRFDdDR/Commander-s-Plate-Alt-Huntrix-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Bonfire of the Damned</name>
+            <text>~ deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
+Miracle {X}{R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{X}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hRdmkNHZ/Bonfire-of-the-Damned-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Candid Inspiration</name>
+            <text>Draw two cards. 
+ Reverberate  - If you've revealed a card this turn, instead draw three cards.
+Miracle {u}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TD4TPpHK/Candid-Inspiration-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mira’s Gok-do</name>
+            <text>Equipped creature gets +2/+2 and has first strike.
+If you've revealed a red card this turn, equipped creature has haste.
+If you've revealed a white card this turn, equipped creature has indestructible.
+Equip - {1}, {t}, Reveal your hand</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CK4Rb29f/Mira-s-Gok-do-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Run Away Together</name>
+            <text>Choose two target creatures controlled by different players. Return those creatures to their owners' hands.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/JW7GpQr6/Run-Away-Together-Alt-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Prospective Hunter</name>
+            <text>Training  (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.) 
+Resonate - You may move a counter from target creature you control onto another target creature you control.  (Do so whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Child Warrior</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/W4P5j6d1/Prospective-Hunter-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wrRP82VT/Sol-Ring-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Watcher of the Roost</name>
+            <text>Flying
+Morph—Reveal a white card in your hand.  (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) 
+When this creature is turned face up, you gain 2 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Bird Soldier</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mira, Napalm Era</name>
+            <text>Menace, trample
+{2}{r}: Reveal the top card of your library. You may exile it.
+Resonate - Mira gets +2/+2 until end of turn.  (Do so whenever an effect has you reveal one or more cards.) 
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cKb0SrWb/Mira-Napalm-Era-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Distant Melody</name>
+            <text>Choose a creature type. Draw a card for each permanent you control of that type.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/kVDywRKp/Distant-Melody-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Mindraker</name>
+            <text>Lifelink  (Damage dealt by this creature also causes you to gain that much life.) 
+Whenever a player casts a spell, if they've revealed a card this turn, you may counter that spell unless they pay {1}. When they pay, you gain 1 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zV82C5Gz/Gwi-ma-s-Mindraker-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Zoey’s Shin-kal</name>
+            <text>Equipped creature gets +1/+1 and has prowess.
+If you've revealed a blue card this turn, equipped creature has vigilance.
+If you've revealed a red card this turn, equipped creature has reach.
+Equip - {1}, {t}, Reveal your hand</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CKWDYyCL/Zoey-s-Shin-kal-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mystic Monastery</name>
+            <text>This land enters tapped.
+{T}: Add {U}, {R}, or {W}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WUR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nqL2sPHs/Mystic-Monastery-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Mistblade Shinobi</name>
+            <text>Ninjutsu {U}  ({U}, Reveal this card from your hand, Return an unblocked attacker you control to hand: Put this card onto the battlefield tapped and attacking.) 
+Whenever this creature deals combat damage to a player, you may return target creature that player controls to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Ninja</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/FbQhyG4n/Mistblade-Shinobi-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Echoing Harmony</name>
+            <text>Storm
+Splice onto instant or sorcery {2}{u}{r}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{ur}</manacost>
+                <cmc>1</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/JjNwf14Z/Echoing-Harmony-Alt-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Piercing Rays</name>
+            <text>Exile target tapped creature.
+Forecast — {2}{W}, Reveal this card from your hand: Tap target untapped creature.  (Activate this ability only during your upkeep and only once each turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PsYyWtyV/Piercing-Rays-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Entrancing Melody</name>
+            <text>Gain control of target creature with mana value X.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{U}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6cwG0NS7/Entrancing-Melody-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Anguish</name>
+            <text>Target player reveals a card at random from their hand. When they do, this spell deals damage to target creature they control equal to that card's mana value. If no damage is dealt this way, return this spell to its owner's hand.
+Flashback {2}{r}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0Rttxzvc/Anguish-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Unbreakable Formation</name>
+            <text>Creatures you control gain indestructible until end of turn.
+ Addendum  — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTTYv5q2/Unbreakable-Formation-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Commander’s Sphere</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.
+Sacrifice this artifact: Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gFvtPm0f/Commander-s-Sphere-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Zoey, Infernal Thrall</name>
+            <text>Shame  - Whenever an opponent reveals their first card each turn, untap Zoey.
+{1}, {t}: Create a treasure token.
+{u}{b}, Pay 1 life, {t}: Draw a card.
+Partner—Lost to shame</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Warrior Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/G3QKyrRw/Zoey-Infernal-Thrall-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            <related>Treasure Token</related>
+            </card>
+        <card>
+            <name>Counterspell Alt 주문 무효화</name>
+            <text>Counter target spell.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/1G0fkhLt/Counterspell-Alt-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Path to Exile</name>
+            <text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cGT2V08/Path-to-Exile-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Walker of Secret Ways</name>
+            <text>Ninjutsu {1}{U}  ({1}{U}, Reveal this card from your hand, Return an unblocked attacker you control to hand: Put this card onto the battlefield tapped and attacking.) 
+Whenever this creature deals combat damage to a player, look at that player's hand.
+{1}{U}: Return target Ninja you control to its owner's hand. Activate only during  your turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Ninja</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7N62Sfnv/Walker-of-Secret-Ways-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Hunter’s Stance</name>
+            <text>If you've revealed a red card this turn, destroy up to one target artifact.
+If you've revealed a white card this turn, put two +1/+1 counters on up to one target creature.
+If you've revealed a blue card this turn, scry 1, then draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ch2QJPqs/Hunter-s-Stance-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Observed Alleyway</name>
+            <text>This land enters tapped.
+When this land enters, target opponent reveals a card at random from their hand.
+{t}: Add {u} or {b}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UB</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vxjq96ZB/Observed-Alleyway-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Abby, Icon of Strength</name>
+            <text>Shame -  Whenever a player reveals one or more cards, Abby gets +X/+X until end of turn, where X is the highest mana value of cards revealed this way. If X is 5 or greater, Abby also gains haste and trample until end of turn.
+Partner - Saja  (You can have two commanders if both have this.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{rg}{rg}</manacost>
+                <cmc>4</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dsx5XsRN/Abby-Icon-of-Strength-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma, Otherworld King</name>
+            <text>Eminence -  If a player would discard a nonland card and Gwi-ma is in the command zone or on the battlefield, they may exile that card instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs.
+Whenever an opponent reveals one or more cards, you may draw a card. If you do, discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon God</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/YTd6S2Yf/Gwi-ma-Otherworld-King-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Queen of Nightmares</name>
+            <text>When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.
+{2}{br}, {t}: Each Demon you control deals 1 damage to any target.
+Partner—Lost to Shame</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{ub}{br}</manacost>
+                <cmc>4</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Warrior Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GQz6JL23/Rumi-Queen-of-Nightmares-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Disaster Radius</name>
+            <text>As an additional cost to cast this spell, reveal a creature card from your hand.
+Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MkH9CXXg/Disaster-Radius-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Jet Medallion</name>
+            <text>Black spells you cast cost {1} less to cast.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dsDSB7L6/Jet-Medallion-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mother of Runes</name>
+            <text>{T}: Target creature you control gains protection from the color of your choice until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Cleric</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/kV18rC1v/Mother-of-Runes-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Spellseeker</name>
+            <text>When this creature enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Wizard</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTRxKgz0/Spellseeker-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Lay Bare</name>
+            <text>Counter target spell. Look at its controller's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}{U}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gMLp6J10/Lay-Bare-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Scornlurker</name>
+            <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
+ Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/b5q2dDPc/Gwi-ma-s-Scornlurker-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Deadly Rollick</name>
+            <text>If you control a commander, you may cast this spell without paying its mana cost.
+Exile target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{B}</manacost>
+                <cmc>4</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cXgchGFj/Deadly-Rollick-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Demon</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Demon</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8g4kMW53/Demon-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma’s Griefchaser</name>
+            <text>Trample, haste
+ Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KxRMJ1PS/Gwi-ma-s-Griefchaser-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Collaborative Workshop</name>
+            <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
+{t}: Add {w} or {u}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WU</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RpxRP4RY/Collaborative-Workshop-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Mystery, Silencer of Secrets</name>
+            <text>Shame -  Whenever a player reveals one or more cards for the first time each turn, choose a nonland card from among them and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast it.
+Partner - Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{ub}{ub}</manacost>
+                <cmc>4</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/21qqfNcp/Mystery-Silencer-of-Secrets-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Twiddle</name>
+            <text>You may tap or untap target artifact, creature, or land.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QjvTXYLR/Twiddle-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Sulfur Falls</name>
+            <text>This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4g5bB25w/Sulfur-Falls-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Glamoured Disguises</name>
+            <text>Until your next turn, any number of target creatures are Citizens with base power and toughness 1/1.
+ Reverberate -   If you've revealed a card this turn, any number of those creatures also lose all abilities until your next turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLKs2Ccr/Glamoured-Disguises-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Crosis, the Purger (Gwi-ma, Condemning Kaiju)</name>
+            <text>Flying
+Whenever this creature deals combat damage to a player, you may pay  {2}{b}. If you do, choose a color, then that player reveals their hand and discards all cards of that color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}{b}{r}</manacost>
+                <cmc>6</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Dragon</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7wZcwfc/Crosis-the-Purger-Gwi-ma-Condemning-Kaiju-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Swarm of Secrets</name>
+            <text>When this enchantment enters, create X plus one 1/1 red Demon creature tokens.
+Sacrifice a creature: Target player reveals the top card of their library. You may put it on the bottom. Activate only once each turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MDvHrCbK/Swarm-of-Secrets-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Citizen</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WNDfS32H/Citizen-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Night’s Whisper</name>
+            <text>You draw two cards and you lose 2 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rRTrhG7L/Night-s-Whisper-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Terramorphic Expanse</name>
+            <text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Environmental Sciences</name>
+            <text>(If you start the game with this card outside your deck, a card with ‘Learn' can find it.) 
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Lesson</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mFdbWZ5d/Environmental-Sciences-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Everdream</name>
+            <text>Draw a card.
+Splice onto instant or sorcery {2}{U}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTtvXqqL/Everdream-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Leader of Idols Promo</name>
+            <text>When Rumi enters, search your library for a card with “Partner—HUNTR/X,” reveal it, put it into your hand, then shuffle.
+{2}{wu}, {t}: You may reveal a card from your hand. If you do, prevent all damage a source of your choice would deal this turn. Otherwise, draw a card.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Demon Warrior Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/y1LZwvf/Rumi-Leader-of-Idols-Promo-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Frostboil Snarl</name>
+            <text>As this land enters, you may reveal an Island or Mountain card from your hand. If you don't, this land enters tapped.
+{T}: Add {U} or {R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wFhnLc7g/Frostboil-Snarl-png.png">kpdh</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Chaos Warp</name>
+            <text>The owner of target permanent shuffles it into their library, then reveals the top card of their library.  If it's a permanent card, they put it onto the battlefield.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DHK1HjZg/Chaos-Warp-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Bloodthirsty Conqueror</name>
+            <text>Flying, deathtouch
+Whenever an opponent loses life, you gain that much life.  (Damage causes loss of life.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{B}{B}</manacost>
+                <cmc>5</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Vampire Knight</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JWV6hVb9/Bloodthirsty-Conqueror-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Silence</name>
+            <text>Your opponents can't cast spells this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/C5tz32j5/Silence-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Hullbreaker Horror</name>
+            <text>Flash
+This spell can't be countered.
+Whenever you cast a spell, choose up to one —
+•  Return target spell you don't control to its owner's hand.
+•  Return target nonland permanent to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{U}{U}</manacost>
+                <cmc>7</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Kraken Horror</type>
+                <pt>7/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        </cards>
+    </cockatrice_carddatabase>

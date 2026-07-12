@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set> v1.4<releasedate>2026-07-12</releasedate>
+            <name>sub</name>
+            <longname>sub</longname>
+            <settype>Custom</settype>
+            </set>
+        </sets>
+    <cards>
+        <card>
+            <name>Ryley Robinson, Survivor</name>
+            <text>Eminence -  If a player would choose a creature type and Ryley is in the command zone or on the battlefield, they may instead choose Kraken, Leviathan, Octopus, and Serpent.
+Whenever Ryley crews a Vehicle, that Vehicle explores.
+Partner—All Systems Online</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Pilot Survivor</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jZwpfBLT/Ryley-Robinson-Survivor-png.png">sub</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Overprotect</name>
+            <text>Target creature you control gets +3/+3 and gains trample, hexproof, and indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wFT8NX43/Overprotect-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Prawn, Indomitable</name>
+            <text>Vigilance, trample, islandwalk
+The Prawn's power and toughness are each equal to one plus the greatest power among Krakens, Leviathans, Octopuses, and Serpents you control.
+Crew 3
+Partner—All Systems Online</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>*+1/*+1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0VRfVvjV/The-Prawn-Indomitable-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Sea Emperor, Synaptic Guide</name>
+            <text>Whenever The Sea Emperor or another Kraken, Leviathan, Octopus, or Serpent you control enters or matures, untap target land. Draw a card.
+As long as The Sea Emperor is mature, Kraken, Leviathan, Octopus, and Serpent cards you own have plot {g}{u}.
+---
+{3}{g}{u}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{8}{g}{u}</manacost>
+                <cmc>10</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Leviathan</type>
+                <pt>13/13</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/V6gqHGs/The-Sea-Emperor-Synaptic-Guide-png.png">sub</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Aurora’s Wreckage</name>
+            <text>({t}: Add {u}) 
+This land enters tapped unless you control a Survivor.
+{6}{u}{u}, {t}: Sacrifice this land: Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>U</coloridentity>
+                <maintype>Land</maintype>
+                <type>Legendary Artifact Land - Island</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/60PCPB6F/The-Aurora-s-Wreckage-png.png">sub</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Ambushing Ghost Leviathan</name>
+            <text>Ward {1}
+Skulk  (This creature can't be blocked by creatures with greater power.) 
+Trample
+---
+{2}{u}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{6}{u}{u}</manacost>
+                <cmc>8</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Leviathan</type>
+                <pt>{fontcolorwhite}10/9</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xr29bsWy/Ambushing-Ghost-Leviathan-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Unstoppable Sea Dragon</name>
+            <text>Trample, ward {2}, haste
+{3}{g}: Put a +1/+1 counter on this creature.
+Firebending X, where X is this creature's power.  (Whenever this creature attacks, add X  {R}. This mana lasts until end of combat) 
+---
+{2}{g}{g}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{6}{g}{g}{g}</manacost>
+                <cmc>9</cmc>
+                <colors>G</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Dragon Leviathan</type>
+                <pt>11/11</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hRhFgZmw/Unstoppable-Sea-Dragon-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Migrating Sea Treaders</name>
+            <text>{t}: Create a number of tapped Treasure tokens equal to this creature's power.{flavor}Sea treader herds may unearth mineral deposits as they churn up sand.
+---
+{1}{g}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{g}{g}{g}</manacost>
+                <cmc>5</cmc>
+                <colors>G</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Kraken</type>
+                <pt>4/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GvkF8zkx/Migrating-Sea-Treaders-png.png">sub</set>
+            <tablerow>2</tablerow>
+            <related>Treasure Token</related>
+            </card>
+        <card>
+            <name>Habitat Builder</name>
+            <text>{t}: Look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. Otherwise, you may put it into your graveyard.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9H5SDBg6/Habitat-Builder-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Aurora, Plummeting Flame</name>
+            <text>Station  (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.) 
+[3+]: The Aurora is a land in addition to its other types and has “{t}, Pay 1 life: Add {c}{c}.”
+[10+]: {x}, Sacrifice The Aurora: The Aurora deals X damage to each creature that isn't a Kraken, Leviathan, Octopus, or Serpent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Spacecraft</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ycMxDs3Z/The-Aurora-Plummeting-Flame-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Nurturing Sea Emperor</name>
+            <text>This spell can't be countered.
+Vigilance, trample, ward {3}
+When this creature matures, create two copies of it, except they're juveniles.
+---
+{1}{g}{u}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{6}{g}{g}{u}{u}</manacost>
+                <cmc>10</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Leviathan Kraken</type>
+                <pt>15/15</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/SDWHzv5d/Nurturing-Sea-Emperor-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Territorial Reaper</name>
+            <text>When this creature enters, choose one —
+•  It fights up to one target creature.
+•  Destroy up to one target artifact or enchantment with mana value equal to or less than this creature's power.
+---
+{2}{g}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{g}{g}</manacost>
+                <cmc>7</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Leviathan</type>
+                <pt>9/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hRjDGSBd/Territorial-Reaper-png.png">sub</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>4546b, Leviathan Wake</name>
+            <text>This land enters tapped.
+{T}: Add {g} or {u}.
+Station  (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.) 
+
+[12+]: {T}: For each land you control, add {g} or {u}. Spend this mana only to cast a Kraken, Leviathan, Octopus, or Serpent spell.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UG</coloridentity>
+                <maintype>Land</maintype>
+                <type>Legendary Land - Planet</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/n8w3Jpkn/4546b-Leviathan-Wake-png.png">sub</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Birds of Paradise</name>
+            <text>Flying
+{T}: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Bird</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fzqmgQW1/Birds-of-Paradise-png.png">sub</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Neptune, Rising Tide</name>
+            <text>Station  (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) 
+[3+]: Islands you control have “{t}: Create a tapped Clue, Map, or Treasure token.”
+[9+]: Sacrifice six artifacts: Creatures you control gain flying until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Spacecraft</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">sub</set>
+            <tablerow>1</tablerow>
+            <related>Map Token</related>
+            <related>Treasure Token</related>
+            <related>Clue Token</related>
+            </card>
+        <card>
+            <name>Long-Lived Reefback</name>
+            <text>Shroud  (This creature can't be the target of spells or abilities.) 
+When this creature enters or matures, draw cards equal to its power.
+---
+{1}{gu}
+Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{gu}{gu}{gu}{gu}</manacost>
+                <cmc>6</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Kraken</type>
+                <pt>4/10</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mF28TMWQ/Long-Lived-Reefback-png.png">sub</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Bioscanner</name>
+            <text>When this artifact enters, choose a creature type.
+{t}: Look at the top five cards of your library. You may reveal a card of the chosen type among them and put it on top. Put the rest on the bottom of your library in any order.
+{t}: Scry 2.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qFX0T1vD/Bioscanner-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Cyclops, Behemoth</name>
+            <text>Trample
+Whenever The Cyclops deals combat damage to a player, look at the top card of your library. If it's a Kraken, Leviathan, Octopus, or Serpent creature card, put it onto the battlefield tapped. Otherwise, put it into your hand.
+Crew 3
+Partner—All Systems Online</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Vc9MrZkg/The-Cyclops-Behemoth-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Seamoth, Wayfinder</name>
+            <text>Whenever The Seamoth deals combat damage to a player, draw that many cards and add that much {u}. Until end of turn, you don't lose this mana as steps and phases end. Spend it only to cast a Kraken, Leviathan, Octopus, or Serpent spell. 
+Crew 3
+Partner—All Systems Online</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZpDb5PDg/The-Seamoth-Wayfinder-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        </cards>
+    </cockatrice_carddatabase>

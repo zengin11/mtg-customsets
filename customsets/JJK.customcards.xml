@@ -1,0 +1,3625 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set> v1.4<releasedate>2026-07-12</releasedate>
+            <name>jjk</name>
+            <longname>jjk</longname>
+            <settype>Custom</settype>
+            </set>
+        </sets>
+    <cards>
+        <card>
+            <name>Multani, Maro-Sorcerer (Hanami, Maro-Sorcerer)</name>
+            <text>Shroud  (This creature can't be the target of spells or abilities.) 
+Hanami's power and toughness are each equal to the total number of cards in all players' hands.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{G}{G}</manacost>
+                <cmc>6</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Sorcerer</type>
+                <pt>*/*</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dsNCkp9q/Multani-Maro-Sorcerer-Hanami-Maro-Sorcerer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Training Grounds</name>
+            <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/p6vjVYwW/Training-Grounds-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Higuruma, Unwilling Judge</name>
+            <text>Ward {2}
+Technique - {wb}, {t}: Choose target creature. If its controller has committed a crime this turn, destroy it. Otherwise, it loses all abilities until end of turn.  (Whenever Higuruma attacks, you can activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3mN7649z/Higuruma-Unwilling-Judge-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Plains</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Plains</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nqBgqhWR/Plains-png.png">jjk</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Flawless Maneuver</name>
+            <text>If you control a commander, you may cast this spell without paying its mana cost.
+Creatures you control gain indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vvfQ8Ycp/Flawless-Maneuver-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Horizon of the Captivating Skandha</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+At the beginning of your end step, create a 0/0 blue Spirit Fish creature token with X +1/+1 counters on it, where X is the number of Spirits, Krakens, Leviathans, Octopuses, and Serpents you control.
+When this enchantment leaves the battlefield, tap each creature you don't control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Spirit</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ynxT65rW/Horizon-of-the-Captivating-Skandha-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Vengeful Possession</name>
+            <text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. You may discard a card. If you do, draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/r2p7c9Mg/Vengeful-Possession-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Principal Yaga, Puppetcrafter</name>
+            <text>Technique — {1}{w}: Create a 1/1 red Spirit Toy artifact creature token that's tapped and attacking. Activate only while Yaga is attacking.  (Whenever Yaga attacks, you can activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hn7wmPN/Principal-Yaga-Puppetcrafter-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Deadly Sentencing</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+When this enchantment enters, exile target creature until this enchantment leaves the battlefield.
+When this enchantment leaves the battlefield, destroy target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DDQQHV9r/Deadly-Sentencing-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Unstoppable Onslaught</name>
+            <text>This spell deals 5 damage to target creature or planeswalker.
+ Cursed  - If there are four or more Sorcerer cards in your graveyard, the damage can't be prevented and that permanent loses indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RZwWkRv/Unstoppable-Onslaught-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Demonfire</name>
+            <text>Demonfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
+ Hellbent  — If you have no cards in hand, this spell can't be countered and the damage can't be prevented.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gZbrPfbg/Demonfire-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Kokichi Muta, Empowered</name>
+            <text>Fabricate 2
+Kokichi's power is equal to the number of artifacts you control.
+{b}, Pay X life: Put X +1/+1 counters on target noncreature artifact. It becomes a 0/0 Robot artifact creature with vigilance and trample. X can't be zero and can't be more than Kokichi's power.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer Artificer</type>
+                <pt>*/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0pJs2wCy/Kokichi-Muta-Empowered-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rika</name>
+            <text>Flying
+Trample</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Token Creature - Spirit</type>
+                <pt>8/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XrS7JKcN/Rika-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Ultimate Mechamaru, Mode: Absolute</name>
+            <text>Trample, Modular 4
+Remove a +1/+1 counter from Ultimate Mechamaru: It gains hexproof and indestructible until end of turn.
+Crew 3</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{8}</manacost>
+                <cmc>8</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/d00tDdXj/Ultimate-Mechamaru-Mode-Absolute-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Suguru Geto, Curse Catcher</name>
+            <text>Technique — {x}{g}{w}: Create a 1/1 white Spirit creature token with X +1/+1 counters on it.  (Whenever Geto attacks, you may activate one of his techniques once for free. X is zero when you do.) 
+Technique — {3}{b}{g}: Spirits you control gain lifelink, trample, and haste until end of turn. Untap them.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{b}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>WBG</colors>
+                <coloridentity>WBG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GQZVrqtv/Suguru-Geto-Curse-Catcher-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Test of Certainty</name>
+            <text>What's your type?  - Choose a creature type. Each player secretly chooses a creature you control of that type, then those choices are revealed.
+The creature you chose deals damage equal to its power to each player that chose another creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ynyDNgyT/Test-of-Certainty-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Aoi Todo, Musclebound Tutor</name>
+            <text>Ninjutsu {r}{g}{g}
+Trample
+Mentor  (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}{g}</manacost>
+                <cmc>5</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>6/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y4GHX357/Aoi-Todo-Musclebound-Tutor-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kasumi Miwa, New-Shadow Novice</name>
+            <text>First strike, vigilance</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cXMBpH4v/Kasumi-Miwa-New-Shadow-Novice-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gisela, Blade of Goldnight (Gojo, the Honored One)</name>
+            <text>Flying, First strike
+If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.
+If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{r}{w}{w}</manacost>
+                <cmc>7</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Angel</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/s9jyVtyF/Gisela-Blade-of-Goldnight-Gojo-the-Honored-One-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Infinite Void</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+If an opponent would draw a card, they instead draw twenty cards.
+Sacrifice this enchantment: You may draw up to five cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{u}{u}</manacost>
+                <cmc>6</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8DvxcY6s/Infinite-Void-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Reggie Star, Re-Creator</name>
+            <text>Technique - {u}{b}: Exile target noncreature card from a graveyard and copy it. You may cast the copy this turn, and mana of any type may be used to cast it.  (Whenever Reggie attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/b5F4G5J4/Reggie-Star-Re-Creator-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Lightning Bolt</name>
+            <text>Lightning Bolt deals 3 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/q3xWBTjp/Lightning-Bolt-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Predators’ Hour</name>
+            <text>Until end of turn, creatures you control gain menace and “Whenever this creature deals combat damage to a player, exile the top card of that player's library face down. You may look at and play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.”</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/whX8pFhc/Predators-Hour-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Choso, Death Painting</name>
+            <text>Technique - {2}{B}: Create a Blood token.  (Whenever Choso attacks, you can activate his technique once for free.) 
+{r}, Sacrifice X Bloods: Choso deals X damage to up to X targets.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Spirit Sorcerer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/V0qftymJ/Choso-Death-Painting-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            <related>Blood Token</related>
+            </card>
+        <card>
+            <name>Miguel and The Black Rope</name>
+            <text>Vigilance
+Technique - {2}{w}: Until end of turn, target creature loses all abilities.  (Whenever Miguel attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y762xHdt/Miguel-and-The-Black-Rope-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Arcane Signet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QFYWgBSp/Arcane-Signet-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Seal Away</name>
+            <text>Flash
+When this enchantment enters, exile target tapped creature an opponent controls until this enchantment leaves the battlefield.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Fq4vq9hb/Seal-Away-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Nanako, Picture Perfect</name>
+            <text>Technique - {2}{w}: Create an enchantment token with target creature's name.  (Whenever Nanako attacks, you may activate her technique once for free.) 
+{u}, {t}, Sacrifice a token: Counter target spell that targets a permanent with the same name as the sacrificed token.
+Partner with Mimiko, Dollslayer</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LzTSXJbQ/Nanako-Picture-Perfect-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Renewed Solidarity</name>
+            <text>As this enchantment enters, choose a creature type.
+Creatures you control of the chosen type get +1/+0.
+At the beginning of your end step, for each token you control of the chosen type that entered this turn, create a token that's a copy of it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/YFw1Vdyk/Renewed-Solidarity-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Naoya Zen’in, Unstoppable</name>
+            <text>First strike, haste
+Technique - {1}{w}{r}: Naoya gets +2/-2 until end of turn. Untap him. After this phase, there is an additional combat phase. Only creatures with haste can attack during that phase. Activate only during combat on your turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{w}{b}</manacost>
+                <cmc>5</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3jmWg1k/Naoya-Zen-in-Unstoppable-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gift of the Viper</name>
+            <text>Put a +1/+1 counter, a reach counter, and a deathtouch counter on target creature. Untap it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DDdPzThn/Gift-of-the-Viper-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Great Teacher Gojo</name>
+            <text>Flash
+Flying, hexproof, indestructible, prowess, haste, mentor</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{u}{r}{g}</manacost>
+                <cmc>7</cmc>
+                <colors>URG</colors>
+                <coloridentity>URG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>7/7</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WLhk981/Great-Teacher-Gojo-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Swamp</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Swamp</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0j37M0Vs/Swamp-png.png">jjk</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Spirit Toy</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Artifact Creature - Spirit Toy</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vCrrcjg2/Spirit-Toy-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Agatha’s Soul Cauldron (Yuta’s Cursed Ring)</name>
+            <text>You may spend mana as though it were mana of any color to activate abilities of creatures you control.
+Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with ~.
+{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tTrsygxP/Agatha-s-Soul-Cauldron-Yuta-s-Cursed-Ring-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rakdos Charm</name>
+            <text>Choose one —
+•  Exile target player's graveyard.
+•  Destroy target artifact.
+•  Each creature deals 1 damage to its controller.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{B}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TD9qH8mL/Rakdos-Charm-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mai Zen’in, Reluctant Recruit</name>
+            <text>Vigilance, reach
+Exhaust - Outlast  ({t}: Put a +1/+1 counter on Mai. Activate only as a sorcery, and only activate once.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{gw}{gw}</manacost>
+                <cmc>2</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DgMghK4w/Mai-Zen-in-Reluctant-Recruit-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Miwa, Quick-Draw Striker</name>
+            <text>Technique - {w}{u}: Untap Miwa. She gets +1/+0 and gains first strike until end of turn.  (Whenever this creature attacks, you can activate its technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HTJBwNbP/Miwa-Quick-Draw-Striker-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Todo and Yuji, Brothers</name>
+            <text>Double strike, vigilance, trample
+{2}, {t}: Switch two target creatures.  (They exchange what they're being targeted by, blocked by, attacking, and/or blocking. This doesn't trigger attacking or blocking effects.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{g}{w}</manacost>
+                <cmc>5</cmc>
+                <colors>WRG</colors>
+                <coloridentity>WRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6cjzmmWm/Todo-and-Yuji-Brothers-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Dhruv Lakwadwalla, The Ancient</name>
+            <text>Vigilance
+Technique - {X}{2}{g}: Create a 1/1 green and blue Spirit creature token. When you do, put X +1/+1 counters on target Spirit token. If X is 0, put a flying counter on it instead.  (Whenever Dhruv attacks, you may activate his technique once for free. If you do so, X is 0.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Spirit Sorcerer</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4g5nmR5c/Dhruv-Lakwadwalla-The-Ancient-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Megumi Fushiguro, First Year</name>
+            <text>Menace
+Mobilize 2  (Whenever this creature attacks, create 2 tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5Xb2n261/Megumi-Fushiguro-First-Year-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Island</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Island</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/k2DMKSJK/Island-png.png">jjk</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Dagon, Ocean’s Ire</name>
+            <text>Technique - {3}{u}{u}: Create one of each of the following three blue creature tokens. 
+• A 1/1 Spirit Fish with flying.
+• A 3/3 Spirit Serpent with vigilance.
+• A tapped 6/6 Spirit Kraken with trample and fading 1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}{u}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Spirit</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Kc738QyL/Dagon-Ocean-s-Ire-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Playful Cloud</name>
+            <text>If equipped creature would deal combat damage, it deals double that damage instead.
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0NGhNt2/Playful-Cloud-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Standstill</name>
+            <text>When a player casts a spell, sacrifice this enchantment. If you do, each of that player's opponents draws three cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3yzJWzDF/Standstill-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Momo Nishimiya, Third Year</name>
+            <text>Flying, vigilance</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xk4QccNN/Momo-Nishimiya-Third-Year-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Bloodthirster</name>
+            <text>Flying, trample
+Whenever this creature deals combat damage to a player, untap it. After this phase, there is an additional combat phase.
+This creature can't attack a player it has already attacked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mC6vfGfQ/Bloodthirster-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Warrior</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Warrior</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XfyWXDw0/Warrior-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Greed</name>
+            <text>{B}, Pay 2 life: Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{B}</manacost>
+                <cmc>4</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BVkhb8XK/Greed-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Biomancer’s Familiar</name>
+            <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Mutant</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PzzDLBXj/Biomancer-s-Familiar-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Reggie Star, Con Artist</name>
+            <text>Instant and sorcery spells you cast have “Buyback—{1}, Sacrifice an artifact.”  (You may pay a spell's buyback cost as you cast it. If you do, put it into its owner's hand instead of into a graveyard as it resolves.) 
+Whenever you buyback a spell, put a +1/+1 counter on Reggie.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/S79JZMSj/Reggie-Star-Con-Artist-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Spirit Body of Distorted Killing</name>
+            <text>Enchant Creature
+At the beginning of your upkeep, sacrifice a creature unless you control ten or more Spirits.
+Enchanted creature gets +3/+3 and has menace, trample, and “Ward—Pay life equal to this creature's power.”</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{b}</manacost>
+                <cmc>1</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Kindred Enchantment - Spirit Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7xJY5c51/Spirit-Body-of-Distorted-Killing-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Coffin of the Iron Mountain</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Double all damage that sources you control would deal.
+When this enchantment leaves the battlefield, it deals 5 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Spirit</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8g5ZDtqG/Coffin-of-the-Iron-Mountain-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Preternatural Efficiency</name>
+            <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Kindred Enchantment - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/kVJSkGF2/Preternatural-Efficiency-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Aoi Todo, Master Baiter</name>
+            <text>Haste
+Technique - {2}{2r}{2w}: The next time target creature would deal damage this turn, it instead deals that damage to any target you choose.  (Whenever Todo attacks, you can activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{r}{g}</manacost>
+                <cmc>6</cmc>
+                <colors>RG</colors>
+                <coloridentity>WRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sdgkSJck/Aoi-Todo-Master-Baiter-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Spirit Bird</name>
+            <text>Flying</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Spirit Bird</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Pzmcd8C8/Spirit-Bird-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gate of the Prison Realm</name>
+            <text>This artifact enters tapped.
+{1}{w}, {t}: Choose a tapped creature you don't control. Exile it until this artifact leaves the battlefield or another creature is exiled this way. Activate only as a sorcery.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Kindred Artifact - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JRQpWh7c/Gate-of-the-Prison-Realm-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Forest</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Forest</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dJ1ZL4Yj/Forest-png.png">jjk</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Festering Life Sword</name>
+            <text>Equipped creature gets +2/+2 and has wither.
+Whenever equipped creature deals combat damage to a player, create that many 1/1 black and green Insect creature tokens with flying.
+Equip {3}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Kindred Artifact - Spirit Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tMQMpZ5f/Festering-Life-Sword-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Split Soul Katana</name>
+            <text>Equipped creature gets +3/+3, has deathtouch and menace, and has “Whenever this creature attacks, exile target permanent defending player controls.”
+Equip {4}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Kindred Artifact - Spirit Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DDqG2nnJ/Split-Soul-Katana-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Titan of Littjara</name>
+            <text>As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Whenever this creature enters or attacks, you may draw a card for each other creature you control that shares a creature type with it. If you do, discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{U}{U}</manacost>
+                <cmc>6</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Illusion</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JwbH0h1w/Titan-of-Littjara-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Bird</name>
+            <text>Flying</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Bird</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8n7FwkLN/Bird-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Truth and Power</name>
+            <text>Play with your hand revealed.
+Cards in your hand have flash.
+Creatures you control have haste.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Hp39c1WW/Truth-and-Power-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mahoraga, Eight-Handled Sword</name>
+            <text>Trample
+{x}{g}: Adapt X.  (If this creature has no +1/+1 counters on it, put X +1/+1 counters on it.) 
+Persist  (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a permanent has a +1/+1 counter and a -1/-1 counter on it, remove both.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}{g}</manacost>
+                <cmc>5</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spirit Avatar</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/S4xSbdJh/Mahoraga-Eight-Handled-Sword-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Maki, Heavenly Force</name>
+            <text>First strike, vigilance, trample, haste, hexproof from Sorcerers and Spirits
+Damage that would be dealt by Maki can't be prevented.
+Creatures dealt damage by Maki this turn lose hexproof, indestructible, and protection.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{r}{g}{w}</manacost>
+                <cmc>7</cmc>
+                <colors>WRG</colors>
+                <coloridentity>WRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Samurai</type>
+                <pt>8/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wX8ThsC/Maki-Heavenly-Force-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kindred Discovery</name>
+            <text>As this enchantment enters, choose a creature type.
+Whenever a creature you control of the chosen type enters or attacks, draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{U}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Z6GGx9BS/Kindred-Discovery-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Jujutsu Tech, Tokyo’s Bastion</name>
+            <text>This land can be your commander.  (It can be played from the command zone if you pay its commander tax.) 
+{T}: Add one mana of any color. Spend this mana only to cast a Samurai, Sorcerer, or Spirit spell, or to activate an ability.
+{w}{ug}{br}, {t}: Samurai, Sorcerers, and Spirits you control gain melee until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WUBRG</coloridentity>
+                <maintype>Land</maintype>
+                <type>Legendary Kindred Land - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5xkNt7tY/Jujutsu-Tech-Tokyo-s-Bastion-png.png">jjk</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Kirara of the Southern Cross</name>
+            <text>Kirara enters with 5 star counters on them.
+Technique — {1}{w}: Move a star counter from a creature or player you choose to target creature or player.  (Whenever Kirara attacks, you can activate their technique once for free.) 
+Creatures and players with star counters on them have protection from other creatures with star counters on them.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/prXNGPPN/Kirara-of-the-Southern-Cross-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Panda</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{wg}</manacost>
+                <cmc>1</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Artifact Creature - Bear Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TMTdj5Cq/Panda-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Yuta, Jujutsu Duplicator</name>
+            <text>Technique - {4}{u}, {t}: Copy up to two target activated abilities. You may choose new targets for the copies.  (Whenever Yuta attacks, you can activate his technique once for free. Mana abilities can't be targeted.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{g}{u}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>URG</colors>
+                <coloridentity>URG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qMXk2FtY/Yuta-Jujutsu-Duplicator-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Self-Embodiment of Perfection</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Creatures you control get +1/+1 and have deathtouch and menace.
+When this enchantment is put into a graveyard from the battlefield, destroy all non-Spirit creatures.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{b}{b}</manacost>
+                <cmc>5</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Spirit</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/h1CJKqhY/Self-Embodiment-of-Perfection-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Takuma Ino, Beastial Medium</name>
+            <text>Technique - {g}{w}: Ino gains your choice of double strike, hexproof, indestructible, or trample until end of turn. Then if he has all four, he gets +2/+2 until end of turn.  (Whenever Ino attacks, you may activate his technique once for free.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Qv20NPBT/Takuma-Ino-Beastial-Medium-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Chain of a Thousand Miles</name>
+            <text>Equipped creature has reach.
+Whenever equipped creature attacks, it gets +2/+0 for each Equipment attached to it and gains first strike until end of turn.
+Equip {1}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Kindred Artifact - Sorcerer Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fGNDXkKK/Chain-of-a-Thousand-Miles-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Simple Domain: Quickdraw</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Enchant creature
+Enchanted creature has hexproof.
+{2}, Sacrifice this Aura: Enchanted creature gets +3/+0 and gains first strike until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3ykTYrDJ/Simple-Domain-Quickdraw-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Swords to Plowshares</name>
+            <text>Exile target creature. Its controller gains life equal to its power.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HpBnPtpt/Swords-to-Plowshares-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Unnatural Overcoming</name>
+            <text>Target creature you control gains deathtouch, hexproof, and indestructible until end of turn.
+ Cursed -  If there are four or more Sorcerer cards in your graveyard, the next time damage would be dealt to that creature this turn, prevent that damage and put that many +1/+1 counters on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MD0tLNm1/Unnatural-Overcoming-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Takaba, Legendary Comedian</name>
+            <text>As Takaba enters, tell up to three jokes. For each person that laughs at any, put two +1/+1 counters on Takaba. He gains protection from those who laughed.  (Snorts, nostril exhales, and sarcastic ha-ha's are laughs. Non-players laughing counts; comedy is for everyone) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}{u}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>URG</colors>
+                <coloridentity>URG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Clown Performer</type>
+                <pt>0/0</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9mP8bQKT/Takaba-Legendary-Comedian-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Raise the Palisade</name>
+            <text>Choose a creature type. Return all creatures that aren't of the chosen type to their owners' hands.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{U}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LzdfDDh1/Raise-the-Palisade-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Kindred Summons</name>
+            <text>Choose a creature type. Reveal cards from the top of your library until you reveal X creature cards of the chosen type, where X is the number of creatures you control of that type. Put those cards onto the battlefield, then shuffle the rest of the revealed cards into your library.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{G}{G}</manacost>
+                <cmc>7</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qF3z0mT3/Kindred-Summons-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Fell</name>
+            <text>Destroy target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2HWF2n1/Fell-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Blessing of the Six Eyes</name>
+            <text>You have no maximum hand size and don't lose the game for drawing from an empty library.
+If an opponent would draw a card, you may draw a card.
+You may look at your opponents' hands at any time.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}{u}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8LRZZvrD/Blessing-of-the-Six-Eyes-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Toji and Inventory Spirit</name>
+            <text>When this creature enters, search your library for an Equipment card, put it into the battlefield attached to this creature, then shuffle.
+Double strike</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{b}{b}{r}</manacost>
+                <cmc>6</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Spirit</type>
+                <pt>4/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Zzq8Wrkm/Toji-and-Inventory-Spirit-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mai, Burdened Twin</name>
+            <text>Kicker {1}{w}
+When Mai enters, search your library for an artifact or Sorcerer card and reveal it. If it's both and Mai was kicked, put it onto the battlefield. Otherwise, put it into your hand. Shuffle.
+Disturb {2}{w}{b}  (You may cast this card from your graveyard transformed for {2}{w}{b}.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>{fontcolorwhite}2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/1fC8hTk9/Mai-Burdened-Twin-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Blood</name>
+            <text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Blood</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TqKpTQfW/Blood-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Spirit Dog</name>
+            <text>Vigilance</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Spirit Dog</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mCmh34w5/Spirit-Dog-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Swiftfoot Boots</name>
+            <text>Equipped creature has hexproof and haste.  (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.) 
+Equip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xx1P9BBP/Swiftfoot-Boots-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Uro Takako, Wreathed in Sky</name>
+            <text>Flying, haste
+Technique - {3}{u}: Put a shield counter on target permanent.  (Whenever Uro attacks, you may activate one of her techniques once for free.) 
+Technique - {1}: Exile target permanent that has a shield counter on it until the beginning of the next end step.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Spirit Sorcerer</type>
+                <pt>3/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yF7FKHtS/Uro-Takako-Wreathed-in-Sky-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Geto, Sorcerer Supremacist</name>
+            <text>Spirits you control are Sorcerers in addition to their other types.
+Non-Sorcerers are Monkeys.
+Monkeys enter tapped with a -1/-1 counter on them.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pjScRXyR/Geto-Sorcerer-Supremacist-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Black Flash</name>
+            <text>This spell costs {1} less to cast and has split second if it targets a Sorcerer you control.
+Target creature you control deals damage equal to twice its power to target creature you don't control.
+Flashback - {3}{b}{r}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/JWh3GGbf/Black-Flash-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Shoko Ieiri, Medic</name>
+            <text>Technique - {t}: Remove any number of counters from target creature you control.  (Whenever Shoko attacks, you may activate one of her techmiques once without paying its costs.) 
+Technique - {t}: Target creature gains persist until end of turn.  (When it dies this turn, if it had no - 1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{wb}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/d0rY7Tm1/Shoko-Ieiri-Medic-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Divine General Mahoraga</name>
+            <text>Protection from colorless
+At the beginning of each end step, for each color among sources that targeted or dealt damage to Mahoraga this turn, put two +1/+1 counters on Mahoraga and Mahoraga gains protection from that color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{w}{w}</manacost>
+                <cmc>5</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Avatar Spirit</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/F44pHgVK/Divine-General-Mahoraga-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Ryu Ishigori, Disaster Blaster</name>
+            <text>Vigilance, reach
+Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal to his power to any target.  (Whenever Ryu attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Spirit Sorcerer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Q34dWfcK/Ryu-Ishigori-Disaster-Blaster-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Chimera Shadow Garden</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+{u}, Pay X life: Exile target creature or artifact you control with mana value X until this enchantment leaves the battlefield. Create a token that's a copy of it, except it's black and has haste. Activate only once each turn.  (A copy has the same mana value as what it copies. Exiled tokens disappear.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{u}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>WUB</colors>
+                <coloridentity>WUB</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v4XdSrRb/Chimera-Shadow-Garden-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Resurrect the Soul</name>
+            <text>Return target permanent card from your graveyard to your hand.
+ Cursed -  If there are four or more Sorcerer cards in your graveyard, up to one target creature you control becomes a copy of that card until the end of your next turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Kindred Sorcery - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MDDGd6tR/Resurrect-the-Soul-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Bestie Beatdown</name>
+            <text>Two target creatures you control each deal damage equal to their power to target creature an opponent controls.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{rg}</manacost>
+                <cmc>2</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpM2R7gv/Bestie-Beatdown-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Toge Inumaki, Second Year</name>
+            <text>First strike, deathtouch, reach</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ynNWvVCW/Toge-Inumaki-Second-Year-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sibling Rivalry</name>
+            <text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn. Create a tapped Powerstone token.  (It's an artifact with “{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.”) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{R}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/s9YLW1wD/Sibling-Rivalry-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            <related>Powerstone Token</related>
+            </card>
+        <card>
+            <name>Mei Mei, Brazen Manipulator</name>
+            <text>Extort
+Technique - {3}: Create a 1/1 black Bird creature token with flying.  (Whenever Mei Mei attacks, you can activate her technique once for free.) 
+{t}, Sacrifice a Bird: Destroy target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpFXpHxq/Mei-Mei-Brazen-Manipulator-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Noritoshi Kamo, Clan Leader</name>
+            <text>Reach
+Renown 1  (Whenever this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
+Persist</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/23K9Vz81/Noritoshi-Kamo-Clan-Leader-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Hanami, Nature’s Wrath</name>
+            <text>Lands and Elementals you control have vigilance, trample, and reach.
+Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate her technique once for free) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{g}{g}</manacost>
+                <cmc>6</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Spirit</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/n2FgTKX/Hanami-Nature-s-Wrath-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Naobito Zen’in, Freeze Frame</name>
+            <text>First strike, haste
+Whenever Naobito deals combat damage to a creature, tap that creature and put a stun counter on it.
+Prevent all damage that would be dealt by creatures with stun counters on them.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{w}{b}</manacost>
+                <cmc>5</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>5/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ds53BMgp/Naobito-Zen-in-Freeze-Frame-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Calculated Strike</name>
+            <text>Cursed -  If there are four or more Sorcerer cards in your graveyard, return up to one target creature to its owner's hand.
+If target player controls an odd number of creatures, exile up to one target tapped creature they control. Otherwise, draw two cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Qv3Rs9bP/Calculated-Strike-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Deflecting Palm</name>
+            <text>The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MxFGjfLs/Deflecting-Palm-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Domain Clash</name>
+            <text>Each player may search their library for a world card and put it onto the battlefield.  (Multiple worlds entering at the same time all leave the battlefield immediately.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QWdSsqy/Domain-Clash-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Nobara Kugisaki, Reckless Student</name>
+            <text>Reach
+Wither  (This deals damage to creatures in the form of -1/-1 counters.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hwQD6DN/Nobara-Kugisaki-Reckless-Student-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mountain</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Land</maintype>
+                <type>Basic Land - Mountain</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rRH7fRGX/Mountain-png.png">jjk</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Yuta Okkotsu</name>
+            <text>Haste
+Technique — {4}: Create Rika, a legendary 8/8 red and green Spirit creature token with flying and trample.
+If a creature would deal damage to Yuta and you control a creature named Rika, instead remove Rika from combat and she fights that creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}{r}{g}{g}{w}{w}</manacost>
+                <cmc>6</cmc>
+                <colors>WRG</colors>
+                <coloridentity>WRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/r2QyKDx6/Yuta-Okkotsu-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Unrestrained by Heaven</name>
+            <text>Create a 3/3 Human Samurai creature token with trample and haste. You may attach up to one Equipment you control to it.
+ Cursed -  If there are four or more Sorcerer cards in your graveyard, put an indestructible counter and three +1/+1 counters on that creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{g}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/V03syRTC/Unrestrained-by-Heaven-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Trailblazer’s Boots</name>
+            <text>Equipped creature has nonbasic landwalk.
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/YBkk69LZ/Trailblazer-s-Boots-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Cleansing Exorcism</name>
+            <text>Cursed -  Choose two. If there are four or more Sorcerer cards in your graveyard, instead you may choose any number —  • Exile target Spirit.  • Exile target enchantment.  • Exile target player's graveyard.  • Exile target kindred permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QvSwKyZ4/Cleansing-Exorcism-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Roaming Throne</name>
+            <text>Ward {2}
+As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+If a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}</manacost>
+                <cmc>4</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Golem</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/M5ZjPmsJ/Roaming-Throne-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Servo</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Artifact Creature - Servo</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4ngvH4Sb/Servo-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kenjaku, Usurper of Flesh</name>
+            <text>Technique - {1}{U}{B}: Exile target creature card from a graveyard. This creature becomes a copy of that card, except it's a Sorcerer in addition to other types and has this ability as a technique ability.  (Whenever this creature attacks, you can activate one of its technique abilities for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Shapeshifter Sorcerer</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/spTfCcWq/Kenjaku-Usurper-of-Flesh-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Aggravated Assault</name>
+            <text>{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/d0FbLvpy/Aggravated-Assault-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Hanami, Nature’s Wrath Alt</name>
+            <text>Lands and Elementals you control have vigilance, trample, and reach.
+Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate her technique once for free) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{g}{g}</manacost>
+                <cmc>6</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Spirit</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hxzGRKyy/Hanami-Nature-s-Wrath-Alt-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Maki, Jujutsu Tech’s Outlier</name>
+            <text>Menace
+Bushido 2  (Whenever Maki blocks or becomes blocked, she gets +2/+2 until end of turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{br}{br}</manacost>
+                <cmc>2</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Samurai</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4RkQz1rz/Maki-Jujutsu-Tech-s-Outlier-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rally the Ranks</name>
+            <text>As this enchantment enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tTmcwq0h/Rally-the-Ranks-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Blasphemous Act</name>
+            <text>This spell costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{8}{R}</manacost>
+                <cmc>9</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Z1vCwkRw/Blasphemous-Act-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Spirit Frog</name>
+            <text>Reach</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Spirit Frog</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0pjgHC1H/Spirit-Frog-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Principal Gakuganji, Old Mettle</name>
+            <text>Technique - {w}{b}: Move any number of counters from target creature you control to Gakuganji.  (Whenever Gakuganji attacks, you may activate his technique once for free.) 
+ Whenever you cast a creature spell, it gains amplify 1.  (As it enters, put a +1/+1 counter on it for each card you reveal from your hand that shares a creature type with it.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HpqVsncV/Principal-Gakuganji-Old-Mettle-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Yuji Itadori, Fledgling Sorcerer</name>
+            <text>Double strike</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TM73F7YR/Yuji-Itadori-Fledgling-Sorcerer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Toji Fushiguro, Sorcerer Killer</name>
+            <text>Fear  (Toji can't be blocked except by artifact creatures and/or black creatures.) 
+Protection from non-colorless Sorcerers, Shamans, and Spirits</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{b}{r}</manacost>
+                <cmc>7</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>10/10</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HLzfw33p/Toji-Fushiguro-Sorcerer-Killer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Austere Command</name>
+            <text>Choose two —
+•  Destroy all artifacts.
+•  Destroy all enchantments.
+•  Destroy all creatures with mana value 3 or less.
+•  Destroy all creatures with mana value 4 or greater.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{W}{W}</manacost>
+                <cmc>6</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XkvqDjr5/Austere-Command-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Megumi, Shadow Summoner</name>
+            <text>Sacrifice a Spirit: Add {c} equal to its power.
+{t}, Choose one and pay the cost associated with that mode: Create a creature token with those characteristics.
+•   Gama  - {1} — 1/1 green Spirit Frog.
+•   Nue  - {3} — 3/3 red Spirit Bird with flying.
+•   Max Elephant  - {6} — 6/6 red and white Spirit Elephant with trample.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jvjNwDzp/Megumi-Shadow-Summoner-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rabbit Escape!</name>
+            <text>Kicker {4}
+Prevent all damage that would be dealt to you and creatures you control this turn. If this spell was kicked, for each 1 damage prevented this way, create a 1/1 white Spirit Rabbit creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zWwS24fM/Rabbit-Escape-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mai, Secret Shot</name>
+            <text>Vigilance, reach
+{2}{r}: Mai deals 1 damage to any target.
+Technique — {1}, {t}: Add {r}{r}. Until end of turn, you don't lose this mana as steps and phases end.  (Whenever Mai attacks, you can activate her technique once for no cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v6h4GB5S/Mai-Secret-Shot-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PGxt88by/Sol-Ring-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Nobara, Unswayed</name>
+            <text>First strike
+Whenever a source deals damage to one or more creatures a player controls, that source deals damage to that player equal to the greatest damage dealt to a creature this way.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}{w}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XkxVP0sZ/Nobara-Unswayed-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Choso, Sanguine Supernova</name>
+            <text>Creatures you control deal noncombat damage as though they had wither.
+Technique - {1}{r}{b}, {t}: Create a Blood token. When you do, Choso deals 1 damage to each of up to X targets, where X is the number of Bloods you control.  (Whenever Choso attacks, you may activate his technique once for no cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Spirit Sorcerer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/prWzPZSM/Choso-Sanguine-Supernova-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            <related>Blood Token</related>
+            </card>
+        <card>
+            <name>Cataclysmic Assault</name>
+            <text>Cursed -  This spell costs {2} less to cast as long as there are four or more Sorcerer cards in your graveyard.
+Destroy target permanent. Mill one card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{g}</manacost>
+                <cmc>4</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/20gmPCyh/Cataclysmic-Assault-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Kusakabe, The Evening Moon</name>
+            <text>Vigilance, first strike
+Technique - {1}, Exile Kusakabe: Sorcerers you control get +1/+1 and gain indestructible and hexproof until end of turn.  (Whenever Kusakabe attacks, you can activate his technique once without paying its costs.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/1twtXLR6/Kusakabe-The-Evening-Moon-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Yuji Itadori, Sukuna’s Vessel</name>
+            <text>First strike, haste
+Technique - {1}{b}: Put a +1/+1 counter and a time counter on Yuji. If he isn't attacking, transform him.  (Whenever Yuji attacks, you can activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>WR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>{fontcolorwhite}3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hR7zDLJk/Yuji-Itadori-Sukuna-s-Vessel-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Nobara, Straw-Doll Slayer</name>
+            <text>Technique — {3}{b}: Put a -1/-1 counter on target creature.  (Whenever Nobara attacks, you may activate her technique once for free.) 
+Whenever you put one or more -1/-1 counters on a creature, Nobara deals 1 damage to its controller.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/848vg3HY/Nobara-Straw-Doll-Slayer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>All-Out Assault</name>
+            <text>Creatures you control get +1/+1 and have deathtouch.
+When this enchantment enters, if it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}{W}{B}</manacost>
+                <cmc>5</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NdDzM60x/All-Out-Assault-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Malevolent Shrine</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Cumulative upkeep — Pay {r} and 2 life.
+At the beginning of your upkeep, for each age counter on Malevolent Shrine, it deals 2 damage to each creature you don't control.
+When Malevolent Shrine leaves the battlefield, destroy up to one target artifact.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer Shrine</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wZB21vHX/Malevolent-Shrine-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Yuji, Jujutsu Sorcerer</name>
+            <text>Haste
+Technique — {1}{wr}: Yuji gets +1/+0 and gains double strike and until end of turn.  (Whenever this creature attacks, you can activate its technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>0/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/G3CxHQTL/Yuji-Jujutsu-Sorcerer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kindred Dominance</name>
+            <text>Choose a creature type. Destroy all creatures that aren't of the chosen type.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{B}{B}</manacost>
+                <cmc>7</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yFwfbXW0/Kindred-Dominance-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Kento Nanami, Rational Slayer</name>
+            <text>Vigilance
+Whenever Nanami deals damage to a creature, exile that creature if the damage equaled half its toughness rounded down.
+Technique - {1}: Nanami gets -1/+1 or +1/-1 until end of turn.  (Whenever Nanami attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/7</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WWND8XXY/Kento-Nanami-Rational-Slayer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Ruinous Ultimatum</name>
+            <text>Destroy all nonland permanents your opponents control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}{R}{W}{W}{W}{B}{B}</manacost>
+                <cmc>7</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LdwXNCdH/Ruinous-Ultimatum-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Collective Inferno</name>
+            <text>Convoke  (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) 
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{R}{R}</manacost>
+                <cmc>5</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/1tJmVbFc/Collective-Inferno-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Ryomen Sukuna, History Reborn</name>
+            <text>Menace, trample, indestructible
+Vanishing  (At the beginning of your upkeep, remove a time counter from Sukuna. When the last is removed, sacrifice him.) 
+If Sukuna would be sacrificed, instead transform him.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tpmG31Gx/Ryomen-Sukuna-History-Reborn-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sorcerer’s Command</name>
+            <text>Cursed -  When you cast this spell, if there are four or more Sorcerer cards in your graveyard, copy this spell. You may choose new targets for the copy.
+Choose up to two —
+•  Destroy target artifact.
+•  This spell deals 2 damage to any target.
+•  Return target creature to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Kindred Sorcery - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLJtKDHw/Sorcerer-s-Command-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Toge Inumaki, The Silencer</name>
+            <text>Technique - {1}{w}: Target creature can't attack or block this turn. If it's your turn, its controller can't cast spells or activate abilities of nonlands this turn.  (Whenever Toge attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yn9t1Tsd/Toge-Inumaki-The-Silencer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mechamaru, Remote Student</name>
+            <text>Modular X  (Mechamaru enters with X +1/+1 counters on it. When he dies, you may put his +1/+1 counters on target artifact creature.) 
+Fabricate 1  (When Mechamaru enters the battlefield, you may put a +1/+1 counter on him. If you don't, create a 1/1 colorless Servo artifact creature token.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{x}{ur}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Artifact Creature - Robot Sorcerer</type>
+                <pt>0/0</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hFDC4jww/Mechamaru-Remote-Student-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kenjaku’s Edict</name>
+            <text>Each player sacrifices two creatures.
+ Cursed -  If there are four or more Sorcerer cards in your graveyard, instead each opponent sacrifices half the creatures they control of their choice, rounded up.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Kindred Sorcery - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/39ZPtnFg/Kenjaku-s-Edict-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Fireball</name>
+            <text>This spell costs {1} more to cast for each target beyond the first.
+Fireball deals X damage divided evenly, rounded down, among any number of targets.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v4Pt3Rm8/Fireball-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Resonant Punishment</name>
+            <text>Lifelink
+This spell deals 4 damage to target creature or planeswalker.
+ Cursed -  If there are four or more Sorcerer cards in your graveyard, this spell also deals 6 damage to that permanent's controller.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/VcF09rwc/Resonant-Punishment-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Path to Exile</name>
+            <text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle. </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4nk7Yqb5/Path-to-Exile-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Haruta, Miraculously Saved</name>
+            <text>Haruta enters with six shield counters on him.
+Haruta attacks each combat if able.
+Technique - {2}{r}: Haruta fights target creature you don't control.  (Whenever Haruta attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{b}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/391ZhgdS/Haruta-Miraculously-Saved-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Hanami’s Intervention</name>
+            <text>Prevent all damage that would be dealt to you this turn. Spirits, Elementals, and lands you control gain hexproof and indestructible until end of turn.
+ Cursed -  If a Sorcerer or Spirit card was put into your graveyard this turn, those permanents also gain trample until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Spirit</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TM2TxpKd/Hanami-s-Intervention-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Merciless Destruction</name>
+            <text>Cursed -  Choose up to two. If there are four or more Sorcerer cards in your graveyard, you may choose the same mode more than once —
+•  Destroy target artifact.
+•  Destroy target enchantment.
+•  This spell deals 3 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xwHt1dz/Merciless-Destruction-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Domain Amplification</name>
+            <text>Enchant creature
+Enchanted creature has protection from creatures, sorceries, and non-Aura enchantments.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ynZNMLc5/Domain-Amplification-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Patchwork Banner</name>
+            <text>As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+{T}: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DPZHN1yS/Patchwork-Banner-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Simple Domain: Evening Moon</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Enchant creature
+Enchanted creature has indestructible.
+{1}{w}, Sacrifice this enchantment: Permanents you control gain hexproof and indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PZ2Hp7ft/Simple-Domain-Evening-Moon-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Split-Second Domain</name>
+            <text>Search your library for a world card, exile it, then shuffle. For as long as that card remains exiled, you may cast it as though it had flash. If you do, it gains “When this permanent enters, its controller sacrifices it.”</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HTdcQ1v4/Split-Second-Domain-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Junpei Yoshino, Cursed Sorcerer</name>
+            <text>When Junpei enters, create a 1/4 black Spirit Jellyfish creature token with flying and deathtouch.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/FNd8B1X/Junpei-Yoshino-Cursed-Sorcerer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Disaster Radius</name>
+            <text>As an additional cost to cast this spell, reveal a creature card from your hand.
+Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{R}{R}</manacost>
+                <cmc>7</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Hyz7fXj/Disaster-Radius-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Shoko leiri, Medic</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sv8jXVHN/Shoko-leiri-Medic-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Simple Domain</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Flash
+When ~ enters, you may pay {1}{u}. If you do, counter target spell, activated ability, or triggered ability.  (Mana abilities can't be targeted.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6c8QSDMk/Simple-Domain-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Satoru Gojo, Limitless</name>
+            <text>Technique — {1}{u}{u}, {t}: Target creature has base power and toughness 1/1 until end of turn.  (Whenever Gojo attacks, you can activate one of his techniques once without paying its costs.) 
+Technique — {1}{r}{r}: Gojo deals 2 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}{w}</manacost>
+                <cmc>5</cmc>
+                <colors>WUR</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2BfnNM1/Satoru-Gojo-Limitless-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mahito, Humanity’s Bane</name>
+            <text>Deathtouch, menace
+Technique - Sacrifice a creature: Put a +1/+1 counter on Mahito.  (Whenever Mahito attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Nightmare Spirit</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/VY1GnkMr/Mahito-Humanity-s-Bane-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Akari Nitta, Assistant Manager</name>
+            <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Advisor</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fVMhSV43/Akari-Nitta-Assistant-Manager-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mimiko, Dollslayer</name>
+            <text>Technique - {2}{w}: Create an artifact token with target creature's name.  (Whenever Mimiko attacks, you may activate her technique once for free.) 
+{b}{b}, {t}, Sacrifice a token: Destroy each creature with the same name as the sacrificed token.
+Partner with Nanako, Picture Perfect</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fVJZvcNG/Mimiko-Dollslayer-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mahito, Soul Shaper</name>
+            <text>{pu}{b}: Regenerate Mahito.  (The next time he would be destroyed this turn, instead tap him, remove him from combat, and heal all damage on him. {pu} can be paid with either {u} or 2 life.) 
+Whenever Mahito deals combat damage to a creature, you gain control of it. Regenerate it. It becomes a Mutant with base power and toughness 1/1 and loses all abilities.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Nightmare Spirit</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pBkmnQXq/Mahito-Soul-Shaper-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Yuta, Breaker of Sendai</name>
+            <text>If a creature would die, exile it instead.
+Technique - {3}{b}{b}{b}: Choose a card exiled with Yuta. Until end of turn, he has its activated abilities. You may activate one of them without paying its costs.  (Activate it only once, as this ability resolves. Whenever Yuta attacks, you may activate his technique once for free.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3PSQdL4/Yuta-Breaker-of-Sendai-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mahoraga, The Eight-Handled Sword</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pjT2nq26/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Jogo, Volcanic Fury</name>
+            <text>Technique - {3}{r}, {t}: Jogo deals damage equal to his power divided evenly among any two targets.  (Whenever Jogo attacks, you can activate his technique once for free.) 
+Whenever Jogo attacks, he gets +1/+0 until end of turn for each attacking creature. If three or more Spirits are attacking, Jogo gains trample until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{r}{r}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Spirit</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ddSnHgN/Jogo-Volcanic-Fury-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kurourushi, Cursed Roach</name>
+            <text>Haste, trample
+Technique - {3}{b}{g}: Create a 1/1 black and green Insect creature token with flying. Populate.  (Whenever Kurourushi attacks, you may activate his technique once for free.) 
+{b}{g}, Sacrifice four Insects: Return Kurourushi from your graveyard to the battlefield.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{b}{g}</manacost>
+                <cmc>5</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Insect Spirit</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cKCVbtmm/Kurourushi-Cursed-Roach-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Fire Covenant</name>
+            <text>As an additional cost to cast this spell, pay X life.
+Fire Covenant deals X damage divided as you choose among any number of target creatures.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/v6vdkFXJ/Fire-Covenant-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Megumi, Shikigami Master</name>
+            <text>Technique — {3}{g}: Create three 1/1 green Spirit Frog creature tokens with reach.  (Whenever Megumi attacks, you can activate one of his techniques once for free.) 
+Technique — {3}{b}: Create two 2/2 black and white Spirit Dog creature tokens.
+Technique — {3}{r}: Create a 3/3 red Spirit Bird creature token with flying.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{w}{u}</manacost>
+                <cmc>5</cmc>
+                <colors>WU</colors>
+                <coloridentity>WUBRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qLLmw4xr/Megumi-Shikigami-Master-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Exception</name>
+            <text>Enchant creature
+{u}: Enchanted creature phases out.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Kindred Enchantment - Sorcerer Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bMfmccqT/The-Exception-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Todo of the Boogie Woogie</name>
+            <text>Vigilance
+Technique — {g}{r}{u}: Return target creature to its owner's hand.  (Whenever Todo attacks, you can activate his technique once for free.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{g}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>URG</colors>
+                <coloridentity>URG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0VQGHHKb/Todo-of-the-Boogie-Woogie-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Stitch in the Head</name>
+            <text>Cursed -  If there are four or more Sorcerer cards in your graveyard, each player mills four cards.
+Put a creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Kindred Sorcery - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mrVcPvSC/Stitch-in-the-Head-png.png">jjk</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Bloodline Pretender</name>
+            <text>Changeling  (This card is every creature type.) 
+As this creature enters, choose a creature type.
+Whenever another creature you control of the chosen type enters, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Shapeshifter</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/n8NtL3dm/Bloodline-Pretender-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kiyotaka Ijichi, Assistant Manager</name>
+            <text>Whenever a creature you control attacking causes a triggered ability of that creature to trigger, that ability triggers an additional time.  (Technique abilities' free activation is a triggered ability.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Advisor</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vC6xjp4s/Kiyotaka-Ijichi-Assistant-Manager-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Chaos Warp</name>
+            <text>The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/1GdLTtBn/Chaos-Warp-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Isshin, Two Heavens as One (Maki, Zen’in Executioner)</name>
+            <text>If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}{W}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Samurai</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3D0SPHc/Isshin-Two-Heavens-as-One-Maki-Zen-in-Executioner-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rabbit_Escape! Alt</name>
+            <text>Kicker {4}
+Prevent all damage that would be dealt to you and creatures you control this turn. If this spell was kicked, for each 1 damage prevented this way, create a 1/1 white Spirit Rabbit creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Kindred Instant - Sorcerer</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rGkrP7zf/Rabbit-Escape-Alt-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Shining Sea of Branches</name>
+            <text>(As this enters, put all other worlds into their owners' graveyards.) 
+Whenever you tap a basic land for mana, add one mana of any color.
+When this enchantment leaves the battlefield, untap all lands you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>World Kindred Enchantment - Spirit</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/SD8GF883/Shining-Sea-of-Branches-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Spirit Jellyfish</name>
+            <text>Flying, deathtouch</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Spirit Jellyfish</type>
+                <pt>1/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y4RpxDkK/Spirit-Jellyfish-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        </cards>
+    </cockatrice_carddatabase>

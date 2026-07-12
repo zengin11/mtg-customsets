@@ -1,0 +1,208 @@
+-Search-
+# Site: Adding Scryfall Cards
+You can add cards directly from Scryfall (the website) into this site! Just drag and drop a card image from scryfall. It'll add itself into the grid and your deck automatically.
+
+# Site: Sets
+You can turn my various sets on and off in the `sets` drop-down. Each set also has its own button you can click for information about it; stuff like format, key mechanics, etc.
+
+If you've dropped in any Scryfall cards, an extra option will appear in this dropdown that lets you filter them out.
+
+# Site: Random Card
+The "Random" button pulls up a random card from the ones currently displayed through your search filters.
+
+# Search: Auto-filters
+The magnifying glass next to the Search Bar isn't just decorative. Click it to pull up a list of filters you can use. Select one from the menu, and it'll automatically add itself to your search bar.
+
+# Search: Filter details
+By default, the search bar searches card names. You can use scryfall-like filters to narrow your search:
+
+**Type** — Search the typeline — `type:sorcerer` | `type:legendary`
+**text / rules / o** — Search the text box — `text:resonate`
+**mv / cmc** — Search mana values with =, >, and < — `mv<=2` | `mv:4`
+**power / p** and **toughness / t** — Search power and toughness with =, >, <, and comparison — `p>2` | `p=t+2`
+**mana / m** — Search pip in mana costs with =, >, and < — `m={wg}` (cards costing exactly one hybrid selesnya pip) | `m>=2WW` (cards costing at least 2 generic + 2 white pips) | m<1 (cards without generic pips)
+**Color** — (c:, color:, colour:) =, >, and < — eg `c=W` (monowhite cards) or `c>=WU` (cards with white and blue, maybe more)
+**Color Identity** - (id:) =, >, and < — words like `color:`, but includes pips in the rules text; `id:c` is colorless
+**Transforming** — Cards that are two sided — `has:transform` or `is:dfc`
+**Author's notes** — Cards that have notes from me! — `has:notes` or `has:yap`
+**Alters vs Customs** — Alters are reskins of real cards with new art. Customs are mechanically unique cards I made — `is:alter` and `is:custom`; or `not:custom` and `not:alter`
+**Special Versions** — Some cards are marked as "promo", "alt", or "showcase" versions, typically with different art or framing than the base card — Use `is:promo`, `is:alt`, or `is:showcase` to search for all three at once.
+
+
+## Search: Manipulating Filters
+You can search "This OR that" with parentheses, like `(text:resonate or text:reverberate)`
+
+You can put quotes to filter by multi-word values, like `rules:"target creature"`
+
+You can put a minus sign before any filter to invert it:
+- `-text:sacrifice` (only cards WITHOUT sacrifice in their rules text)
+- `type:creature -type:legendary` (only nonlegendary creatures)
+- You can use `not:` instead of `-is:` for things like `not:alter`
+You can use multiple filters at once.
+
+-Decklist desktop-
+
+# Card Buttons
+
+Hovering over a card, you can view its full text, see its tags and pin it (more info below), and copy or download its image. You can also transform it, if applicable.
+
+Some cards also have green "info" bubbles. Those are authors notes, written by me, because I like yapping about my cards.
+
+Clicking on a card zooms in on it, and shows you the same buttons.
+
+# Adding / subtracting from your deck
+
+Double-click a card to add one to your deck. Right click to remove one.
+
+You can sideboard cards from your decklist by using `SB+` button, and remove them with `SB-`. Cards in your sideboard will be exported along with your maindeck, and will always come after.
+
+# Sorting your decklist
+
+You can split your decklist into categories by choosing something from the `Sort` dropdown at the top. Cards in multiple categories will be greyed out in every category except their first.
+
+# Pins and Tags
+
+Pinned cards will appear at the top of the decklist when it's being sorted, no matter what you're sorting by. Perfect for your commander!
+
+Adding Tags to cards allows you to categorize your decklist however you'd like! Tags are saved with your decklist if you use the `Save` button, and are exported with your decklist via the `Copy` button.
+
+# Column Mode
+
+You can categorize the card grid in the same ways as your decklist. Just use the `Columns` Button / dropdown at the top of the page (next to Random, next to the main filter bar).
+
+The preset columns can easily be changed. **Double click** on a column name (such as "Sorcery") to turn it into a filter bar that you can edit to your hearts content using any of the main searchbar filters.
+
+You can also add your own bespoke columns with the + buttons between columns, and move columns around with the arrow buttons near their labels.
+
+# Columns sorted by Tags
+
+If you select `Tags` sorting in the Columns menu, it will automatically add columns for every tag you've used—and for every new tag you add.
+
+You can **drag cards** into tagged columns to automatically add that tag to the card. If you **hold shift** while dragging, the card will keep its old tag. Otherwise, the old tag will be removed.
+
+# Deck Stats
+
+The deck stats page displays information about **cards currently in your deck.** You can click the **colored sections** of any graph section to look at all the cards counted in it (such as "White Creatures"). Click **the label instead** of the colors to view the whole section (such as "Creatures").
+
+-Decklist Mobile-
+
+# Card Buttons
+
+By **long-pressing** a card, buttons will appear to view its full text, see its tags and pin it (more info below), and copy or download its image. You can also transform it, if applicable.
+
+Some cards also have green "info" bubbles. Those are authors notes, written by me, because I like yapping about my cards.
+
+**Clicking** on a card zooms in on it, and shows you the same buttons.
+
+# Adding / subtracting from your deck
+
+**Double-click** a card to add one to your deck. **Long-press** to remove one.
+
+You can sideboard cards from your decklist by using `SB+` button, and remove them with `SB-`. Cards in your sideboard will be exported along with your maindeck, and will always come after.
+
+# Sorting your decklist
+
+You can split your decklist into categories by choosing something from the `Sort` dropdown at the top. Cards in multiple categories will be greyed out in every category except their first.
+
+# Pins and Tags
+
+Pinned cards will appear at the top of the decklist when it's being sorted, no matter what you're sorting by. Perfect for your commander!
+
+Adding Tags to cards allows you to categorize your decklist however you'd like! Tags are saved with your decklist if you use the `Save` button, and are exported with your decklist via the `Copy` button.
+
+# Column Mode
+
+You can categorize the card grid in the same ways as your decklist. Just use the `Columns` Button / dropdown at the top of the page (next to Random, next to the main filter bar).
+
+The preset columns can easily be changed. **Double click** on a column name (such as "Sorcery") to turn it into a filter bar that you can edit to your hearts content using any of the main searchbar filters.
+
+You can also add your own bespoke columns with the + buttons between columns, and move columns around with the arrow buttons near their labels.
+
+# Columns sorted by Tags
+
+If you select `Tags` sorting in the Columns menu, it will automatically add columns for every tag you've used—and for every new tag you add.
+
+You can **drag cards** into tagged columns to automatically add that tag to the card. If you **hold shift** while dragging, the card will keep its old tag. Otherwise, the old tag will be removed.
+
+# Deck Stats
+
+The deck stats page displays information about **cards currently in your deck.** You can click the **colored sections** of any graph section to look at all the cards counted in it (such as "White Creatures"). Click **the label instead** of the colors to view the whole section (such as "Creatures").
+
+
+-Export-
+
+# Copy/paste
+
+Copying your decklist will save your cards, including the set they're from. You can paste them back in later!
+
+When pasting, your browser may open a little second "Paste" button you need to click. (true for Firefox desktop)
+
+If you paste a card/set that doesn't exist here, the site will check Scryfall for it. If it exists there, it'll import it for you!
+
+Any card tags you've added are copied and pasted as well (you can even import Architect tags this way!)
+
+# Export Notes
+
+You can sideboard cards with the `SB+` button, and remove them with `SB-`. Cards in your sideboard will be exported along with your maindeck, but they'll always come after. Tokens will come after those.
+
+# How to: Tabletop Simulator
+
+Download your deck as a grid using the `Download` menu.
+
+- Download your deck image(s)
+- Create a game in TTS (only a game's owner can reliably create custom decks)
+- Click on Objects (in the top menu) -> Components -> Cards -> Custom Deck.
+- Place the custom deck object, then press [escape] to stop placing and start editing.
+- Upload the file you downloaded and click **CLOUD**.
+- **Note:** If the cards are double-sided, upload their fronts and back separately and check "Unique Backs"
+- **Note:** If they're single-sided, use this link. It's the default TTS MtG card back: https://i.ibb.co/Gf570Dsc/TTS-back-L8-S4-R5.png
+- Fill out the width, height, and number, then click Import.
+
+**Note:** TTS doesn't allow more than 70 cards in a single deck import image. If you have more than that, they will be split evenly into as many images as needed.
+
+**Note:** If you have any double-sided cards in your export, you will have specific images for front faces, back faces, and single-sided cards. That's how TTS likes it.
+
+# How to: Cockatrice
+
+Copy your decklist as text. You'll need to ask Zengin11 for a .xml file to the set you want. They're also hosted on the discord (type /cockatrice and my bot will give them to you)
+
+Once you have the set .xml file, you can put it in the Cockatrice `customsets` folder. Don't forget to close and re-open your Cockatrice application after updating your sets!
+
+# How to: Paper
+
+From the `Download` menu, you can download your decklist as a PDF. You can set whatever spacing between cards you want, depending on the precision of your cutting device.
+
+-Wotc load-
+This will load nearly 34,000 cards from Scryfall; around 20MB of data. You should be good, but may experience slowdowns—especially on mobile.
+
+Are you sure you want to load them?
+
+-Deck library-
+
+Welcome to the deck library!
+
+# Private decks
+
+Private decks are saved to your browser. Be careful; you wipe your cache, they'll be gone! If you want to update a deck, use the drop-down and the `overwrite` button.
+
+You can remove decks from your browser from the `My Decks` page. 
+
+# Public decks
+
+Public and Hidden decks are saved to the server (to my google sheet...)
+- Public decks can be browsed freely by anyone in the `Public Decks` tab. Anyone can load up the decklist using the `Input` button.
+- Hidden decks only appear in the "Public Decks" tab when searched EXACTLY by name and creator. Otherwise they're, well, hidden.
+
+This site doesn't have accounts, so overwrite access to decks is solely determined by the deck's passcode, and decks are remembered just by their name and their creator's name. If someone types in the same deck name, creator name, and passcode for an existing deck, they can overwrite any deck in the server. So pick unique passcodes! They're not super robustly encrypted anyway.
+
+Deleting decks from the server is done from the deck's drop down in the `Public Decks` page.
+
+# Stored data
+
+Once you type in a deck's passcode, that passcode is saved to your browser and you won't need to input it again for that deck. Update it to your heart's content!
+
+Your last loaded deck name will auto-fill whenever you open up this menu. Clicking `Remember This Name` will store the creator name you currently have typed, and auto-fill it in the future.
+
+# Accidental overwrites
+
+If you or someone else accidentally deletes or overwrites a deck, or realizes it was done in the past, shoot me (zengin11) a message on discord. The server keeps all prior versions of decks, along with timestamps of changes. I might be able to help you out o7

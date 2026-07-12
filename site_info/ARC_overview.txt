@@ -1,0 +1,15 @@
+# Target format: Commander
+- Single commanders, with a web of partner pairings
+
+# Themes
+- **Core theme**: Artifacts matter
+
+# Custom mechanic
+
+**Partner—X, Y**
+
+Parnter—X, Y, Z... is the same as a creature having Partner—X, Partner—Y, and Partner—Z. So it can partner with any creature that shares one of those partner batches.
+
+# Future plans
+
+I've watched season 1, and plan to make more cards once I finish season 2, to capture how the characters have changed (or new characters we meet!)

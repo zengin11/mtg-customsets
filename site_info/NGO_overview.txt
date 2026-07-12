@@ -1,0 +1,27 @@
+Ninjago (NGO) is designed to play in a 5 color deck
+
+# Colors: 5 color (WUBRG)
+
+# Commander(s):
+The Golden Ninja, Destined Hero // Lloyd, Ultimate Spinjitsu Master
+- Use this commander if you want to focus on activated abilities
+
+Partner—Sons of the First: Sensei Wu, Ancient Tutor and Lord Garmadon, Dark King
+- Use these commanders if you want to focus on transforming.
+
+# Themes
+- Unblocked attackers
+- Bounce (return to hand)
+- Transforming
+- Activated abilities
+
+Spinjutsu combines these themes by returning an unblocked attacker to your hand, and transforming, as a single activated ability.
+
+# Custom mechanic: Spinjutsu
+Spinjutsu is very close to the real Ninjutsu mechanic, with one key exception: When playing a card from your hand with its Spinjutsu ability, it enters transformed. You can also play it normally and activate the ability on the battlefield to transform it later
+
+# Cycles / card groups
+- Monocolored Spinjutsu Ninja
+- Seven ninjas with Spinjutsu. *Five cover all five colors: Cole (black), Jay (blue), Kai (red), Lloyd (green), Zane (white)*
+- With two additional: *Nya (blue), and Morro (black + green)*
+- Monocolored Unblockable Serpentine: *Four snakes all have an enters-the-battlefield ability, and an activated ability to make them unblockable.*

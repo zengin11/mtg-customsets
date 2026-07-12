@@ -1,0 +1,1219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set> v1.4<releasedate>2026-07-12</releasedate>
+            <name>ngo</name>
+            <longname>ngo</longname>
+            <settype>Custom</settype>
+            </set>
+        </sets>
+    <cards>
+        <card>
+            <name>Venomari Seer</name>
+            <text>When this creature enters, surveil 2.
+{U}: This creature can't be blocked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Snake Druid</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XZhxZZFQ/Venomari-Seer-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Overlord</name>
+            <text>Flying
+Shadow  (This creature can block or be blocked by only creatures with shadow.) 
+Whenever a creature you control deals combat damage to a player, each opponent loses 1 life and you gain that much life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{b}{b}</manacost>
+                <cmc>6</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elder Demon Dragon</type>
+                <pt>4/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HpYz6K2c/The-Overlord-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Shard, Guardian of the Rime</name>
+            <text>Ravenous  (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.) 
+Flying, first strike</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{x}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Dragon</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/1GWS2bNV/Shard-Guardian-of-the-Rime-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Vindicate</name>
+            <text>Destroy target permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nNR86d5f/Vindicate-png.png">ngo</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Lloyd, Ultimate Spinjitzu Master</name>
+            <text>Vigilance, flying, ward {2}
+{t}: Add {w}{u}{b}{r}{g}. Spend this mana only to activate an ability.  (Spinjutsu is an ability, activated from either your hand or the battlefield.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WUBRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Avatar Ninja</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Ngy95Dwp/Lloyd-Ultimate-Spinjitzu-Master-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Morro, Promised Greatness</name>
+            <text>Spinjutsu {3}{g}{b}  ({3}{g}{b}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped and attacking. Otherwise, transform it.) 
+Flying
+You can activate Morro's Spinjutsu ability from your graveyard as though he was in your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>{fontcolorwhite}2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/21Mnpx4K/Morro-Promised-Greatness-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rocky, Guardian of the Crags</name>
+            <text>Ravenous  (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.) 
+Flying, trample</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{x}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Dragon</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nqpYZfJ6/Rocky-Guardian-of-the-Crags-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Putrefy</name>
+            <text>Destroy target artifact or creature. It can't be regenerated.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TDBkQSQx/Putrefy-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Zane, the White Ninja</name>
+            <text>Spinjutsu {1}{w}  ({1}{w}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped and attacking. Otherwise, transform it.) 
+When Zane enters, create a 2/1 white Bird artifact creature token with flying.  (Only  if he enters this side up.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Artifact Creature - Robot Ninja</type>
+                <pt>{fontcolorwhite}1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Wvx5Gt7D/Zane-the-White-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Tornado of Creation</name>
+            <text>Convoke with Ninjas  (Your Ninjas can help cast this spell. Each Ninja creature you tap while casting this spell pays for {1} or one mana of that creature's color.) 
+Draw seven cards. Until end of turn, you may cast spells from your hand and activate abilities of cards in your hand without paying their mana costs. Exile ~.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{w}{u}{b}{r}{g}</manacost>
+                <cmc>10</cmc>
+                <colors>WUBRG</colors>
+                <coloridentity>WUBRG</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Legendary Kindred Instant - Ninja</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4RN3qw67/Tornado-of-Creation-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Spyglass Siren</name>
+            <text>Flying
+When this creature enters, create a Map token.  (It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Siren Pirate</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PvDTnPJ5/Spyglass-Siren-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            <related>Map Token</related>
+            </card>
+        <card>
+            <name>The Nunchucks of Lightning</name>
+            <text>Equipped creature has haste, first strike, and protection from sorceries and from creatures without haste or flash.
+Whenever equipped creature deals combat damage to a player, untap it and another target permanent you control.
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Sj5BF1n/The-Nunchucks-of-Lightning-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Kai, the Red Ninja</name>
+            <text>Spinjutsu {2}{r}  ({2}{r}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped and attacking. Otherwise, transform it.) 
+Haste</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>{fontcolorwhite}1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5x61pvzJ/Kai-the-Red-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Great Devourer</name>
+            <text>Trample
+Whenever another permanent leaves the battlefield during your turn, you may put X +1/+1 counters on ~, where X was that permanent's mana value.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{b}{g}</manacost>
+                <cmc>2</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elder Snake</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dwLMhn1B/The-Great-Devourer-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Tormented Soul</name>
+            <text>This creature can't block and can't be blocked.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{B}</manacost>
+                <cmc>1</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Spirit</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WW40VQ6Y/Tormented-Soul-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Lord Garmadon, Dark King</name>
+            <text>Menace, double strike
+At the beginning of your end step, incubate X, where X is the number of creatures that dealt combat damage to a player this turn.  (Create an Incubator token with X +1/+1 counters on it and “{2}: Transform this token.” It transforms into a 0/0 Phyrexian artifact creature.) 
+Partner—Sons of the First</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Samurai</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LDNj5JvC/Lord-Garmadon-Dark-King-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            <related>Incubator Token</related>
+            </card>
+        <card>
+            <name>Morro, Master of Wind</name>
+            <text>Flying
+Whenever Morro deals combat damage to a player, destroy target nonland permanent that player controls.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spirit Ninja</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xSpyj5Xc/Morro-Master-of-Wind-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Cole, the Black Ninja</name>
+            <text>Spinjutsu {2}{b}  ({2}{b}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped and attacking. Otherwise, transform it.) 
+Menace</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>{fontcolorwhite}3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/99ZmBM29/Cole-the-Black-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Samurai X</name>
+            <text>When Samurai X enters, choose one. Repeat this process X times —
+• Put a +1/+1 counter on Samurai X.
+• Samurai X deals 1 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{x}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Artifact Creature - Samurai</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLWVjNK5/Samurai-X-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Birds of Paradise</name>
+            <text>Flying
+{T}: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Bird</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XxrkFvSB/Birds-of-Paradise-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Jay, Master of Lightning</name>
+            <text>Flying
+ Whenever Jay deals combat damage to a player, tap or untap target permanent.
+{1}{u}{u}: Counter up to one target spell or ability. Scry 1. Return Jay to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Vchx0h2R/Jay-Master-of-Lightning-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mist-Cloaked Herald</name>
+            <text>This creature can't be blocked.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Merfolk Warrior</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2348B61Y/Mist-Cloaked-Herald-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Fell</name>
+            <text>Destroy target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fVCtjmM0/Fell-png.png">ngo</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Triton Shorestalker</name>
+            <text>This creature can't be blocked.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Merfolk Rogue</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mrP6pv8s/Triton-Shorestalker-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Zane, Master of Ice</name>
+            <text>Whenever Zane deals combat damage to a player, put a +1/+1 counter on target creature.
+{1}{w}: Put a stun counter on target permanent. At the beginning of the next upkeep, return Zane to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Artifact Creature - Robot Ninja</type>
+                <pt>{fontcolorwhite}2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Z11F5HNN/Zane-Master-of-Ice-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Grand Sensei Dereth, the Brown Ninja</name>
+            <text>When Grand Sensei Dereth leaves the battlefield, draw a card and create a tapped treasure token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Coward</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5WLp3tdQ/Grand-Sensei-Dereth-the-Brown-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            <related>Treasure Token</related>
+            </card>
+        <card>
+            <name>Fangpyre Infector</name>
+            <text>When this creature enters, put a -1/-1 counter on target permanent. As long as that permanent has a -1/-1 counter on it, it has first strike and is a Snake in addition to its other types.
+{U}: This creature can't be blocked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{r}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Snake Assassin</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Fb42GYF7/Fangpyre-Infector-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kaseto, Orochi Archmage (Scales, Hypnobrai Waymaker)</name>
+            <text>{G}{U}: Target creature can't be blocked this turn. If that creature is a Snake, it gets +2/+2 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Snake Wizard</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qFnZVHD7/Kaseto-Orochi-Archmage-Scales-Hypnobrai-Waymaker-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Nya, Novice Ninja</name>
+            <text>Spinjutsu {2}{u}{u}
+When Nya enters, you may search your library for an artifact card, reveal it, then shuffle and put that card on top.  (Do so only if she enters this face up.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer Ninja</type>
+                <pt>{fontcolorwhite}3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8gKmYnr9/Nya-Novice-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Pythor P. Chumsworth, Confidant</name>
+            <text>Skulk
+Whenever Pythor deals combat damage to a player, he connives.  (Draw a card. Discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.) 
+If Pythor would leave the battlefield, you may instead pay {1}{r}{u}. If you do, regenerate him and transform him.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Snake Advisor</type>
+                <pt>{fontcolorwhite}1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sJyS23Lb/Pythor-P-Chumsworth-Confidant-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Kodama’s Reach</name>
+            <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/W4Z7ghMX/Kodama-s-Reach-png.png">ngo</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Amazing Spider-Man</name>
+            <text>Vigilance, reach
+Each legendary spell you cast that's one or more colors has web-slinging  {G}{W}{U}.  (You may cast a spell for its web-slinging cost if you also return a tapped creature you control to its owner's hand.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}{W}{U}</manacost>
+                <cmc>4</cmc>
+                <colors>WUG</colors>
+                <coloridentity>WUG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spider Human Hero</type>
+                <pt>{fontcolorwhite}4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Lz8gfJZw/Amazing-Spider-Man-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Phyrexian</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Artifact Creature - Phyrexian</type>
+                <pt>0/0</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/67wjcYWb/Phyrexian-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Lloyd, Master of Energy</name>
+            <text>Trample
+Whenever Lloyd deals combat damage to a player, he deals that much damage to target creature they control.
+{t}, Return Lloyd to its owner's hand: Add {g}{g}{g}{g}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gbsgfRPj/Lloyd-Master-of-Energy-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mist-Syndicate Naga</name>
+            <text>Ninjutsu {2}{U}  ({2}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.) 
+Whenever this creature deals combat damage to a player, create a token that's a copy of this creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Snake Ninja</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sd3nwnwD/Mist-Syndicate-Naga-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Sword of Fire</name>
+            <text>Equipped creature has trample and bushido 3.  (Whenever it blocks or becomes blocked, it gets +3/+3 until end of turn.) 
+Whenever equipped creature deals combat damage to a player, this Equipment deals 2 damage to any target.
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zV9mK2FK/The-Sword-of-Fire-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Wisp, Guardian of the Tempest</name>
+            <text>Ravenous  (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.) 
+Flying, vigilance</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{x}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Dragon</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rfv9JTVB/Wisp-Guardian-of-the-Tempest-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>High Priest of Penance</name>
+            <text>Whenever this creature is dealt damage, you may destroy target nonland permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Cleric</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6RBrpgSK/High-Priest-of-Penance-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Skydive Ride</name>
+            <text>Flying
+Whenever this Vehicle attacks and isn't blocked, target creature that crewed it this turn is attacking the same player.  (It becomes an unblocked attacker.) 
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Vehicle</type>
+                <pt>{fontcolorwhite}*/*</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yDgwnZk/Skydive-Ride-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Kai, Master of Flame</name>
+            <text>Whenever Kai deals combat damage to a player, add that much {r}. Until end of turn, you don't lose this mana as steps and phases end.
+{1}{r}: Kai deals 2 damage to any target. At the beginning of the next upkeep, return Kai to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xSZTYNzk/Kai-Master-of-Flame-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Jay, the Blue Ninja</name>
+            <text>Spinjutsu {2}{u}  ({2}{u}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped and attacking. Otherwise, transform it.) 
+Skulk</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>{fontcolorwhite}2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MDJGd8Bv/Jay-the-Blue-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Scythe of Quakes</name>
+            <text>Equipped creature gets +2/+2 has nonbasic landwalk.
+Whenever equipped creature deals combat damage to a player, destroy target nonbasic land they control. Then you and that player each search your libraries for a basic land card, put it onto the battlefield, then shuffle.
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}</manacost>
+                <cmc>4</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/HL9j0QFX/The-Scythe-of-Quakes-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Doom Blade</name>
+            <text>Destroy target nonblack creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nsbJqk86/Doom-Blade-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Peter Parker</name>
+            <text>When Peter Parker enters, create a 2/1 green Spider creature token with reach.
+{1}{G}{W}{U}: Transform Peter Parker. Activate only as a sorcery.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>WUG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Scientist Hero</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9kTH77r1/Peter-Parker-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Constrictai Brute</name>
+            <text>When this creature enters, each opponent loses 1 life and you gain 1 life.
+{U}: This creature can't be blocked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{b}</manacost>
+                <cmc>1</cmc>
+                <colors>B</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Snake Warrior</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/C3g569wC/Constrictai-Brute-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Hypnobrai Dazer</name>
+            <text>When this creature enters, tap target creaure an opponent controls.
+{U}: This creature can't be blocked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Snake Advisor</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KcN44bms/Hypnobrai-Dazer-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Chen, Tournament Master</name>
+            <text>Menace, skulk
+Whenever a creature you control enters, if you didn't cast it, you may have it fight target creature you don't control.
+{t}: Create a 2/1 black Snake Warrior creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}{g}</manacost>
+                <cmc>4</cmc>
+                <colors>BRG</colors>
+                <coloridentity>BRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Noble</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BVSMmGMJ/Chen-Tournament-Master-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Golden Ninja, Destined Hero</name>
+            <text>Spinjutsu {w}{u}{b}{r}{g}  ({w}{u}{b}{r}{g}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped, and attacking. Otherwise, transform it.) 
+Whenever a creature you control attacks and isn't blocked, add one mana of any color. Spend this mana only to activate an ability of a card in your hand or a permanent you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity>WUBRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Avatar Ninja</type>
+                <pt>{fontcolorwhite}2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/YFL2PCrS/The-Golden-Ninja-Destined-Hero-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Fallen Shinobi</name>
+            <text>Ninjutsu {2}{U}{B}  ({2}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.) 
+Whenever this creature deals combat damage to a player, that player exiles the top two cards of their library. Until end of turn, you may play those cards without paying their mana costs.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{B}</manacost>
+                <cmc>5</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Zombie Ninja</type>
+                <pt>5/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GQJtmCXd/Fallen-Shinobi-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Lloyd, the Green Ninja</name>
+            <text>Spinjutsu {3}{g}  ({3}{g}: If this card is in your hand or the command zone, return an unblocked attacker you control to hand and put this card onto the battlefield transformed, tapped and attacking. Otherwise, transform it.) 
+{t}: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>{fontcolorwhite}1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4RCmFDx6/Lloyd-the-Green-Ninja-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Flame, Guardian of the Inferno</name>
+            <text>Ravenous  (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.) 
+Flying, haste</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{x}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Dragon</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/FqqG0RXR/Flame-Guardian-of-the-Inferno-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Topplegeist</name>
+            <text>Flying
+When this creature enters, tap target creature an opponent controls.
+ Delirium  — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, tap target creature that player controls.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Spirit</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpSqnNV9/Topplegeist-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Destiny’s Bounty</name>
+            <text>Flying
+Other unblocked creatures you control get +2/+0.
+{t}: Add one mana of any color.
+Crew 3</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KxB7Mmzz/The-Destiny-s-Bounty-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Incubator</name>
+            <text>{2}: Transform this artifact.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Token Artifact - Incubator</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TDpTk5pb/Incubator-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Pythor, Resurrected Schemer</name>
+            <text>Whenever one or more creatures deal combat damage to a player, put a +1/+1 counter on each and choose one with power less than Pythor's. You gain control of it until the beginning of your next end step.
+{t}: Goad target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Snake Advisor</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WjrnTMh/Pythor-Resurrected-Schemer-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Cole, Master of Earth</name>
+            <text>Whenever Cole deals combat damage to a player, target creature they control gets -1/-1 for each land you control.
+{1}{b}: Cole gets +2/+2 and gains indestructible until end of turn. At the beginning of the next upkeep, return Cole to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Ninja</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fb5RPMV/Cole-Master-of-Earth-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Nya, Cunning Blacksmith</name>
+            <text>{X}, {t}: Create an X/X colorless Vehicle artifact token named Skydive Ride with flying, crew 1, and “Whenever this Vehicle attacks and isn't blocked, target creature that crewed it this turn is attacking the same player.”  (That creature becomes an unblocked attacker.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nNc0HGpX/Nya-Cunning-Blacksmith-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Nya, Master of Water</name>
+            <text>Whenever Nya deals combat damage to a player, create a token that's a copy of target artifact you or that player controls.
+{1}{u}: Return target artifact or creature to its owner's hand. At the beginning of the next upkeep, return Nya to its owner's hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer Ninja</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zWXdm66P/Nya-Master-of-Water-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sensei Wu, Ancient Tutor</name>
+            <text>Vigilance, hexproof, skulk
+{5}: Transform any number of target permanents you control.
+Partner—Sons of the First</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WUG</colors>
+                <coloridentity>WUG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demigod Ninja</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/G41ccvTw/Sensei-Wu-Ancient-Tutor-png.png">ngo</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Shurikens of Ice</name>
+            <text>Equipped creature gets +1/+1 for each snow permanent on the battlefield and has protection from snow.
+Whenever equipped creature attacks, put an ice counter on target permanent.
+Permanents with ice counters on them are snow.
+Equip {1}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTXVzmLw/The-Shurikens-of-Ice-png.png">ngo</set>
+            <tablerow>1</tablerow>
+            </card>
+        </cards>
+    </cockatrice_carddatabase>

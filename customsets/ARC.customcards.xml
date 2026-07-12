@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set> v1.4<releasedate>2026-07-12</releasedate>
+            <name>arc</name>
+            <longname>arc</longname>
+            <settype>Custom</settype>
+            </set>
+        </sets>
+    <cards>
+        <card>
+            <name>Marcus, Corrupt Sheriff</name>
+            <text>Mobilize 2
+Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn.
+Partner—Scars, State</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4Zr9QBVH/Marcus-Corrupt-Sheriff-png.png">arc</set>
+            <tablerow>2</tablerow>
+            <related>Treasure Token</related>
+            </card>
+        <card>
+            <name>Grayson, Piltover Chief</name>
+            <text>Whenever an opponent commits a crime, investigate.
+As long as you control three or more artifacts, creatures you control get +1/+1.
+Partner—State</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Soldier</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jk84kxW5/Grayson-Piltover-Chief-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Jayce, Hextech Pioneer</name>
+            <text>Whenever you cast your second artifact spell each turn, create a tapped Powerstone token.
+As long as you control five or more artifacts, Jayce gets +2/+0 and has vigilance and trample.
+Partner—State, Strike, Study</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hxHwTTKy/Jayce-Hextech-Pioneer-png.png">arc</set>
+            <tablerow>2</tablerow>
+            <related>Powerstone Token</related>
+            </card>
+        <card>
+            <name>Sevica, The Right Hand</name>
+            <text>Whenever you sacrifice an artifact, Sevica gains first strike and menace until end of turn.
+{b}: Sevica gets +3/+3 until end of turn. Put a -1/-1 counter on her.
+Partner—Scars</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Artifact Creature - Human Rogue</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qMmT3R82/Sevica-The-Right-Hand-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Ekko, Firelight Leader</name>
+            <text>When Ekko enters, create a Lander token and attach it to him.
+Noncreature artifact tokens you control are Equipment in addition to their other types and have “Equipped creature gets +1/+1 and has flying” and equip {1}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Rebel</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/twm1kb8m/Ekko-Firelight-Leader-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mel Medarda, Benefactor</name>
+            <text>If one or more tokens would be created under your control, those tokens plus an additional token of your choice among them are created instead.
+Whenever another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.
+Partner—State</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Noble</type>
+                <pt>2/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTnKKZWT/Mel-Medarda-Benefactor-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sky Young, Promising Researcher</name>
+            <text>At the beginning of your upkeep, if no opponent controls more artifacts than you, draw a card.
+Partner—Study</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QvWxr8CT/Sky-Young-Promising-Researcher-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Ambessa, Matriarch of War</name>
+            <text>First strike, menace
+Mobilize X, where X is the number of artifacts you control.  (Whenever she attacks attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{br}{rw}</manacost>
+                <cmc>4</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CsKZ4SJx/Ambessa-Matriarch-of-War-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Vi, Heavyhanded Pugilist</name>
+            <text>Double strike
+Vi gets +1/+0 for each artifact you control.
+{t}: Vi fights target creature.
+Partner—Strike</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{r}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xK6K6qQ4/Vi-Heavyhanded-Pugilist-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Viktor, Herald of Machines</name>
+            <text>Ward—Pay 3 life.
+Whenever a nontoken artifact you control enters, mill three cards. You may exile an artifact card from among them. Until the end of your next turn, you may play that card.
+Partner—Study</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TBMFYKJh/Viktor-Herald-of-Machines-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Silco, Undercity Kingpin</name>
+            <text>Whenever you sacrifice an artifact, target player blights 1.  (They put a -1/-1 counter on a creature they control.) 
+{t}: Create a Mutagen token.  (It's an artifact with “{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”) 
+Partner—Scars, Spite</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Rogue</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zVxMBXyg/Silco-Undercity-Kingpin-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Caitlyn Kiramman, Enforcer</name>
+            <text>Vigilance, reach
+When Caitlyn enters, investigate.
+{w}, {t}, Caitlyn deals X damage to target attacking or blocking creature, where X is the number of artifacts you control.
+Partner—State, Strike</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Soldier</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tpNHLYjw/Caitlyn-Kiramman-Enforcer-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Heimerdinger, Guarded Inventor</name>
+            <text>If an artifact an opponent controls would enter, instead put it into their graveyard unless that player pays {1}.
+Artifact spells you cast cost {1} less to cast.
+Partner—Study</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Gnome Artificer Advisor</type>
+                <pt>1/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/VcXmND55/Heimerdinger-Guarded-Inventor-png.png">arc</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Jinx, Loose Cannon</name>
+            <text>Reach, haste
+Whenever a nontoken creature you control dies, create a Junk token.
+{t}, Sacrifice X artifacts: Jinx deals X damage to each other creature.
+Partner—Spite</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Artificer</type>
+                <pt>4/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Zz2WWyyW/Jinx-Loose-Cannon-png.png">arc</set>
+            <tablerow>2</tablerow>
+            <related>Junk Token</related>
+            </card>
+        </cards>
+    </cockatrice_carddatabase>

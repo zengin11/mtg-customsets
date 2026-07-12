@@ -1,0 +1,32 @@
+# Target format
+- Commander
+- Block constructed (50 card singleton decks, built from cards within the set)
+- Bracket 2 / low bracket 3 battlecruiser
+
+# Themes
+- **Core theme**: Attack Triggers
+- **Core theme**: Activated Abilities
+- **Core theme**: Spirit and Sorcerer types matter
+
+# Custom mechanics
+
+**Technique**
+
+Many sorcerers have Technique, which contains an activated ability that functions as normal (you can activate it whenever you’d like), but also has the reminder text “Whenever this creature attacks, you can activate one of its techniques once for free.” Abilities that copy attack-trigger effects—like *Isshin, Two Heavens as One*—double the triggered ability, allowing you to activate it twice. Abilities that reduce costs of activated abilities—like *Training Grounds*—make the ability cheaper to pay for when activating normally.
+
+Comprehensive rules text
+
+- 702.191a. Technique is a triggered ability with an associated activated ability in the form “Technique — [Ability]”.
+- 702.191b. Effects may refer to technique abilities. If an effect refers to a technique ability, it means any activated ability that is paired with the technique keyword.
+- 702.191c. A creature with one or more instances of Technique has all of its technique abilities as activated abilities.
+- 702.191c. A creature with one or more instances of Technique has "Whenever this creature attacks, choose one of its technique abilities. You may activate that ability without paying its costs."
+
+**Cursed**
+
+Cursed is an ability word; it’s in italics on cards, so it doesn’t have any built in mechanics. It’s just a reminder that says “Hey! This card gets better when four or more Sorcerers are in your graveyard!”
+
+Typically, Cursed is on Instants and Sorceries, in the form “If four or more Sorcerer cards are in your graveyard, [do an extra good effect].” This counts:
+- Dead Sorcerer creatures (not tokens)
+- Sorcerer kindred permanents being removed (Including domains, which are kindred world enchantments)
+- Kindred Sorcerer instant and sorcery spells resolving or being countered (This means that most Cursed cards, which have the Sorcerer subtype, will get you closer to reaching Cursed for future spells you cast)
+- Sorcerers being milled or discarded (Including Kindred cards)

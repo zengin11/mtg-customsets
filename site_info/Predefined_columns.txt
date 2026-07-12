@@ -1,0 +1,131 @@
+-Color-
+Colorless—c=C
+White—c=W
+Blue—c=U
+Black—c=B
+Red—c=R
+Green—c=G
+Azorius—c=WU
+Orzhov—c=WB
+Dimir—c=UB
+Izzet—c=UR
+Rakdos—c=BR
+Golgari—c=BG
+Gruul—c=RG
+Boros—c=RW
+Selesnya—c=GW
+Simic—c=GU
+Esper—c=WUB
+Grixis—c=UBR
+Jund—c=BRG
+Naya—c=RGW
+Bant—c=GWU
+Abzan—c=WBG
+Jeskai—c=URW
+Sultai—c=BGU
+Mardu—c=RWB
+Temur—c=GUR
+Whiteless—c=UBRG
+Blueless—c=WBRG
+Blackless—c=WURG
+Redless—c=WUBG
+Greenless—c=WUBR
+Rainbow—c=WUBRG
+
+-Color ID-
+Colorless—id=C
+White—id=W
+Blue—id=U
+Black—id=B
+Red—id=R
+Green—id=G
+Azorius—id=WU
+Orzhov—id=WB
+Dimir—id=UB
+Izzet—id=UR
+Rakdos—id=BR
+Golgari—id=BG
+Gruul—id=RG
+Boros—id=RW
+Selesnya—id=GW
+Simic—id=GU
+Esper—id=WUB
+Grixis—id=UBR
+Jund—id=BRG
+Naya—id=RGW
+Bant—id=GWU
+Abzan—id=WBG
+Jeskai—id=URW
+Sultai—id=BGU
+Mardu—id=RWB
+Temur—id=GUR
+Whiteless—id=UBRG
+Blueless—id=WBRG
+Blackless—id=WURG
+Redless—id=WUBG
+Greenless—id=WUBR
+Rainbow—id=WUBRG
+
+-Mana Value-
+0—mv:0
+1—mv:1
+2—mv:2
+3—mv:3
+4—mv:4
+5—mv:5
+6—mv:6
+7—mv:7
+8—mv:8
+9—mv:9
+10—mv:10
+11—mv:11
+12—mv:12
+13—mv:13
+14—mv:14
+15—mv:15
+16—mv:16
+17—mv:17
+18—mv:18
+19—mv:19
+20—mv:20
+
+-Type-
+Instant—type:Instant
+Sorcery—type:Sorcery
+Creature—type:Creature
+Artifact—type:Artifact
+Enchantment—type:Enchantment
+Planeswalker—type:Planeswalker
+Battle—type:Battle
+Land—type:Land
+
+-2 Color Playable-
+Azorius (WU)—-m>={b} -m>={r} -m>={g} -m>={br} -m>={bg} -m>={rg} -o:{b} -o:{r} -o:{g} -o:"{br}" -o:"{bg}" -o:"{rg}"
+Orzhov (WB)—-m>={u} -m>={r} -m>={g} -m>={ur} -m>={gu} -m>={rg} -o:{u} -o:{r} -o:{g} -o:"{ur}" -o:"{gu}" -o:"{rg}"
+Dimir (UB)—-m>={w} -m>={r} -m>={g} -m>={rw} -m>={gw} -m>={rg} -o:{w} -o:{r} -o:{g} -o:"{rw}" -o:"{gw}" -o:"{rg}"
+Izzet (UR)—-m>={w} -m>={b} -m>={g} -m>={wb} -m>={gw} -m>={bg} -o:{w} -o:{b} -o:{g} -o:"{wb}" -o:"{gw}" -o:"{bg}"
+Rakdos (BR)—-m>={w} -m>={u} -m>={g} -m>={wu} -m>={gw} -m>={gu} -o:{w} -o:{u} -o:{g} -o:"{wu}" -o:"{gw}" -o:"{gu}"
+Golgari (BG)—-m>={w} -m>={u} -m>={r} -m>={wu} -m>={rw} -m>={ur} -o:{w} -o:{u} -o:{r} -o:"{wu}" -o:"{rw}" -o:"{ur}"
+Gruul (RG)—-m>={w} -m>={u} -m>={b} -m>={wu} -m>={wb} -m>={ub} -o:{w} -o:{u} -o:{b} -o:"{wu}" -o:"{wb}" -o:"{ub}"
+Boros (RW)—-m>={u} -m>={b} -m>={g} -m>={ub} -m>={gu} -m>={bg} -o:{u} -o:{b} -o:{g} -o:"{ub}" -o:"{gu}" -o:"{bg}"
+Selesnya (GW)—-m>={u} -m>={b} -m>={r} -m>={ub} -m>={ur} -m>={br} -o:{u} -o:{b} -o:{r} -o:"{ub}" -o:"{ur}" -o:"{br}"
+Simic (GU)—-m>={w} -m>={b} -m>={r} -m>={wb} -m>={rw} -m>={br} -o:{w} -o:{b} -o:{r} -o:"{wb}" -o:"{rw}" -o:"{br}"
+
+-3 Color Playable-
+Esper (WUB)—-m>={r} -m>={g} -m>={rg} -o:{r} -o:{g} -o:"{rg}"
+Grixis (UBR)—-m>={w} -m>={g} -m>={gw} -o:{w} -o:{g} -o:"{gw}"
+Jund (BRG)—-m>={w} -m>={u} -m>={wu} -o:{w} -o:{u} -o:"{wu}"
+Naya (RGW)—-m>={u} -m>={b} -m>={ub} -o:{u} -o:{b} -o:"{ub}"
+Bant (GWU)—-m>={b} -m>={r} -m>={br} -o:{b} -o:{r} -o:"{br}"
+Abzan (WBG)—-m>={u} -m>={r} -m>={ur} -o:{u} -o:{r} -o:"{ur}"
+Jeskai (URW)—-m>={b} -m>={g} -m>={bg} -o:{b} -o:{g} -o:"{bg}"
+Sultai (BGU)—-m>={w} -m>={r} -m>={rw} -o:{w} -o:{r} -o:"{rw}"
+Mardu (RWB)—-m>={u} -m>={g} -m>={gu} -o:{u} -o:{g} -o:"{gu}"
+Temur (GUR)—-m>={w} -m>={b} -m>={wb} -o:{w} -o:{b} -o:"{wb}"
+
+-4 Color Playable-
+Whiteless (UBRG)—-m>={w} -o:{w}
+Blueless (WBRG)—-m>={u} -o:{u}
+Blackless (WURG)—-m>={b} -o:{b}
+Redless (WUBG)—-m>={r} -o:{r}
+Greenless (WUBR)—-m>={g} -o:{g}
