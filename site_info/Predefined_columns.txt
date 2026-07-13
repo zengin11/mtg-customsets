@@ -122,14 +122,3 @@ Jeskai (URW)—-m>={b} -m>={g} -m>={bg} -o:{b} -o:{g} -o:"{bg}"
 Sultai (BGU)—-m>={w} -m>={r} -m>={rw} -o:{w} -o:{r} -o:"{rw}"
 Mardu (RWB)—-m>={u} -m>={g} -m>={gu} -o:{u} -o:{g} -o:"{gu}"
 Temur (GUR)—-m>={w} -m>={b} -m>={wb} -o:{w} -o:{b} -o:"{wb}"
-
--4 Color Playable-
-Whiteless (UBRG)—-m>={w} -o:{w}
-Blueless (WBRG)—-m>={u} -o:{u}
-Blackless (WURG)—-m>={b} -o:{b}
-Redless (WUBG)—-m>={r} -o:{r}
-Greenless (WUBR)—-m>={g} -o:{g}
-
--Deck location-
-Sideboard—in:sb
-Nowhere—-in:deck
