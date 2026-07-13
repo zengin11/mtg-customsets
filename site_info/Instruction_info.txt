@@ -1,6 +1,4 @@
 -Search-
-TEST _ This being here is GOOD!
-
 # Site: Adding Scryfall Cards
 You can add cards directly from Scryfall (the website) into this site! Just drag and drop a card image from scryfall. It'll add itself into the grid and your deck automatically.
 
