@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-12</releasedate>
+        <set> v1.4<releasedate>2026-07-13</releasedate>
             <name>kpdh</name>
             <longname>kpdh</longname>
             <settype>Custom</settype>
@@ -86,8 +86,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Treasure Token</related>
             <related>Junk Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
