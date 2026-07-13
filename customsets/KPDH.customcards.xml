@@ -3719,7 +3719,7 @@ Whenever an opponent reveals one or more cards, you may draw a card. If you do, 
         <card>
             <name>Rumi, Queen of Nightmares</name>
             <text>When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.
-{2}{br}, {t}: Each Demon you control deals 1 damage to any target.
+{2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.
 Partner—Lost to Shame</text>
             <prop>
                 <layout>normal</layout>
@@ -3893,6 +3893,26 @@ Exile target creature.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Basilisk Collar</name>
+            <text>Equipped creature has deathtouch and lifelink.  (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.) 
+Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tTjH33C7/Basilisk-Collar-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Gwi-ma’s Griefchaser</name>
             <text>Trample, haste
  Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
@@ -3934,7 +3954,7 @@ Exile target creature.</text>
             </card>
         <card>
             <name>Mystery, Silencer of Secrets</name>
-            <text>Shame -  Whenever a player reveals one or more cards for the first time each turn, choose a nonland card from among them and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast it.
+            <text>Shame -  Whenever a player reveals their first card or cards each turn, choose a nonland card from among them and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast it.
 Partner - Saja</text>
             <prop>
                 <layout>normal</layout>
@@ -4269,25 +4289,6 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Basilisk Collar</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tTjH33C7/Basilisk-Collar-png.png">kpdh</set>
-            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>
