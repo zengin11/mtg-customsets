@@ -9,44 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Yuta, Jujutsu Duplicator</name>
-            <text>Technique - {3}{ur}, {t}: Copy up to two other target activated abilities. You may choose new targets for the copies.  (Whenever Yuta attacks, you can activate his technique once for free. Mana abilities can't be targeted.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{gu}{ur}{rw}</manacost>
-                <cmc>4</cmc>
-                <colors>WURG</colors>
-                <coloridentity>WURG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Sorcerer</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0pk7pMry/Yuta-Jujutsu-Duplicator-png.png">jjk</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Akari Nitta, Assistant Manager</name>
-            <text>Activated abilities of creatures and artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{wu}</manacost>
-                <cmc>2</cmc>
-                <colors>WU</colors>
-                <coloridentity>WU</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Advisor</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zWRk3N7k/Akari-Nitta-Assistant-Manager-png.png">jjk</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Multani, Maro-Sorcerer (Hanami, Maro-Sorcerer)</name>
             <text>Shroud  (This creature can't be the target of spells or abilities.) 
 Hanami's power and toughness are each equal to the total number of cards in all players' hands.</text>
@@ -1427,6 +1389,25 @@ Creatures and players with star counters on them have protection from other crea
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/TMTdj5Cq/Panda-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Yuta, Jujutsu Duplicator</name>
+            <text>Technique - {3}{ur}, {t}: Copy up to two other target activated abilities. You may choose new targets for the copies.  (Whenever Yuta attacks, you can activate his technique once for free. Mana abilities can't be targeted.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{gu}{ur}{rw}</manacost>
+                <cmc>4</cmc>
+                <colors>WURG</colors>
+                <coloridentity>WURG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0pk7pMry/Yuta-Jujutsu-Duplicator-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3259,6 +3240,25 @@ Technique - Sacrifice a creature: Put a +1/+1 counter on Mahito.  (Whenever Mahi
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/VY1GnkMr/Mahito-Humanity-s-Bane-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Akari Nitta, Assistant Manager</name>
+            <text>Activated abilities of creatures and artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{wu}</manacost>
+                <cmc>2</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Advisor</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zWRk3N7k/Akari-Nitta-Assistant-Manager-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         <card>
