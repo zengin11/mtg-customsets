@@ -337,8 +337,8 @@ Station  (Tap another creature you control: Put charge counters equal to its pow
             <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">sub</set>
             <tablerow>1</tablerow>
             <related>Map Token</related>
-            <related>Treasure Token</related>
             <related>Clue Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Long-Lived Reefback</name>

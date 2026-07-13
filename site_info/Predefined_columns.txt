@@ -131,6 +131,5 @@ Redless (WUBG)—-m>={r} -o:{r}
 Greenless (WUBR)—-m>={g} -o:{g}
 
 -Deck location-
-Deck—in:md
 Sideboard—in:sb
 Nowhere—-in:deck
