@@ -129,3 +129,7 @@ Blueless (WBRG)—-m>={u} -o:{u}
 Blackless (WURG)—-m>={b} -o:{b}
 Redless (WUBG)—-m>={r} -o:{r}
 Greenless (WUBR)—-m>={g} -o:{g}
+
+-Deck location-
+Deck—in:md
+Sideboard—in:sb
