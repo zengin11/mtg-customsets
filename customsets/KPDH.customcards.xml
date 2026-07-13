@@ -86,8 +86,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Junk Token</related>
             <related>Treasure Token</related>
+            <related>Junk Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
@@ -3734,7 +3734,7 @@ Partner—Lost to Shame</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/GQz6JL23/Rumi-Queen-of-Nightmares-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ycn2d0wY/Rumi-Queen-of-Nightmares-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3949,7 +3949,7 @@ Partner - Saja</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/21qqfNcp/Mystery-Silencer-of-Secrets-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BMq4Bx4/Mystery-Silencer-of-Secrets-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -4269,6 +4269,25 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Basilisk Collar</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tTjH33C7/Basilisk-Collar-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>

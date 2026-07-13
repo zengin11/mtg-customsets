@@ -9,6 +9,25 @@
         </sets>
     <cards>
         <card>
+            <name>Yuta, Jujutsu Duplicator</name>
+            <text>Technique - {4}{u}, {t}: Copy up to two target activated abilities. You may choose new targets for the copies.  (Whenever Yuta attacks, you can activate his technique once for free. Mana abilities can't be targeted.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{g}{u}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>URG</colors>
+                <coloridentity>URG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/2Y3p2Pjw/Yuta-Jujutsu-Duplicator-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Multani, Maro-Sorcerer (Hanami, Maro-Sorcerer)</name>
             <text>Shroud  (This creature can't be the target of spells or abilities.) 
 Hanami's power and toughness are each equal to the total number of cards in all players' hands.</text>
@@ -1389,25 +1408,6 @@ Creatures and players with star counters on them have protection from other crea
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/TMTdj5Cq/Panda-png.png">jjk</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Yuta, Jujutsu Duplicator</name>
-            <text>Technique - {4}{u}, {t}: Copy up to two target activated abilities. You may choose new targets for the copies.  (Whenever Yuta attacks, you can activate his technique once for free. Mana abilities can't be targeted.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{g}{u}{r}</manacost>
-                <cmc>5</cmc>
-                <colors>URG</colors>
-                <coloridentity>URG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Sorcerer</type>
-                <pt>5/5</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qMXk2FtY/Yuta-Jujutsu-Duplicator-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         <card>
