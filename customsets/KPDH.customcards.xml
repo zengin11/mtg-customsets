@@ -86,8 +86,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Junk Token</related>
             <related>Treasure Token</related>
+            <related>Junk Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
@@ -972,13 +972,13 @@ When you cycle this card, each opponent discards two cards at random then reveal
             </card>
         <card>
             <name>HUNTR/X, Feast of the Fans</name>
-            <text>Shame  - Whenever an opponent reveals their first card each turn, create a 0/1 green and white Human Citizen creature token.
+            <text>Shame  - Whenever an opponent reveals their first card each turn, create a 0/1 white Human Citizen creature token.
 {b}, Sacrifice a creature: You gain 2 life. Put a +1/+1 counter on target creature. It's a Demon with lifelink as long as it has a +1/+1 counter on it.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{u}{b}{r}</manacost>
-                <cmc>5</cmc>
+                <manacost>{1}{u}{b}{r}</manacost>
+                <cmc>4</cmc>
                 <colors>UBR</colors>
                 <coloridentity>UBR</coloridentity>
                 <maintype>Creature</maintype>
@@ -987,7 +987,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9m2KXLsp/HUNTR-X-Feast-of-the-Fans-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/dwMR2p5m/HUNTR-X-Feast-of-the-Fans-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1655,7 +1655,7 @@ Performers you control have flying.</text>
         <card>
             <name>Jinu, Ashamed Idol</name>
             <text>Menace, haste
- Shame -  Whenever a player reveals one or more cards, you gain that much life.
+Whenever a player reveals one or more cards, you gain that much life.
 Whenever Jinu deals combat damage to a player, that player reveals their hand. Choose a nonland card from it. That player discards that card.
 Partner - Saja</text>
             <prop>
@@ -1671,7 +1671,7 @@ Partner - Saja</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yw2sS6X/Jinu-Ashamed-Idol-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/RpXY5jkY/Jinu-Ashamed-Idol-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1855,7 +1855,7 @@ At the beginning of your first main phase, you may sacrifice a creature. When yo
             </card>
         <card>
             <name>Romance, Alluring Star</name>
-            <text>Shame -  Whenever a player reveals one or more cards, you may gain control of target creature they control with mana value X or less, where X is the highest mana value of cards revealed this way, until end of turn. Untap it. It gains haste until end of turn. Do so only once for each player each turn.
+            <text>Shame -  Whenever a player reveals their first card or cards each turn, you may gain control of target creature they control with mana value X or less, where X is the highest mana value of cards revealed this way, until end of turn. Untap it. It gains haste until end of turn.
 Partner - Saja  (You can have two commanders if both have this ability.) </text>
             <prop>
                 <layout>normal</layout>
@@ -1870,7 +1870,7 @@ Partner - Saja  (You can have two commanders if both have this ability.) </text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Y7zyKJWQ/Romance-Alluring-Star-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KzBqGZqR/Romance-Alluring-Star-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3698,8 +3698,8 @@ Partner - Saja  (You can have two commanders if both have this.) </text>
             </card>
         <card>
             <name>Gwi-ma, Otherworld King</name>
-            <text>Eminence -  If a player would discard a nonland card and Gwi-ma is in the command zone or on the battlefield, they may exile that card instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs.
-Whenever an opponent reveals one or more cards, you may draw a card. If you do, discard a card.</text>
+            <text>If a player would discard a nonland card, they exile it instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs. When they do, put a +1/+1 counter and a lifelink counter on target Demon.
+ Shame -  Whenever an opponent reveals their first card each turn, you may draw a card. If you do, discard a card.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3713,7 +3713,7 @@ Whenever an opponent reveals one or more cards, you may draw a card. If you do, 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/YTd6S2Yf/Gwi-ma-Otherworld-King-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3XTnHyh/Gwi-ma-Otherworld-King-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3954,7 +3954,7 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
             </card>
         <card>
             <name>Mystery, Silencer of Secrets</name>
-            <text>Shame -  Whenever a player reveals their first card or cards each turn, choose a nonland card from among them and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast it.
+            <text>Whenever a player reveals their first card or cards on your turn, choose a nonland card from among them and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast it.
 Partner - Saja</text>
             <prop>
                 <layout>normal</layout>
@@ -4289,6 +4289,25 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Arcane Signet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/LDmSy6FZ/Arcane-Signet-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>
