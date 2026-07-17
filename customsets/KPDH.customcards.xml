@@ -69,7 +69,7 @@ You draw a card at the beginning of the next turn's upkeep.</text>
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Songwriter’s Notebook</name>
+            <name>Songwriter's Notebook</name>
             <text>{t}: Reveal the top card of your library. If it's a creature card, create a 0/1 white Citizen creature token. If it's a land card, create a tapped Treasure token. If it's a noncreature, nonland card, create a tapped Junk token.</text>
             <prop>
                 <layout>normal</layout>
@@ -86,8 +86,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Treasure Token</related>
             <related>Junk Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
@@ -128,7 +128,7 @@ You draw a card at the beginning of the next turn's upkeep.</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Splicer’s Skill</name>
+            <name>Splicer's Skill</name>
             <text>Create a 3/3 colorless Phyrexian Golem artifact creature token.
 Splice onto instant or sorcery {3}{W}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
             <prop>
@@ -218,14 +218,14 @@ Creatures you control gain indestructible until end of turn.</text>
                 <cmc>4</cmc>
                 <colors>UR</colors>
                 <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Chimera</type>
+                <maintype>Chimera</maintype>
+                <type>Creature — Chimera</type>
                 <pt>2/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/678jqwfs/Stormchaser-Chimera-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Bobby, Supportive Manager</name>
@@ -359,8 +359,8 @@ Whenever a player reveals a white card, Rumi gains lifelink until end of turn. T
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Token Artifact - Treasure</type>
+                <maintype>Treasure</maintype>
+                <type>Token Artifact — Treasure</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -439,8 +439,8 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Token Artifact - Junk</type>
+                <maintype>Junk</maintype>
+                <type>Token Artifact — Junk</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -518,8 +518,8 @@ Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card f
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -720,8 +720,8 @@ Equip {3}</text>
                 <cmc>2</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Equipment</type>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -880,14 +880,14 @@ Other Warriors you control get +1/+1.</text>
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Nomad Cleric</type>
+                <maintype>Cleric</maintype>
+                <type>Creature — Human Nomad Cleric</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/2YtKNkN8/Weathered-Wayfarer-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Sidequest: Catch a Fish</name>
@@ -1038,8 +1038,8 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1057,14 +1057,14 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <cmc>3</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Advisor</type>
+                <maintype>Advisor</maintype>
+                <type>Creature — Human Advisor</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/NnxxMbBM/Imperial-Recruiter-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Into the Fray</name>
@@ -1077,8 +1077,8 @@ Splice onto Arcane {R}  (As you cast an Arcane spell, you may reveal this card f
                 <cmc>1</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1097,8 +1097,8 @@ Splice onto Arcane {2}{R}{R}  (As you cast an Arcane spell, you may reveal this 
                 <cmc>4</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1107,7 +1107,7 @@ Splice onto Arcane {2}{R}{R}  (As you cast an Arcane spell, you may reveal this 
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Idol’s Stage</name>
+            <name>Idol's Stage</name>
             <text>When this land enters, you may reveal a card from your hand.
 {t}: Add {c}.
 {t}: Add one mana of any color. Activate only if you've revealed a card this turn.</text>
@@ -1138,8 +1138,8 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <cmc>2</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1239,8 +1239,8 @@ Splice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this car
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1270,7 +1270,7 @@ Other Warriors you control get +1/+1.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Guiltsapper</name>
+            <name>Gwi-ma's Guiltsapper</name>
             <text>Undying  (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.) 
  Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain undying until end of turn.</text>
             <prop>
@@ -1310,7 +1310,7 @@ Other Warriors you control get +1/+1.</text>
             </card>
         <card>
             <name>Baby Saja, Ungodly Lyricist</name>
-            <text>Rhyme Scheme -  Each instant and sorcery card in your hand has “Splice onto instant or sorcery that shares a color with this card.” The splice cost is equal to its mana cost.  (As you cast an instant or sorcery spell, you may reveal any number of cards from your hand that share a color with it and pay their costs. If you do, add that card's effects to that spell.) 
+            <text>Rhyme Scheme -  Each instant and sorcery card in your hand has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (As you cast an instant or sorcery spell, you may reveal any number of cards from your hand that share a color with it and pay their costs. If you do, add that card's effects to that spell.) 
 Partner - Saja</text>
             <prop>
                 <layout>normal</layout>
@@ -1332,7 +1332,7 @@ Partner - Saja</text>
             <name>Friendly Neighborhood</name>
             <text>Enchant land
 When this Aura enters, create three 1/1 green and white Human Citizen creature tokens.
-Enchanted land has “{1}, {T}: Target creature gets +1/+1 until end of turn for each creature you control. Activate only as a sorcery.”</text>
+Enchanted land has "{1}, {T}: Target creature gets +1/+1 until end of turn for each creature you control. Activate only as a sorcery."</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1340,8 +1340,8 @@ Enchanted land has “{1}, {T}: Target creature gets +1/+1 until end of turn for
                 <cmc>4</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Aura</type>
+                <maintype>Aura</maintype>
+                <type>Enchantment — Aura</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1442,14 +1442,14 @@ Draw a card for each creature you control.
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
+                <maintype>Soldier</maintype>
+                <type>Creature — Human Soldier</type>
                 <pt>2/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/CppffJkr/Recruitment-Officer-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Legion Angel</name>
@@ -1462,14 +1462,14 @@ When this creature enters, you may reveal a card you own named Legion Angel from
                 <cmc>4</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Angel Warrior</type>
+                <maintype>Warrior</maintype>
+                <type>Creature — Angel Warrior</type>
                 <pt>4/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/GQhdLCj3/Legion-Angel-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Deflecting Swat</name>
@@ -1521,8 +1521,8 @@ Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card f
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1531,7 +1531,7 @@ Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card f
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Soulripper</name>
+            <name>Gwi-ma's Soulripper</name>
             <text>Wither  (This deals damage to creatures in the form of -1/-1 counters.) 
  Shame -  Whenever an opponent reveals their first card each turn, you may have this creature fight target creature they control.</text>
             <prop>
@@ -1695,7 +1695,7 @@ Learn.  (You may reveal a Lesson card you own from outside the game and put it i
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Rumi’s Sain-geom</name>
+            <name>Rumi's Sain-geom</name>
             <text>Equipped creature gets +3/+3 and has hexproof.
 If you've revealed a white card this turn, equipped creature has lifelink.
 If you've revealed a blue card this turn, equipped creature has flying.
@@ -1787,14 +1787,14 @@ At the beginning of your first main phase, you may sacrifice a creature. When yo
                 <cmc>1</cmc>
                 <colors>B</colors>
                 <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Horror</type>
+                <maintype>Horror</maintype>
+                <type>Creature — Horror</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Rpp3Gg5K/Cabal-Therapist-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Martyr of Sands</name>
@@ -1806,14 +1806,14 @@ At the beginning of your first main phase, you may sacrifice a creature. When yo
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Cleric</type>
+                <maintype>Cleric</maintype>
+                <type>Creature — Human Cleric</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/bj2bLwVD/Martyr-of-Sands-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Pearl Medallion</name>
@@ -1875,7 +1875,7 @@ Partner - Saja  (You can have two commanders if both have this ability.) </text>
             </card>
         <card>
             <name>Rumi, Leader of Idols</name>
-            <text>When Rumi enters, search your library for a card with “Partner—HUNTR/X,” reveal it, put it into your hand, then shuffle.
+            <text>When Rumi enters, search your library for a card with "Partner—HUNTR/X," reveal it, put it into your hand, then shuffle.
 {2}{wu}, {t}: You may reveal a card from your hand. If you do, prevent all damage a source of your choice would deal this turn. Otherwise, draw a card.
 Partner—HUNTR/X</text>
             <prop>
@@ -1924,14 +1924,14 @@ When this creature enters, you may reveal a card you own named Legion Angel from
                 <cmc>4</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Angel Warrior</type>
+                <maintype>Warrior</maintype>
+                <type>Creature — Angel Warrior</type>
                 <pt>4/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/N2rfSj5c/Legion-Angel-Alt-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Spirit en-Dal</name>
@@ -1954,7 +1954,7 @@ Forecast — {1}{W}, Reveal this creature from your hand: Target creature gains 
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Plaguespitter</name>
+            <name>Gwi-ma's Plaguespitter</name>
             <text>Deathtouch  (Any amount of damage this deals to a creature is enough to destroy it.) 
  Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain deathtouch until end of turn.</text>
             <prop>
@@ -1984,14 +1984,14 @@ Forecast — {1}{W}, Reveal this creature from your hand: Target creature gains 
                 <cmc>3</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon Shapeshifter</type>
+                <maintype>Shapeshifter</maintype>
+                <type>Creature — Demon Shapeshifter</type>
                 <pt>2/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/GQbLScFB/Brutal-Deceivers-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Inspirational Studio</name>
@@ -2124,17 +2124,17 @@ When this creature is turned face up,  target creature can't block this turn.</t
                 <cmc>2</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Berserker</type>
+                <maintype>Berserker</maintype>
+                <type>Creature — Human Berserker</type>
                 <pt>2/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/4RYqWqMS/Horde-Ambusher-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Commander’s Plate</name>
+            <name>Commander's Plate</name>
             <text>Equipped creature gets +3/+3 and has protection from each color that's not in your commander's color identity.
 Equip commander {3}
 Equip {5}</text>
@@ -2155,7 +2155,7 @@ Equip {5}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Heartflayer</name>
+            <name>Gwi-ma's Heartflayer</name>
             <text>Ward—Pay 2 life
  Shame -  Whenever an opponent reveals their first card each turn, creatures they control get -2/-0 and creatures you control get +2/+0 until end of turn.</text>
             <prop>
@@ -2235,7 +2235,7 @@ Derpy and Sussie can't be blocked.</text>
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Huntrix’s Rising Harmony</name>
+            <name>Huntrix's Rising Harmony</name>
             <text>You may pay {0} rather than pay the splice cost of cards you splice onto this spell. 
 When you cast this spell, copy it twice. You may choose new targets for the copies.  (Spliced effects are also copied.) 
 Arcanecycling {1}{u}{r}</text>
@@ -2266,8 +2266,8 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <cmc>3</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -2348,14 +2348,14 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Sorcery — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/cKGBNyN2/Eerie-Procession-png.png">kpdh</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Memories Returning</name>
@@ -2378,7 +2378,7 @@ Flashback {7}{U}{U}</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Woeseeker</name>
+            <name>Gwi-ma's Woeseeker</name>
             <text>Vigilance
  Shame -  Whenever an opponent reveals their first card each turn, surveil 2.  (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.) </text>
             <prop>
@@ -2407,14 +2407,14 @@ Flashback {7}{U}{U}</text>
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Spirit</type>
+                <maintype>Spirit</maintype>
+                <type>Token Creature — Spirit</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/7xv0x816/Spirit-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Brainstorm</name>
@@ -2447,14 +2447,14 @@ This creature enters with three wish counters on it.
                 <cmc>5</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Djinn</type>
+                <maintype>Djinn</maintype>
+                <type>Creature — Djinn</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/204ZcqrB/Djinn-of-Wishes-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Food</name>
@@ -2466,8 +2466,8 @@ This creature enters with three wish counters on it.
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Token Artifact - Food</type>
+                <maintype>Food</maintype>
+                <type>Token Artifact — Food</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -2496,7 +2496,7 @@ This creature enters with three wish counters on it.
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Dragon’s Eye Savants</name>
+            <name>Dragon's Eye Savants</name>
             <text>Morph—Reveal a blue card in your hand.  (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) 
 When this creature is turned face up, look at target opponent's hand.</text>
             <prop>
@@ -2506,14 +2506,14 @@ When this creature is turned face up, look at target opponent's hand.</text>
                 <cmc>2</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Wizard</type>
+                <maintype>Wizard</maintype>
+                <type>Creature — Human Wizard</type>
                 <pt>0/6</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/s9QHYdPp/Dragon-s-Eye-Savants-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Reforge the Soul</name>
@@ -2565,8 +2565,8 @@ Splice onto Arcane—Return a blue creature you control to its owner's hand.  (A
                 <cmc>2</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -2594,7 +2594,7 @@ Splice onto Arcane—Return a blue creature you control to its owner's hand.  (A
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Rakshasa’s Secret</name>
+            <name>Rakshasa's Secret</name>
             <text>Target opponent discards two cards. You mill two cards.</text>
             <prop>
                 <layout>normal</layout>
@@ -2632,7 +2632,7 @@ Splice onto Arcane—Return a blue creature you control to its owner's hand.  (A
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Shamegorger</name>
+            <name>Gwi-ma's Shamegorger</name>
             <text>Trample, haste
  Shame  - Whenever an opponent reveals their first card each turn, this creature deals 1 damage to each opponent and each non-Demon creature.
 Whenever this creature deals combat damage to a player, they reveal their hand.</text>
@@ -2803,14 +2803,14 @@ Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell,
                 <cmc>2</cmc>
                 <colors>UB</colors>
                 <coloridentity>UB</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Human Rogue</type>
+                <maintype>Rogue</maintype>
+                <type>Artifact Creature — Human Rogue</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/WNGrt7M4/Thoughtcutter-Agent-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Sapphire Medallion</name>
@@ -2832,7 +2832,7 @@ Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell,
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Rogue’s Passage</name>
+            <name>Rogue's Passage</name>
             <text>{t}: Add {c}.
 {4}, {t}: Target creature can't be blocked this turn.</text>
             <prop>
@@ -2862,14 +2862,14 @@ At the beginning of your upkeep, reveal cards from the top of your library until
                 <cmc>3</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon</type>
+                <maintype>Demon</maintype>
+                <type>Creature — Demon</type>
                 <pt>3/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/QFgTwHsJ/Prodder-of-Sin-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Blasphemous Act</name>
@@ -2941,14 +2941,14 @@ Partner—Lost to shame</text>
                 <cmc>2</cmc>
                 <colors>UR</colors>
                 <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Druid Performer</type>
+                <maintype>Performer</maintype>
+                <type>Creature — Human Druid Performer</type>
                 <pt>2/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/GvgrWd8R/Resonant-Arcanists-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Command Tower</name>
@@ -2970,7 +2970,7 @@ Partner—Lost to shame</text>
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>In Garruk’s Wake (Kpop DEMON slayers)</name>
+            <name>In Garruk's Wake (Kpop DEMON slayers)</name>
             <text>Destroy all creatures you don't control and all planeswalkers you don't control.</text>
             <prop>
                 <layout>normal</layout>
@@ -2999,8 +2999,8 @@ Splice onto Arcane—Tap an untapped white creature you control.  (As you cast a
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -3018,8 +3018,8 @@ Splice onto Arcane—Tap an untapped white creature you control.  (As you cast a
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Token Artifact - Food</type>
+                <maintype>Food</maintype>
+                <type>Token Artifact — Food</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -3038,8 +3038,8 @@ Splice onto Arcane {U}  (As you cast an Arcane spell, you may reveal this card f
                 <cmc>2</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -3089,7 +3089,7 @@ Counter target spell [that wasn't cast from its owner's hand].</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Distortion</name>
+            <name>Gwi-ma's Distortion</name>
             <text>Target player reveals their hand. When they do, this spell deals damage to them equal to the greatest mana value of cards revealed this way. Put that many -1/-1 counters on target creature they control.</text>
             <prop>
                 <layout>normal</layout>
@@ -3117,14 +3117,14 @@ Counter target spell [that wasn't cast from its owner's hand].</text>
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Spirit</type>
+                <maintype>Spirit</maintype>
+                <type>Token Creature — Spirit</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Nnk9w0rj/Spirit-Alt-Derpy-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Echoing Harmony</name>
@@ -3229,7 +3229,7 @@ Miracle {u}  (You may reveal this card as you draw it if it's the first card you
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Mira’s Gok-do</name>
+            <name>Mira's Gok-do</name>
             <text>Equipped creature gets +2/+2 and has first strike.
 If you've revealed a red card this turn, equipped creature has haste.
 If you've revealed a white card this turn, equipped creature has indestructible.
@@ -3320,14 +3320,14 @@ When this creature is turned face up, you gain 2 life.</text>
                 <cmc>3</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Bird Soldier</type>
+                <maintype>Soldier</maintype>
+                <type>Creature — Bird Soldier</type>
                 <pt>2/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Mira, Napalm Era</name>
@@ -3371,7 +3371,7 @@ Partner—HUNTR/X</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Mindraker</name>
+            <name>Gwi-ma's Mindraker</name>
             <text>Lifelink  (Damage dealt by this creature also causes you to gain that much life.) 
 Whenever a player casts a spell, if they've revealed a card this turn, you may counter that spell unless they pay {1}. When they pay, you gain 1 life.</text>
             <prop>
@@ -3391,7 +3391,7 @@ Whenever a player casts a spell, if they've revealed a card this turn, you may c
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Zoey’s Shin-kal</name>
+            <name>Zoey's Shin-kal</name>
             <text>Equipped creature gets +1/+1 and has prowess.
 If you've revealed a blue card this turn, equipped creature has vigilance.
 If you've revealed a red card this turn, equipped creature has reach.
@@ -3443,14 +3443,14 @@ Whenever this creature deals combat damage to a player, you may return target cr
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Ninja</type>
+                <maintype>Ninja</maintype>
+                <type>Creature — Human Ninja</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/FbQhyG4n/Mistblade-Shinobi-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Echoing Harmony</name>
@@ -3552,7 +3552,7 @@ Flashback {2}{r}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Commander’s Sphere</name>
+            <name>Commander's Sphere</name>
             <text>{T}: Add one mana of any color in your commander's color identity.
 Sacrifice this artifact: Draw a card.</text>
             <prop>
@@ -3595,17 +3595,17 @@ Partner—Lost to shame</text>
             <related>Treasure Token</related>
             </card>
         <card>
-            <name>Counterspell Alt 주문 무효화</name>
-            <text>Counter target spell.</text>
+            <name>Counterspell Alt 주문 무효화</name>
+            <text>주문을 목표로 정한다. 그 주문을 무효화한다.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{U}{U}</manacost>
+                <manacost>{u}{u}</manacost>
                 <cmc>2</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
+                <maintype>순간마법</maintype>
+                <type>순간마법</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -3644,17 +3644,17 @@ Whenever this creature deals combat damage to a player, look at that player's ha
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Ninja</type>
+                <maintype>Ninja</maintype>
+                <type>Creature — Human Ninja</type>
                 <pt>1/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/7N62Sfnv/Walker-of-Secret-Ways-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Hunter’s Stance</name>
+            <name>Hunter's Stance</name>
             <text>If you've revealed a red card this turn, destroy up to one target artifact.
 If you've revealed a white card this turn, put two +1/+1 counters on up to one target creature.
 If you've revealed a blue card this turn, scry 1, then draw a card.</text>
@@ -3805,14 +3805,14 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Cleric</type>
+                <maintype>Cleric</maintype>
+                <type>Creature — Human Cleric</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/kV18rC1v/Mother-of-Runes-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Spellseeker</name>
@@ -3824,14 +3824,14 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Wizard</type>
+                <maintype>Wizard</maintype>
+                <type>Creature — Human Wizard</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/RTRxKgz0/Spellseeker-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Lay Bare</name>
@@ -3853,7 +3853,7 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Scornlurker</name>
+            <name>Gwi-ma's Scornlurker</name>
             <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
  Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
             <prop>
@@ -3922,8 +3922,8 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
                 <cmc>1</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Equipment</type>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -3932,7 +3932,7 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma’s Griefchaser</name>
+            <name>Gwi-ma's Griefchaser</name>
             <text>Trample, haste
  Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
             <prop>
@@ -4052,23 +4052,22 @@ Partner - Saja</text>
             </card>
         <card>
             <name>Crosis, the Purger (Gwi-ma, Condemning Kaiju)</name>
-            <text>Flying
-Whenever this creature deals combat damage to a player, you may pay  {2}{b}. If you do, choose a color, then that player reveals their hand and discards all cards of that color.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{u}{b}{r}</manacost>
-                <cmc>6</cmc>
-                <colors>UBR</colors>
-                <coloridentity>UBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Dragon</type>
-                <pt>6/6</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/7wZcwfc/Crosis-the-Purger-Gwi-ma-Condemning-Kaiju-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Swarm of Secrets</name>
@@ -4110,7 +4109,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Night’s Whisper</name>
+            <name>Night's Whisper</name>
             <text>You draw two cards and you lose 2 life.</text>
             <prop>
                 <layout>normal</layout>
@@ -4149,7 +4148,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
             </card>
         <card>
             <name>Environmental Sciences</name>
-            <text>(If you start the game with this card outside your deck, a card with ‘Learn' can find it.) 
+            <text>(If you start the game with this card outside your deck, a card with 'Learn' can find it.) 
 Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
             <prop>
                 <layout>normal</layout>
@@ -4189,7 +4188,7 @@ Splice onto instant or sorcery {2}{U}  (As you cast an instant or sorcery spell,
             </card>
         <card>
             <name>Rumi, Leader of Idols Promo</name>
-            <text>When Rumi enters, search your library for a card with “Partner—HUNTR/X,” reveal it, put it into your hand, then shuffle.
+            <text>When Rumi enters, search your library for a card with "Partner—HUNTR/X," reveal it, put it into your hand, then shuffle.
 {2}{wu}, {t}: You may reveal a card from your hand. If you do, prevent all damage a source of your choice would deal this turn. Otherwise, draw a card.
 Partner—HUNTR/X</text>
             <prop>
@@ -4258,14 +4257,14 @@ Whenever an opponent loses life, you gain that much life.  (Damage causes loss o
                 <cmc>5</cmc>
                 <colors>B</colors>
                 <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Vampire Knight</type>
+                <maintype>Knight</maintype>
+                <type>Creature — Vampire Knight</type>
                 <pt>5/5</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/JWV6hVb9/Bloodthirsty-Conqueror-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Silence</name>
@@ -4300,14 +4299,52 @@ Whenever you cast a spell, choose up to one —
                 <cmc>7</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Kraken Horror</type>
+                <maintype>Horror</maintype>
+                <type>Creature — Kraken Horror</type>
                 <pt>7/8</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Soporific Springs</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7JC3Zv10/Soporific-Springs-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Sink into Stupor</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WvKw99d6/Sink-into-Stupor-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>

@@ -73,10 +73,7 @@ Partner—All Systems Online</text>
         <card>
             <name>The Sea Emperor, Synaptic Guide</name>
             <text>Whenever The Sea Emperor or another Kraken, Leviathan, Octopus, or Serpent you control enters or matures, untap target land. Draw a card.
-As long as The Sea Emperor is mature, Kraken, Leviathan, Octopus, and Serpent cards you own have plot {g}{u}.
----
-{3}{g}{u}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+As long as The Sea Emperor is mature, Kraken, Leviathan, Octopus, and Serpent cards you own have plot {g}{u}.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -94,7 +91,7 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>The Aurora’s Wreckage</name>
+            <name>The Aurora's Wreckage</name>
             <text>({t}: Add {u}) 
 This land enters tapped unless you control a Survivor.
 {6}{u}{u}, {t}: Sacrifice this land: Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.</text>
@@ -118,10 +115,7 @@ This land enters tapped unless you control a Survivor.
             <name>Ambushing Ghost Leviathan</name>
             <text>Ward {1}
 Skulk  (This creature can't be blocked by creatures with greater power.) 
-Trample
----
-{2}{u}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+Trample</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -142,10 +136,7 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             <name>Unstoppable Sea Dragon</name>
             <text>Trample, ward {2}, haste
 {3}{g}: Put a +1/+1 counter on this creature.
-Firebending X, where X is this creature's power.  (Whenever this creature attacks, add X  {R}. This mana lasts until end of combat) 
----
-{2}{g}{g}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+Firebending X, where X is this creature's power.  (Whenever this creature attacks, add X  {R}. This mana lasts until end of combat) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -164,17 +155,14 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             </card>
         <card>
             <name>Migrating Sea Treaders</name>
-            <text>{t}: Create a number of tapped Treasure tokens equal to this creature's power.{flavor}Sea treader herds may unearth mineral deposits as they churn up sand.
----
-{1}{g}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+            <text>{t}: Create a number of tapped Treasure tokens equal to this creature's power.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
                 <manacost>{2}{g}{g}{g}</manacost>
                 <cmc>5</cmc>
                 <colors>G</colors>
-                <coloridentity>RG</coloridentity>
+                <coloridentity>G</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Creature - Kraken</type>
                 <pt>4/8</pt>
@@ -206,19 +194,20 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             </card>
         <card>
             <name>The Aurora, Plummeting Flame</name>
-            <text>Station  (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.) 
-[3+]: The Aurora is a land in addition to its other types and has “{t}, Pay 1 life: Add {c}{c}.”
-[10+]: {x}, Sacrifice The Aurora: The Aurora deals X damage to each creature that isn't a Kraken, Leviathan, Octopus, or Serpent.</text>
+            <text>
+ability0:{name:Ability 1,Station  (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.) 
+ability1:{name:Ability 2,The Aurora is a land in addition to its other types and has {t}, Pay 1 life: Add {c}{c}.
+ability2:{name:Ability 3,{x}, Sacrifice The Aurora: The Aurora deals X damage to each creature that isn't a Kraken, Leviathan, Octopus, or Serpent.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}</manacost>
+                <manacost>{y:0.0613}</manacost>
                 <cmc>1</cmc>
                 <colors />
                 <coloridentity />
                 <maintype>Artifact</maintype>
                 <type>Legendary Artifact - Spacecraft</type>
-                <pt />
+                <pt>x:0.7928</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
@@ -229,10 +218,7 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             <name>Nurturing Sea Emperor</name>
             <text>This spell can't be countered.
 Vigilance, trample, ward {3}
-When this creature matures, create two copies of it, except they're juveniles.
----
-{1}{g}{u}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+When this creature matures, create two copies of it, except they're juveniles.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -253,10 +239,7 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             <name>Territorial Reaper</name>
             <text>When this creature enters, choose one —
 •  It fights up to one target creature.
-•  Destroy up to one target artifact or enchantment with mana value equal to or less than this creature's power.
----
-{2}{g}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+•  Destroy up to one target artifact or enchantment with mana value equal to or less than this creature's power.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -275,11 +258,12 @@ Juvenile  (You may cast this spell with a different mana cost and size, and can 
             </card>
         <card>
             <name>4546b, Leviathan Wake</name>
-            <text>This land enters tapped.
+            <text>
+ability0:{name:Ability 1,This land enters tapped.
 {T}: Add {g} or {u}.
 Station  (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.) 
-
-[12+]: {T}: For each land you control, add {g} or {u}. Spend this mana only to cast a Kraken, Leviathan, Octopus, or Serpent spell.</text>
+ability1:{name:Ability 2,
+ability2:{name:Ability 3,{T}: For each land you control, add {g} or {u}. Spend this mana only to cast a Kraken, Leviathan, Octopus, or Serpent spell.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -307,20 +291,21 @@ Station  (Tap another creature you control: Put charge counters equal to its pow
                 <cmc>1</cmc>
                 <colors>G</colors>
                 <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Bird</type>
+                <maintype>Bird</maintype>
+                <type>Creature — Bird</type>
                 <pt>0/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/fzqmgQW1/Birds-of-Paradise-png.png">sub</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>The Neptune, Rising Tide</name>
-            <text>Station  (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) 
-[3+]: Islands you control have “{t}: Create a tapped Clue, Map, or Treasure token.”
-[9+]: Sacrifice six artifacts: Creatures you control gain flying until end of turn.</text>
+            <text>
+ability0:{name:Ability 1,Station  (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) 
+ability1:{name:Ability 2,Islands you control have {t}: Create a tapped Clue, Map, or Treasure token.
+ability2:{name:Ability 3,Sacrifice six artifacts: Creatures you control gain flying until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -336,17 +321,14 @@ Station  (Tap another creature you control: Put charge counters equal to its pow
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">sub</set>
             <tablerow>1</tablerow>
-            <related>Treasure Token</related>
             <related>Clue Token</related>
             <related>Map Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Long-Lived Reefback</name>
             <text>Shroud  (This creature can't be the target of spells or abilities.) 
-When this creature enters or matures, draw cards equal to its power.
----
-{1}{gu}
-Juvenile  (You may cast this spell with a different mana cost and size, and can pay its full cost later as a sorcery to mature it.) </text>
+When this creature enters or matures, draw cards equal to its power.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>

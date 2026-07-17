@@ -97,7 +97,7 @@ Partner—Scars</text>
         <card>
             <name>Ekko, Firelight Leader</name>
             <text>When Ekko enters, create a Lander token and attach it to him.
-Noncreature artifact tokens you control are Equipment in addition to their other types and have “Equipped creature gets +1/+1 and has flying” and equip {1}.</text>
+Noncreature artifact tokens you control are Equipment in addition to their other types and have "Equipped creature gets +1/+1 and has flying" and equip {1}.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -221,7 +221,7 @@ Partner—Study</text>
         <card>
             <name>Silco, Undercity Kingpin</name>
             <text>Whenever you sacrifice an artifact, target player blights 1.  (They put a -1/-1 counter on a creature they control.) 
-{t}: Create a Mutagen token.  (It's an artifact with “{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”) 
+{t}: Create a Mutagen token.  (It's an artifact with "{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.") 
 Partner—Scars, Spite</text>
             <prop>
                 <layout>normal</layout>

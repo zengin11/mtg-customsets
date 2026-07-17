@@ -10,23 +10,22 @@
     <cards>
         <card>
             <name>Multani, Maro-Sorcerer (Hanami, Maro-Sorcerer)</name>
-            <text>Shroud  (This creature can't be the target of spells or abilities.) 
-Hanami's power and toughness are each equal to the total number of cards in all players' hands.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{4}{G}{G}</manacost>
-                <cmc>6</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Elemental Sorcerer</type>
-                <pt>*/*</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/dsNCkp9q/Multani-Maro-Sorcerer-Hanami-Maro-Sorcerer-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Training Grounds</name>
@@ -77,14 +76,14 @@ Technique - {wb}, {t}: Choose target creature. If its controller has committed a
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Land</maintype>
-                <type>Basic Land - Plains</type>
+                <maintype>Plains</maintype>
+                <type>Basic Land — Plains</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/nqBgqhWR/Plains-png.png">jjk</set>
-            <tablerow>0</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Flawless Maneuver</name>
@@ -370,24 +369,22 @@ Mentor  (Whenever this creature attacks, put a +1/+1 counter on target attacking
             </card>
         <card>
             <name>Gisela, Blade of Goldnight (Gojo, the Honored One)</name>
-            <text>Flying, First strike
-If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.
-If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{4}{r}{w}{w}</manacost>
-                <cmc>7</cmc>
-                <colors>WR</colors>
-                <coloridentity>WR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Angel</type>
-                <pt>5/5</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/s9jyVtyF/Gisela-Blade-of-Goldnight-Gojo-the-Honored-One-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Infinite Void</name>
@@ -409,6 +406,27 @@ Sacrifice this enchantment: You may draw up to five cards.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/8DvxcY6s/Infinite-Void-png.png">jjk</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mahoraga, The Eight-Handled Sword Alt</name>
+            <text>Trample
+{x}{g}: Adapt X.  (If this creature has no +1/+1 counters on it, put X +1/+1 counters on it.) 
+Persist  (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a permanent has a +1/+1 counter and a -1/-1 counter on it, remove both.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{rg}</manacost>
+                <cmc>5</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spirit Avatar</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MyVwBQpM/Mahoraga-The-Eight-Handled-Sword-Alt-png.png">jjk</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Reggie Star, Re-Creator</name>
@@ -449,8 +467,8 @@ Sacrifice this enchantment: You may draw up to five cards.</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Predators’ Hour</name>
-            <text>Until end of turn, creatures you control gain menace and “Whenever this creature deals combat damage to a player, exile the top card of that player's library face down. You may look at and play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.”</text>
+            <name>Predators' Hour</name>
+            <text>Until end of turn, creatures you control gain menace and "Whenever this creature deals combat damage to a player, exile the top card of that player's library face down. You may look at and play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell."</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -590,7 +608,7 @@ At the beginning of your end step, for each token you control of the chosen type
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Naoya Zen’in, Unstoppable</name>
+            <name>Naoya Zen'in, Unstoppable</name>
             <text>First strike, haste
 Technique - {1}{w}{r}: Naoya gets +2/-2 until end of turn. Untap him. After this phase, there is an additional combat phase. Only creatures with haste can attack during that phase. Activate only during combat on your turn.</text>
             <prop>
@@ -658,14 +676,14 @@ Flying, hexproof, indestructible, prowess, haste, mentor</text>
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Land</maintype>
-                <type>Basic Land - Swamp</type>
+                <maintype>Swamp</maintype>
+                <type>Basic Land — Swamp</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0j37M0Vs/Swamp-png.png">jjk</set>
-            <tablerow>0</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Spirit Toy</name>
@@ -687,7 +705,7 @@ Flying, hexproof, indestructible, prowess, haste, mentor</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Agatha’s Soul Cauldron (Yuta’s Cursed Ring)</name>
+            <name>Agatha's Soul Cauldron (Yuta's Cursed Ring)</name>
             <text>You may spend mana as though it were mana of any color to activate abilities of creatures you control.
 Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with ~.
 {T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.</text>
@@ -730,7 +748,7 @@ Creatures you control with +1/+1 counters on them have all activated abilities o
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Mai Zen’in, Reluctant Recruit</name>
+            <name>Mai Zen'in, Reluctant Recruit</name>
             <text>Vigilance, reach
 Exhaust - Outlast  ({t}: Put a +1/+1 counter on Mai. Activate only as a sorcery, and only activate once.) </text>
             <prop>
@@ -838,17 +856,17 @@ Mobilize 2  (Whenever this creature attacks, create 2 tapped and attacking 1/1 r
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Land</maintype>
-                <type>Basic Land - Island</type>
+                <maintype>Island</maintype>
+                <type>Basic Land — Island</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/k2DMKSJK/Island-png.png">jjk</set>
-            <tablerow>0</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Dagon, Ocean’s Ire</name>
+            <name>Dagon, Ocean's Ire</name>
             <text>Technique - {3}{u}{u}: Create one of each of the following three blue creature tokens. 
 • A 1/1 Spirit Fish with flying.
 • A 3/3 Spirit Serpent with vigilance.
@@ -939,14 +957,14 @@ This creature can't attack a player it has already attacked this turn.</text>
                 <cmc>6</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon</type>
+                <maintype>Demon</maintype>
+                <type>Creature — Demon</type>
                 <pt>6/6</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/mC6vfGfQ/Bloodthirster-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Warrior</name>
@@ -987,7 +1005,7 @@ This creature can't attack a player it has already attacked this turn.</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Biomancer’s Familiar</name>
+            <name>Biomancer's Familiar</name>
             <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
 {T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.</text>
             <prop>
@@ -997,18 +1015,18 @@ This creature can't attack a player it has already attacked this turn.</text>
                 <cmc>2</cmc>
                 <colors>UG</colors>
                 <coloridentity>UG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Mutant</type>
+                <maintype>Mutant</maintype>
+                <type>Creature — Mutant</type>
                 <pt>2/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/PzzDLBXj/Biomancer-s-Familiar-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Reggie Star, Con Artist</name>
-            <text>Instant and sorcery spells you cast have “Buyback—{1}, Sacrifice an artifact.”  (You may pay a spell's buyback cost as you cast it. If you do, put it into its owner's hand instead of into a graveyard as it resolves.) 
+            <text>Instant and sorcery spells you cast have "Buyback—{1}, Sacrifice an artifact."  (You may pay a spell's buyback cost as you cast it. If you do, put it into its owner's hand instead of into a graveyard as it resolves.) 
 Whenever you buyback a spell, put a +1/+1 counter on Reggie.</text>
             <prop>
                 <layout>normal</layout>
@@ -1030,7 +1048,7 @@ Whenever you buyback a spell, put a +1/+1 counter on Reggie.</text>
             <name>Spirit Body of Distorted Killing</name>
             <text>Enchant Creature
 At the beginning of your upkeep, sacrifice a creature unless you control ten or more Spirits.
-Enchanted creature gets +3/+3 and has menace, trample, and “Ward—Pay life equal to this creature's power.”</text>
+Enchanted creature gets +3/+3 and has menace, trample, and "Ward—Pay life equal to this creature's power."</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1157,14 +1175,14 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Land</maintype>
-                <type>Basic Land - Forest</type>
+                <maintype>Forest</maintype>
+                <type>Basic Land — Forest</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/dJ1ZL4Yj/Forest-png.png">jjk</set>
-            <tablerow>0</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Festering Life Sword</name>
@@ -1189,7 +1207,7 @@ Equip {3}</text>
             </card>
         <card>
             <name>Split Soul Katana</name>
-            <text>Equipped creature gets +3/+3, has deathtouch and menace, and has “Whenever this creature attacks, exile target permanent defending player controls.”
+            <text>Equipped creature gets +3/+3, has deathtouch and menace, and has "Whenever this creature attacks, exile target permanent defending player controls."
 Equip {4}</text>
             <prop>
                 <layout>normal</layout>
@@ -1219,14 +1237,14 @@ Whenever this creature enters or attacks, you may draw a card for each other cre
                 <cmc>6</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Illusion</type>
+                <maintype>Illusion</maintype>
+                <type>Creature — Illusion</type>
                 <pt>6/6</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/JwbH0h1w/Titan-of-Littjara-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Bird</name>
@@ -1329,7 +1347,7 @@ Whenever a creature you control of the chosen type enters or attacks, draw a car
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Jujutsu Tech, Tokyo’s Bastion</name>
+            <name>Jujutsu Tech, Tokyo's Bastion</name>
             <text>This land can be your commander.  (It can be played from the command zone if you pay its commander tax.) 
 {T}: Add one mana of any color. Spend this mana only to cast a Samurai, Sorcerer, or Spirit spell, or to activate an ability.
 {w}{ug}{br}, {t}: Samurai, Sorcerers, and Spirits you control gain melee until end of turn.</text>
@@ -1678,8 +1696,8 @@ Disturb {2}{w}{b}  (You may cast this card from your graveyard transformed for {
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Token Artifact - Blood</type>
+                <maintype>Blood</maintype>
+                <type>Token Artifact — Blood</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1717,8 +1735,8 @@ Equip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.
                 <cmc>2</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Equipment</type>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1929,7 +1947,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
             </card>
         <card>
             <name>Sibling Rivalry</name>
-            <text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn. Create a tapped Powerstone token.  (It's an artifact with “{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.”) </text>
+            <text>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn. Create a tapped Powerstone token.  (It's an artifact with "{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.") </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1990,7 +2008,7 @@ Persist</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Hanami, Nature’s Wrath</name>
+            <name>Hanami, Nature's Wrath</name>
             <text>Lands and Elementals you control have vigilance, trample, and reach.
 Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate her technique once for free) </text>
             <prop>
@@ -2010,7 +2028,7 @@ Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate 
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Naobito Zen’in, Freeze Frame</name>
+            <name>Naobito Zen'in, Freeze Frame</name>
             <text>First strike, haste
 Whenever Naobito deals combat damage to a creature, tap that creature and put a stun counter on it.
 Prevent all damage that would be dealt by creatures with stun counters on them.</text>
@@ -2118,14 +2136,14 @@ Wither  (This deals damage to creatures in the form of -1/-1 counters.) </text>
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Land</maintype>
-                <type>Basic Land - Mountain</type>
+                <maintype>Mountain</maintype>
+                <type>Basic Land — Mountain</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/rRH7fRGX/Mountain-png.png">jjk</set>
-            <tablerow>0</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Yuta Okkotsu</name>
@@ -2169,7 +2187,7 @@ If a creature would deal damage to Yuta and you control a creature named Rika, i
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Trailblazer’s Boots</name>
+            <name>Trailblazer's Boots</name>
             <text>Equipped creature has nonbasic landwalk.
 Equip {2}</text>
             <prop>
@@ -2220,14 +2238,14 @@ If a triggered ability of another creature you control of the chosen type trigge
                 <cmc>4</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Golem</type>
+                <maintype>Golem</maintype>
+                <type>Artifact Creature — Golem</type>
                 <pt>4/4</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/M5ZjPmsJ/Roaming-Throne-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Servo</name>
@@ -2239,14 +2257,14 @@ If a triggered ability of another creature you control of the chosen type trigge
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Artifact Creature - Servo</type>
+                <maintype>Servo</maintype>
+                <type>Token Artifact Creature — Servo</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/4ngvH4Sb/Servo-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Kenjaku, Usurper of Flesh</name>
@@ -2287,7 +2305,7 @@ If a triggered ability of another creature you control of the chosen type trigge
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Hanami, Nature’s Wrath Alt</name>
+            <name>Hanami, Nature's Wrath Alt</name>
             <text>Lands and Elementals you control have vigilance, trample, and reach.
 Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate her technique once for free) </text>
             <prop>
@@ -2307,7 +2325,7 @@ Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate 
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Maki, Jujutsu Tech’s Outlier</name>
+            <name>Maki, Jujutsu Tech's Outlier</name>
             <text>Menace
 Bushido 2  (Whenever Maki blocks or becomes blocked, she gets +2/+2 until end of turn.) </text>
             <prop>
@@ -2632,7 +2650,7 @@ Technique - {1}, Exile Kusakabe: Sorcerers you control get +1/+1 and gain indest
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Yuji Itadori, Sukuna’s Vessel</name>
+            <name>Yuji Itadori, Sukuna's Vessel</name>
             <text>First strike, haste
 Technique - {1}{b}: Put a +1/+1 counter and a time counter on Yuji. If he isn't attacking, transform him.  (Whenever Yuji attacks, you can activate his technique once for free.) </text>
             <prop>
@@ -2835,7 +2853,7 @@ If Sukuna would be sacrificed, instead transform him.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Sorcerer’s Command</name>
+            <name>Sorcerer's Command</name>
             <text>Cursed -  When you cast this spell, if there are four or more Sorcerer cards in your graveyard, copy this spell. You may choose new targets for the copy.
 Choose up to two —
 •  Destroy target artifact.
@@ -2897,7 +2915,7 @@ Fabricate 1  (When Mechamaru enters the battlefield, you may put a +1/+1 counter
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Kenjaku’s Edict</name>
+            <name>Kenjaku's Edict</name>
             <text>Each player sacrifices two creatures.
  Cursed -  If there are four or more Sorcerer cards in your graveyard, instead each opponent sacrifices half the creatures they control of their choice, rounded up.</text>
             <prop>
@@ -2998,7 +3016,7 @@ Technique - {2}{r}: Haruta fights target creature you don't control.  (Whenever 
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Hanami’s Intervention</name>
+            <name>Hanami's Intervention</name>
             <text>Prevent all damage that would be dealt to you this turn. Spirits, Elementals, and lands you control gain hexproof and indestructible until end of turn.
  Cursed -  If a Sorcerer or Spirit card was put into your graveyard this turn, those permanents also gain trample until end of turn.</text>
             <prop>
@@ -3104,7 +3122,7 @@ Enchanted creature has indestructible.
             </card>
         <card>
             <name>Split-Second Domain</name>
-            <text>Search your library for a world card, exile it, then shuffle. For as long as that card remains exiled, you may cast it as though it had flash. If you do, it gains “When this permanent enters, its controller sacrifices it.”</text>
+            <text>Search your library for a world card, exile it, then shuffle. For as long as that card remains exiled, you may cast it as though it had flash. If you do, it gains "When this permanent enters, its controller sacrifices it."</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3221,7 +3239,7 @@ Technique — {1}{r}{r}: Gojo deals 2 damage to any target.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Mahito, Humanity’s Bane</name>
+            <name>Mahito, Humanity's Bane</name>
             <text>Deathtouch, menace
 Technique - Sacrifice a creature: Put a +1/+1 counter on Mahito.  (Whenever Mahito attacks, you may activate his technique once for free.) </text>
             <prop>
@@ -3338,7 +3356,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/7dKDHLK0/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
+            <set rarity="Unknown" picurl="https://i.ibb.co/7dKDHLK0/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3495,14 +3513,14 @@ Whenever another creature you control of the chosen type enters, put a +1/+1 cou
                 <cmc>3</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Shapeshifter</type>
+                <maintype>Shapeshifter</maintype>
+                <type>Artifact Creature — Shapeshifter</type>
                 <pt>2/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/n8NtL3dm/Bloodline-Pretender-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Kiyotaka Ijichi, Assistant Manager</name>
@@ -3543,23 +3561,23 @@ Whenever another creature you control of the chosen type enters, put a +1/+1 cou
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Isshin, Two Heavens as One (Maki, Zen’in Executioner)</name>
-            <text>If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+            <name>Isshin, Two Heavens as One (Maki, Zen'in Executioner)</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{R}{W}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>WBR</colors>
-                <coloridentity>WBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Samurai</type>
-                <pt>3/4</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/3D0SPHc/Isshin-Two-Heavens-as-One-Maki-Zen-in-Executioner-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Rabbit_Escape! Alt</name>
@@ -3619,27 +3637,6 @@ When this enchantment leaves the battlefield, untap all lands you control.</text
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Y4RpxDkK/Spirit-Jellyfish-png.png">jjk</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Mahoraga, The Eight-Handled Sword</name>
-            <text>Trample
-{x}{g}: Adapt X.  (If this creature has no +1/+1 counters on it, put X +1/+1 counters on it.) 
-Persist  (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a permanent has a +1/+1 counter and a -1/-1 counter on it, remove both.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{rg}</manacost>
-                <cmc>5</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Spirit Avatar</type>
-                <pt>5/5</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/3yLBkKjV/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         </cards>

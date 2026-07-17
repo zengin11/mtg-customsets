@@ -211,7 +211,7 @@ Draw seven cards. Until end of turn, you may cast spells from your hand and acti
         <card>
             <name>Spyglass Siren</name>
             <text>Flying
-When this creature enters, create a Map token.  (It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”) </text>
+When this creature enters, create a Map token.  (It's an artifact with "{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.") </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -219,14 +219,14 @@ When this creature enters, create a Map token.  (It's an artifact with “{1}, {
                 <cmc>1</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Siren Pirate</type>
+                <maintype>Pirate</maintype>
+                <type>Creature — Siren Pirate</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/PvDTnPJ5/Spyglass-Siren-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             <related>Map Token</related>
             </card>
         <card>
@@ -300,19 +300,19 @@ Whenever another permanent leaves the battlefield during your turn, you may put 
                 <cmc>1</cmc>
                 <colors>B</colors>
                 <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Spirit</type>
+                <maintype>Spirit</maintype>
+                <type>Creature — Spirit</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/WW40VQ6Y/Tormented-Soul-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Lord Garmadon, Dark King</name>
             <text>Menace, double strike
-At the beginning of your end step, incubate X, where X is the number of creatures that dealt combat damage to a player this turn.  (Create an Incubator token with X +1/+1 counters on it and “{2}: Transform this token.” It transforms into a 0/0 Phyrexian artifact creature.) 
+At the beginning of your end step, incubate X, where X is the number of creatures that dealt combat damage to a player this turn.  (Create an Incubator token with X +1/+1 counters on it and "{2}: Transform this token." It transforms into a 0/0 Phyrexian artifact creature.) 
 Partner—Sons of the First</text>
             <prop>
                 <layout>normal</layout>
@@ -403,14 +403,14 @@ Menace</text>
                 <cmc>1</cmc>
                 <colors>G</colors>
                 <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Bird</type>
+                <maintype>Bird</maintype>
+                <type>Creature — Bird</type>
                 <pt>0/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/XxrkFvSB/Birds-of-Paradise-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Jay, Master of Lightning</name>
@@ -443,14 +443,14 @@ Menace</text>
                 <cmc>1</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Merfolk Warrior</type>
+                <maintype>Warrior</maintype>
+                <type>Creature — Merfolk Warrior</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/2348B61Y/Mist-Cloaked-Herald-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Fell</name>
@@ -481,14 +481,14 @@ Menace</text>
                 <cmc>1</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Merfolk Rogue</type>
+                <maintype>Rogue</maintype>
+                <type>Creature — Merfolk Rogue</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/mrP6pv8s/Triton-Shorestalker-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Zane, Master of Ice</name>
@@ -552,22 +552,22 @@ Menace</text>
             </card>
         <card>
             <name>Kaseto, Orochi Archmage (Scales, Hypnobrai Waymaker)</name>
-            <text>{G}{U}: Target creature can't be blocked this turn. If that creature is a Snake, it gets +2/+2 until end of turn.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{G}{U}</manacost>
-                <cmc>3</cmc>
-                <colors>UG</colors>
-                <coloridentity>UG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Snake Wizard</type>
-                <pt>2/2</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/qFnZVHD7/Kaseto-Orochi-Archmage-Scales-Hypnobrai-Waymaker-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Nya, Novice Ninja</name>
@@ -611,7 +611,7 @@ If Pythor would leave the battlefield, you may instead pay {1}{r}{u}. If you do,
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Kodama’s Reach</name>
+            <name>Kodama's Reach</name>
             <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
             <prop>
                 <layout>normal</layout>
@@ -620,14 +620,14 @@ If Pythor would leave the battlefield, you may instead pay {1}{r}{u}. If you do,
                 <cmc>3</cmc>
                 <colors>G</colors>
                 <coloridentity>G</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery - Arcane</type>
+                <maintype>Arcane</maintype>
+                <type>Sorcery — Arcane</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/W4Z7ghMX/Kodama-s-Reach-png.png">ngo</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Amazing Spider-Man</name>
@@ -640,14 +640,14 @@ Each legendary spell you cast that's one or more colors has web-slinging  {G}{W}
                 <cmc>4</cmc>
                 <colors>WUG</colors>
                 <coloridentity>WUG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Spider Human Hero</type>
+                <maintype>Hero</maintype>
+                <type>Legendary Creature — Spider Human Hero</type>
                 <pt>{fontcolorwhite}4/4</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Lz8gfJZw/Amazing-Spider-Man-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Phyrexian</name>
@@ -659,14 +659,14 @@ Each legendary spell you cast that's one or more colors has web-slinging  {G}{W}
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Artifact Creature - Phyrexian</type>
+                <maintype>Phyrexian</maintype>
+                <type>Token Artifact Creature — Phyrexian</type>
                 <pt>0/0</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/67wjcYWb/Phyrexian-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Lloyd, Master of Energy</name>
@@ -700,14 +700,14 @@ Whenever this creature deals combat damage to a player, create a token that's a 
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Snake Ninja</type>
+                <maintype>Ninja</maintype>
+                <type>Creature — Snake Ninja</type>
                 <pt>3/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/sd3nwnwD/Mist-Syndicate-Naga-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>The Sword of Fire</name>
@@ -760,14 +760,14 @@ Flying, vigilance</text>
                 <cmc>2</cmc>
                 <colors>WB</colors>
                 <coloridentity>WB</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Cleric</type>
+                <maintype>Cleric</maintype>
+                <type>Creature — Human Cleric</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/6RBrpgSK/High-Priest-of-Penance-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Skydive Ride</name>
@@ -881,14 +881,14 @@ Equip {2}</text>
                 <cmc>2</cmc>
                 <colors>W</colors>
                 <coloridentity>WUG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Scientist Hero</type>
+                <maintype>Hero</maintype>
+                <type>Legendary Creature — Human Scientist Hero</type>
                 <pt>0/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/9kTH77r1/Peter-Parker-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Constrictai Brute</name>
@@ -982,14 +982,14 @@ Whenever this creature deals combat damage to a player, that player exiles the t
                 <cmc>5</cmc>
                 <colors>UB</colors>
                 <coloridentity>UB</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Zombie Ninja</type>
+                <maintype>Ninja</maintype>
+                <type>Creature — Zombie Ninja</type>
                 <pt>5/4</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/GQJtmCXd/Fallen-Shinobi-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Lloyd, the Green Ninja</name>
@@ -1043,17 +1043,17 @@ When this creature enters, tap target creature an opponent controls.
                 <cmc>1</cmc>
                 <colors>W</colors>
                 <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Spirit</type>
+                <maintype>Spirit</maintype>
+                <type>Creature — Spirit</type>
                 <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/CpSqnNV9/Topplegeist-png.png">ngo</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
-            <name>The Destiny’s Bounty</name>
+            <name>The Destiny's Bounty</name>
             <text>Flying
 Other unblocked creatures you control get +2/+0.
 {t}: Add one mana of any color.
@@ -1084,8 +1084,8 @@ Crew 3</text>
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Token Artifact - Incubator</type>
+                <maintype>Incubator</maintype>
+                <type>Token Artifact — Incubator</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -1135,7 +1135,7 @@ Crew 3</text>
             </card>
         <card>
             <name>Nya, Cunning Blacksmith</name>
-            <text>{X}, {t}: Create an X/X colorless Vehicle artifact token named Skydive Ride with flying, crew 1, and “Whenever this Vehicle attacks and isn't blocked, target creature that crewed it this turn is attacking the same player.”  (That creature becomes an unblocked attacker.) </text>
+            <text>{X}, {t}: Create an X/X colorless Vehicle artifact token named Skydive Ride with flying, crew 1, and "Whenever this Vehicle attacks and isn't blocked, target creature that crewed it this turn is attacking the same player."  (That creature becomes an unblocked attacker.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
