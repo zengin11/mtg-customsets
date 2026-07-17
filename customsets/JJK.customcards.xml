@@ -3338,7 +3338,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/pjT2nq26/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/7dKDHLK0/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3619,6 +3619,27 @@ When this enchantment leaves the battlefield, untap all lands you control.</text
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Y4RpxDkK/Spirit-Jellyfish-png.png">jjk</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mahoraga, The Eight-Handled Sword</name>
+            <text>Trample
+{x}{g}: Adapt X.  (If this creature has no +1/+1 counters on it, put X +1/+1 counters on it.) 
+Persist  (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a permanent has a +1/+1 counter and a -1/-1 counter on it, remove both.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{rg}</manacost>
+                <cmc>5</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spirit Avatar</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/3yLBkKjV/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
             <tablerow>2</tablerow>
             </card>
         </cards>
