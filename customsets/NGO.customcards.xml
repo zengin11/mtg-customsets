@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-13</releasedate>
+        <set> v1.4<releasedate>2026-07-17</releasedate>
             <name>ngo</name>
             <longname>ngo</longname>
             <settype>Custom</settype>

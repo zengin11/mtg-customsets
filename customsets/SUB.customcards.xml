@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-13</releasedate>
+        <set> v1.4<releasedate>2026-07-17</releasedate>
             <name>sub</name>
             <longname>sub</longname>
             <settype>Custom</settype>
@@ -337,8 +337,8 @@ Station  (Tap another creature you control: Put charge counters equal to its pow
             <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">sub</set>
             <tablerow>1</tablerow>
             <related>Map Token</related>
-            <related>Treasure Token</related>
             <related>Clue Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Long-Lived Reefback</name>

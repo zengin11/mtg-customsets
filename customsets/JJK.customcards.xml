@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-13</releasedate>
+        <set> v1.4<releasedate>2026-07-17</releasedate>
             <name>jjk</name>
             <longname>jjk</longname>
             <settype>Custom</settype>
@@ -1270,24 +1270,22 @@ Creatures you control have haste.</text>
             </card>
         <card>
             <name>Mahoraga, Eight-Handled Sword</name>
-            <text>Trample
-{x}{g}: Adapt X.  (If this creature has no +1/+1 counters on it, put X +1/+1 counters on it.) 
-Persist  (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a permanent has a +1/+1 counter and a -1/-1 counter on it, remove both.) </text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{r}{g}</manacost>
-                <cmc>5</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Spirit Avatar</type>
-                <pt>5/5</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/S4xSbdJh/Mahoraga-Eight-Handled-Sword-png.png">jjk</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Maki, Heavenly Force</name>
@@ -3324,22 +3322,24 @@ Technique - {3}{b}{b}{b}: Choose a card exiled with Yuta. Until end of turn, he 
             </card>
         <card>
             <name>Mahoraga, The Eight-Handled Sword</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <text>Trample
+{x}{g}: Adapt X.  (If this creature has no +1/+1 counters on it, put X +1/+1 counters on it.) 
+Persist  (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it. If a permanent has a +1/+1 counter and a -1/-1 counter on it, remove both.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
+                <manacost>{4}{rg}</manacost>
+                <cmc>5</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Spirit Avatar</type>
+                <pt>5/5</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/pjT2nq26/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
-            <tablerow>1</tablerow>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Jogo, Volcanic Fury</name>

@@ -1,52 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-13</releasedate>
+        <set> v1.4<releasedate>2026-07-17</releasedate>
             <name>kpdh</name>
             <longname>kpdh</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
-        <card>
-            <name>Arcane Signet Alt</name>
-            <text>{T}: Add one mana of any color in your commander's color identity.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}</manacost>
-                <cmc>2</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gZwQfhY5/Arcane-Signet-Alt-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Gwi-ma, Otherworld King</name>
-            <text>If a player would discard a nonland card, they exile it instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs. When they do, put a +1/+1 counter and a lifelink counter on target Demon.
- Shame -  Whenever an opponent reveals their first card each turn, you may draw a card. If you do, discard a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{b}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>UBR</colors>
-                <coloridentity>UBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon God</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/q3vjsZFH/Gwi-ma-Otherworld-King-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -125,8 +86,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Treasure Token</related>
             <related>Junk Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
@@ -503,7 +464,7 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/kg2VWbVC/Arcane-Signet-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/kg2VWbVC/Arcane-Signet-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1390,23 +1351,23 @@ Enchanted land has “{1}, {T}: Target creature gets +1/+1 until end of turn for
             </card>
         <card>
             <name>Rumi, Cherished Melody</name>
-            <text>Resonate - You gain 2 life. If this is the third time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
+            <text>Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
 Partner—HUNTR/X
 ---
 Prepare Spell — Found Harmony
-{4}{g} Sorcery - Arcane
+{2}{g} Sorcery - Arcane
 Draw a card for each creature you control.
  (While Rumi is prepared, you may cast a copy of this spell. Doing so unprepares her.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{g}</manacost>
-                <cmc>4</cmc>
+                <manacost>{2}{g}</manacost>
+                <cmc>3</cmc>
                 <colors>G</colors>
                 <coloridentity>G</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Legendary Creature - Human Demon Performer</type>
-                <pt>4/4</pt>
+                <pt>3/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
@@ -2069,6 +2030,25 @@ Forecast — {1}{W}, Reveal this creature from your hand: Target creature gains 
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/YTXptcqV/Run-Away-Together-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Arcane Signet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Unknown" picurl="https://i.ibb.co/gZwQfhY5/Arcane-Signet-Alt-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3733,6 +3713,26 @@ Partner - Saja  (You can have two commanders if both have this.) </text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/4gw3wwjS/Abby-Icon-of-Strength-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma, Otherworld King</name>
+            <text>If a player would discard a nonland card, they exile it instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs. When they do, put a +1/+1 counter and a lifelink counter on target Demon.
+ Shame -  Whenever an opponent reveals their first card each turn, you may draw a card. If you do, discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon God</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/q3vjsZFH/Gwi-ma-Otherworld-King-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
