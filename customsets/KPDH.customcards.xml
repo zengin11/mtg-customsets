@@ -9,6 +9,45 @@
         </sets>
     <cards>
         <card>
+            <name>Arcane Signet Alt</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gZwQfhY5/Arcane-Signet-Alt-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma, Otherworld King</name>
+            <text>If a player would discard a nonland card, they exile it instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs. When they do, put a +1/+1 counter and a lifelink counter on target Demon.
+ Shame -  Whenever an opponent reveals their first card each turn, you may draw a card. If you do, discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon God</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/q3vjsZFH/Gwi-ma-Otherworld-King-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -464,7 +503,7 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/kg2VWbVC/Arcane-Signet-png.png">kpdh</set>
+            <set rarity="Unknown" picurl="https://i.ibb.co/kg2VWbVC/Arcane-Signet-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3697,26 +3736,6 @@ Partner - Saja  (You can have two commanders if both have this.) </text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Gwi-ma, Otherworld King</name>
-            <text>If a player would discard a nonland card, they exile it instead. They may cast it later from exile by paying life equal to its mana value in addition to its other costs. When they do, put a +1/+1 counter and a lifelink counter on target Demon.
- Shame -  Whenever an opponent reveals their first card each turn, you may draw a card. If you do, discard a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{b}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>UBR</colors>
-                <coloridentity>UBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon God</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Q3XTnHyh/Gwi-ma-Otherworld-King-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Rumi, Queen of Nightmares</name>
             <text>When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.
 {2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.
@@ -4289,25 +4308,6 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Arcane Signet</name>
-            <text>{T}: Add one mana of any color in your commander's color identity.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}</manacost>
-                <cmc>2</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/LDmSy6FZ/Arcane-Signet-png.png">kpdh</set>
-            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>
