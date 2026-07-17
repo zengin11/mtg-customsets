@@ -1,111 +1,17 @@
 {
   "cards": {
     "ARC": {},
-    "JJK": {
-      "Biomancer's Familiar": "2026-07-17T16:29:07Z",
-      "Blood": "2026-07-17T16:29:07Z",
-      "Bloodline Pretender": "2026-07-17T16:29:07Z",
-      "Bloodthirster": "2026-07-17T16:29:07Z",
-      "Forest": "2026-07-17T16:29:07Z",
-      "Gisela, Blade of Goldnight (Gojo, the Honored One)": "2026-07-17T16:29:07Z",
-      "Island": "2026-07-17T16:29:07Z",
-      "Isshin, Two Heavens as One (Maki, Zen'in Executioner)": "2026-07-17T16:29:07Z",
-      "Mahoraga, The Eight-Handled Sword": "2026-07-17T16:29:07Z",
-      "Mahoraga, The Eight-Handled Sword Alt": "2026-07-17T16:29:07Z",
-      "Mountain": "2026-07-17T16:29:07Z",
-      "Multani, Maro-Sorcerer (Hanami, Maro-Sorcerer)": "2026-07-17T16:29:07Z",
-      "Plains": "2026-07-17T16:29:07Z",
-      "Roaming Throne": "2026-07-17T16:29:07Z",
-      "Servo": "2026-07-17T16:29:07Z",
-      "Swamp": "2026-07-17T16:29:07Z",
-      "Swiftfoot Boots": "2026-07-17T16:29:07Z",
-      "Titan of Littjara": "2026-07-17T16:29:07Z"
-    },
+    "JJK": {},
     "KPDH": {
-      "Arcane Signet": "2026-07-17T16:37:44Z",
-      "Basilisk Collar": "2026-07-17T16:28:50Z",
-      "Blessed Breath": "2026-07-17T16:28:50Z",
-      "Bloodthirsty Conqueror": "2026-07-17T16:28:50Z",
-      "Brutal Deceivers": "2026-07-17T16:28:50Z",
-      "Cabal Therapist": "2026-07-17T16:28:50Z",
-      "Commander's Plate": "2026-07-17T16:37:44Z",
-      "Counterspell Alt \uc8fc\ubb38 \ubb34\ud6a8\ud654": "2026-07-17T16:28:50Z",
-      "Crosis, the Purger (Gwi-ma, Condemning Kaiju)": "2026-07-17T16:28:50Z",
-      "Djinn of Wishes": "2026-07-17T16:28:50Z",
-      "Dragon's Eye Savants": "2026-07-17T16:28:50Z",
-      "Echoing Harmony": "2026-07-17T16:37:44Z",
-      "Eerie Procession": "2026-07-17T16:28:50Z",
-      "Food": "2026-07-17T16:28:50Z",
-      "Food alt Sexy": "2026-07-17T16:28:50Z",
-      "Friendly Neighborhood": "2026-07-17T16:28:50Z",
-      "Glacial Ray": "2026-07-17T16:28:50Z",
-      "Horde Ambusher": "2026-07-17T16:28:50Z",
-      "Hullbreaker Horror": "2026-07-17T16:28:50Z",
-      "Hundred-Talon Strike": "2026-07-17T16:28:50Z",
-      "Imperial Recruiter": "2026-07-17T16:28:50Z",
-      "Into the Fray": "2026-07-17T16:28:50Z",
-      "Junk": "2026-07-17T16:28:50Z",
-      "Legion Angel": "2026-07-17T16:28:50Z",
-      "Legion Angel Alt": "2026-07-17T16:28:50Z",
-      "Lifted by Clouds": "2026-07-17T16:28:50Z",
-      "Martyr of Sands": "2026-07-17T16:28:50Z",
-      "Mistblade Shinobi": "2026-07-17T16:28:50Z",
-      "Mother of Runes": "2026-07-17T16:28:50Z",
-      "Murmurs from Beyond": "2026-07-17T16:28:50Z",
-      "Overblaze": "2026-07-17T16:28:50Z",
-      "Prodder of Sin": "2026-07-17T16:28:50Z",
-      "Psychic Puppetry": "2026-07-17T16:28:50Z",
-      "Recruitment Officer": "2026-07-17T16:28:50Z",
-      "Resonant Arcanists": "2026-07-17T16:28:50Z",
-      "Run Away Together": "2026-07-17T16:37:44Z",
-      "Silver Shroud Costume": "2026-07-17T16:28:50Z",
-      "Sink into Stupor": "2026-07-17T16:37:44Z",
-      "Songwriter's Notebook": "2026-07-17T16:28:50Z",
-      "Soporific Springs": "2026-07-17T16:37:44Z",
-      "Spellseeker": "2026-07-17T16:28:50Z",
-      "Spirit": "2026-07-17T16:28:50Z",
-      "Spirit Alt Derpy": "2026-07-17T16:28:50Z",
-      "Spiritual Visit": "2026-07-17T16:28:50Z",
-      "Stormchaser Chimera": "2026-07-17T16:28:50Z",
-      "Strange Inversion": "2026-07-17T16:28:50Z",
-      "Thoughtcutter Agent": "2026-07-17T16:28:50Z",
-      "Treasure": "2026-07-17T16:28:50Z",
-      "Veil of Secrecy": "2026-07-17T16:28:50Z",
-      "Walker of Secret Ways": "2026-07-17T16:28:50Z",
-      "Watcher of the Roost": "2026-07-17T16:28:50Z",
-      "Weathered Wayfarer": "2026-07-17T16:28:50Z"
+      "Arcane Signet": "2026-07-17T16:43:01Z",
+      "Commander's Plate": "2026-07-17T16:43:01Z",
+      "Echoing Harmony": "2026-07-17T16:43:01Z",
+      "Run Away Together": "2026-07-17T16:43:01Z",
+      "Songwriter's Notebook": "2026-07-17T16:43:01Z"
     },
-    "NGO": {
-      "Amazing Spider-Man": "2026-07-17T16:29:07Z",
-      "Birds of Paradise": "2026-07-17T16:29:07Z",
-      "Fallen Shinobi": "2026-07-17T16:29:07Z",
-      "High Priest of Penance": "2026-07-17T16:29:07Z",
-      "Incubator": "2026-07-17T16:29:07Z",
-      "Kaseto, Orochi Archmage (Scales, Hypnobrai Waymaker)": "2026-07-17T16:29:07Z",
-      "Kodama's Reach": "2026-07-17T16:29:07Z",
-      "Mist-Cloaked Herald": "2026-07-17T16:29:07Z",
-      "Mist-Syndicate Naga": "2026-07-17T16:29:07Z",
-      "Peter Parker": "2026-07-17T16:29:07Z",
-      "Phyrexian": "2026-07-17T16:29:07Z",
-      "Spyglass Siren": "2026-07-17T16:29:07Z",
-      "Topplegeist": "2026-07-17T16:29:07Z",
-      "Tormented Soul": "2026-07-17T16:29:07Z",
-      "Triton Shorestalker": "2026-07-17T16:29:07Z"
-    },
+    "NGO": {},
     "SLA": {},
-    "SUB": {
-      "4546b, Leviathan Wake": "2026-07-17T16:29:07Z",
-      "Ambushing Ghost Leviathan": "2026-07-17T16:29:07Z",
-      "Birds of Paradise": "2026-07-17T16:29:07Z",
-      "Long-Lived Reefback": "2026-07-17T16:29:07Z",
-      "Migrating Sea Treaders": "2026-07-17T16:29:07Z",
-      "Nurturing Sea Emperor": "2026-07-17T16:29:07Z",
-      "Territorial Reaper": "2026-07-17T16:29:07Z",
-      "The Aurora, Plummeting Flame": "2026-07-17T16:29:07Z",
-      "The Neptune, Rising Tide": "2026-07-17T16:37:48Z",
-      "The Sea Emperor, Synaptic Guide": "2026-07-17T16:29:07Z",
-      "Unstoppable Sea Dragon": "2026-07-17T16:29:07Z"
-    },
+    "SUB": {},
     "Z11": {}
   },
   "sets": {
@@ -113,19 +19,19 @@
       "updated": null
     },
     "JJK": {
-      "updated": "2026-07-17T16:29:07Z"
+      "updated": null
     },
     "KPDH": {
-      "updated": "2026-07-17T16:37:44Z"
+      "updated": "2026-07-17T16:43:01Z"
     },
     "NGO": {
-      "updated": "2026-07-17T16:29:07Z"
+      "updated": null
     },
     "SLA": {
       "updated": "2026-06-05T04:24:49Z"
     },
     "SUB": {
-      "updated": "2026-07-17T16:37:48Z"
+      "updated": null
     },
     "Z11": {
       "updated": null

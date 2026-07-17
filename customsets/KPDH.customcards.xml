@@ -86,8 +86,8 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            <related>Junk Token</related>
             <related>Treasure Token</related>
+            <related>Junk Token</related>
             </card>
         <card>
             <name>Cast for Rehearsal</name>
@@ -408,6 +408,25 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/nN5r4yp8/Echoing-Banishment-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Soporific Springs</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7JC3Zv10/Soporific-Springs-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2110,6 +2129,25 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/9QjZjJH/Calibrated-Blast-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Sink into Stupor</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/WvKw99d6/Sink-into-Stupor-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -4306,44 +4344,6 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Soporific Springs</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/7JC3Zv10/Soporific-Springs-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Sink into Stupor</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WvKw99d6/Sink-into-Stupor-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         </cards>
