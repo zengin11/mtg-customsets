@@ -2,7 +2,11 @@
   "cards": {
     "ARC": {},
     "JJK": {},
-    "KPDH": {},
+    "KPDH": {
+      "Eavesdropping Overview": "2026-07-19T12:16:13Z",
+      "Observed Alleyway": "2026-07-19T12:16:13Z",
+      "Rooftop Rendezvous": "2026-07-19T12:16:13Z"
+    },
     "NGO": {},
     "SLA": {},
     "SUB": {},
@@ -16,7 +20,7 @@
       "updated": null
     },
     "KPDH": {
-      "updated": null
+      "updated": "2026-07-19T12:16:13Z"
     },
     "NGO": {
       "updated": null

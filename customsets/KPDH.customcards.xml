@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-18</releasedate>
+        <set> v1.4<releasedate>2026-07-19</releasedate>
             <name>kpdh</name>
             <longname>kpdh</longname>
             <settype>Custom</settype>
@@ -567,7 +567,7 @@ When this land enters, target opponent reveals a card at random from their hand.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/YFdQ9msT/Rooftop-Rendezvous-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/sd4pLxGW/Rooftop-Rendezvous-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -4197,7 +4197,7 @@ When this land enters, target opponent reveals a card at random from their hand.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vxjq96ZB/Observed-Alleyway-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Pp9Nkfx/Observed-Alleyway-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -4417,7 +4417,7 @@ When this land enters, target opponent reveals a card at random from their hand.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LDRy78Sq/Eavesdropping-Overview-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Q7crDpwh/Eavesdropping-Overview-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
