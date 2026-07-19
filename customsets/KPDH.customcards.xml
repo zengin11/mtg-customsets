@@ -9,24 +9,43 @@
         </sets>
     <cards>
         <card>
-            <name>Celine, Trainer of Hunters</name>
-            <text>Double strike
-Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
-Other Warriors you control get +1/+1.</text>
+            <name>Gwi-ma's Scornlurker</name>
+            <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
+ Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{w}{w}{u}</manacost>
+                <manacost>{1}{u}{r}</manacost>
                 <cmc>3</cmc>
-                <colors>WU</colors>
-                <coloridentity>WUR</coloridentity>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
                 <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior</type>
-                <pt>1/2</pt>
+                <type>Creature - Demon</type>
+                <pt>2/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/j9FW9XhD/Celine-Trainer-of-Hunters-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/H0MLcH8/Gwi-ma-s-Scornlurker-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma's Griefchaser</name>
+            <text>Trample, haste
+ Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y48Cm8Yp/Gwi-ma-s-Griefchaser-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1470,6 +1489,27 @@ Splice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this car
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/hJdTSBqH/Lifted-by-Clouds-png.png">kpdh</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Celine, Trainer of Hunters</name>
+            <text>Double strike
+Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
+Other Warriors you control get +1/+1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/j9FW9XhD/Celine-Trainer-of-Hunters-png.png">kpdh</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Gwi-ma's Guiltsapper</name>
@@ -4380,26 +4420,6 @@ When this land enters, scry 1.  (Look at the top card of your library. You may p
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Gwi-ma's Scornlurker</name>
-            <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
- Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/b5q2dDPc/Gwi-ma-s-Scornlurker-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Eavesdropping Overview</name>
             <text>This land enters tapped.
 When this land enters, target opponent reveals a card at random from their hand.
@@ -4518,26 +4538,6 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/tTjH33C7/Basilisk-Collar-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Gwi-ma's Griefchaser</name>
-            <text>Trample, haste
- Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KxRMJ1PS/Gwi-ma-s-Griefchaser-png.png">kpdh</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Collaborative Workshop</name>
