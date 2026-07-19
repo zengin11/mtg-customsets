@@ -321,9 +321,9 @@ ability2:{name:Ability 3,Sacrifice six artifacts: Creatures you control gain fly
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">sub</set>
             <tablerow>1</tablerow>
-            <related>Treasure Token</related>
             <related>Clue Token</related>
             <related>Map Token</related>
+            <related>Treasure Token</related>
             </card>
         <card>
             <name>Long-Lived Reefback</name>
