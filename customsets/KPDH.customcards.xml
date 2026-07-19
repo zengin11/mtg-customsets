@@ -9,6 +9,27 @@
         </sets>
     <cards>
         <card>
+            <name>Celine, Trainer of Hunters</name>
+            <text>Double strike
+Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
+Other Warriors you control get +1/+1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/j9FW9XhD/Celine-Trainer-of-Hunters-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -1449,27 +1470,6 @@ Splice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this car
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/hJdTSBqH/Lifted-by-Clouds-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Celine, Trainer of Hunters</name>
-            <text>Double strike
-Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
-Other Warriors you control get +1/+1.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{w}{w}{u}</manacost>
-                <cmc>3</cmc>
-                <colors>WU</colors>
-                <coloridentity>WUR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior</type>
-                <pt>1/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gLXN2LSp/Celine-Trainer-of-Hunters-png.png">kpdh</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Gwi-ma's Guiltsapper</name>
