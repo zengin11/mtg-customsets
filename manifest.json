@@ -1,16 +1,25 @@
 {
   "cards": {
     "ARC": {},
-    "JJK": {},
+    "JJK": {
+      "Mahoraga, The Eight-Handled Sword": "2026-07-19T20:39:15Z"
+    },
     "KPDH": {
+      "Arcane Signet Alt": "2026-07-19T20:39:12Z",
       "Celine, Trainer of Hunters": "2026-07-19T16:11:28Z",
+      "Command Tower": "2026-07-19T20:39:12Z",
+      "Commander's Plate Alt Huntrix": "2026-07-19T20:39:12Z",
       "Eavesdropping Overview": "2026-07-19T12:16:13Z",
+      "Echoing Harmony Alt": "2026-07-19T20:39:12Z",
       "Gwi-ma's Griefchaser": "2026-07-19T16:35:35Z",
       "Gwi-ma's Scornlurker": "2026-07-19T16:35:35Z",
       "Gwi-ma's Shamegorger": "2026-07-19T15:52:02Z",
       "Jinu, Ashamed Idol": "2026-07-19T14:23:15Z",
       "Observed Alleyway": "2026-07-19T12:16:13Z",
-      "Rooftop Rendezvous": "2026-07-19T12:16:13Z"
+      "Open the Armory": "2026-07-19T20:39:12Z",
+      "Path of Ancestry Alt": "2026-07-19T20:39:12Z",
+      "Rooftop Rendezvous": "2026-07-19T12:16:13Z",
+      "Run Away Together Alt": "2026-07-19T20:39:12Z"
     },
     "NGO": {},
     "SLA": {},
@@ -22,10 +31,10 @@
       "updated": null
     },
     "JJK": {
-      "updated": null
+      "updated": "2026-07-19T20:39:15Z"
     },
     "KPDH": {
-      "updated": "2026-07-19T16:35:35Z"
+      "updated": "2026-07-19T20:39:12Z"
     },
     "NGO": {
       "updated": null

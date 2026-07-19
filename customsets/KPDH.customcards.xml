@@ -9,46 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Gwi-ma's Scornlurker</name>
-            <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
- Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/H0MLcH8/Gwi-ma-s-Scornlurker-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Gwi-ma's Griefchaser</name>
-            <text>Trample, haste
- Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Y48Cm8Yp/Gwi-ma-s-Griefchaser-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -1444,7 +1404,7 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/DHyd6tv8/Open-the-Armory-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DHyd6tv8/Open-the-Armory-png.png">kpdh</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2295,7 +2255,7 @@ Forecast — {1}{W}, Reveal this creature from your hand: Target creature gains 
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Arcane Signet</name>
+            <name>Arcane Signet Alt</name>
             <text>{T}: Add one mana of any color in your commander's color identity.</text>
             <prop>
                 <layout>normal</layout>
@@ -2310,7 +2270,7 @@ Forecast — {1}{W}, Reveal this creature from your hand: Target creature gains 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/gZwQfhY5/Arcane-Signet-Alt-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gZwQfhY5/Arcane-Signet-Alt-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3368,7 +3328,7 @@ Partner—Lost to shame</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/9mwMMvNB/Command-Tower-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/9mwMMvNB/Command-Tower-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -3610,7 +3570,7 @@ Miracle {R}  (You may reveal this card as you draw it if it's the first card you
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Commander's Plate</name>
+            <name>Commander's Plate Alt Huntrix</name>
             <text>Equipped creature gets +3/+3 and has protection from each color that's not in your commander's color identity.
 Equip commander {3}
 Equip {5}</text>
@@ -3627,7 +3587,7 @@ Equip {5}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/XRFDdDR/Commander-s-Plate-Alt-Huntrix-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XRFDdDR/Commander-s-Plate-Alt-Huntrix-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3694,7 +3654,7 @@ Equip - {1}, {t}, Reveal your hand</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Run Away Together</name>
+            <name>Run Away Together Alt</name>
             <text>Choose two target creatures controlled by different players. Return those creatures to their owners' hands.</text>
             <prop>
                 <layout>normal</layout>
@@ -3709,7 +3669,7 @@ Equip - {1}, {t}, Reveal your hand</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/JW7GpQr6/Run-Away-Together-Alt-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/JW7GpQr6/Run-Away-Together-Alt-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3896,7 +3856,7 @@ Whenever this creature deals combat damage to a player, you may return target cr
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Echoing Harmony</name>
+            <name>Echoing Harmony Alt</name>
             <text>Storm
 Splice onto instant or sorcery {2}{u}{r}</text>
             <prop>
@@ -3912,7 +3872,7 @@ Splice onto instant or sorcery {2}{u}{r}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/JjNwf14Z/Echoing-Harmony-Alt-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/JjNwf14Z/Echoing-Harmony-Alt-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -4119,7 +4079,7 @@ Partner—Lost to shame</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Path of Ancestry</name>
+            <name>Path of Ancestry Alt</name>
             <text>This land enters tapped.
 {T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.</text>
             <prop>
@@ -4135,7 +4095,7 @@ Partner—Lost to shame</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Unknown" picurl="https://i.ibb.co/xty6zB5M/Path-of-Ancestry-Alt-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xty6zB5M/Path-of-Ancestry-Alt-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -4420,6 +4380,26 @@ When this land enters, scry 1.  (Look at the top card of your library. You may p
             <tablerow>0</tablerow>
             </card>
         <card>
+            <name>Gwi-ma's Scornlurker</name>
+            <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
+ Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/H0MLcH8/Gwi-ma-s-Scornlurker-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Eavesdropping Overview</name>
             <text>This land enters tapped.
 When this land enters, target opponent reveals a card at random from their hand.
@@ -4538,6 +4518,26 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/tTjH33C7/Basilisk-Collar-png.png">kpdh</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Gwi-ma's Griefchaser</name>
+            <text>Trample, haste
+ Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Y48Cm8Yp/Gwi-ma-s-Griefchaser-png.png">kpdh</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Collaborative Workshop</name>
