@@ -9,28 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Jinu, Ashamed Idol</name>
-            <text>Menace, haste
-Whenever an opponent reveals one or more cards, you gain that much life.
-Whenever Jinu attacks, defending player reveals their hand. Choose a nonland card from it. That player discards that card unless they pay 4 life and have you draw a card.
-Partner—Saja</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{u}{b}{r}</manacost>
-                <cmc>5</cmc>
-                <colors>UBR</colors>
-                <coloridentity>UBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/M5fH8zws/Jinu-Ashamed-Idol-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -1897,6 +1875,28 @@ Performers you control have flying.</text>
             <tablerow>0</tablerow>
             </card>
         <card>
+            <name>Jinu, Ashamed Idol</name>
+            <text>Menace, haste
+Whenever an opponent reveals one or more cards, you gain that much life.
+Whenever Jinu attacks, defending player reveals their hand. Choose a nonland card from it. That player discards that card unless they pay 4 life and have you draw a card.
+Partner—Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{b}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/M5fH8zws/Jinu-Ashamed-Idol-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Guiding Voice</name>
             <text>Put a +1/+1 counter on target creature.
 Learn.  (You may reveal a Lesson card you own from outside the game and put it into your hand, or may discard a card to draw a card.) </text>
@@ -3011,7 +3011,7 @@ Whenever this creature deals combat damage to a player, they reveal their hand.<
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/273g0zt9/Gwi-ma-s-Shamegorger-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hJv9cDQB/Gwi-ma-s-Shamegorger-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
