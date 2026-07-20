@@ -90,6 +90,26 @@ You draw a card at the beginning of the next turn's upkeep.</text>
             <related>Treasure Token</related>
             </card>
         <card>
+            <name>Infernal Scarring</name>
+            <text>Enchant creature
+Enchanted creature gets +2/+0 and has "When this creature dies, draw a card."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Aura</maintype>
+                <type>Enchantment — Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XfSLpg6q/Infernal-Scarring-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Cast for Rehearsal</name>
             <text>Arcane spells you control have rebound.  (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.) </text>
             <prop>
@@ -788,6 +808,26 @@ HUNTR/X gets +1/+0 for each Citizen you control.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Celine, Veteran Reaper</name>
+            <text>Double strike, lifelink, trample
+Whenever Celine attacks, defending player reveals their hand and the top card of their library. You may exile a nonland card from their hand. If you do, that player draws a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Vampire Warrior</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xttMqYgf/Celine-Veteran-Reaper-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Grand Crescendo</name>
             <text>Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.</text>
             <prop>
@@ -1028,6 +1068,26 @@ Splice onto instant or sorcery {4}{w}  (As you cast an instant or sorcery spell,
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/xt8865SY/Scheduled-Thoroughfare-png.png">kpdh</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Riding the Rhythm</name>
+            <text>Reverberate  - Instant and sorcery spells you cast cost {1} less to cast for each color they share with cards you revealed this turn.
+Whenever you cast an instant or sorcery spell, draw a card, then discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zWwbCWyz/Riding-the-Rhythm-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Celine, Trainer of Hunters Alt</name>
@@ -1349,25 +1409,6 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Citizen Alt 2</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Citizen</type>
-                <pt>0/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Resonant Memorial</name>
             <text>As this land enters, you may reveal a card at random from your hand. If you don't, this land enters tapped.
 {t}: Add {r} or {g}.</text>
@@ -1386,6 +1427,26 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/MDRqPf5B/Resonant-Memorial-png.png">kpdh</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Mystery, Show Stealer</name>
+            <text>Shame -  Whenever an opponent reveals their first card or cards each turn, exile a nonland card from among them. You and that player may cast that card for as long as it remains exiled by paying 5 life in addition to its other costs. You may spend mana as though it were mana of any color to cast it.
+Partner—Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{ub}{ub}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zHCf2cvW/Mystery-Show-Stealer-png.png">kpdh</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Open the Armory</name>
@@ -2756,6 +2817,25 @@ Flashback {7}{U}{U}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Mindblaze</name>
+            <text>Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sJj07Q4W/Mindblaze-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
             <name>Djinn of Wishes</name>
             <text>Flying
 This creature enters with three wish counters on it.
@@ -3231,6 +3311,26 @@ At the beginning of your upkeep, reveal cards from the top of your library until
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/QFgTwHsJ/Prodder-of-Sin-png.png">kpdh</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Celine, Veteran Hunter</name>
+            <text>Double strike, vigilance, trample
+Whenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>WUR</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4nTn6R3c/Celine-Veteran-Hunter-png.png">kpdh</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Blasphemous Act</name>
@@ -3812,6 +3912,25 @@ Equip - {1}, {t}, Reveal your hand</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/CKWDYyCL/Zoey-s-Shin-kal-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Sunlight Seekers</name>
+            <text>{2}{G}: This creature explores. Activate only as a sorcery.  (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Scout</maintype>
+                <type>Creature — Human Citizen Scout</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTkRMSVT/Sunlight-Seekers-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -4912,66 +5031,6 @@ Whenever you cast a spell, choose up to one —
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Infernal Scarring</name>
-            <text>Enchant creature
-Enchanted creature gets +2/+0 and has "When this creature dies, draw a card."</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{B}</manacost>
-                <cmc>2</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Aura</maintype>
-                <type>Enchantment — Aura</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XfSLpg6q/Infernal-Scarring-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Celine, Veteran Reaper</name>
-            <text>Double strike, lifelink, trample
-Whenever Celine attacks, defending player reveals their hand and the top card of their library. You may exile a nonland card from their hand. If you do, that player draws a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{b}{b}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>BR</colors>
-                <coloridentity>BR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Vampire Warrior</type>
-                <pt>2/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xttMqYgf/Celine-Veteran-Reaper-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Riding the Rhythm</name>
-            <text>Reverberate  - Instant and sorcery spells you cast cost {1} less to cast for each color they share with cards you revealed this turn.
-Whenever you cast an instant or sorcery spell, draw a card, then discard a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}</manacost>
-                <cmc>2</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zWwbCWyz/Riding-the-Rhythm-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Citizen Alt 2</name>
             <text />
             <prop>
@@ -4989,103 +5048,6 @@ Whenever you cast an instant or sorcery spell, draw a card, then discard a card.
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Mystery, Show Stealer</name>
-            <text>Shame -  Whenever an opponent reveals their first card or cards each turn, exile a nonland card from among them. You and that player may cast that card for as long as it remains exiled by paying 5 life in addition to its other costs. You may spend mana as though it were mana of any color to cast it.
-Partner—Saja</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{ub}{ub}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zHCf2cvW/Mystery-Show-Stealer-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Citizen Alt 2</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Citizen</type>
-                <pt>0/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Mindblaze</name>
-            <text>Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{5}{R}</manacost>
-                <cmc>6</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sJj07Q4W/Mindblaze-png.png">kpdh</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Celine, Veteran Hunter</name>
-            <text>Double strike, vigilance, trample
-Whenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}{w}</manacost>
-                <cmc>4</cmc>
-                <colors>WUR</colors>
-                <coloridentity>WUR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior</type>
-                <pt>2/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4nTn6R3c/Celine-Veteran-Hunter-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Sunlight Seekers</name>
-            <text>{2}{G}: This creature explores. Activate only as a sorcery.  (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{G}</manacost>
-                <cmc>1</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Scout</maintype>
-                <type>Creature — Human Citizen Scout</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RTkRMSVT/Sunlight-Seekers-png.png">kpdh</set>
-            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>
