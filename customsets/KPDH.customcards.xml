@@ -1676,25 +1676,6 @@ Draw a card for each creature you control.
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Citizen Alt 2</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Citizen</type>
-                <pt>0/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qYckxM12/Citizen-Alt-2-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Recruitment Officer</name>
             <text>{3}{W}: Look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
             <prop>
@@ -4789,7 +4770,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yBc8r35L/Citizen-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/LhhFcgHp/Citizen-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -5012,7 +4993,7 @@ Whenever you cast a spell, choose up to one —
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Citizen Alt 2</name>
+            <name>Citizen Alt Sob</name>
             <text />
             <prop>
                 <layout>normal</layout>
@@ -5027,7 +5008,26 @@ Whenever you cast a spell, choose up to one —
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qYckxM12/Citizen-Alt-2-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xtdS6KNy/Citizen-Alt-Sob-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Citizen Alt Tattoo</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Dg8H4MRz/Citizen-Alt-Tattoo-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         </cards>
