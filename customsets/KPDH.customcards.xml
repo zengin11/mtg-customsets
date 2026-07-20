@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-19</releasedate>
+        <set> v1.4<releasedate>2026-07-20</releasedate>
             <name>kpdh</name>
             <longname>kpdh</longname>
             <settype>Custom</settype>
@@ -70,7 +70,7 @@ You draw a card at the beginning of the next turn's upkeep.</text>
             </card>
         <card>
             <name>Songwriter's Notebook</name>
-            <text>{t}: Reveal the top card of your library. If it's a creature card, create a 0/1 white Citizen creature token. If it's a land card, create a tapped Treasure token. If it's a noncreature, nonland card, create a tapped Junk token.</text>
+            <text>{t}: Reveal the top card of your library. If it's a creature card, create a tapped 1/1 green and white Citizen creature token. If it's a land card, create a tapped Treasure token. If it's a noncreature, nonland card, create a tapped Junk token.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -84,7 +84,7 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5XRdYw5W/Songwriter-s-Notebook-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/wZ7cBRP4/Songwriter-s-Notebook-png.png">kpdh</set>
             <tablerow>1</tablerow>
             <related>Junk Token</related>
             <related>Treasure Token</related>
@@ -333,13 +333,13 @@ Partner—HUNTR/X</text>
         <card>
             <name>Soulbound Reinforcements</name>
             <text>Choose one - 
-•  Reveal your hand. Create a 0/1 white Citizen creature token for each card you revealed this turn.
-•  Target opponent reveals their hand. Create a 1/1 red Demon creature token. Put a +1/+1 counter on it for each card that opponent revealed this turn.</text>
+•  Reveal your hand. Create a 1/1 green and Citizen creature token for each card you revealed this turn.
+•  Each opponent reveals their hand. Create a 1/1 red Demon creature token. Put a +1/+1 counter on it for each card your opponents revealed this turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{4}{u}{u}</manacost>
-                <cmc>6</cmc>
+                <manacost>{5}{u}{u}</manacost>
+                <cmc>7</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
                 <maintype>Instant</maintype>
@@ -348,7 +348,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CpyBfPc7/Soulbound-Reinforcements-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TJQYvdS/Soulbound-Reinforcements-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -551,8 +551,7 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
             </card>
         <card>
             <name>Rooftop Rendezvous</name>
-            <text>This land enters tapped.
-When this land enters, target opponent reveals a card at random from their hand.
+            <text>As this land enters, choose a nonbasic card name. Target opponent reveals their hand. If they didn't reveal the named card, this land enters tapped. 
 {t}: Add {u} or {r}.</text>
             <prop>
                 <layout>normal</layout>
@@ -770,7 +769,7 @@ Flashback {3}{U}{R}  (You may cast this card from your graveyard for its flashba
         <card>
             <name>HUNTR/X, Ft. the Fans</name>
             <text>First strike, vigilance, reach
-Resonate - Create a 0/1 white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
+Resonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
 HUNTR/X gets +1/+0 for each Citizen you control.</text>
             <prop>
                 <layout>normal</layout>
@@ -785,7 +784,7 @@ HUNTR/X gets +1/+0 for each Citizen you control.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/bRvRt5rd/HUNTR-X-Ft-the-Fans-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qYpPVKn8/HUNTR-X-Ft-the-Fans-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -847,7 +846,7 @@ HUNTR/X gets +1/+0 for each Citizen you control.</text>
             </card>
         <card>
             <name>Support Crew</name>
-            <text>When this creature enters, create two 0/1 white Citizen creature tokens.
+            <text>When this creature enters, create two 1/1 green and Citizen creature tokens.
 Creatures you control have exalted.  (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.) 
 Miracle {1}{w}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
             <prop>
@@ -859,11 +858,11 @@ Miracle {1}{w}  (You may reveal this card as you draw it if it's the first card 
                 <coloridentity>W</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Creature - Human Advisor Citizen</type>
-                <pt>2/3</pt>
+                <pt>1/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HpGB7Vzg/Support-Crew-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/RknDvrMf/Support-Crew-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1153,7 +1152,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
             </card>
         <card>
             <name>HUNTR/X, Feast of the Fans</name>
-            <text>Shame  - Whenever an opponent reveals their first card each turn, create a 0/1 white Human Citizen creature token.
+            <text>Shame  - Whenever an opponent reveals their first card each turn, create a tapped 1/1 green and Human Citizen creature token.
 {b}, Sacrifice a creature: You gain 2 life. Put a +1/+1 counter on target creature. It's a Demon with lifelink as long as it has a +1/+1 counter on it.</text>
             <prop>
                 <layout>normal</layout>
@@ -1168,7 +1167,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dwMR2p5m/HUNTR-X-Feast-of-the-Fans-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/q3Tj4Sch/HUNTR-X-Feast-of-the-Fans-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1350,7 +1349,7 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Citizen alt 3</name>
+            <name>Citizen Alt 2</name>
             <text />
             <prop>
                 <layout>normal</layout>
@@ -1365,7 +1364,7 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xS3mH1GN/Citizen-alt-3-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1616,7 +1615,7 @@ Draw a card for each creature you control.
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Citizen alt 3</name>
+            <name>Citizen Alt 2</name>
             <text />
             <prop>
                 <layout>normal</layout>
@@ -1631,7 +1630,7 @@ Draw a card for each creature you control.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xS3mH1GN/Citizen-alt-3-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1694,7 +1693,7 @@ You may choose new targets for target spell or ability.</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Citizen alt 3</name>
+            <name>Citizen Alt 2</name>
             <text />
             <prop>
                 <layout>normal</layout>
@@ -1709,7 +1708,7 @@ You may choose new targets for target spell or ability.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xS3mH1GN/Citizen-alt-3-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1876,9 +1875,9 @@ Performers you control have flying.</text>
             </card>
         <card>
             <name>Jinu, Ashamed Idol</name>
-            <text>Menace, haste
-Whenever an opponent reveals one or more cards, you gain that much life.
-Whenever Jinu attacks, defending player reveals their hand. Choose a nonland card from it. That player discards that card unless they pay 4 life and have you draw a card.
+            <text>Flying, menace
+ Shame -  Whenever an opponent reveals their first card each turn, you gain 2 life.
+Whenever Jinu attacks, each opponent reveals their hand. You choose a nonland card from each. Each chosen cards' owner discards it unless they have you draw a card.
 Partner—Saja</text>
             <prop>
                 <layout>normal</layout>
@@ -2995,9 +2994,9 @@ Splice onto Arcane—Return a blue creature you control to its owner's hand.  (A
             </card>
         <card>
             <name>Gwi-ma's Shamegorger</name>
-            <text>Trample, haste
- Shame  - Whenever an opponent reveals their first card each turn, this creature deals 1 damage to each opponent and each non-Demon creature.
-Whenever this creature deals combat damage to a player, they reveal their hand.</text>
+            <text>Trample
+ Shame  - Whenever an opponent reveals their first card or cards each turn, you gain X life, where X is the greatest mana value among those cards. Each opponent loses 2 life.
+Whenever this creature deals combat damage to a player, each opponent reveals that many cards from the top of their library.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3011,7 +3010,7 @@ Whenever this creature deals combat damage to a player, they reveal their hand.<
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hJv9cDQB/Gwi-ma-s-Shamegorger-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/FbG0bB2k/Gwi-ma-s-Shamegorger-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3038,7 +3037,7 @@ Partner—HUNTR/X</text>
         <card>
             <name>HUNTR_X, Ft. the Fans Promo</name>
             <text>First strike, vigilance, reach
-Resonate - Create a 0/1 white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
+Resonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
 HUNTR/X gets +1/+0 for each Citizen you control.</text>
             <prop>
                 <layout>normal</layout>
@@ -3328,7 +3327,7 @@ Partner—Lost to shame</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9mwMMvNB/Command-Tower-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/WpKkwQ1f/Command-Tower-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -3776,7 +3775,7 @@ Partner—HUNTR/X</text>
         <card>
             <name>Gwi-ma's Mindraker</name>
             <text>Lifelink  (Damage dealt by this creature also causes you to gain that much life.) 
-Whenever a player casts a spell, if they've revealed a card this turn, you may counter that spell unless they pay {1}. When they pay, you gain 1 life.</text>
+Whenever a player casts a spell, if they've revealed a card this turn, you may counter that spell unless they pay {2}. When they pay, you gain 2 life.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3790,7 +3789,7 @@ Whenever a player casts a spell, if they've revealed a card this turn, you may c
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zV82C5Gz/Gwi-ma-s-Mindraker-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5xxKswt6/Gwi-ma-s-Mindraker-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -4181,8 +4180,7 @@ If you've revealed a blue card this turn, scry 1, then draw a card.</text>
             </card>
         <card>
             <name>Observed Alleyway</name>
-            <text>This land enters tapped.
-When this land enters, target opponent reveals a card at random from their hand.
+            <text>As this land enters, choose a nonbasic card name. Target opponent reveals their hand. If they didn't reveal the named card, this land enters tapped. 
 {t}: Add {u} or {b}.</text>
             <prop>
                 <layout>normal</layout>
@@ -4224,7 +4222,7 @@ Partner—Saja  (You can have two commanders if both have this.) </text>
         <card>
             <name>Gwi-ma, Otherworld King</name>
             <text>Other Demons you control have lifelink.
- Shame -  Whenever an opponent reveals their first card each turn, exile the top card of their library with a shame counter on it. You may play it for as long as it remains exiled by paying life in addition to its other costs, and you may spend mana as though it were mana of any color to cast it.</text>
+ Shame -  Whenever an opponent reveals their first card each turn, exile the top card of their library with a shame counter on it. You may play it for as long as it remains exiled by paying life equal to its mana value in addition to its other costs, and you may spend mana as though it were mana of any color to cast it.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -4234,11 +4232,11 @@ Partner—Saja  (You can have two commanders if both have this.) </text>
                 <coloridentity>UBR</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Legendary Creature - Demon God</type>
-                <pt>4/4</pt>
+                <pt>2/6</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/FbSTLydX/Gwi-ma-Otherworld-King-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Fk1NbZqg/Gwi-ma-Otherworld-King-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -4382,7 +4380,7 @@ When this land enters, scry 1.  (Look at the top card of your library. You may p
         <card>
             <name>Gwi-ma's Scornlurker</name>
             <text>Skulk  (This creature can't be blocked by creatures with greater power.) 
- Shame -  Whenever an opponent reveals their first card each turn, creatures you control get +1/+1 until end of turn.</text>
+ Shame -  Whenever an opponent reveals their first card each turn, target creature can't be blocked this turn and creatures you control get +1/+1 until end of turn. </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -4401,8 +4399,7 @@ When this land enters, scry 1.  (Look at the top card of your library. You may p
             </card>
         <card>
             <name>Eavesdropping Overview</name>
-            <text>This land enters tapped.
-When this land enters, target opponent reveals a card at random from their hand.
+            <text>As this land enters, choose a nonbasic card name. Target opponent reveals their hand. If they didn't reveal the named card, this land enters tapped. 
 {t}: Add {b} or {r}.</text>
             <prop>
                 <layout>normal</layout>
@@ -4522,7 +4519,7 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
         <card>
             <name>Gwi-ma's Griefchaser</name>
             <text>Trample, haste
- Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain trample and haste until end of turn.</text>
+ Shame -  Whenever an opponent reveals their first card each turn, other creatures you control get +1/+1 and gain trample and haste until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -4561,23 +4558,22 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
             </card>
         <card>
             <name>Mystery, Silencer of Secrets</name>
-            <text>Shame -  Whenever an opponent reveals their first card or cards each turn, choose a nonland card from among them and exile it. You and that player may cast that card for as long as it remains exiled. You may spend mana as though it were mana of any color to cast it.
-Partner—Saja</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{ub}{ub}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>2/2</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/PzWc5v3d/Mystery-Silencer-of-Secrets-png.png">kpdh</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Twiddle</name>
@@ -4693,7 +4689,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WNDfS32H/Citizen-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/yBc8r35L/Citizen-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -4913,6 +4909,182 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Infernal Scarring</name>
+            <text>Enchant creature
+Enchanted creature gets +2/+0 and has "When this creature dies, draw a card."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Aura</maintype>
+                <type>Enchantment — Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XfSLpg6q/Infernal-Scarring-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Celine, Veteran Reaper</name>
+            <text>Double strike, lifelink, trample
+Whenever Celine attacks, defending player reveals their hand and the top card of their library. You may exile a nonland card from their hand. If you do, that player draws a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{b}{b}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Vampire Warrior</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xttMqYgf/Celine-Veteran-Reaper-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Riding the Rhythm</name>
+            <text>Reverberate  - Instant and sorcery spells you cast cost {1} less to cast for each color they share with cards you revealed this turn.
+Whenever you cast an instant or sorcery spell, draw a card, then discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zWwbCWyz/Riding-the-Rhythm-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Citizen Alt 2</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mystery, Show Stealer</name>
+            <text>Shame -  Whenever an opponent reveals their first card or cards each turn, exile a nonland card from among them. You and that player may cast that card for as long as it remains exiled by paying 5 life in addition to its other costs. You may spend mana as though it were mana of any color to cast it.
+Partner—Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{ub}{ub}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zHCf2cvW/Mystery-Show-Stealer-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Citizen Alt 2</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mindblaze</name>
+            <text>Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sJj07Q4W/Mindblaze-png.png">kpdh</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Celine, Veteran Hunter</name>
+            <text>Double strike, vigilance, trample
+Whenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>WUR</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4nTn6R3c/Celine-Veteran-Hunter-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sunlight Seekers</name>
+            <text>{2}{G}: This creature explores. Activate only as a sorcery.  (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Scout</maintype>
+                <type>Creature — Human Citizen Scout</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTkRMSVT/Sunlight-Seekers-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         </cards>
