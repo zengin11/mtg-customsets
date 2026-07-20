@@ -1691,7 +1691,7 @@ Draw a card for each creature you control.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qYckxM12/Citizen-Alt-2-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1752,25 +1752,6 @@ You may choose new targets for target spell or ability.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/9HWpPmFD/Deflecting-Swat-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Citizen Alt 2</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Citizen</type>
-                <pt>0/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Blessed Breath</name>
@@ -5046,7 +5027,7 @@ Whenever you cast a spell, choose up to one —
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ZqBfzRW/Citizen-Alt-2-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qYckxM12/Citizen-Alt-2-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         </cards>
