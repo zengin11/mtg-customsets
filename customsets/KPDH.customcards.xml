@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-20</releasedate>
+        <set> v1.4<releasedate>2026-07-22</releasedate>
             <name>kpdh</name>
             <longname>kpdh</longname>
             <settype>Custom</settype>
@@ -546,7 +546,7 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/k2gm4mRK/Command-Tower-Alt-png.png">kpdh</set>
+            <set rarity="NA" picurl="https://i.ibb.co/SDhVQM9G/Command-Tower-Alt-png.png">kpdh</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -2336,6 +2336,25 @@ Splice onto Arcane {2}{r}{r}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Citizen Alt Sob</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xtdS6KNy/Citizen-Alt-Sob-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Mira, Blade Dancer Promo</name>
             <text>Resonate - Put a +1/+1 counter on Mira.  (Do so whenever an effect has you reveal one or more cards.) 
 Mira has trample as long as you've revealed a card from your hand this turn.
@@ -3936,6 +3955,25 @@ Whenever this creature deals combat damage to a player, you may return target cr
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Citizen Alt Tattoo</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Token Creature - Citizen</type>
+                <pt>0/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Dg8H4MRz/Citizen-Alt-Tattoo-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Echoing Harmony Alt</name>
             <text>Storm
 Splice onto instant or sorcery {2}{u}{r}</text>
@@ -4991,44 +5029,6 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Citizen Alt Sob</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Citizen</type>
-                <pt>0/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xtdS6KNy/Citizen-Alt-Sob-png.png">kpdh</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Citizen Alt Tattoo</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Token Creature - Citizen</type>
-                <pt>0/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Dg8H4MRz/Citizen-Alt-Tattoo-png.png">kpdh</set>
-            <tablerow>2</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>
