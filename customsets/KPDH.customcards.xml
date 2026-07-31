@@ -1,13 +1,94 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-25</releasedate>
+        <set> v1.4<releasedate>2026-07-31</releasedate>
             <name>kpdh</name>
             <longname>kpdh</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Scepter of Celebration</name>
+            <text>Equipped creature gets +2/+0 and has trample.
+Whenever equipped creature deals combat damage to a player, create that many 1/1 green and white Citizen creature tokens.
+Equip {3}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZzRgGdYM/Scepter-of-Celebration-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Warm Welcome</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mCJqd6kG/Warm-Welcome-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Harmonized Crescendo</name>
+            <text>Convoke  (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) 
+Choose a creature type. Draw a card for each permanent you control of that type.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{U}{U}</manacost>
+                <cmc>6</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/V0F3JhK7/Harmonized-Crescendo-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Ceremonial Groundbreaker</name>
+            <text>Equipped creature gets +2/+1 and has trample.
+Equip Citizen {1}
+Equip {3}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Kcxdyr1z/Ceremonial-Groundbreaker-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -369,6 +450,25 @@ Partner—HUNTR/X</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/TJQYvdS/Soulbound-Reinforcements-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Cheering Crowd</name>
+            <text>At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R/G}</manacost>
+                <cmc>2</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Citizen</maintype>
+                <type>Creature — Human Citizen</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/przwcJjG/Cheering-Crowd-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -787,6 +887,27 @@ Flashback {3}{U}{R}  (You may cast this card from your graveyard for its flashba
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Halo Fountain</name>
+            <text>{W}, {T}, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token.
+{W}{W}, {T}, Untap two tapped creatures you control: Draw a card.
+{W}{W}{W}{W}{W}, {T}, Untap fifteen tapped creatures you control: You win the game.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/kVj1VDFJ/Halo-Fountain-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>HUNTR/X, Ft. the Fans</name>
             <text>First strike, vigilance, reach
 Resonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
@@ -844,6 +965,27 @@ Whenever Celine attacks, defending player reveals their hand and the top card of
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/XnrM2kL/Grand-Crescendo-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Halo Fountain Alt</name>
+            <text>{W}, {T}, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token.
+{W}{W}, {T}, Untap two tapped creatures you control: Draw a card.
+{W}{W}{W}{W}{W}, {T}, Untap fifteen tapped creatures you control: You win the game.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hRn3w4nz/Halo-Fountain-Alt-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1068,6 +1210,25 @@ Splice onto instant or sorcery {4}{w}  (As you cast an instant or sorcery spell,
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/xt8865SY/Scheduled-Thoroughfare-png.png">kpdh</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Raucous Audience</name>
+            <text>{T}: Add {G}. If you control a creature with power 4 or greater, add {G}{G} instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Citizen</maintype>
+                <type>Creature — Human Citizen</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/d02nDRy2/Raucous-Audience-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Riding the Rhythm</name>
@@ -1612,6 +1773,25 @@ Enchanted land has "{1}, {T}: Target creature gets +1/+1 until end of turn for e
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Dakra Mystic</name>
+            <text>{U}, {T}: Each player reveals the top card of their library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Wizard</maintype>
+                <type>Creature — Merfolk Wizard</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Lm8P61S/Dakra-Mystic-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Rumi, Cherished Melody</name>
             <text>Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
 Partner—HUNTR/X
@@ -1635,6 +1815,26 @@ Draw a card for each creature you control.
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/dwCNPs7M/Rumi-Cherished-Melody-png.png">kpdh</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Darling of the Masses</name>
+            <text>Other Citizens you control get +1/+0.
+Whenever this creature attacks, create a 1/1 green and white Citizen creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Citizen</maintype>
+                <type>Creature — Elf Citizen</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NgKx8Rb4/Darling-of-the-Masses-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Forest</name>
@@ -1978,6 +2178,31 @@ Once each turn when a player reveals one or more nonland cards from their hand, 
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/yn2p3bhP/Shaper-of-the-Pride-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Jinu, Inquisitory Idol</name>
+            <text>Shame -  Whenever an opponent reveals their first card or cards each turn, choose one matching a color among the revealed cards —
+ • White — Put a +1/+1 counter on Jinu.
+ • Blue — Surveil 3.
+ • Black — That player sacrifices a creature.
+ • Red — That player loses 3 life.
+ • Green — You gain 5 life.
+Partner—Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{ub}{b}{br}</manacost>
+                <cmc>3</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/F4YLs3ms/Jinu-Inquisitory-Idol-png.png">kpdh</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3712,6 +3937,26 @@ Miracle {u}  (You may reveal this card as you draw it if it's the first card you
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Rumi and Jinu, Idyllic</name>
+            <text>Permanents you control have "Ward—Reveal your hand."
+ Shame Unveiled  - Whenever an opponent reveals their first card each turn, reveal the top card of your library, put it into your hand, then discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{bu}{ru}{gu}{wu}</manacost>
+                <cmc>4</cmc>
+                <colors>WUBRG</colors>
+                <coloridentity>WUBRG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Demon Performer</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DDn6S0Dm/Rumi-and-Jinu-Idyllic-png.png">kpdh</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Mira's Gok-do</name>
             <text>Equipped creature gets +2/+2 and has first strike.
 If you've revealed a red card this turn, equipped creature has haste.
@@ -3913,6 +4158,27 @@ Equip - {1}, {t}, Reveal your hand</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/RTkRMSVT/Sunlight-Seekers-png.png">kpdh</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Jinu, Living in your Mind</name>
+            <text>Flying, menace, lifelink
+ Shame -  Whenever an opponent reveals their first card each turn, they lose 2 life.
+Whenever Jinu attacks, each opponent reveals their hand. You choose a nonland card from each. Each chosen cards' owner discards it unless they have you draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{b}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>3/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4ZJcgjvS/Jinu-Living-in-your-Mind-png.png">kpdh</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Mystic Monastery</name>
@@ -4236,6 +4502,25 @@ Partner—Lost to shame</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Mystic Visionaries</name>
+            <text>{U}, {T}: Each player reveals the top card of their library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Druid</maintype>
+                <type>Creature — Human Demon Druid</type>
+                <pt>{fontcolorwhite}1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9mCMt98V/Mystic-Visionaries-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Walker of Secret Ways</name>
             <text>Ninjutsu {1}{U}  ({1}{U}, Reveal this card from your hand, Return an unblocked attacker you control to hand: Put this card onto the battlefield tapped and attacking.) 
 Whenever this creature deals combat damage to a player, look at that player's hand.
@@ -4316,6 +4601,25 @@ If you've revealed a blue card this turn, scry 1, then draw a card.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Pp9Nkfx/Observed-Alleyway-png.png">kpdh</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Supportive Parents</name>
+            <text>Tap two untapped creatures you control: Add one mana of any color.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Citizen</maintype>
+                <type>Creature — Human Citizen</type>
+                <pt>{fontcolorwhite}3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RTTQwcnx/Supportive-Parents-png.png">kpdh</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Abby, Icon of Strength</name>
@@ -4930,6 +5234,27 @@ Partner—HUNTR/X</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Instrument of the Bards</name>
+            <text>At the beginning of your upkeep, you may put a harmony counter on Instrument of the Bards.
+{3}{G}, {T}: Search your library for a creature card with mana value equal to the number of harmony counters on Instrument of the Bards, reveal it, and put it into your hand. If that card is legendary, create a Treasure token. Then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gZ4cdzyv/Instrument-of-the-Bards-png.png">kpdh</set>
+            <tablerow>1</tablerow>
+            <related>Treasure Token</related>
+            </card>
+        <card>
             <name>Frostboil Snarl</name>
             <text>As this land enters, you may reveal an Island or Mountain card from your hand. If you don't, this land enters tapped.
 {T}: Add {U} or {R}.</text>
@@ -5028,234 +5353,6 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Cheering Crowd</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/przwcJjG/Cheering-Crowd-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Halo Fountain</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/kVj1VDFJ/Halo-Fountain-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Halo Fountain Alt</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hRn3w4nz/Halo-Fountain-Alt-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Raucous Audience</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/d02nDRy2/Raucous-Audience-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Dakra Mystic</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Lm8P61S/Dakra-Mystic-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Darling of the Masses</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/NgKx8Rb4/Darling-of-the-Masses-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Jinu, Inquisitory Idol</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/F4YLs3ms/Jinu-Inquisitory-Idol-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Rumi and Jinu, Idyllic</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DDn6S0Dm/Rumi-and-Jinu-Idyllic-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Jinu, Living in your Mind</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4ZJcgjvS/Jinu-Living-in-your-Mind-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Mystic Visionaries</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9mCMt98V/Mystic-Visionaries-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Supportive Parents</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RTTQwcnx/Supportive-Parents-png.png">kpdh</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Instrument of the Bards</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gZ4cdzyv/Instrument-of-the-Bards-png.png">kpdh</set>
             <tablerow>1</tablerow>
             </card>
         </cards>

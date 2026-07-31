@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-25</releasedate>
+        <set> v1.4<releasedate>2026-07-31</releasedate>
             <name>sub</name>
             <longname>sub</longname>
             <settype>Custom</settype>
@@ -407,6 +407,44 @@ Partner—All Systems Online</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/ZpDb5PDg/The-Seamoth-Wayfinder-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Airship Crash</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Kp4mh1FD/Airship-Crash-png.png">sub</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Ventgarden</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Kc9gjdMB/Ventgarden-png.png">sub</set>
             <tablerow>1</tablerow>
             </card>
         </cards>

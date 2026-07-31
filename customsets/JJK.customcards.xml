@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-25</releasedate>
+        <set> v1.4<releasedate>2026-07-31</releasedate>
             <name>jjk</name>
             <longname>jjk</longname>
             <settype>Custom</settype>
@@ -1182,6 +1182,25 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/dJ1ZL4Yj/Forest-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Deflecting Swat</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/G46K7Jd7/Deflecting-Swat-png.png">jjk</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3380,6 +3399,25 @@ Whenever Jogo attacks, he gets +1/+0 until end of turn for each attacking creatu
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Overkill</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xSFkZj7W/Overkill-png.png">jjk</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Kurourushi, Cursed Roach</name>
             <text>Haste, trample
 Technique - {3}{b}{g}: Create a 1/1 black and green Insect creature token with flying. Populate.  (Whenever Kurourushi attacks, you may activate his technique once for free.) 
@@ -3638,44 +3676,6 @@ When this enchantment leaves the battlefield, untap all lands you control.</text
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Y4RpxDkK/Spirit-Jellyfish-png.png">jjk</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Deflecting Swat</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/G46K7Jd7/Deflecting-Swat-png.png">jjk</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Overkill</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xSFkZj7W/Overkill-png.png">jjk</set>
-            <tablerow>1</tablerow>
             </card>
         </cards>
     </cockatrice_carddatabase>
