@@ -1,6 +1,9 @@
 {
   "cards": {
     "ARC": {},
+    "BTL": {
+      "Dedicated Roboticist": "2026-08-22T15:25:48Z"
+    },
     "JJK": {
       "Deflecting Swat": "2026-07-25T20:56:04Z",
       "Mahoraga, The Eight-Handled Sword": "2026-07-19T20:39:15Z",
@@ -72,6 +75,9 @@
   "sets": {
     "ARC": {
       "updated": null
+    },
+    "BTL": {
+      "updated": "2026-08-22T15:25:48Z"
     },
     "JJK": {
       "updated": "2026-07-25T20:56:04Z"
