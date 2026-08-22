@@ -2,8 +2,8 @@
 <cockatrice_carddatabase version="4">
     <sets>
         <set> v1.4<releasedate>2026-08-22</releasedate>
-            <name>btl</name>
-            <longname>btl</longname>
+            <name>BTL</name>
+            <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
             </set>
         </sets>
@@ -25,7 +25,7 @@ Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/Kpx6qPqR/Dedicated-Roboticist-png.png">btl</set>
+            <set rarity="Common" picurl="https://i.ibb.co/9dL4KhJ/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         </cards>

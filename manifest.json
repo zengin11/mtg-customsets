@@ -2,7 +2,7 @@
   "cards": {
     "ARC": {},
     "BTL": {
-      "Dedicated Roboticist": "2026-08-22T15:25:48Z"
+      "Dedicated Roboticist": "2026-08-22T15:48:17Z"
     },
     "JJK": {
       "Deflecting Swat": "2026-07-25T20:56:04Z",
@@ -77,7 +77,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-22T15:25:48Z"
+      "updated": "2026-08-22T15:48:17Z"
     },
     "JJK": {
       "updated": "2026-07-25T20:56:04Z"
@@ -99,6 +99,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-22T14:43:31Z"
+    "updated": "2026-08-22T15:25:45Z"
   }
 }
