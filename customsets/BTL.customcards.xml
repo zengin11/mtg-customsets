@@ -64,7 +64,7 @@ Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Xf8h6BB1/Victory-of-CW14-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/dsSnBmGk/Victory-of-CW14-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">Aerial Siege of CW14</related>
             </card>
