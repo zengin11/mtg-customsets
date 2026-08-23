@@ -2,9 +2,9 @@
   "cards": {
     "ARC": {},
     "BTL": {
-      "Aerial Siege of CW14": "2026-08-23T03:42:25Z",
+      "Aerial Siege of CW14": "2026-08-23T03:44:46Z",
       "Dedicated Roboticist": "2026-08-23T01:58:33Z",
-      "Victory of CW14": "2026-08-23T03:42:25Z"
+      "Victory of CW14": "2026-08-23T03:44:46Z"
     },
     "JJK": {
       "Deflecting Swat": "2026-07-25T20:56:04Z",
@@ -79,7 +79,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-23T03:42:25Z"
+      "updated": "2026-08-23T03:44:46Z"
     },
     "JJK": {
       "updated": "2026-07-25T20:56:04Z"
@@ -101,6 +101,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-23T03:36:30Z"
+    "updated": "2026-08-23T03:42:20Z"
   }
 }

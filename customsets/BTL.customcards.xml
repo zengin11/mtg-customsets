@@ -9,6 +9,26 @@
         </sets>
     <cards>
         <card>
+            <name>Aerial Siege of CW14</name>
+            <text>When this Siege enters, destroy up to one target Vehicle or tapped creature.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Aerial Siege</type>
+                <pt>3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/h1Wzj88c/Aerial-Siege-of-CW14-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Victory of CW14</related>
+            </card>
+        <card>
             <name>Dedicated Roboticist</name>
             <text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
 Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
@@ -29,26 +49,6 @@ Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Aerial Siege of CW14</name>
-            <text>When this Siege enters, destroy up to one target Vehicle or tapped creature.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{1}{W}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Aerial Siege</type>
-                <pt>3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gb0N5RQ6/Aerial-Siege-of-CW14-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of CW14</related>
-            </card>
-        <card>
             <name>Victory of CW14</name>
             <text>Proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) </text>
             <prop>
@@ -64,7 +64,7 @@ Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4Zyss50b/Victory-of-CW14-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HQJ3Jb9/Victory-of-CW14-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">Aerial Siege of CW14</related>
             </card>
