@@ -3,7 +3,7 @@
     "ARC": {},
     "BTL": {
       "Aerial Siege of CW14": "2026-08-23T19:48:03Z",
-      "Dedicated Roboticist": "2026-08-23T19:34:03Z",
+      "Dedicated Roboticist": "2026-08-23T19:57:40Z",
       "Valiant Rearguard": "2026-08-23T18:25:44Z",
       "Victory of CW14": "2026-08-23T19:34:03Z"
     },
@@ -80,7 +80,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-23T19:48:03Z"
+      "updated": "2026-08-23T19:57:40Z"
     },
     "JJK": {
       "updated": "2026-07-25T20:56:04Z"
@@ -102,6 +102,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-23T19:33:31Z"
+    "updated": "2026-08-23T19:47:48Z"
   }
 }
