@@ -3,7 +3,7 @@
     "ARC": {},
     "BTL": {
       "Aerial Siege of CW14": "2026-08-23T03:57:25Z",
-      "Dedicated Roboticist": "2026-08-23T04:03:36Z",
+      "Dedicated Roboticist": "2026-08-23T04:04:18Z",
       "Victory of CW14": "2026-08-23T04:03:36Z"
     },
     "JJK": {
@@ -79,7 +79,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-23T04:03:36Z"
+      "updated": "2026-08-23T04:04:18Z"
     },
     "JJK": {
       "updated": "2026-07-25T20:56:04Z"
@@ -101,6 +101,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-23T03:57:12Z"
+    "updated": "2026-08-23T04:03:26Z"
   }
 }
