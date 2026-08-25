@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-07-31</releasedate>
-            <name>jjk</name>
-            <longname>jjk</longname>
+        <set> v1.4<releasedate>2026-08-25</releasedate>
+            <name>JJK</name>
+            <longname>Jujutsu Kaisen</longname>
             <settype>Custom</settype>
             </set>
         </sets>
@@ -24,7 +24,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dsNCkp9q/Multani-Maro-Sorcerer-Hanami-Maro-Sorcerer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/dsNCkp9q/Multani-Maro-Sorcerer-Hanami-Maro-Sorcerer-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -43,7 +43,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/p6vjVYwW/Training-Grounds-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/p6vjVYwW/Training-Grounds-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -63,7 +63,7 @@ Technique - {wb}, {t}: Choose target creature. If its controller has committed a
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3mN7649z/Higuruma-Unwilling-Judge-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/3mN7649z/Higuruma-Unwilling-Judge-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -82,7 +82,7 @@ Technique - {wb}, {t}: Choose target creature. If its controller has committed a
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nqBgqhWR/Plains-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/nqBgqhWR/Plains-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -102,7 +102,7 @@ Creatures you control gain indestructible until end of turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vvfQ8Ycp/Flawless-Maneuver-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/vvfQ8Ycp/Flawless-Maneuver-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -123,7 +123,7 @@ When this enchantment leaves the battlefield, tap each creature you don't contro
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ynxT65rW/Horizon-of-the-Captivating-Skandha-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ynxT65rW/Horizon-of-the-Captivating-Skandha-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -142,7 +142,7 @@ When this enchantment leaves the battlefield, tap each creature you don't contro
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/r2p7c9Mg/Vengeful-Possession-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/r2p7c9Mg/Vengeful-Possession-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -161,7 +161,7 @@ When this enchantment leaves the battlefield, tap each creature you don't contro
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hn7wmPN/Principal-Yaga-Puppetcrafter-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hn7wmPN/Principal-Yaga-Puppetcrafter-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -182,7 +182,7 @@ When this enchantment leaves the battlefield, destroy target creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DDQQHV9r/Deadly-Sentencing-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DDQQHV9r/Deadly-Sentencing-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -202,7 +202,7 @@ When this enchantment leaves the battlefield, destroy target creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RZwWkRv/Unstoppable-Onslaught-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/RZwWkRv/Unstoppable-Onslaught-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -222,7 +222,7 @@ When this enchantment leaves the battlefield, destroy target creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gZbrPfbg/Demonfire-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gZbrPfbg/Demonfire-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -243,7 +243,7 @@ Kokichi's power is equal to the number of artifacts you control.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0pJs2wCy/Kokichi-Muta-Empowered-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0pJs2wCy/Kokichi-Muta-Empowered-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -263,7 +263,7 @@ Trample</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XrS7JKcN/Rika-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XrS7JKcN/Rika-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -284,7 +284,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/d00tDdXj/Ultimate-Mechamaru-Mode-Absolute-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/d00tDdXj/Ultimate-Mechamaru-Mode-Absolute-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -304,7 +304,7 @@ Technique — {3}{b}{g}: Spirits you control gain lifelink, trample, and haste u
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/GQZVrqtv/Suguru-Geto-Curse-Catcher-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/GQZVrqtv/Suguru-Geto-Curse-Catcher-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -324,7 +324,7 @@ The creature you chose deals damage equal to its power to each player that chose
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ynyDNgyT/Test-of-Certainty-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ynyDNgyT/Test-of-Certainty-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -345,7 +345,7 @@ Mentor  (Whenever this creature attacks, put a +1/+1 counter on target attacking
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Y4GHX357/Aoi-Todo-Musclebound-Tutor-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Y4GHX357/Aoi-Todo-Musclebound-Tutor-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -364,7 +364,7 @@ Mentor  (Whenever this creature attacks, put a +1/+1 counter on target attacking
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cXMBpH4v/Kasumi-Miwa-New-Shadow-Novice-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/cXMBpH4v/Kasumi-Miwa-New-Shadow-Novice-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -383,7 +383,7 @@ Mentor  (Whenever this creature attacks, put a +1/+1 counter on target attacking
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/s9jyVtyF/Gisela-Blade-of-Goldnight-Gojo-the-Honored-One-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/s9jyVtyF/Gisela-Blade-of-Goldnight-Gojo-the-Honored-One-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -404,7 +404,7 @@ Sacrifice this enchantment: You may draw up to five cards.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8DvxcY6s/Infinite-Void-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/8DvxcY6s/Infinite-Void-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -425,7 +425,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MyVwBQpM/Mahoraga-The-Eight-Handled-Sword-Alt-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MyVwBQpM/Mahoraga-The-Eight-Handled-Sword-Alt-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -444,7 +444,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/b5F4G5J4/Reggie-Star-Re-Creator-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/b5F4G5J4/Reggie-Star-Re-Creator-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -463,7 +463,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/q3xWBTjp/Lightning-Bolt-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/q3xWBTjp/Lightning-Bolt-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -482,7 +482,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/whX8pFhc/Predators-Hour-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/whX8pFhc/Predators-Hour-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -502,7 +502,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/V0qftymJ/Choso-Death-Painting-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/V0qftymJ/Choso-Death-Painting-png.png">JJK</set>
             <tablerow>2</tablerow>
             <related>Blood Token</related>
             </card>
@@ -523,7 +523,7 @@ Technique - {2}{w}: Until end of turn, target creature loses all abilities.  (Wh
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Y762xHdt/Miguel-and-The-Black-Rope-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Y762xHdt/Miguel-and-The-Black-Rope-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -542,7 +542,7 @@ Technique - {2}{w}: Until end of turn, target creature loses all abilities.  (Wh
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/QFYWgBSp/Arcane-Signet-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/QFYWgBSp/Arcane-Signet-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -562,7 +562,7 @@ When this enchantment enters, exile target tapped creature an opponent controls 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Fq4vq9hb/Seal-Away-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Fq4vq9hb/Seal-Away-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -583,7 +583,7 @@ Partner with Mimiko, Dollslayer</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LzTSXJbQ/Nanako-Picture-Perfect-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/LzTSXJbQ/Nanako-Picture-Perfect-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -604,7 +604,7 @@ At the beginning of your end step, for each token you control of the chosen type
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/YFw1Vdyk/Renewed-Solidarity-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/YFw1Vdyk/Renewed-Solidarity-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -624,7 +624,7 @@ Technique - {1}{w}{r}: Naoya gets +2/-2 until end of turn. Untap him. After this
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Q3jmWg1k/Naoya-Zen-in-Unstoppable-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3jmWg1k/Naoya-Zen-in-Unstoppable-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -643,7 +643,7 @@ Technique - {1}{w}{r}: Naoya gets +2/-2 until end of turn. Untap him. After this
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DDdPzThn/Gift-of-the-Viper-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DDdPzThn/Gift-of-the-Viper-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -663,7 +663,7 @@ Flying, hexproof, indestructible, prowess, haste, mentor</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WLhk981/Great-Teacher-Gojo-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/WLhk981/Great-Teacher-Gojo-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -682,7 +682,7 @@ Flying, hexproof, indestructible, prowess, haste, mentor</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0j37M0Vs/Swamp-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0j37M0Vs/Swamp-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -701,7 +701,7 @@ Flying, hexproof, indestructible, prowess, haste, mentor</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vCrrcjg2/Spirit-Toy-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/vCrrcjg2/Spirit-Toy-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -722,7 +722,7 @@ Creatures you control with +1/+1 counters on them have all activated abilities o
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tTrsygxP/Agatha-s-Soul-Cauldron-Yuta-s-Cursed-Ring-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tTrsygxP/Agatha-s-Soul-Cauldron-Yuta-s-Cursed-Ring-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -744,7 +744,7 @@ Creatures you control with +1/+1 counters on them have all activated abilities o
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TD9qH8mL/Rakdos-Charm-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TD9qH8mL/Rakdos-Charm-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -764,7 +764,7 @@ Exhaust - Outlast  ({t}: Put a +1/+1 counter on Mai. Activate only as a sorcery,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DgMghK4w/Mai-Zen-in-Reluctant-Recruit-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DgMghK4w/Mai-Zen-in-Reluctant-Recruit-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -783,7 +783,7 @@ Exhaust - Outlast  ({t}: Put a +1/+1 counter on Mai. Activate only as a sorcery,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HTJBwNbP/Miwa-Quick-Draw-Striker-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HTJBwNbP/Miwa-Quick-Draw-Striker-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -803,7 +803,7 @@ Exhaust - Outlast  ({t}: Put a +1/+1 counter on Mai. Activate only as a sorcery,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/6cjzmmWm/Todo-and-Yuji-Brothers-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/6cjzmmWm/Todo-and-Yuji-Brothers-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -823,7 +823,7 @@ Technique - {X}{2}{g}: Create a 1/1 green and blue Spirit creature token. When y
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4g5nmR5c/Dhruv-Lakwadwalla-The-Ancient-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4g5nmR5c/Dhruv-Lakwadwalla-The-Ancient-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -843,7 +843,7 @@ Mobilize 2  (Whenever this creature attacks, create 2 tapped and attacking 1/1 r
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5Xb2n261/Megumi-Fushiguro-First-Year-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5Xb2n261/Megumi-Fushiguro-First-Year-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -862,7 +862,7 @@ Mobilize 2  (Whenever this creature attacks, create 2 tapped and attacking 1/1 r
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/k2DMKSJK/Island-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/k2DMKSJK/Island-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -884,7 +884,7 @@ Mobilize 2  (Whenever this creature attacks, create 2 tapped and attacking 1/1 r
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Kc738QyL/Dagon-Ocean-s-Ire-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Kc738QyL/Dagon-Ocean-s-Ire-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -904,7 +904,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0NGhNt2/Playful-Cloud-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0NGhNt2/Playful-Cloud-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -923,7 +923,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3yzJWzDF/Standstill-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/3yzJWzDF/Standstill-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -942,7 +942,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Xk4QccNN/Momo-Nishimiya-Third-Year-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Xk4QccNN/Momo-Nishimiya-Third-Year-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -963,7 +963,7 @@ This creature can't attack a player it has already attacked this turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mC6vfGfQ/Bloodthirster-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/mC6vfGfQ/Bloodthirster-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -982,7 +982,7 @@ This creature can't attack a player it has already attacked this turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XfyWXDw0/Warrior-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XfyWXDw0/Warrior-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1001,7 +1001,7 @@ This creature can't attack a player it has already attacked this turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/BVkhb8XK/Greed-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BVkhb8XK/Greed-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1021,7 +1021,7 @@ This creature can't attack a player it has already attacked this turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PzzDLBXj/Biomancer-s-Familiar-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PzzDLBXj/Biomancer-s-Familiar-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1041,7 +1041,7 @@ Whenever you buyback a spell, put a +1/+1 counter on Reggie.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/S79JZMSj/Reggie-Star-Con-Artist-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/S79JZMSj/Reggie-Star-Con-Artist-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1062,7 +1062,7 @@ Enchanted creature gets +3/+3 and has menace, trample, and "Ward—Pay life equa
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/7xJY5c51/Spirit-Body-of-Distorted-Killing-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/7xJY5c51/Spirit-Body-of-Distorted-Killing-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1083,7 +1083,7 @@ When this enchantment leaves the battlefield, it deals 5 damage to any target.</
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8g5ZDtqG/Coffin-of-the-Iron-Mountain-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/8g5ZDtqG/Coffin-of-the-Iron-Mountain-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1103,7 +1103,7 @@ If a creature attacking causes a triggered ability of a permanent you control to
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/kVJSkGF2/Preternatural-Efficiency-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/kVJSkGF2/Preternatural-Efficiency-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1123,7 +1123,7 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sdgkSJck/Aoi-Todo-Master-Baiter-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/sdgkSJck/Aoi-Todo-Master-Baiter-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1142,7 +1142,7 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Pzmcd8C8/Spirit-Bird-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Pzmcd8C8/Spirit-Bird-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1162,7 +1162,7 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JRQpWh7c/Gate-of-the-Prison-Realm-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/JRQpWh7c/Gate-of-the-Prison-Realm-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1181,7 +1181,7 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dJ1ZL4Yj/Forest-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/dJ1ZL4Yj/Forest-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1200,7 +1200,7 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/G46K7Jd7/Deflecting-Swat-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/G46K7Jd7/Deflecting-Swat-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1221,27 +1221,7 @@ Equip {3}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tMQMpZ5f/Festering-Life-Sword-png.png">jjk</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Split Soul Katana</name>
-            <text>Equipped creature gets +3/+3, has deathtouch and menace, and has "Whenever this creature attacks, exile target permanent defending player controls."
-Equip {4}</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Kindred Artifact - Spirit Equipment</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DDqG2nnJ/Split-Soul-Katana-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tMQMpZ5f/Festering-Life-Sword-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1262,7 +1242,7 @@ Whenever this creature enters or attacks, you may draw a card for each other cre
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JwbH0h1w/Titan-of-Littjara-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/JwbH0h1w/Titan-of-Littjara-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1281,7 +1261,7 @@ Whenever this creature enters or attacks, you may draw a card for each other cre
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8n7FwkLN/Bird-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/8n7FwkLN/Bird-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1302,7 +1282,7 @@ Creatures you control have haste.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Hp39c1WW/Truth-and-Power-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Hp39c1WW/Truth-and-Power-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1321,7 +1301,7 @@ Creatures you control have haste.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/S4xSbdJh/Mahoraga-Eight-Handled-Sword-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/S4xSbdJh/Mahoraga-Eight-Handled-Sword-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1342,7 +1322,7 @@ Creatures dealt damage by Maki this turn lose hexproof, indestructible, and prot
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wX8ThsC/Maki-Heavenly-Force-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/wX8ThsC/Maki-Heavenly-Force-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1362,7 +1342,7 @@ Whenever a creature you control of the chosen type enters or attacks, draw a car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Z6GGx9BS/Kindred-Discovery-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z6GGx9BS/Kindred-Discovery-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1383,7 +1363,7 @@ Whenever a creature you control of the chosen type enters or attacks, draw a car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5xkNt7tY/Jujutsu-Tech-Tokyo-s-Bastion-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5xkNt7tY/Jujutsu-Tech-Tokyo-s-Bastion-png.png">JJK</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1404,7 +1384,7 @@ Creatures and players with star counters on them have protection from other crea
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/prXNGPPN/Kirara-of-the-Southern-Cross-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/prXNGPPN/Kirara-of-the-Southern-Cross-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1423,7 +1403,7 @@ Creatures and players with star counters on them have protection from other crea
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TMTdj5Cq/Panda-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TMTdj5Cq/Panda-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1442,7 +1422,7 @@ Creatures and players with star counters on them have protection from other crea
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0pk7pMry/Yuta-Jujutsu-Duplicator-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0pk7pMry/Yuta-Jujutsu-Duplicator-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1463,7 +1443,7 @@ When this enchantment is put into a graveyard from the battlefield, destroy all 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/h1CJKqhY/Self-Embodiment-of-Perfection-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/h1CJKqhY/Self-Embodiment-of-Perfection-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1482,7 +1462,7 @@ When this enchantment is put into a graveyard from the battlefield, destroy all 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Qv20NPBT/Takuma-Ino-Beastial-Medium-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Qv20NPBT/Takuma-Ino-Beastial-Medium-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1503,7 +1483,7 @@ Equip {1}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fGNDXkKK/Chain-of-a-Thousand-Miles-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fGNDXkKK/Chain-of-a-Thousand-Miles-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1525,7 +1505,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3ykTYrDJ/Simple-Domain-Quickdraw-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/3ykTYrDJ/Simple-Domain-Quickdraw-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1544,7 +1524,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HpBnPtpt/Swords-to-Plowshares-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HpBnPtpt/Swords-to-Plowshares-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1564,7 +1544,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MD0tLNm1/Unnatural-Overcoming-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MD0tLNm1/Unnatural-Overcoming-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1583,7 +1563,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9mP8bQKT/Takaba-Legendary-Comedian-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/9mP8bQKT/Takaba-Legendary-Comedian-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1602,7 +1582,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LzdfDDh1/Raise-the-Palisade-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/LzdfDDh1/Raise-the-Palisade-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -1621,7 +1601,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qF3z0mT3/Kindred-Summons-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qF3z0mT3/Kindred-Summons-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1640,7 +1620,7 @@ Enchanted creature has hexproof.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/2HWF2n1/Fell-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/2HWF2n1/Fell-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -1661,7 +1641,7 @@ You may look at your opponents' hands at any time.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8LRZZvrD/Blessing-of-the-Six-Eyes-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/8LRZZvrD/Blessing-of-the-Six-Eyes-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1681,7 +1661,7 @@ Double strike</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Zzq8Wrkm/Toji-and-Inventory-Spirit-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Zzq8Wrkm/Toji-and-Inventory-Spirit-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1690,7 +1670,7 @@ Double strike</text>
 When Mai enters, search your library for an artifact or Sorcerer card and reveal it. If it's both and Mai was kicked, put it onto the battlefield. Otherwise, put it into your hand. Shuffle.
 Disturb {2}{w}{b}  (You may cast this card from your graveyard transformed for {2}{w}{b}.) </text>
             <prop>
-                <layout>normal</layout>
+                <layout>transform</layout>
                 <side>front</side>
                 <manacost>{2}{w}</manacost>
                 <cmc>3</cmc>
@@ -1702,8 +1682,9 @@ Disturb {2}{w}{b}  (You may cast this card from your graveyard transformed for {
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1fC8hTk9/Mai-Burdened-Twin-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1fC8hTk9/Mai-Burdened-Twin-png.png">JJK</set>
             <tablerow>2</tablerow>
+            <related attach="transform">Split Soul Katana</related>
             </card>
         <card>
             <name>Blood</name>
@@ -1721,7 +1702,7 @@ Disturb {2}{w}{b}  (You may cast this card from your graveyard transformed for {
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TqKpTQfW/Blood-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TqKpTQfW/Blood-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1740,7 +1721,7 @@ Disturb {2}{w}{b}  (You may cast this card from your graveyard transformed for {
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mCmh34w5/Spirit-Dog-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/mCmh34w5/Spirit-Dog-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1760,7 +1741,7 @@ Equip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Xx1P9BBP/Swiftfoot-Boots-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Xx1P9BBP/Swiftfoot-Boots-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1781,7 +1762,7 @@ Technique - {1}: Exile target permanent that has a shield counter on it until th
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yF7FKHtS/Uro-Takako-Wreathed-in-Sky-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/yF7FKHtS/Uro-Takako-Wreathed-in-Sky-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1802,7 +1783,7 @@ Monkeys enter tapped with a -1/-1 counter on them.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/pjScRXyR/Geto-Sorcerer-Supremacist-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/pjScRXyR/Geto-Sorcerer-Supremacist-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1823,7 +1804,7 @@ Flashback - {3}{b}{r}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JWh3GGbf/Black-Flash-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/JWh3GGbf/Black-Flash-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1843,7 +1824,7 @@ Technique - {t}: Target creature gains persist until end of turn.  (When it dies
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/d0rY7Tm1/Shoko-Ieiri-Medic-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/d0rY7Tm1/Shoko-Ieiri-Medic-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1863,7 +1844,7 @@ At the beginning of each end step, for each color among sources that targeted or
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/F44pHgVK/Divine-General-Mahoraga-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/F44pHgVK/Divine-General-Mahoraga-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1883,7 +1864,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Q34dWfcK/Ryu-Ishigori-Disaster-Blaster-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Q34dWfcK/Ryu-Ishigori-Disaster-Blaster-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1903,7 +1884,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/v4XdSrRb/Chimera-Shadow-Garden-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/v4XdSrRb/Chimera-Shadow-Garden-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1923,7 +1904,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MDDGd6tR/Resurrect-the-Soul-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MDDGd6tR/Resurrect-the-Soul-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -1942,7 +1923,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CpM2R7gv/Bestie-Beatdown-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/CpM2R7gv/Bestie-Beatdown-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -1961,7 +1942,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ynNWvVCW/Toge-Inumaki-Second-Year-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ynNWvVCW/Toge-Inumaki-Second-Year-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1980,7 +1961,7 @@ Technique - {1}{r}{r}: Ryu gets +1/+0 until end of turn, then deals damage equal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/s9YLW1wD/Sibling-Rivalry-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/s9YLW1wD/Sibling-Rivalry-png.png">JJK</set>
             <tablerow>3</tablerow>
             <related>Powerstone Token</related>
             </card>
@@ -2002,7 +1983,7 @@ Technique - {3}: Create a 1/1 black Bird creature token with flying.  (Whenever 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CpFXpHxq/Mei-Mei-Brazen-Manipulator-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/CpFXpHxq/Mei-Mei-Brazen-Manipulator-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2023,7 +2004,7 @@ Persist</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/23K9Vz81/Noritoshi-Kamo-Clan-Leader-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/23K9Vz81/Noritoshi-Kamo-Clan-Leader-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2043,7 +2024,7 @@ Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/n2FgTKX/Hanami-Nature-s-Wrath-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/n2FgTKX/Hanami-Nature-s-Wrath-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2064,7 +2045,7 @@ Prevent all damage that would be dealt by creatures with stun counters on them.<
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ds53BMgp/Naobito-Zen-in-Freeze-Frame-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ds53BMgp/Naobito-Zen-in-Freeze-Frame-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2084,7 +2065,7 @@ If target player controls an odd number of creatures, exile up to one target tap
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Qv3Rs9bP/Calculated-Strike-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Qv3Rs9bP/Calculated-Strike-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2103,7 +2084,7 @@ If target player controls an odd number of creatures, exile up to one target tap
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MxFGjfLs/Deflecting-Palm-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MxFGjfLs/Deflecting-Palm-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2122,7 +2103,7 @@ If target player controls an odd number of creatures, exile up to one target tap
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/QWdSsqy/Domain-Clash-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/QWdSsqy/Domain-Clash-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2142,7 +2123,7 @@ Wither  (This deals damage to creatures in the form of -1/-1 counters.) </text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hwQD6DN/Nobara-Kugisaki-Reckless-Student-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hwQD6DN/Nobara-Kugisaki-Reckless-Student-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2161,7 +2142,7 @@ Wither  (This deals damage to creatures in the form of -1/-1 counters.) </text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/rRH7fRGX/Mountain-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/rRH7fRGX/Mountain-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2182,7 +2163,7 @@ If a creature would deal damage to Yuta and you control a creature named Rika, i
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/r2QyKDx6/Yuta-Okkotsu-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/r2QyKDx6/Yuta-Okkotsu-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2202,7 +2183,7 @@ If a creature would deal damage to Yuta and you control a creature named Rika, i
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/V03syRTC/Unrestrained-by-Heaven-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/V03syRTC/Unrestrained-by-Heaven-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2222,7 +2203,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/YBkk69LZ/Trailblazer-s-Boots-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/YBkk69LZ/Trailblazer-s-Boots-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2241,7 +2222,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/QvSwKyZ4/Cleansing-Exorcism-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/QvSwKyZ4/Cleansing-Exorcism-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2263,7 +2244,7 @@ If a triggered ability of another creature you control of the chosen type trigge
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/M5ZjPmsJ/Roaming-Throne-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/M5ZjPmsJ/Roaming-Throne-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2282,7 +2263,7 @@ If a triggered ability of another creature you control of the chosen type trigge
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4ngvH4Sb/Servo-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4ngvH4Sb/Servo-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2301,7 +2282,7 @@ If a triggered ability of another creature you control of the chosen type trigge
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/spTfCcWq/Kenjaku-Usurper-of-Flesh-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/spTfCcWq/Kenjaku-Usurper-of-Flesh-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2320,7 +2301,7 @@ If a triggered ability of another creature you control of the chosen type trigge
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/d0FbLvpy/Aggravated-Assault-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/d0FbLvpy/Aggravated-Assault-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2340,7 +2321,7 @@ Technique - {2}{g}{g}: Earthbend 3.  (Whenever Hanami attacks, you can activate 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hxzGRKyy/Hanami-Nature-s-Wrath-Alt-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hxzGRKyy/Hanami-Nature-s-Wrath-Alt-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2360,7 +2341,7 @@ Bushido 2  (Whenever Maki blocks or becomes blocked, she gets +2/+2 until end of
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4RkQz1rz/Maki-Jujutsu-Tech-s-Outlier-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4RkQz1rz/Maki-Jujutsu-Tech-s-Outlier-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2380,7 +2361,7 @@ Creatures you control of the chosen type get +1/+1.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tTmcwq0h/Rally-the-Ranks-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tTmcwq0h/Rally-the-Ranks-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2400,7 +2381,7 @@ Blasphemous Act deals 13 damage to each creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Z1vCwkRw/Blasphemous-Act-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z1vCwkRw/Blasphemous-Act-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2419,7 +2400,7 @@ Blasphemous Act deals 13 damage to each creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0pjgHC1H/Spirit-Frog-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0pjgHC1H/Spirit-Frog-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2439,7 +2420,7 @@ Blasphemous Act deals 13 damage to each creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HpqVsncV/Principal-Gakuganji-Old-Mettle-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HpqVsncV/Principal-Gakuganji-Old-Mettle-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2458,7 +2439,7 @@ Blasphemous Act deals 13 damage to each creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TM73F7YR/Yuji-Itadori-Fledgling-Sorcerer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TM73F7YR/Yuji-Itadori-Fledgling-Sorcerer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2478,7 +2459,7 @@ Protection from non-colorless Sorcerers, Shamans, and Spirits</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HLzfw33p/Toji-Fushiguro-Sorcerer-Killer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HLzfw33p/Toji-Fushiguro-Sorcerer-Killer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2501,7 +2482,7 @@ Protection from non-colorless Sorcerers, Shamans, and Spirits</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XkvqDjr5/Austere-Command-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XkvqDjr5/Austere-Command-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2524,7 +2505,7 @@ Protection from non-colorless Sorcerers, Shamans, and Spirits</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/jvjNwDzp/Megumi-Shadow-Summoner-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jvjNwDzp/Megumi-Shadow-Summoner-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2544,7 +2525,7 @@ Prevent all damage that would be dealt to you and creatures you control this tur
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zWwS24fM/Rabbit-Escape-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zWwS24fM/Rabbit-Escape-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2565,7 +2546,7 @@ Technique — {1}, {t}: Add {r}{r}. Until end of turn, you don't lose this mana 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/v6h4GB5S/Mai-Secret-Shot-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/v6h4GB5S/Mai-Secret-Shot-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2584,7 +2565,7 @@ Technique — {1}, {t}: Add {r}{r}. Until end of turn, you don't lose this mana 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PGxt88by/Sol-Ring-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PGxt88by/Sol-Ring-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2604,7 +2585,7 @@ Whenever a source deals damage to one or more creatures a player controls, that 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XkxVP0sZ/Nobara-Unswayed-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XkxVP0sZ/Nobara-Unswayed-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2624,7 +2605,7 @@ Technique - {1}{r}{b}, {t}: Create a Blood token. When you do, Choso deals 1 dam
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/prWzPZSM/Choso-Sanguine-Supernova-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/prWzPZSM/Choso-Sanguine-Supernova-png.png">JJK</set>
             <tablerow>2</tablerow>
             <related>Blood Token</related>
             </card>
@@ -2645,7 +2626,7 @@ Destroy target permanent. Mill one card.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/20gmPCyh/Cataclysmic-Assault-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/20gmPCyh/Cataclysmic-Assault-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2665,7 +2646,7 @@ Technique - {1}, Exile Kusakabe: Sorcerers you control get +1/+1 and gain indest
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1twtXLR6/Kusakabe-The-Evening-Moon-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1twtXLR6/Kusakabe-The-Evening-Moon-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2673,7 +2654,7 @@ Technique - {1}, Exile Kusakabe: Sorcerers you control get +1/+1 and gain indest
             <text>First strike, haste
 Technique - {1}{b}: Put a +1/+1 counter and a time counter on Yuji. If he isn't attacking, transform him.  (Whenever Yuji attacks, you can activate his technique once for free.) </text>
             <prop>
-                <layout>normal</layout>
+                <layout>transform</layout>
                 <side>front</side>
                 <manacost>{2}{r}{w}</manacost>
                 <cmc>4</cmc>
@@ -2685,8 +2666,9 @@ Technique - {1}{b}: Put a +1/+1 counter and a time counter on Yuji. If he isn't 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hR7zDLJk/Yuji-Itadori-Sukuna-s-Vessel-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hR7zDLJk/Yuji-Itadori-Sukuna-s-Vessel-png.png">JJK</set>
             <tablerow>2</tablerow>
+            <related attach="transform">Ryomen Sukuna, History Reborn</related>
             </card>
         <card>
             <name>Nobara, Straw-Doll Slayer</name>
@@ -2705,7 +2687,7 @@ Whenever you put one or more -1/-1 counters on a creature, Nobara deals 1 damage
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/848vg3HY/Nobara-Straw-Doll-Slayer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/848vg3HY/Nobara-Straw-Doll-Slayer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2725,7 +2707,7 @@ When this enchantment enters, if it's your main phase, there is an additional co
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/NdDzM60x/All-Out-Assault-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/NdDzM60x/All-Out-Assault-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2747,7 +2729,7 @@ When Malevolent Shrine leaves the battlefield, destroy up to one target artifact
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wZB21vHX/Malevolent-Shrine-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/wZB21vHX/Malevolent-Shrine-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2767,7 +2749,7 @@ Technique — {1}{wr}: Yuji gets +1/+0 and gains double strike and until end of 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/G3CxHQTL/Yuji-Jujutsu-Sorcerer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/G3CxHQTL/Yuji-Jujutsu-Sorcerer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2786,7 +2768,7 @@ Technique — {1}{wr}: Yuji gets +1/+0 and gains double strike and until end of 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yFwfbXW0/Kindred-Dominance-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/yFwfbXW0/Kindred-Dominance-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2807,7 +2789,7 @@ Technique - {1}: Nanami gets -1/+1 or +1/-1 until end of turn.  (Whenever Nanami
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WWND8XXY/Kento-Nanami-Rational-Slayer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/WWND8XXY/Kento-Nanami-Rational-Slayer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2826,7 +2808,7 @@ Technique - {1}: Nanami gets -1/+1 or +1/-1 until end of turn.  (Whenever Nanami
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LdwXNCdH/Ruinous-Ultimatum-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/LdwXNCdH/Ruinous-Ultimatum-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2847,29 +2829,8 @@ Double all damage that sources you control of the chosen type would deal.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1tJmVbFc/Collective-Inferno-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1tJmVbFc/Collective-Inferno-png.png">JJK</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Ryomen Sukuna, History Reborn</name>
-            <text>Menace, trample, indestructible
-Vanishing  (At the beginning of your upkeep, remove a time counter from Sukuna. When the last is removed, sacrifice him.) 
-If Sukuna would be sacrificed, instead transform him.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Sorcerer</type>
-                <pt>6/6</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tpmG31Gx/Ryomen-Sukuna-History-Reborn-png.png">jjk</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Sorcerer's Command</name>
@@ -2891,7 +2852,7 @@ Choose up to two —
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gLJtKDHw/Sorcerer-s-Command-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gLJtKDHw/Sorcerer-s-Command-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2910,7 +2871,7 @@ Choose up to two —
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yn9t1Tsd/Toge-Inumaki-The-Silencer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/yn9t1Tsd/Toge-Inumaki-The-Silencer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2930,7 +2891,7 @@ Fabricate 1  (When Mechamaru enters the battlefield, you may put a +1/+1 counter
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hFDC4jww/Mechamaru-Remote-Student-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hFDC4jww/Mechamaru-Remote-Student-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2950,7 +2911,7 @@ Fabricate 1  (When Mechamaru enters the battlefield, you may put a +1/+1 counter
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/39ZPtnFg/Kenjaku-s-Edict-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/39ZPtnFg/Kenjaku-s-Edict-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2970,7 +2931,7 @@ Fireball deals X damage divided evenly, rounded down, among any number of target
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/v4Pt3Rm8/Fireball-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/v4Pt3Rm8/Fireball-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2991,7 +2952,7 @@ This spell deals 4 damage to target creature or planeswalker.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/VcF09rwc/Resonant-Punishment-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/VcF09rwc/Resonant-Punishment-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3010,7 +2971,7 @@ This spell deals 4 damage to target creature or planeswalker.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4nk7Yqb5/Path-to-Exile-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4nk7Yqb5/Path-to-Exile-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3031,7 +2992,7 @@ Technique - {2}{r}: Haruta fights target creature you don't control.  (Whenever 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/391ZhgdS/Haruta-Miraculously-Saved-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/391ZhgdS/Haruta-Miraculously-Saved-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3051,7 +3012,7 @@ Technique - {2}{r}: Haruta fights target creature you don't control.  (Whenever 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TM2TxpKd/Hanami-s-Intervention-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TM2TxpKd/Hanami-s-Intervention-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3073,7 +3034,7 @@ Technique - {2}{r}: Haruta fights target creature you don't control.  (Whenever 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xwHt1dz/Merciless-Destruction-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xwHt1dz/Merciless-Destruction-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3093,7 +3054,7 @@ Enchanted creature has protection from creatures, sorceries, and non-Aura enchan
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ynZNMLc5/Domain-Amplification-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ynZNMLc5/Domain-Amplification-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3114,7 +3075,7 @@ Creatures you control of the chosen type get +1/+1.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DPZHN1yS/Patchwork-Banner-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DPZHN1yS/Patchwork-Banner-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3136,7 +3097,7 @@ Enchanted creature has indestructible.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PZ2Hp7ft/Simple-Domain-Evening-Moon-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PZ2Hp7ft/Simple-Domain-Evening-Moon-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3155,7 +3116,7 @@ Enchanted creature has indestructible.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HTdcQ1v4/Split-Second-Domain-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HTdcQ1v4/Split-Second-Domain-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3174,7 +3135,7 @@ Enchanted creature has indestructible.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/FNd8B1X/Junpei-Yoshino-Cursed-Sorcerer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/FNd8B1X/Junpei-Yoshino-Cursed-Sorcerer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3194,7 +3155,7 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Hyz7fXj/Disaster-Radius-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Hyz7fXj/Disaster-Radius-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -3213,7 +3174,7 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sv8jXVHN/Shoko-leiri-Medic-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/sv8jXVHN/Shoko-leiri-Medic-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3234,7 +3195,7 @@ When ~ enters, you may pay {1}{u}. If you do, counter target spell, activated ab
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/6c8QSDMk/Simple-Domain-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/6c8QSDMk/Simple-Domain-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3254,7 +3215,7 @@ Technique — {1}{r}{r}: Gojo deals 2 damage to any target.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/2BfnNM1/Satoru-Gojo-Limitless-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/2BfnNM1/Satoru-Gojo-Limitless-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3274,7 +3235,7 @@ Technique - Sacrifice a creature: Put a +1/+1 counter on Mahito.  (Whenever Mahi
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/VY1GnkMr/Mahito-Humanity-s-Bane-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/VY1GnkMr/Mahito-Humanity-s-Bane-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3293,7 +3254,7 @@ Technique - Sacrifice a creature: Put a +1/+1 counter on Mahito.  (Whenever Mahi
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zWRk3N7k/Akari-Nitta-Assistant-Manager-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zWRk3N7k/Akari-Nitta-Assistant-Manager-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3314,7 +3275,7 @@ Partner with Nanako, Picture Perfect</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fVJZvcNG/Mimiko-Dollslayer-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fVJZvcNG/Mimiko-Dollslayer-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3334,7 +3295,7 @@ Whenever Mahito deals combat damage to a creature, you gain control of it. Regen
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/pBkmnQXq/Mahito-Soul-Shaper-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/pBkmnQXq/Mahito-Soul-Shaper-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3354,7 +3315,7 @@ Technique - {3}{b}{b}{b}: Choose a card exiled with Yuta. Until end of turn, he 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Q3PSQdL4/Yuta-Breaker-of-Sendai-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3PSQdL4/Yuta-Breaker-of-Sendai-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3375,7 +3336,7 @@ Persist  (When this creature dies, if it had no -1/-1 counters on it, return it 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/7dKDHLK0/Mahoraga-The-Eight-Handled-Sword-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/7dKDHLK0/Mahoraga-The-Eight-Handled-Sword-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3395,7 +3356,7 @@ Whenever Jogo attacks, he gets +1/+0 until end of turn for each attacking creatu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ddSnHgN/Jogo-Volcanic-Fury-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ddSnHgN/Jogo-Volcanic-Fury-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3414,7 +3375,7 @@ Whenever Jogo attacks, he gets +1/+0 until end of turn for each attacking creatu
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xSFkZj7W/Overkill-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xSFkZj7W/Overkill-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3435,7 +3396,7 @@ Technique - {3}{b}{g}: Create a 1/1 black and green Insect creature token with f
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cKCVbtmm/Kurourushi-Cursed-Roach-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/cKCVbtmm/Kurourushi-Cursed-Roach-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3455,7 +3416,7 @@ Fire Covenant deals X damage divided as you choose among any number of target cr
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/v6vdkFXJ/Fire-Covenant-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/v6vdkFXJ/Fire-Covenant-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3476,7 +3437,7 @@ Technique — {3}{r}: Create a 3/3 red Spirit Bird creature token with flying.</
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qLLmw4xr/Megumi-Shikigami-Master-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qLLmw4xr/Megumi-Shikigami-Master-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3496,7 +3457,7 @@ Technique — {3}{r}: Create a 3/3 red Spirit Bird creature token with flying.</
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/bMfmccqT/The-Exception-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/bMfmccqT/The-Exception-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3516,7 +3477,7 @@ Technique — {g}{r}{u}: Return target creature to its owner's hand.  (Whenever 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0VQGHHKb/Todo-of-the-Boogie-Woogie-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0VQGHHKb/Todo-of-the-Boogie-Woogie-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3536,7 +3497,7 @@ Put a creature card from a graveyard onto the battlefield under your control. Yo
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mrVcPvSC/Stitch-in-the-Head-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/mrVcPvSC/Stitch-in-the-Head-png.png">JJK</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -3557,7 +3518,7 @@ Whenever another creature you control of the chosen type enters, put a +1/+1 cou
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/n8NtL3dm/Bloodline-Pretender-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/n8NtL3dm/Bloodline-Pretender-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3576,7 +3537,7 @@ Whenever another creature you control of the chosen type enters, put a +1/+1 cou
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vC6xjp4s/Kiyotaka-Ijichi-Assistant-Manager-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/vC6xjp4s/Kiyotaka-Ijichi-Assistant-Manager-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3595,7 +3556,7 @@ Whenever another creature you control of the chosen type enters, put a +1/+1 cou
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1GdLTtBn/Chaos-Warp-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1GdLTtBn/Chaos-Warp-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3614,7 +3575,7 @@ Whenever another creature you control of the chosen type enters, put a +1/+1 cou
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3D0SPHc/Isshin-Two-Heavens-as-One-Maki-Zen-in-Executioner-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/3D0SPHc/Isshin-Two-Heavens-as-One-Maki-Zen-in-Executioner-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3634,7 +3595,7 @@ Prevent all damage that would be dealt to you and creatures you control this tur
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/rGkrP7zf/Rabbit-Escape-Alt-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/rGkrP7zf/Rabbit-Escape-Alt-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3655,7 +3616,7 @@ When this enchantment leaves the battlefield, untap all lands you control.</text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/SD8GF883/Shining-Sea-of-Branches-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/SD8GF883/Shining-Sea-of-Branches-png.png">JJK</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3674,8 +3635,51 @@ When this enchantment leaves the battlefield, untap all lands you control.</text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Y4RpxDkK/Spirit-Jellyfish-png.png">jjk</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Y4RpxDkK/Spirit-Jellyfish-png.png">JJK</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Ryomen Sukuna, History Reborn</name>
+            <text>Menace, trample, indestructible
+Vanishing  (At the beginning of your upkeep, remove a time counter from Sukuna. When the last is removed, sacrifice him.) 
+If Sukuna would be sacrificed, instead transform him.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>back</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Sorcerer</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tpmG31Gx/Ryomen-Sukuna-History-Reborn-png.png">JJK</set>
+            <tablerow>2</tablerow>
+            <related attach="transform">Yuji Itadori, Sukuna's Vessel</related>
+            </card>
+        <card>
+            <name>Split Soul Katana</name>
+            <text>Equipped creature gets +3/+3, has deathtouch and menace, and has "Whenever this creature attacks, exile target permanent defending player controls."
+Equip {4}</text>
+            <prop>
+                <layout>transform</layout>
+                <side>back</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Kindred Artifact - Spirit Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DDqG2nnJ/Split-Soul-Katana-png.png">JJK</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Mai, Burdened Twin</related>
             </card>
         </cards>
     </cockatrice_carddatabase>

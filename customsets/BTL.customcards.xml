@@ -9,66 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Valiant Rearguard</name>
-            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/fY62vWjQ/Valiant-Rearguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Dedicated Roboticist</name>
-            <text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
-Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Artificer</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/nqBY19nW/Dedicated-Roboticist-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>X.55 Mandalay Executor</name>
-            <text>This Vehicle's base power and toughness are each equal to the number of artifacts you control.
- Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>*/*</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/DfFsJr2F/X-55-Mandalay-Executor-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>I.A. Point Defense Destroyer</name>
             <text>Reach
 This Vehicle can block an additional creature each combat.
@@ -108,7 +48,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/XfXjNZwG/Order-a-Resupply-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -267,7 +207,7 @@ Equip {1}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/MyYKP4dX/Anti-Air-Missile-Launcher-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/rK6rf2zf/Anti-Air-Missile-Launcher-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -370,7 +310,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/n8fRpC20/DER-7-Booker-Picket-Ship-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/DDWhF5by/DER-7-Booker-Picket-Ship-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -449,7 +389,7 @@ Equip {2U}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gb0D32By/Reconnaissance-Gear-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -491,6 +431,25 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png">BTL</set>
             <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Valiant Rearguard</name>
+            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/fY62vWjQ/Valiant-Rearguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Crafty Cadet</name>
@@ -650,7 +609,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/tTy1F6HH/Logistics-Truck-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/nN3Nrhrw/Logistics-Truck-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -670,7 +629,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/jkqhYN7P/Anti-Materiel-Scout-Team-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/8LJJjXd3/Anti-Materiel-Scout-Team-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -974,7 +933,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/d0Q57zty/Oasis-Reclaimer-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/21C76phC/Oasis-Reclaimer-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1134,28 +1093,26 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/r2GPV3b7/I-A-Workhorse-Fighter-Jet-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Y7MtjR8M/I-A-Workhorse-Fighter-Jet-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
             <name>R.D.I. "Knight" Battle Tank</name>
-            <text>Haste
-Wartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)
-Crew 1</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{4}</manacost>
-                <cmc>4</cmc>
+                <manacost />
+                <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>3/3</pt>
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/PGL1PLnr/R-D-I-Knight-Battle-Tank-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PGL1PLnr/R-D-I-Knight-Battle-Tank-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1216,7 +1173,27 @@ When this creature enters, create a Munitions token.  (It's an artifact with "Wh
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/cS3sK5NB/Flyswatter-Missile-Team-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/jPLb5Bb4/Flyswatter-Missile-Team-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Dedicated Roboticist</name>
+            <text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
+Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Artificer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/nqBY19nW/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1277,7 +1254,7 @@ When this creature enters, tap target creature an opponent controls and put a st
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/XZrYF9dz/Order-an-Ambush-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Lzz06J7Z/Order-an-Ambush-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1317,7 +1294,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/s9SsYMQN/Night-Vision-Goggles-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/wNJVSGh3/Night-Vision-Goggles-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1336,7 +1313,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/pBmSb1BP/Armed-by-the-Lowest-Bidder-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/VptY8VTR/Armed-by-the-Lowest-Bidder-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related>Treasure Token</related>
             </card>
@@ -1644,22 +1621,21 @@ Whenever [name] crews a Vehicle, that Vehicle gets +2/+0 and gains haste until e
             </card>
         <card>
             <name>Ballistic Plate Carrier</name>
-            <text>Equipped creature gets +0/+3 and has vigilance.
-Equip {1}</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2/W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Equipment</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/Z1gVKvYs/Ballistic-Plate-Carrier-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z1gVKvYs/Ballistic-Plate-Carrier-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1836,7 +1812,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/HZB607W/U-C-I-T-Battlecruiser-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/5x6nSjd5/U-C-I-T-Battlecruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1976,7 +1952,7 @@ When this creature dies, return a land or battle card from your graveyard to you
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/whcBDZb6/Battlefield-Engineer-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/cKfwFqr9/Battlefield-Engineer-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2134,7 +2110,7 @@ Equip creature without flying {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/GfRrHvBG/Camouflage-Netting-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/cKPpJ47p/Camouflage-Netting-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2155,7 +2131,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/V0cnw4TQ/EA-28-Howler-Screening-Jet-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/93ypQ6n9/EA-28-Howler-Screening-Jet-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2379,7 +2355,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/xQTF41W/U-C-I-T-Command-Cruiser-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/zWqf7zz8/U-C-I-T-Command-Cruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2521,7 +2497,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/n8sjT26s/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/wFFGY0zY/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2562,7 +2538,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/RktVnrHT/Order-a-Raid-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/9XzK8mP/Order-a-Raid-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2662,7 +2638,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/JFv3pkvZ/Order-a-Counterattack-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2704,7 +2680,7 @@ Crew 1
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/xSGTfX28/AH-960-Booker-Retrofit-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/WWwRyFdc/AH-960-Booker-Retrofit-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2723,7 +2699,7 @@ Crew 1
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/ksgkSzxy/Sacrificial-Gambit-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/XrKDht2r/Sacrificial-Gambit-png.png">BTL</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -2963,7 +2939,7 @@ Overload {4}{g}{g}{u}{u}  (You may cast this spell for its overload cost. If you
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/60SP2rrx/Intercept-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/ynhdmj2h/Intercept-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3180,7 +3156,7 @@ Equip {?}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/hJ2KSYQG/Third-Lance-Grenadiers-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/fdZ0YWkM/Third-Lance-Grenadiers-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3222,6 +3198,47 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/hFV3KfFM/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>R.D.I. Main Battle Tank</name>
+            <text>Haste
+Wartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}</manacost>
+                <cmc>4</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/pv6kZZKz/R-D-I-Main-Battle-Tank-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Armored Exoskeleton</name>
+            <text>Equipped creature gets +0/+3 and has vigilance.
+Equip {1}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2/W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/cSmGqFQr/Armored-Exoskeleton-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Victory of CW14</name>
