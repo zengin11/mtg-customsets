@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-08-23</releasedate>
+        <set> v1.4<releasedate>2026-08-25</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
@@ -315,23 +315,21 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
             </card>
         <card>
             <name>Order a Salvo</name>
-            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
-• Destroy target creature with flying.
-• Populate (Create a token that's a copy of a creature token you control.)</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mVpcRTYQ/Order-a-Salvo-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/mVpcRTYQ/Order-a-Salvo-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -555,7 +553,7 @@ This creature can block only creatures with flying.
             </card>
         <card>
             <name>Force a Retreat</name>
-            <text>Return target nonland permanent to its owner's hand. If you control a Vehicle with flying or a Siege, scry 2.</text>
+            <text>Return target nonland permanent to its owner's hand. If you control a Vehicle with flying or a Siege, surveil 2.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -971,11 +969,11 @@ Crew 3</text>
                 <coloridentity>G</coloridentity>
                 <maintype>Artifact</maintype>
                 <type>Artifact - Vehicle</type>
-                <pt>8/8</pt>
+                <pt>7/7</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/84DvD3kq/Kraken-Missile-Cruiser-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/XZLhspfW/Kraken-Missile-Cruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2284,7 +2282,7 @@ Modular 5  (This creature enters with five +1/+1 counters on it. When it dies, y
         <card>
             <name>U.C.I.T. Command Cruiser</name>
             <text>Reach, trample
-Whenever another Vehicle you control attacks or blocks, if 3 or more power was used to crew it this turn, it gets +2/+2 and gains reach and trample until end of turn.
+Each other Vehicle you control gets +2/+2 and has reach and trample if 3 or more power was used to crew it this turn.
 Crew 3</text>
             <prop>
                 <layout>normal</layout>
@@ -3006,29 +3004,8 @@ Crew 3</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>X.55 Mandalay Executor</name>
-            <text>This Vehicle's base power and toughness are each equal to the number of artifacts you control.
- Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>*/*</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/DfFsJr2F/X-55-Mandalay-Executor-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Field Salvage Kit</name>
-            <text>Whenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If that artifact was a creature or had counters on it, scry 1
+            <text>Whenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If that artifact was a creature or had counters on it, surveil 1
 Equip {?}</text>
             <prop>
                 <layout>normal</layout>
@@ -3043,28 +3020,46 @@ Equip {?}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Fk2h0jWn/Field-Salvage-Kit-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/8tZxLT4/Field-Salvage-Kit-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Aerial Siege of CW14</name>
+            <text>When this Siege enters, destroy up to one target Vehicle or tapped creature.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Aerial Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/xqDXfKSC/Aerial-Siege-of-CW14-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Victory of CW14</related>
+            </card>
+        <card>
             <name>A-13 "Honker" Strike Fighter</name>
-            <text>Flying, trample
-{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
-Crew 1</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>4/2</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/jPfHKt4M/A-13-Honker-Strike-Fighter-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jPfHKt4M/A-13-Honker-Strike-Fighter-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3147,8 +3142,50 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Third Lance Grenadiers(1)</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <name>Order an Air Defense</name>
+            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+• Destroy target creature with flying.
+• Populate (Create a token that's a copy of a creature token you control.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/mrjR4hSy/Order-an-Air-Defense-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>A-44 "Honker" Strike Fighter</name>
+            <text>Flying, trample
+{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>4/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Tunnel Run</name>
+            <text>Until end of turn, target creature with flying loses flying and may assign its combat damage as though it weren't blocked.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3156,34 +3193,35 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WWNBCzZC/Third-Lance-Grenadiers-png.png">BTL</set>
+            <set rarity="Rare" picurl="https://i.ibb.co/2YYfN4pG/Tunnel-Run-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Aerial Siege of CW14</name>
-            <text>When this Siege enters, destroy up to one target Vehicle or tapped creature.</text>
+            <name>X.55 Mandalay Executor</name>
+            <text>This Vehicle's base power and toughness are each equal to the number of artifacts you control.
+ Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.
+Crew 1</text>
             <prop>
-                <layout>transform</layout>
+                <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{W}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Aerial Siege</type>
-                <pt />
-                <loyalty>3</loyalty>
+                <manacost>{1}{U}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>*/*</pt>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/xqDXfKSC/Aerial-Siege-of-CW14-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/DfFsJr2F/X-55-Mandalay-Executor-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Victory of CW14</related>
             </card>
         <card>
             <name>Victory of CW14</name>

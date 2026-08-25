@@ -8,7 +8,8 @@
       "\"Leonin\" Logistics Chopper": "2026-08-23T22:10:10Z",
       "\"Rampart\" APC Company": "2026-08-23T22:10:10Z",
       "\"Rhox\" Drone Transport": "2026-08-23T22:10:10Z",
-      "A-13 \"Honker\" Strike Fighter": "2026-08-23T22:10:10Z",
+      "A-13 \"Honker\" Strike Fighter": "2026-08-25T12:53:15Z",
+      "A-44 \"Honker\" Strike Fighter": "2026-08-25T12:53:15Z",
       "AH.960 Booker Retrofit": "2026-08-23T22:10:10Z",
       "Aerial Siege of CR12": "2026-08-23T22:10:10Z",
       "Aerial Siege of CU11": "2026-08-23T22:10:10Z",
@@ -60,10 +61,10 @@
       "Elspeth, Exploited Examplar": "2026-08-23T22:10:10Z",
       "Elspeth, Exploited Exemplar": "2026-08-23T22:10:10Z",
       "F.L.C. Command Cruiser (1)": "2026-08-23T22:10:10Z",
-      "Field Salvage Kit": "2026-08-23T22:10:10Z",
+      "Field Salvage Kit": "2026-08-25T12:53:15Z",
       "Fire the R-ZERO": "2026-08-23T22:10:10Z",
       "Flight School": "2026-08-23T22:10:10Z",
-      "Force a Retreat": "2026-08-23T22:10:10Z",
+      "Force a Retreat": "2026-08-25T12:53:15Z",
       "Frontline Reinforcements": "2026-08-23T22:10:10Z",
       "Gallandi Ace Academy": "2026-08-23T22:10:10Z",
       "Gallandi Border Post": "2026-08-23T22:10:10Z",
@@ -81,7 +82,7 @@
       "Inspiring Sergeant": "2026-08-23T22:10:10Z",
       "Intercept": "2026-08-23T22:10:10Z",
       "Knight's Beacon Interceptor": "2026-08-23T22:10:10Z",
-      "Kraken Missile Cruiser": "2026-08-23T22:10:10Z",
+      "Kraken Missile Cruiser": "2026-08-25T12:53:15Z",
       "Logistics Specialist": "2026-08-23T22:10:10Z",
       "Logistics Specialist Officer": "2026-08-23T22:10:10Z",
       "Logistics Truck": "2026-08-23T22:10:10Z",
@@ -100,7 +101,8 @@
       "Order a Counterattack": "2026-08-23T22:10:10Z",
       "Order a Raid": "2026-08-23T22:10:10Z",
       "Order a Resupply": "2026-08-23T22:10:10Z",
-      "Order a Salvo": "2026-08-23T22:10:10Z",
+      "Order a Salvo": "2026-08-25T12:53:15Z",
+      "Order an Air Defense": "2026-08-25T12:53:15Z",
       "Order an Ambush": "2026-08-23T22:10:10Z",
       "Overwhelming Victory": "2026-08-23T22:10:10Z",
       "Penal Battalion": "2026-08-23T22:10:10Z",
@@ -151,9 +153,10 @@
       "Thrull Squad Support Drone": "2026-08-23T22:10:10Z",
       "Tocsky's Tungsten Terrors": "2026-08-23T22:10:10Z",
       "Trenchline Breach Team": "2026-08-23T22:10:10Z",
+      "Tunnel Run": "2026-08-25T12:53:15Z",
       "Two-Tour Corporal": "2026-08-23T22:10:10Z",
       "U.C.I.T. Battlecruiser": "2026-08-23T22:10:10Z",
-      "U.C.I.T. Command Cruiser": "2026-08-23T22:10:10Z",
+      "U.C.I.T. Command Cruiser": "2026-08-25T12:53:15Z",
       "UR Signpost": "2026-08-23T22:10:10Z",
       "Valiant Martyr Siegebreaker": "2026-08-23T22:10:10Z",
       "Valiant Rearguard": "2026-08-23T18:25:44Z",
@@ -242,7 +245,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-23T22:10:10Z"
+      "updated": "2026-08-25T12:53:15Z"
     },
     "JJK": {
       "updated": "2026-07-25T20:56:04Z"
@@ -264,6 +267,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-23T19:57:27Z"
+    "updated": "2026-08-23T21:54:41Z"
   }
 }
