@@ -9,6 +9,66 @@
         </sets>
     <cards>
         <card>
+            <name>Valiant Rearguard</name>
+            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/fY62vWjQ/Valiant-Rearguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Dedicated Roboticist</name>
+            <text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
+Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Artificer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/nqBY19nW/Dedicated-Roboticist-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>X.55 Mandalay Executor</name>
+            <text>This Vehicle's base power and toughness are each equal to the number of artifacts you control.
+ Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>*/*</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/DfFsJr2F/X-55-Mandalay-Executor-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>I.A. Point Defense Destroyer</name>
             <text>Reach
 This Vehicle can block an additional creature each combat.
@@ -272,6 +332,27 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Order an Air Defense</name>
+            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+• Destroy target creature with flying.
+• Populate (Create a token that's a copy of a creature token you control.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/mrjR4hSy/Order-an-Air-Defense-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>DER.7 Booker Picket Ship</name>
             <text>When this Vehicle enters, draw three cards.
 Crew 3
@@ -410,25 +491,6 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png">BTL</set>
             <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Valiant Rearguard</name>
-            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/fY62vWjQ/Valiant-Rearguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Crafty Cadet</name>
@@ -711,6 +773,27 @@ Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/0jt6c4Fc/Deadly-Espionage-png.png">BTL</set>
             <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>A-44 "Honker" Strike Fighter</name>
+            <text>Flying, trample
+{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>4/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Elspeth, Exploited Examplar</name>
@@ -1134,26 +1217,6 @@ When this creature enters, create a Munitions token.  (It's an artifact with "Wh
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/cS3sK5NB/Flyswatter-Missile-Team-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Dedicated Roboticist</name>
-            <text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
-Whenever a token you control dies, put a +1/+1 counter on this creature.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Artificer</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/nqBY19nW/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2199,6 +2262,25 @@ Other artifact creatures you control get +1/+1.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Tunnel Run</name>
+            <text>Until end of turn, target creature with flying loses flying and may assign its combat damage as though it weren't blocked.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Rare" picurl="https://i.ibb.co/2YYfN4pG/Tunnel-Run-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Grenade-Dropping Drone</name>
             <text>Flash
 Flying
@@ -3140,88 +3222,6 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/hFV3KfFM/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Order an Air Defense</name>
-            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
-• Destroy target creature with flying.
-• Populate (Create a token that's a copy of a creature token you control.)</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mrjR4hSy/Order-an-Air-Defense-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>A-44 "Honker" Strike Fighter</name>
-            <text>Flying, trample
-{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>4/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Tunnel Run</name>
-            <text>Until end of turn, target creature with flying loses flying and may assign its combat damage as though it weren't blocked.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/2YYfN4pG/Tunnel-Run-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>X.55 Mandalay Executor</name>
-            <text>This Vehicle's base power and toughness are each equal to the number of artifacts you control.
- Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>*/*</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/DfFsJr2F/X-55-Mandalay-Executor-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Victory of CW14</name>

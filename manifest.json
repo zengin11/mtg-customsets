@@ -235,8 +235,27 @@
     "NGO": {},
     "SLA": {},
     "SUB": {
-      "Airship Crash": "2026-07-31T18:50:00Z",
-      "Ventgarden": "2026-07-31T18:50:00Z"
+      "4546b, Leviathan Wake": "2026-08-25T13:51:10Z",
+      "Airship Crash": "2026-08-25T13:51:10Z",
+      "Ambushing Ghost Leviathan": "2026-08-25T13:51:10Z",
+      "Bioscanner": "2026-08-25T13:51:10Z",
+      "Birds of Paradise": "2026-08-25T13:51:10Z",
+      "Habitat Builder": "2026-08-25T13:51:10Z",
+      "Long-Lived Reefback": "2026-08-25T13:51:10Z",
+      "Migrating Sea Treaders": "2026-08-25T13:51:10Z",
+      "Nurturing Sea Emperor": "2026-08-25T13:51:10Z",
+      "Overprotect": "2026-08-25T13:51:10Z",
+      "Ryley Robinson, Survivor": "2026-08-25T13:51:10Z",
+      "Territorial Reaper": "2026-08-25T13:51:10Z",
+      "The Aurora's Wreckage": "2026-08-25T13:51:10Z",
+      "The Aurora, Plummeting Flame": "2026-08-25T13:51:10Z",
+      "The Cyclops, Behemoth": "2026-08-25T13:51:10Z",
+      "The Neptune, Rising Tide": "2026-08-25T13:51:10Z",
+      "The Prawn, Indomitable": "2026-08-25T13:51:10Z",
+      "The Sea Emperor, Synaptic Guide": "2026-08-25T13:51:10Z",
+      "The Seamoth, Wayfinder": "2026-08-25T13:51:10Z",
+      "Unstoppable Sea Dragon": "2026-08-25T13:51:10Z",
+      "Ventgarden": "2026-08-25T13:51:10Z"
     },
     "Z11": {}
   },
@@ -260,13 +279,13 @@
       "updated": "2026-06-05T04:24:49Z"
     },
     "SUB": {
-      "updated": "2026-07-31T18:50:00Z"
+      "updated": "2026-08-25T13:51:10Z"
     },
     "Z11": {
       "updated": null
     }
   },
   "site_info": {
-    "updated": "2026-08-23T21:54:41Z"
+    "updated": "2026-08-25T12:53:00Z"
   }
 }
