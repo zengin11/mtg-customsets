@@ -9,6 +9,25 @@
         </sets>
     <cards>
         <card>
+            <name>Valiant Rearguard</name>
+            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/mCpygNxY/Valiant-Rearguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Defense of the Marchwall</name>
             <text>(You defend this battle. Your opponents can attack it.) 
 Creatures you control have vigilance and reach.
@@ -454,25 +473,6 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png">BTL</set>
             <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Valiant Rearguard</name>
-            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/fY62vWjQ/Valiant-Rearguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Crafty Cadet</name>
@@ -2620,6 +2620,26 @@ Crew 1</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Coalition Field Marshal</name>
+            <text>When this creature enters, create a 2/2 white Soldier creature token.
+Whenever you attack with two or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}{G}</manacost>
+                <cmc>4</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier Advisor</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/LdQstwR3/Coalition-Field-Marshal-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Order a Counterattack</name>
             <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
 • Destroy target artifact creature or Vehicle.
@@ -2638,6 +2658,25 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Munitions Stockpile</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ccWPzYF8/Munitions-Stockpile-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3160,6 +3199,26 @@ Equip {?}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Precision Vanguard</name>
+            <text>Activated abilities of Vehicles you control cost {u}{r} less to activate. This effect can't reduce the mana in that cost to less than one mana.  (This can reduce generic costs.) 
+Vehicles crewed by this creature this turn have vigilance and haste.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Pilot</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/twVxF7Jn/Precision-Vanguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Pointed Negotiations</name>
             <text>Any player may have you draw three cards. If no one does, this spell deals 5 damage to any target.</text>
             <prop>
@@ -3237,84 +3296,6 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/hFV3KfFM/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Ready for Anything</name>
-            <text>Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/k68XHt8X/Ready-for-Anything-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Coalition Field Marshal</name>
-            <text>When this creature enters, create a 2/2 white Soldier creature token.
-Whenever you attack with two or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}{G}</manacost>
-                <cmc>4</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier Advisor</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/LdQstwR3/Coalition-Field-Marshal-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Munitions Stockpile</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ccWPzYF8/Munitions-Stockpile-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Precision Vanguard</name>
-            <text>Activated abilities of Vehicles you control cost {u}{r} less to activate. This effect can't reduce the mana in that cost to less than one mana.  (This can reduce generic costs.) 
-Vehicles crewed by this creature this turn have vigilance and haste.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{U}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Pilot</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/twVxF7Jn/Precision-Vanguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Victory of CW14</name>
