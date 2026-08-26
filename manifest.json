@@ -24,7 +24,7 @@
       "\"Rampart\" APC Company": "2026-08-23T22:10:10Z",
       "\"Rhox\" Drone Transport": "2026-08-23T22:10:10Z",
       "A-13 \"Honker\" Strike Fighter": "2026-08-25T12:53:15Z",
-      "A-44 \"Honker\" Strike Fighter": "2026-08-25T12:53:15Z",
+      "A-44 \"Honker\" Strike Fighter": "2026-08-26T03:10:27Z",
       "AH.960 Booker Retrofit": "2026-08-25T23:06:35Z",
       "Aerial Siege of CR12": "2026-08-23T22:10:10Z",
       "Aerial Siege of CU11": "2026-08-23T22:10:10Z",
@@ -43,7 +43,7 @@
       "B.6 Mandalay Auto-Bomber": "2026-08-23T22:10:10Z",
       "BC-9 \"Mile High\" Aircruiser": "2026-08-25T23:06:35Z",
       "BG Signpost": "2026-08-23T22:10:10Z",
-      "Ballistic Plate Carrier": "2026-08-25T23:06:35Z",
+      "Ballistic Plate Carrier": "2026-08-26T03:09:53Z",
       "Battle of CG11": "2026-08-23T22:10:10Z",
       "Battle of CW12": "2026-08-23T22:10:10Z",
       "Battle of UB08": "2026-08-23T22:10:10Z",
@@ -72,10 +72,10 @@
       "E-09 Destiny Rail Transport": "2026-08-23T22:10:10Z",
       "E-25 \"Spotlight\" AWACS": "2026-08-23T22:10:10Z",
       "EA-28 \"Howler\" Screening Jet": "2026-08-25T23:06:35Z",
-      "Elspeth's Cleansing Fury": "2026-08-23T22:10:10Z",
-      "Elspeth's Righteous Fury": "2026-08-23T22:10:10Z",
-      "Elspeth, Exploited Examplar": "2026-08-23T22:10:10Z",
-      "Elspeth, Exploited Exemplar": "2026-08-23T22:10:10Z",
+      "Elspeth's Cleansing Fury": "2026-08-26T03:10:27Z",
+      "Elspeth's Righteous Fury": "2026-08-26T03:09:53Z",
+      "Elspeth, Exploited Examplar": "2026-08-26T03:09:53Z",
+      "Elspeth, Exploited Exemplar": "2026-08-26T03:10:27Z",
       "F.L.C. Command Cruiser (1)": "2026-08-23T22:10:10Z",
       "Field Salvage Kit": "2026-08-25T12:53:15Z",
       "Fire the R-ZERO": "2026-08-23T22:10:10Z",
@@ -98,7 +98,7 @@
       "Inspiring Sergeant": "2026-08-23T22:10:10Z",
       "Intercept": "2026-08-25T23:06:35Z",
       "Knight's Beacon Interceptor": "2026-08-23T22:10:10Z",
-      "Kraken Missile Cruiser": "2026-08-25T12:53:15Z",
+      "Kraken Missile Cruiser": "2026-08-26T03:10:27Z",
       "Logistics Specialist": "2026-08-23T22:10:10Z",
       "Logistics Specialist Officer": "2026-08-23T22:10:10Z",
       "Logistics Truck": "2026-08-25T23:06:35Z",
@@ -117,13 +117,13 @@
       "Order a Counterattack": "2026-08-25T23:06:35Z",
       "Order a Raid": "2026-08-25T23:06:35Z",
       "Order a Resupply": "2026-08-25T23:06:35Z",
-      "Order a Salvo": "2026-08-25T12:53:15Z",
-      "Order an Air Defense": "2026-08-25T12:53:15Z",
+      "Order a Salvo": "2026-08-26T03:09:53Z",
+      "Order an Air Defense": "2026-08-26T03:10:27Z",
       "Order an Ambush": "2026-08-25T23:06:35Z",
       "Overwhelming Victory": "2026-08-23T22:10:10Z",
       "Penal Battalion": "2026-08-23T22:10:10Z",
-      "Perfect Rework": "2026-08-23T22:10:10Z",
-      "Perfect Rework (1)": "2026-08-23T22:10:10Z",
+      "Perfect Rework": "2026-08-26T03:10:27Z",
+      "Perfect Rework (1)": "2026-08-26T03:09:53Z",
       "Perseverant Pathfinder": "2026-08-23T22:10:10Z",
       "Pointed Negotiations": "2026-08-23T22:10:10Z",
       "Poisoned Orders": "2026-08-23T22:10:10Z",
@@ -132,11 +132,11 @@
       "Prototype Railgun": "2026-08-23T22:10:10Z",
       "Put in Stasis": "2026-08-23T22:10:10Z",
       "QRF.2 Toc-Mand Drone Ship": "2026-08-23T22:10:10Z",
-      "R.D.I. \"Knight\" Battle Tank": "2026-08-25T23:06:35Z",
+      "R.D.I. \"Knight\" Battle Tank": "2026-08-26T03:09:53Z",
       "R.D.I. Main Battle Tank": "2026-08-25T23:06:35Z",
       "R.D.I. Reserve Responder": "2026-08-23T22:10:10Z",
       "R.D.I. Vanguard Dogfighter": "2026-08-23T22:10:10Z",
-      "RG Signpost": "2026-08-23T22:10:10Z",
+      "RG Signpost": "2026-08-26T03:10:27Z",
       "RW Signpost": "2026-08-23T22:10:10Z",
       "Radio Backpack": "2026-08-23T22:10:10Z",
       "Readied Rookie": "2026-08-23T22:10:10Z",
@@ -756,7 +756,7 @@
       "updated": "2026-08-25T23:06:55Z"
     },
     "BTL": {
-      "updated": "2026-08-25T23:06:35Z"
+      "updated": "2026-08-26T03:10:27Z"
     },
     "JJK": {
       "updated": "2026-08-25T23:06:49Z"
@@ -778,6 +778,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-25T22:48:44Z"
+    "updated": "2026-08-25T23:03:22Z"
   }
 }

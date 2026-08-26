@@ -434,14 +434,6 @@
     "toughness": "3",
     "type_line": "Legendary Creature \u2014 Demon Performer"
   },
-  "ballistic plate carrier": {
-    "image_uris": {
-      "large": "https://i.ibb.co/Z1gVKvYs/Ballistic-Plate-Carrier-png.png"
-    },
-    "name": "Ballistic Plate Carrier",
-    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-    "type_line": "Unknown"
-  },
   "banishing light": {
     "image_uris": {
       "large": "https://i.ibb.co/b5yzHyWd/Banishing-Light-png.png"
@@ -1593,33 +1585,17 @@
       "large": "https://i.ibb.co/bjX7d9px/Elspeth-s-Cleansing-Fury-png.png"
     },
     "name": "Elspeth's Cleansing Fury",
-    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-    "type_line": "Unknown"
-  },
-  "elspeth's righteous fury": {
-    "image_uris": {
-      "large": "https://i.ibb.co/Mk74Fyp4/Elspeth-s-Righteous-Fury-png.png"
-    },
-    "name": "Elspeth's Righteous Fury",
     "oracle_text": "Each artifact deals 1 damage to its controller. Destroy all artifacts.",
     "type_line": "Sorcery"
-  },
-  "elspeth, exploited examplar": {
-    "image_uris": {
-      "large": "https://i.ibb.co/VW0Z1Wfs/Elspeth-Exploited-Examplar-png.png"
-    },
-    "loyalty": "5",
-    "name": "Elspeth, Exploited Examplar",
-    "oracle_text": "At the beginning of each player's upkeep, that player creates a 2/2 white Angel Robot artifact creature token with flying.\n[+2]: Investigate. You gain 3 life.\n[-1]: Put a +1/+1 counter on each creature you control. Nonartifact creatures you control gain flying until your next turn.\n[-8]: Gain control of all artifacts. Untap them. They gain haste. Sacrifice them at end of turn.",
-    "type_line": "Legendary Planeswalker \u2014 Elspeth"
   },
   "elspeth, exploited exemplar": {
     "image_uris": {
       "large": "https://i.ibb.co/CKC4x0z6/Elspeth-Exploited-Exemplar-png.png"
     },
+    "loyalty": "5",
     "name": "Elspeth, Exploited Exemplar",
-    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-    "type_line": "Unknown"
+    "oracle_text": "At the beginning of each player's upkeep, that player creates a 2/2 white Angel Robot artifact creature token with flying.\n[+2]: Investigate. You gain 3 life.\n[-1]: Put a +1/+1 counter on each creature you control. Nonartifact creatures you control gain flying until your next turn.\n[-8]: Gain control of all artifacts. Untap them. They gain haste. Sacrifice them at end of turn.",
+    "type_line": "Legendary Planeswalker \u2014 Elspeth"
   },
   "enlightened tutor": {
     "image_uris": {
@@ -2871,7 +2847,7 @@
   },
   "kraken missile cruiser": {
     "image_uris": {
-      "large": "https://i.ibb.co/XZLhspfW/Kraken-Missile-Cruiser-png.png"
+      "large": "https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png"
     },
     "name": "Kraken Missile Cruiser",
     "oracle_text": "When this Vehicle enters, destroy up to one target artifact or enchantment.\nCrew 3",
@@ -3787,17 +3763,9 @@
     "oracle_text": "Wartime Measures  \u2014 Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n\u2022 Draw two cards.\n\u2022 Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
     "type_line": "Instant"
   },
-  "order a salvo": {
-    "image_uris": {
-      "large": "https://i.ibb.co/mVpcRTYQ/Order-a-Salvo-png.png"
-    },
-    "name": "Order a Salvo",
-    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-    "type_line": "Unknown"
-  },
   "order an air defense": {
     "image_uris": {
-      "large": "https://i.ibb.co/mrjR4hSy/Order-an-Air-Defense-png.png"
+      "large": "https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png"
     },
     "name": "Order an Air Defense",
     "oracle_text": "Wartime Measures  \u2014 Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n\u2022 Destroy target creature with flying.\n\u2022 Populate (Create a token that's a copy of a creature token you control.)",
@@ -3897,19 +3865,11 @@
   },
   "perfect rework": {
     "image_uris": {
-      "large": "https://i.ibb.co/zhf5FGnc/Perfect-Rework-png.png"
+      "large": "https://i.ibb.co/KcncYQGY/Perfect-Rework-png.png"
     },
     "name": "Perfect Rework",
     "oracle_text": "Tap target creature. At the beginning of your next upkeep, it becomes an artifact creature with base power and toughness 0/0. Put six +1/+1 counters, three shield counters, and a vigilance counter on it.",
     "type_line": "Sorcery"
-  },
-  "perfect rework (1)": {
-    "image_uris": {
-      "large": "https://i.ibb.co/v6JXSThG/Perfect-Rework-1-png.png"
-    },
-    "name": "Perfect Rework (1)",
-    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-    "type_line": "Unknown"
   },
   "perseverant pathfinder": {
     "image_uris": {
@@ -4151,14 +4111,6 @@
     "power": "5",
     "toughness": "4",
     "type_line": "Artifact \u2014 Vehicle"
-  },
-  "r.d.i. \"knight\" battle tank": {
-    "image_uris": {
-      "large": "https://i.ibb.co/PGL1PLnr/R-D-I-Knight-Battle-Tank-png.png"
-    },
-    "name": "R.D.I. \"Knight\" Battle Tank",
-    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-    "type_line": "Unknown"
   },
   "r.d.i. main battle tank": {
     "image_uris": {
@@ -4452,13 +4404,13 @@
   },
   "rg signpost": {
     "image_uris": {
-      "large": "https://i.ibb.co/8DccGP8k/RG-Signpost-png.png"
+      "large": "https://i.ibb.co/67v6pmMm/RG-Signpost-png.png"
     },
     "name": "RG Signpost",
     "oracle_text": "When this creature enters, create a 2/2 white Soldier creature token.\nWhenever this creature attacks, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
     "power": "2",
     "toughness": "4",
-    "type_line": "Creature \u2014 Human Soldier"
+    "type_line": "Creature \u2014 Human Soldier Advisor"
   },
   "riding the rhythm": {
     "image_uris": {

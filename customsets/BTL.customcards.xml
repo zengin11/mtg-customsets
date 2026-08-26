@@ -272,27 +272,6 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Order an Air Defense</name>
-            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
-• Destroy target creature with flying.
-• Populate (Create a token that's a copy of a creature token you control.)</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mrjR4hSy/Order-an-Air-Defense-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>DER.7 Booker Picket Ship</name>
             <text>When this Vehicle enters, draw three cards.
 Crew 3
@@ -335,25 +314,6 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Order a Salvo</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mVpcRTYQ/Order-a-Salvo-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Maintenance Drone</name>
             <text>Artifact spells you cast cost {1} less to cast.</text>
             <prop>
@@ -371,6 +331,27 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/WWSx9BG8/Maintenance-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>R.D.I. Main Battle Tank</name>
+            <text>Haste
+Wartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}</manacost>
+                <cmc>4</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/pv6kZZKz/R-D-I-Main-Battle-Tank-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Reconnaissance Gear</name>
@@ -482,12 +463,12 @@ Whenever this creature attacks, populate. The token enters tapped and attacking.
                 <colors>RG</colors>
                 <coloridentity>RG</coloridentity>
                 <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
+                <type>Creature - Human Soldier Advisor</type>
                 <pt>2/4</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/8DccGP8k/RG-Signpost-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/67v6pmMm/RG-Signpost-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -734,49 +715,6 @@ Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>A-44 "Honker" Strike Fighter</name>
-            <text>Flying, trample
-{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>4/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Elspeth, Exploited Examplar</name>
-            <text>At the beginning of each player's upkeep, that player creates a 2/2 white Angel Robot artifact creature token with flying.
-[+2]: Investigate. You gain 3 life.
-[-1]: Put a +1/+1 counter on each creature you control. Nonartifact creatures you control gain flying until your next turn.
-[-8]: Gain control of all artifacts. Untap them. They gain haste. Sacrifice them at end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}{W}{B}</manacost>
-                <cmc>4</cmc>
-                <colors>WBR</colors>
-                <coloridentity>WBR</coloridentity>
-                <maintype>Planeswalker</maintype>
-                <type>Legendary Planeswalker - Elspeth</type>
-                <pt />
-                <loyalty>5</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Mythic" picurl="https://i.ibb.co/VW0Z1Wfs/Elspeth-Exploited-Examplar-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Thrull Squad Support Drone</name>
             <text>Menace
 Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) 
@@ -999,45 +937,6 @@ Crew 6</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Kraken Missile Cruiser</name>
-            <text>When this Vehicle enters, destroy up to one target artifact or enchantment.
-Crew 3</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{G}{G}</manacost>
-                <cmc>5</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>7/7</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/XZLhspfW/Kraken-Missile-Cruiser-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Elspeth's Righteous Fury</name>
-            <text>Each artifact deals 1 damage to its controller. Destroy all artifacts.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{r}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/Mk74Fyp4/Elspeth-s-Righteous-Fury-png.png">BTL</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
             <name>Battle of CW12</name>
             <text>When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.</text>
             <prop>
@@ -1075,45 +974,6 @@ Arms Race — This creature gets +2/+1 as long as no opponent controls more arti
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/PZbcXy0j/HQD-5-Tocsky-Tetrapod-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>I.A. "Workhorse" Fighter Jet</name>
-            <text>Flying
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}</manacost>
-                <cmc>1</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/Y7MtjR8M/I-A-Workhorse-Fighter-Jet-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>R.D.I. "Knight" Battle Tank</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PGL1PLnr/R-D-I-Knight-Battle-Tank-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Drill Instructor</name>
@@ -1258,25 +1118,6 @@ When this creature enters, tap target creature an opponent controls and put a st
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Perfect Rework (1)</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/v6JXSThG/Perfect-Rework-1-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Night Vision Goggles</name>
             <text>When this Equipment enters, put a +1/+1 counter on target creature you control. Attach this Equipment to it.
 Equipped creature has deathtouch as long as it's your turn.
@@ -1378,6 +1219,26 @@ Untap this creature during each other player's untap step.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Armored Exoskeleton</name>
+            <text>Equipped creature gets +0/+3 and has vigilance.
+Equip {1}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2/W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/cSmGqFQr/Armored-Exoskeleton-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Siege of CB12</name>
             <text>When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
             <prop>
@@ -1416,25 +1277,6 @@ When this artifact leaves the battlefield, it deals 2 damage to any target.</tex
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/Lh1xRjLc/Munition-Stockpile-png.png">BTL</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Perfect Rework</name>
-            <text>Tap target creature. At the beginning of your next upkeep, it becomes an artifact creature with base power and toughness 0/0. Put six +1/+1 counters, three shield counters, and a vigilance counter on it.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{U}{U}</manacost>
-                <cmc>5</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/zhf5FGnc/Perfect-Rework-png.png">BTL</set>
-            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Rear Admiral of the Fleet</name>
@@ -1620,22 +1462,24 @@ Whenever [name] crews a Vehicle, that Vehicle gets +2/+0 and gains haste until e
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Ballistic Plate Carrier</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <name>BC-9 "Mile High" Aircruiser</name>
+            <text>Flying, trample
+Crew 3
+Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
+                <manacost>{5}{R}{R}</manacost>
+                <cmc>7</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>8/6</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Z1gVKvYs/Ballistic-Plate-Carrier-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/wFFGY0zY/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1838,22 +1682,22 @@ Crew 2</text>
             </card>
         <card>
             <name>Elspeth's Cleansing Fury</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <text>Each artifact deals 1 damage to its controller. Destroy all artifacts.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
+                <manacost>{2}{r}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/bjX7d9px/Elspeth-s-Cleansing-Fury-png.png">BTL</set>
-            <tablerow>1</tablerow>
+            <set rarity="Rare" picurl="https://i.ibb.co/bjX7d9px/Elspeth-s-Cleansing-Fury-png.png">BTL</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Manafold Wings</name>
@@ -2480,27 +2324,6 @@ Whenever this creature crews a Vehicle, that Vehicle gains trample until end of 
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>BC-9 "Mile High" Aircruiser</name>
-            <text>Flying, trample
-Crew 3
-Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{5}{R}{R}</manacost>
-                <cmc>7</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>8/6</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/wFFGY0zY/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Aerial Siege of CR12</name>
             <text>When this Siege enters, it deals 3 damage to any target.</text>
             <prop>
@@ -2639,6 +2462,26 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>I.A. "Workhorse" Fighter Jet</name>
+            <text>Flying
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/Y7MtjR8M/I-A-Workhorse-Fighter-Jet-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2944,21 +2787,24 @@ Overload {4}{g}{g}{u}{u}  (You may cast this spell for its overload cost. If you
             </card>
         <card>
             <name>Elspeth, Exploited Exemplar</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <text>At the beginning of each player's upkeep, that player creates a 2/2 white Angel Robot artifact creature token with flying.
+[+2]: Investigate. You gain 3 life.
+[-1]: Put a +1/+1 counter on each creature you control. Nonartifact creatures you control gain flying until your next turn.
+[-8]: Gain control of all artifacts. Untap them. They gain haste. Sacrifice them at end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
+                <manacost>{1}{R}{W}{B}</manacost>
+                <cmc>4</cmc>
+                <colors>WBR</colors>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Planeswalker</maintype>
+                <type>Legendary Planeswalker - Elspeth</type>
                 <pt />
-                <loyalty />
+                <loyalty>5</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CKC4x0z6/Elspeth-Exploited-Exemplar-png.png">BTL</set>
+            <set rarity="Mythic" picurl="https://i.ibb.co/CKC4x0z6/Elspeth-Exploited-Exemplar-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3200,45 +3046,85 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>R.D.I. Main Battle Tank</name>
-            <text>Haste
-Wartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)
-Crew 1</text>
+            <name>Order an Air Defense</name>
+            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+• Destroy target creature with flying.
+• Populate (Create a token that's a copy of a creature token you control.)</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{4}</manacost>
-                <cmc>4</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/pv6kZZKz/R-D-I-Main-Battle-Tank-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Armored Exoskeleton</name>
-            <text>Equipped creature gets +0/+3 and has vigilance.
-Equip {1}</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2/W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Equipment</type>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/cSmGqFQr/Armored-Exoskeleton-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>A-44 "Honker" Strike Fighter</name>
+            <text>Flying, trample
+{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>4/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Kraken Missile Cruiser</name>
+            <text>When this Vehicle enters, destroy up to one target artifact or enchantment.
+Crew 3</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{G}{G}</manacost>
+                <cmc>5</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>7/7</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Perfect Rework</name>
+            <text>Tap target creature. At the beginning of your next upkeep, it becomes an artifact creature with base power and toughness 0/0. Put six +1/+1 counters, three shield counters, and a vigilance counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{U}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Rare" picurl="https://i.ibb.co/KcncYQGY/Perfect-Rework-png.png">BTL</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Victory of CW14</name>
