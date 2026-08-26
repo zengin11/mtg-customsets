@@ -3,15 +3,20 @@
     "ARC": {},
     "BTL": {
       "BG Signpost": "2026-08-26T14:52:21Z",
-      "Coalition Field Major": "2026-08-26T14:52:21Z",
+      "Coalition Field Major": "2026-08-26T19:09:54Z",
+      "Coalition Field Marshal": "2026-08-26T19:09:54Z",
       "Defense of the Marchwall": "2026-08-26T14:52:21Z",
-      "Invasion of Ekhara": "2026-08-26T14:52:21Z",
-      "Onslaught of Victory": "2026-08-26T14:52:21Z",
+      "Invasion of Ekhara": "2026-08-26T19:09:54Z",
+      "Munitions Stockpile": "2026-08-26T19:09:54Z",
+      "Onslaught of Victory": "2026-08-26T19:09:54Z",
       "Overwhelming Victory": "2026-08-26T14:52:21Z",
+      "Precision Vanguard": "2026-08-26T19:09:54Z",
       "Price of a Mile": "2026-08-26T14:52:21Z",
       "Protect the Homeland": "2026-08-26T14:52:21Z",
       "RG Signpost": "2026-08-26T14:52:21Z",
       "RW Signpost": "2026-08-26T14:52:21Z",
+      "Ready for Anything": "2026-08-26T19:09:54Z",
+      "Soaring Onslaught": "2026-08-26T19:09:54Z",
       "Trench-Clashes of El Gelly": "2026-08-26T14:52:21Z",
       "UR Signpost": "2026-08-26T14:52:21Z"
     },
@@ -29,7 +34,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-26T14:52:21Z"
+      "updated": "2026-08-26T19:09:54Z"
     },
     "JJK": {
       "updated": null
@@ -51,6 +56,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-26T04:05:22Z"
+    "updated": "2026-08-26T14:51:57Z"
   }
 }

@@ -1038,6 +1038,14 @@
       "large": "https://i.ibb.co/wFyqwX7P/Coalition-Field-Major-png.png"
     },
     "name": "Coalition Field Major",
+    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+    "type_line": "Unknown"
+  },
+  "coalition field marshal": {
+    "image_uris": {
+      "large": "https://i.ibb.co/LdQstwR3/Coalition-Field-Marshal-png.png"
+    },
+    "name": "Coalition Field Marshal",
     "oracle_text": "When this creature enters, create a 2/2 white Soldier creature token.\nWhenever you attack with two or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
     "power": "3",
     "toughness": "3",
@@ -2566,9 +2574,9 @@
       },
       {
         "image_uris": {
-          "large": "https://i.ibb.co/20PtWxDQ/Onslaught-of-Victory-png.png"
+          "large": "https://i.ibb.co/9m3dMGCh/Soaring-Onslaught-png.png"
         },
-        "name": "Onslaught of Victory",
+        "name": "Soaring Onslaught",
         "oracle_text": "Whenever a creature you control deals combat damage to an Aerial battle, it deals that much damage to defending player.",
         "type_line": "Enchantment"
       }
@@ -3512,6 +3520,14 @@
     "oracle_text": "When this artifact enters, discard a card, then draw a card.\nWhen this artifact leaves the battlefield, it deals 2 damage to any target.",
     "type_line": "Artifact — Munitions"
   },
+  "munitions stockpile": {
+    "image_uris": {
+      "large": "https://i.ibb.co/ccWPzYF8/Munitions-Stockpile-png.png"
+    },
+    "name": "Munitions Stockpile",
+    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+    "type_line": "Unknown"
+  },
   "murderous rage": {
     "image_uris": {
       "large": "https://i.ibb.co/DPfxggfz/Murderous-Rage-png.png"
@@ -3749,6 +3765,14 @@
     "name": "Observed Alleyway",
     "oracle_text": "As this land enters, choose a nonbasic card name. Target opponent reveals their hand. If they didn't reveal the named card, this land enters tapped. \n{t}: Add {u} or {b}.",
     "type_line": "Land"
+  },
+  "onslaught of victory": {
+    "image_uris": {
+      "large": "https://i.ibb.co/20PtWxDQ/Onslaught-of-Victory-png.png"
+    },
+    "name": "Onslaught of Victory",
+    "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+    "type_line": "Unknown"
   },
   "open the armory": {
     "image_uris": {
@@ -4014,6 +4038,16 @@
     "oracle_text": "Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, you may cast that card without paying its mana cost if the two spells have the same mana value.",
     "type_line": "Enchantment"
   },
+  "precision vanguard": {
+    "image_uris": {
+      "large": "https://i.ibb.co/twVxF7Jn/Precision-Vanguard-png.png"
+    },
+    "name": "Precision Vanguard",
+    "oracle_text": "Activated abilities of Vehicles you control cost {u}{r} less to activate. This effect can't reduce the mana in that cost to less than one mana.  (This can reduce generic costs.) \nVehicles crewed by this creature this turn have vigilance and haste.",
+    "power": "3",
+    "toughness": "1",
+    "type_line": "Legendary Creature — Human Pilot"
+  },
   "predators' hour": {
     "image_uris": {
       "large": "https://i.ibb.co/whX8pFhc/Predators-Hour-png.png"
@@ -4254,9 +4288,9 @@
   },
   "ready for anything": {
     "image_uris": {
-      "large": "https://i.ibb.co/zVj1mhMz/Ready-For-Anything-png.png"
+      "large": "https://i.ibb.co/k68XHt8X/Ready-for-Anything-png.png"
     },
-    "name": "Ready For Anything",
+    "name": "Ready for Anything",
     "oracle_text": "Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.",
     "type_line": "Instant"
   },
