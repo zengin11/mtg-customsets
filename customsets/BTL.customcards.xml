@@ -272,6 +272,27 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Order an Air Defense</name>
+            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+• Destroy target creature with flying.
+• Populate (Create a token that's a copy of a creature token you control.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>DER.7 Booker Picket Ship</name>
             <text>When this Vehicle enters, draw three cards.
 Crew 3
@@ -715,6 +736,27 @@ Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>A-44 "Honker" Strike Fighter</name>
+            <text>Flying, trample
+{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>4/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Thrull Squad Support Drone</name>
             <text>Menace
 Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) 
@@ -934,6 +976,26 @@ Crew 6</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Rare" picurl="https://i.ibb.co/xSCgfyS9/C-10-Nanny-Aircraft-Carrier-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Kraken Missile Cruiser</name>
+            <text>When this Vehicle enters, destroy up to one target artifact or enchantment.
+Crew 3</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{G}{G}</manacost>
+                <cmc>5</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>7/7</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1277,6 +1339,25 @@ When this artifact leaves the battlefield, it deals 2 damage to any target.</tex
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/Lh1xRjLc/Munition-Stockpile-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Perfect Rework</name>
+            <text>Tap target creature. At the beginning of your next upkeep, it becomes an artifact creature with base power and toughness 0/0. Put six +1/+1 counters, three shield counters, and a vigilance counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{U}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Rare" picurl="https://i.ibb.co/KcncYQGY/Perfect-Rework-png.png">BTL</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Rear Admiral of the Fleet</name>
@@ -3044,87 +3125,6 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/hFV3KfFM/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Order an Air Defense</name>
-            <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
-• Destroy target creature with flying.
-• Populate (Create a token that's a copy of a creature token you control.)</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>A-44 "Honker" Strike Fighter</name>
-            <text>Flying, trample
-{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>4/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Kraken Missile Cruiser</name>
-            <text>When this Vehicle enters, destroy up to one target artifact or enchantment.
-Crew 3</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{G}{G}</manacost>
-                <cmc>5</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>7/7</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Perfect Rework</name>
-            <text>Tap target creature. At the beginning of your next upkeep, it becomes an artifact creature with base power and toughness 0/0. Put six +1/+1 counters, three shield counters, and a vigilance counter on it.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{U}{U}</manacost>
-                <cmc>5</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/KcncYQGY/Perfect-Rework-png.png">BTL</set>
-            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Victory of CW14</name>

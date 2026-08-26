@@ -4843,7 +4843,7 @@ This land enters tapped unless you control two or more basic lands.</text>
             </card>
         <card>
             <name>Basilisk Collar</name>
-            <text>Equipped creature has deathtouch and lifelink.  (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.) 
+            <text>Equipped creature has deathtouch and lifelink.
 Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.) </text>
             <prop>
                 <layout>normal</layout>
@@ -4858,7 +4858,7 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tTjH33C7/Basilisk-Collar-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5hYNFCkM/Basilisk-Collar-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
