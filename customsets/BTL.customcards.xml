@@ -9,6 +9,27 @@
         </sets>
     <cards>
         <card>
+            <name>Defense of the Marchwall</name>
+            <text>(You defend this battle. Your opponents can attack it.) 
+Creatures you control have vigilance and reach.
+At the beginning of combat on your turn, put a defense counter on up to one target battle and a +1/+1 counter on up to one target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Valiant Rearguard</name>
             <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
             <prop>
@@ -26,6 +47,68 @@
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/fY62vWjQ/Valiant-Rearguard-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Coalition Field Major</name>
+            <text>When this creature enters, create a 2/2 white Soldier creature token.
+Whenever you attack with two or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}{G}</manacost>
+                <cmc>4</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier Advisor</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/wFyqwX7P/Coalition-Field-Major-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Trench-Clashes of El Gelly</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)
+Whenever this Siege loses a defense counter, mill twice that many cards.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{B}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Price of a Mile</related>
+            </card>
+        <card>
+            <name>Invasion of Ekhara</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed. Aerial battles can only be attacked by creatures with flying or reach.) 
+When this battle enters, create a Fighter token.  (It's a 3/1 colorless Vehicle artifact with flying and crew 1.) </text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{R}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Aerial Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Onslaught of Victory</related>
             </card>
         <card>
             <name>I.A. Point Defense Destroyer</name>
@@ -474,23 +557,22 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
             </card>
         <card>
             <name>RG Signpost</name>
-            <text>When this creature enters, create a 2/2 white Soldier creature token.
-Whenever this creature attacks, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{R}{G}</manacost>
-                <cmc>4</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier Advisor</type>
-                <pt>2/4</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/67v6pmMm/RG-Signpost-png.png">BTL</set>
-            <tablerow>2</tablerow>
+            <set rarity="NA" picurl="https://i.ibb.co/67v6pmMm/RG-Signpost-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Siege of CG14</name>
@@ -636,23 +718,21 @@ Crew 1</text>
             </card>
         <card>
             <name>Protect the Homeland</name>
-            <text>(You defend this battle. Your opponents can attack it.) 
-Creatures you control have vigilance and reach.
-At the beginning of combat on your turn, put a defense counter on up to one target battle and a +1/+1 counter on up to one target creature.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{G}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>WG</colors>
-                <coloridentity>WG</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>3</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/hxK0KG1n/Protect-the-Homeland-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hxK0KG1n/Protect-the-Homeland-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -776,6 +856,25 @@ Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/jkxPFB12/Thrull-Squad-Support-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Overwhelming Victory</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/S4xqp8mm/Overwhelming-Victory-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Three-Tour Captain</name>
@@ -1524,8 +1623,7 @@ Whenever this creature crews a vehicle during your turn, double all damage that 
             </card>
         <card>
             <name>UR Signpost</name>
-            <text>Activated abilities of Vehicle creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
-Whenever [name] crews a Vehicle, that Vehicle gets +2/+0 and gains haste until end of turn.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1533,14 +1631,14 @@ Whenever [name] crews a Vehicle, that Vehicle gets +2/+0 and gains haste until e
                 <cmc>0</cmc>
                 <colors />
                 <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Pilot</type>
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Fbxpfw2j/UR-Signpost-png.png">BTL</set>
-            <tablerow>2</tablerow>
+            <set rarity="NA" picurl="https://i.ibb.co/Fbxpfw2j/UR-Signpost-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>BC-9 "Mile High" Aircruiser</name>
@@ -2223,24 +2321,22 @@ When this creature enters or dies, up to one target creature without flying gets
             </card>
         <card>
             <name>RW Signpost</name>
-            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed. Aerial battles can only be attacked by creatures with flying or reach.) 
-When this battle enters, create a Fighter token.  (It's a 3/1 colorless Vehicle artifact with flying and crew 1.) </text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
-                <layout>transform</layout>
+                <layout>normal</layout>
                 <side>front</side>
-                <manacost>{R}{W}</manacost>
-                <cmc>2</cmc>
-                <colors>WR</colors>
-                <coloridentity>WR</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Aerial Siege</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>3</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/HDzcz3Ky/RW-Signpost-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HDzcz3Ky/RW-Signpost-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Overwhelming Victory</related>
             </card>
         <card>
             <name>Autonomous Warfighter</name>
@@ -2748,24 +2844,22 @@ Crew 1</text>
             </card>
         <card>
             <name>BG Signpost</name>
-            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)
-Whenever this Siege loses a defense counter, mill twice that many cards.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
-                <layout>transform</layout>
+                <layout>normal</layout>
                 <side>front</side>
-                <manacost>{B}{G}</manacost>
-                <cmc>2</cmc>
-                <colors>BG</colors>
-                <coloridentity>BG</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>4</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/PGMy8S1r/BG-Signpost-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PGMy8S1r/BG-Signpost-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Price of a Mile</related>
             </card>
         <card>
             <name>No Man's Land</name>
@@ -3267,7 +3361,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             <related attach="transform">Siege of CG14</related>
             </card>
         <card>
-            <name>Overwhelming Victory</name>
+            <name>Onslaught of Victory</name>
             <text>Whenever a creature you control deals combat damage to an Aerial battle, it deals that much damage to defending player.</text>
             <prop>
                 <layout>transform</layout>
@@ -3282,9 +3376,9 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/S4xqp8mm/Overwhelming-Victory-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/20PtWxDQ/Onslaught-of-Victory-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">RW Signpost</related>
+            <related attach="transform">Invasion of Ekhara</related>
             </card>
         <card>
             <name>Price of a Mile</name>
@@ -3305,7 +3399,7 @@ Create two Treasure tokens.</text>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/yFd20ffK/Price-of-a-Mile-png.png">BTL</set>
             <tablerow>3</tablerow>
-            <related attach="transform">BG Signpost</related>
+            <related attach="transform">Trench-Clashes of El Gelly</related>
             <related>Treasure Token</related>
             </card>
         </cards>

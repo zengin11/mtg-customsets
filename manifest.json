@@ -1,7 +1,20 @@
 {
   "cards": {
     "ARC": {},
-    "BTL": {},
+    "BTL": {
+      "BG Signpost": "2026-08-26T14:52:21Z",
+      "Coalition Field Major": "2026-08-26T14:52:21Z",
+      "Defense of the Marchwall": "2026-08-26T14:52:21Z",
+      "Invasion of Ekhara": "2026-08-26T14:52:21Z",
+      "Onslaught of Victory": "2026-08-26T14:52:21Z",
+      "Overwhelming Victory": "2026-08-26T14:52:21Z",
+      "Price of a Mile": "2026-08-26T14:52:21Z",
+      "Protect the Homeland": "2026-08-26T14:52:21Z",
+      "RG Signpost": "2026-08-26T14:52:21Z",
+      "RW Signpost": "2026-08-26T14:52:21Z",
+      "Trench-Clashes of El Gelly": "2026-08-26T14:52:21Z",
+      "UR Signpost": "2026-08-26T14:52:21Z"
+    },
     "JJK": {},
     "KPDH": {
       "Bobby, Supportive Manager": "2026-08-26T04:05:35Z"
@@ -16,7 +29,7 @@
       "updated": null
     },
     "BTL": {
-      "updated": null
+      "updated": "2026-08-26T14:52:21Z"
     },
     "JJK": {
       "updated": null
@@ -38,6 +51,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-26T03:46:27Z"
+    "updated": "2026-08-26T04:05:22Z"
   }
 }
