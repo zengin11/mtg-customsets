@@ -9,25 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Valiant Rearguard</name>
-            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mCpygNxY/Valiant-Rearguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Defense of the Marchwall</name>
             <text>(You defend this battle. Your opponents can attack it.) 
 Creatures you control have vigilance and reach.
@@ -473,6 +454,25 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png">BTL</set>
             <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Valiant Rearguard</name>
+            <text>Sacrifice this creature: Prevent all combat damage that would be dealt to players and battles this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/mCpygNxY/Valiant-Rearguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Crafty Cadet</name>
