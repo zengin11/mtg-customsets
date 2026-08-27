@@ -6,6 +6,7 @@
       "Coalition Field Major": "2026-08-26T19:09:54Z",
       "Coalition Field Marshal": "2026-08-26T19:09:54Z",
       "Defense of the Marchwall": "2026-08-26T14:52:21Z",
+      "Intercept": "2026-08-27T04:05:19Z",
       "Invasion of Ekhara": "2026-08-26T19:09:54Z",
       "Munitions Stockpile": "2026-08-26T19:09:54Z",
       "Onslaught of Victory": "2026-08-26T19:09:54Z",
@@ -23,7 +24,7 @@
     },
     "JJK": {},
     "KPDH": {
-      "Bobby, Supportive Manager": "2026-08-26T04:05:35Z"
+      "Bobby, Supportive Manager": "2026-08-27T04:05:24Z"
     },
     "NGO": {},
     "SLA": {},
@@ -35,13 +36,13 @@
       "updated": null
     },
     "BTL": {
-      "updated": "2026-08-26T19:12:10Z"
+      "updated": "2026-08-27T04:05:19Z"
     },
     "JJK": {
       "updated": null
     },
     "KPDH": {
-      "updated": "2026-08-26T04:05:35Z"
+      "updated": "2026-08-27T04:05:24Z"
     },
     "NGO": {
       "updated": null
@@ -57,6 +58,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-08-26T23:01:47Z"
+    "updated": "2026-08-27T00:43:58Z"
   }
 }

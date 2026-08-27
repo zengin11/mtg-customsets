@@ -1040,10 +1040,10 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/JF7V3MZb/Bobby-Supportive-Manager-png.png"
+          "large": "https://i.ibb.co/tp3nZwps/Bobby-Supportive-Manager-png.png"
         },
         "name": "Bobby, Supportive Manager",
-        "oracle_text": "Creatures you control get +1/+1.\nCommander creatures you control have ward {3}.\nPartner—HUNTR/X",
+        "oracle_text": "Other creatures you control get +1/+1.\nCommander creatures you control have ward {3}.\nPartner—HUNTR/X",
         "power": "1",
         "toughness": "4",
         "type_line": "Legendary Creature — Human Advisor"
@@ -4014,10 +4014,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/ynhdmj2h/Intercept-png.png"
+          "large": "https://i.ibb.co/yFSdCkyW/Intercept-png.png"
         },
         "name": "Intercept",
-        "oracle_text": "Counter target spell unless its controller pays {2}. \n Wartime Measures  — If you control a battle or have defeated a battle this game, counter that spell instead.",
+        "oracle_text": "Counter target spell.",
         "type_line": "Instant"
       }
     }

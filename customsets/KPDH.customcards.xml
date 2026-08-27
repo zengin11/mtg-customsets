@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-08-26</releasedate>
+        <set> v1.4<releasedate>2026-08-27</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
@@ -270,7 +270,7 @@ Creatures you control gain indestructible until end of turn.</text>
             </card>
         <card>
             <name>Bobby, Supportive Manager</name>
-            <text>Creatures you control get +1/+1.
+            <text>Other creatures you control get +1/+1.
 Commander creatures you control have ward {3}.
 Partner—HUNTR/X</text>
             <prop>
@@ -286,7 +286,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JF7V3MZb/Bobby-Supportive-Manager-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tp3nZwps/Bobby-Supportive-Manager-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
