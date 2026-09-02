@@ -26,7 +26,7 @@
       "\"Rhox\" Drone Transport": "2026-09-02T18:37:21Z",
       "A-13 \"Honker\" Strike Fighter": "2026-09-02T19:06:14Z",
       "A-44 \"Honker\" Strike Fighter": "2026-09-02T18:37:21Z",
-      "AC.30 Booker Recon Gunship": "2026-09-02T19:13:09Z",
+      "AC.30 Booker Recon Gunship": "2026-09-02T20:04:02Z",
       "AH.960 Booker Retrofit": "2026-09-02T18:37:21Z",
       "AI Upgrade": "2026-09-02T18:37:21Z",
       "Aerial Siege of CR12": "2026-09-02T01:01:58Z",
@@ -121,7 +121,7 @@
       "MF-26 \"Blaze\" Fighter": "2026-09-02T18:37:21Z",
       "Maintenance Drone": "2026-09-02T01:01:58Z",
       "Manafold Wings": "2026-09-02T18:37:21Z",
-      "March of the War Machines": "2026-09-02T19:30:33Z",
+      "March of the War Machines": "2026-09-02T20:04:02Z",
       "Martyr Siegebreaker": "2026-09-02T18:37:21Z",
       "Mobile Infantry Platoon": "2026-09-02T18:37:21Z",
       "Modular Combat Drone": "2026-09-02T18:37:21Z",
@@ -146,7 +146,7 @@
       "Pilot Token": "2026-09-02T01:01:58Z",
       "Pointed Negotiations": "2026-09-02T18:37:21Z",
       "Poisoned Orders": "2026-09-02T18:37:21Z",
-      "Precision Vanguard": "2026-09-02T18:37:21Z",
+      "Precision Vanguard": "2026-09-02T20:04:02Z",
       "Price of a Mile": "2026-09-02T18:37:21Z",
       "Protect the Homeland": "2026-09-02T19:06:15Z",
       "Prototype Railgun": "2026-09-02T18:37:21Z",
@@ -195,7 +195,7 @@
       "Soldier Token 2": "2026-09-02T01:01:58Z",
       "Soldier Token 3": "2026-09-02T01:01:58Z",
       "Spear Fleet Marines": "2026-09-02T18:37:21Z",
-      "Starstruck Rookies": "2026-09-02T18:37:21Z",
+      "Starstruck Rookies": "2026-09-02T20:04:02Z",
       "Steel Squad Leader": "2026-09-02T18:37:21Z",
       "Strategic Bomber": "2026-09-02T01:01:58Z",
       "Supportive Seamen": "2026-09-02T18:37:21Z",
@@ -210,7 +210,7 @@
       "Tunnel Run": "2026-09-02T18:37:21Z",
       "Two-Tour Corporal": "2026-09-02T18:37:21Z",
       "U.C.I.T. Battlecruiser": "2026-09-02T18:37:21Z",
-      "U.C.I.T. Command Cruiser": "2026-09-02T18:37:21Z",
+      "U.C.I.T. Command Cruiser": "2026-09-02T20:04:02Z",
       "U.C.I.T. E-War Submarine": "2026-09-02T18:37:21Z",
       "UR Signpost": "2026-09-02T19:06:15Z",
       "Valiant Martyr Siegebreaker": "2026-09-02T19:06:15Z",
@@ -234,7 +234,7 @@
       "War Map": "2026-09-02T19:13:09Z",
       "Wary WSO": "2026-09-02T18:37:21Z",
       "Wastes": "2026-09-02T01:01:58Z",
-      "X.55 Mandalay Executor": "2026-09-02T18:37:21Z"
+      "X.55 Mandalay Executor": "2026-09-02T20:04:02Z"
     },
     "JJK": {
       "Agatha's Soul Cauldron (Yuta's Cursed Ring)": "2026-09-02T01:02:02Z",
@@ -802,7 +802,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-02T19:54:01Z"
+      "updated": "2026-09-02T20:04:02Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -824,6 +824,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-02T19:30:28Z"
+    "updated": "2026-09-02T19:53:57Z"
   }
 }

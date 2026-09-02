@@ -163,7 +163,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/R4VMwY6W/AC-30-Booker-Recon-Gunship-png.png"
+          "large": "https://i.ibb.co/s9QwYhQq/AC-30-Booker-Recon-Gunship-png.png"
         },
         "name": "AC.30 Booker Recon Gunship",
         "oracle_text": "Flying\nWhen this Vehicle enters, draw three cards.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
@@ -4076,7 +4076,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/ymQKbSgn/March-of-the-War-Machines-png.png"
+              "large": "https://i.ibb.co/Q3XBH2bj/March-of-the-War-Machines-png.png"
             },
             "name": "March of the War Machines",
             "oracle_text": "Whenever a creature you control deals combat damage to a battle, it deals that much damage to defending player.",
@@ -6347,7 +6347,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8DmHMS4Q/Precision-Vanguard-png.png"
+          "large": "https://i.ibb.co/VWX8dx28/Precision-Vanguard-png.png"
         },
         "name": "Precision Vanguard",
         "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.  (This can reduce generic costs.) \nVehicles crewed by this creature this turn have vigilance and haste.",
@@ -8705,7 +8705,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/60xRSD6F/Starstruck-Rookies-png.png"
+          "large": "https://i.ibb.co/RTzChLyC/Starstruck-Rookies-png.png"
         },
         "name": "Starstruck Rookies",
         "oracle_text": "Whenever this creature crews a Vehicle, that Vehicle has base power and toughness X/X until end of turn, where X is the greatest power among Vehicle creatures you control.",
@@ -9910,7 +9910,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/CKcPxbCX/U-C-I-T-Command-Cruiser-png.png"
+          "large": "https://i.ibb.co/JWh7KwBM/U-C-I-T-Command-Cruiser-png.png"
         },
         "name": "U.C.I.T. Command Cruiser",
         "oracle_text": "Reach, trample\nEach other Vehicle you control gets +2/+2 and has reach and trample if 3 or more power was used to crew it this turn.\nCrew 3",
@@ -10462,10 +10462,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/v4T38Gjd/X-55-Mandalay-Executor-png.png"
+          "large": "https://i.ibb.co/vCN65d2B/X-55-Mandalay-Executor-png.png"
         },
         "name": "X.55 Mandalay Executor",
-        "oracle_text": "This Vehicle's base power and toughness are each equal to the number of artifacts you control.\n Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.\nCrew 1",
+        "oracle_text": "This Vehicle's power and toughness are each equal to the number of artifacts you control.\n Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.\nCrew 1",
         "power": "*",
         "toughness": "*",
         "type_line": "Artifact — Vehicle"
