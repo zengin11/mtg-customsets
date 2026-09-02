@@ -1096,27 +1096,6 @@ Arms Race — This creature gets +2/+1 as long as no opponent controls more arti
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>MAS-203 "Compensator"</name>
-            <text>{x}{r}{r}: This Vehicle deals X damage to any target. Activate only as a sorcery.
-Crew 3
-Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{R}{R}</manacost>
-                <cmc>6</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>8/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/ZRV7X7rc/MAS-203-Compensator-png.png" picurl_large="https://i.ibb.co/nqbtmtyQ/MAS-203-Compensator-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Defense of UW13</name>
             <text>(You defend this battle. Your opponents can attack it.) 
 Whenever a nontoken creature you control enters, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) </text>
@@ -2579,6 +2558,27 @@ When this creature enters or dies, up to one target creature without flying gets
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/5b8rVmC/War-Map-png.png" picurl_large="https://i.ibb.co/YHkcGmJ/War-Map-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>MAS-203 "Compensator"</name>
+            <text>{x}{r}{r}: This Vehicle deals X damage to any target. Activate only as a sorcery.
+Crew 3
+Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{R}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>8/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/ZRV7X7rc/MAS-203-Compensator-png.png" picurl_large="https://i.ibb.co/nqbtmtyQ/MAS-203-Compensator-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
