@@ -312,25 +312,6 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Soaring Onslaught</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5x40bpPm/Soaring-Onslaught-png.png" picurl_large="https://i.ibb.co/1JQgFyk1/Soaring-Onslaught-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Home Base Hangar Bay</name>
             <text>Wartime Measures -  {1}{r}, {t}, Sacrifice an artifact: Choose one. If you control a battle or have defeated a battle this game, you may choose both.
  • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
@@ -2261,28 +2242,6 @@ Equip {3}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Invasion of Ekhara</name>
-            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
-When this Siege enters, creatures you control get +1/+0 and gain haste until end of turn.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{R}{W}</manacost>
-                <cmc>2</cmc>
-                <colors>WR</colors>
-                <coloridentity>WR</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>3</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/rfvTFMY4/Invasion-of-Ekhara-png.png" picurl_large="https://i.ibb.co/JFC0m2V5/Invasion-of-Ekhara-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">March of the War Machines</related>
-            </card>
-        <card>
             <name>Concealed Gun Team</name>
             <text>Flash
 When this creature enters, it deals 2 damage to target attacking or blocking creature.</text>
@@ -3567,6 +3526,27 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/hFTmB2DP/Flight-School-png.png" picurl_large="https://i.ibb.co/xqr71zJp/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Invasion of Ekhara</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, creatures you control get +1/+0 and gain haste until end of turn.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{R}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/whLXLzbn/Invasion-of-Ekhara-png.png" picurl_large="https://i.ibb.co/1Gn5nmpC/Invasion-of-Ekhara-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">March of the War Machines</related>
             </card>
         <card>
             <name>Victory of CW14</name>

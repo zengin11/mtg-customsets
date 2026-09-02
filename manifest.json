@@ -110,7 +110,7 @@
       "Imperial Border Post": "2026-09-02T01:01:58Z",
       "Inspiring Sergeant": "2026-09-02T18:37:21Z",
       "Intercept": "2026-09-02T18:56:41Z",
-      "Invasion of Ekhara": "2026-09-02T19:30:33Z",
+      "Invasion of Ekhara": "2026-09-02T19:54:01Z",
       "Judgement SPG": "2026-09-02T19:06:15Z",
       "Knight's Beacon Interceptor": "2026-09-02T18:37:21Z",
       "Kraken Missile Cruiser": "2026-09-02T18:37:21Z",
@@ -190,7 +190,7 @@
       "Siege of UH09": "2026-09-02T18:37:21Z",
       "Site Augustine, S.L.I. Capital": "2026-09-02T18:37:21Z",
       "Skywatch Anti-Air Division": "2026-09-02T18:37:21Z",
-      "Soaring Onslaught": "2026-09-02T19:30:33Z",
+      "Soaring Onslaught": "2026-09-02T19:53:55Z",
       "Soldier Token 1": "2026-09-02T01:01:58Z",
       "Soldier Token 2": "2026-09-02T01:01:58Z",
       "Soldier Token 3": "2026-09-02T01:01:58Z",
@@ -802,7 +802,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-02T19:30:33Z"
+      "updated": "2026-09-02T19:54:01Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -824,6 +824,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-02T19:20:45Z"
+    "updated": "2026-09-02T19:30:28Z"
   }
 }
