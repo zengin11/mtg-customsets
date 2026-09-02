@@ -128,19 +128,6 @@
       }
     }
   },
-  "a-13 \"honker\" strike fighter": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/jPfHKt4M/A-13-Honker-Strike-Fighter-png.png"
-        },
-        "name": "A-13 \"Honker\" Strike Fighter",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "a-44 \"honker\" strike fighter": {
     "default": "BTL",
     "printings": {
@@ -822,7 +809,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/wFFGY0zY/BC-9-Mile-High-Aircruiser-png.png"
+          "large": "https://i.ibb.co/RGtk4sDC/BC-9-Mile-High-Aircruiser-png.png"
         },
         "name": "BC-9 \"Mile High\" Aircruiser",
         "oracle_text": "Flying, menace\nWhenever this Vehicle deals combat damage to a player or battle, destroy target land controlled by that player or that battle's protector unless they have this Vehicle deal 5 damage to them.\nCrew 3",
@@ -870,19 +857,6 @@
         "name": "Bestie Beatdown",
         "oracle_text": "Two target creatures you control each deal damage equal to their power to target creature an opponent controls.",
         "type_line": "Sorcery"
-      }
-    }
-  },
-  "bg signpost": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/PGMy8S1r/BG-Signpost-png.png"
-        },
-        "name": "BG Signpost",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -1644,19 +1618,6 @@
       }
     }
   },
-  "coalition field major": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/wFyqwX7P/Coalition-Field-Major-png.png"
-        },
-        "name": "Coalition Field Major",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "coalition field marshal": {
     "default": "BTL",
     "printings": {
@@ -1669,19 +1630,6 @@
         "power": "3",
         "toughness": "3",
         "type_line": "Creature — Human Soldier Advisor"
-      }
-    }
-  },
-  "coalition marines": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/hPzGQLx/Coalition-Marines-png.png"
-        },
-        "name": "Coalition Marines",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -2262,32 +2210,6 @@
       }
     }
   },
-  "der.7 booker picket ship": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/DDWhF5by/DER-7-Booker-Picket-Ship-png.png"
-        },
-        "name": "DER.7 Booker Picket Ship",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "der.7 booker recon chassis": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/TD1Xz6V7/DER-7-Booker-Recon-Chassis-png.png"
-        },
-        "name": "DER.7 Booker Recon Chassis",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "derpy and sussie, loyal messengers": {
     "default": "KPDH",
     "printings": {
@@ -2429,19 +2351,6 @@
         "name": "Doom Blade",
         "oracle_text": "Destroy target nonblack creature.",
         "type_line": "Instant"
-      }
-    }
-  },
-  "drafted dragster": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/5X5MtbpC/Drafted-Dragster-png.png"
-        },
-        "name": "Drafted Dragster",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -3749,19 +3658,6 @@
       }
     }
   },
-  "home-front supporters": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/fVnZR0fk/Home-Front-Supporters-png.png"
-        },
-        "name": "Home-Front Supporters",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "horde ambusher": {
     "default": "KPDH",
     "printings": {
@@ -4386,19 +4282,6 @@
       }
     }
   },
-  "judgement spg": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/JMdB21J/Judgement-SPG-png.png"
-        },
-        "name": "Judgement SPG",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "jujutsu tech, tokyo's bastion": {
     "default": "JJK",
     "printings": {
@@ -4824,19 +4707,6 @@
         "power": "1",
         "toughness": "1",
         "type_line": "Creature — Human Pilot"
-      }
-    }
-  },
-  "logistics specialist officer": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/0yf2Lg3h/Logistics-Specialist-Officer-png.png"
-        },
-        "name": "Logistics Specialist Officer",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -6172,19 +6042,6 @@
       }
     }
   },
-  "overwhelming victory": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/S4xqp8mm/Overwhelming-Victory-png.png"
-        },
-        "name": "Overwhelming Victory",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "panda": {
     "default": "JJK",
     "printings": {
@@ -6596,19 +6453,6 @@
         "power": "1",
         "toughness": "1",
         "type_line": "Creature — Human Child Warrior"
-      }
-    }
-  },
-  "protect the homeland": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/hxK0KG1n/Protect-the-Homeland-png.png"
-        },
-        "name": "Protect the Homeland",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -7173,19 +7017,6 @@
       }
     }
   },
-  "rg signpost": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/67v6pmMm/RG-Signpost-png.png"
-        },
-        "name": "RG Signpost",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "riding the rhythm": {
     "default": "KPDH",
     "printings": {
@@ -7463,19 +7294,6 @@
         "name": "Run Away Together Alt",
         "oracle_text": "Choose two target creatures controlled by different players. Return those creatures to their owners' hands.",
         "type_line": "Instant"
-      }
-    }
-  },
-  "rw signpost": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/HDzcz3Ky/RW-Signpost-png.png"
-        },
-        "name": "RW Signpost",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -8511,19 +8329,6 @@
         "power": "2",
         "toughness": "4",
         "type_line": "Artifact Creature — Human Soldier"
-      }
-    }
-  },
-  "soaring onslaught": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/9m3dMGCh/Soaring-Onslaught-png.png"
-        },
-        "name": "Soaring Onslaught",
-        "oracle_text": "Whenever a creature you control deals combat damage to an Aerial battle, it deals that much damage to defending player.",
-        "type_line": "Enchantment"
       }
     }
   },
@@ -10240,19 +10045,6 @@
       }
     }
   },
-  "ur signpost": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/Fbxpfw2j/UR-Signpost-png.png"
-        },
-        "name": "UR Signpost",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "uro takako, wreathed in sky": {
     "default": "JJK",
     "printings": {
@@ -10265,19 +10057,6 @@
         "power": "3",
         "toughness": "2",
         "type_line": "Legendary Creature — Human Spirit Sorcerer"
-      }
-    }
-  },
-  "valiant martyr siegebreaker": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/S4FjX8FD/Valiant-Martyr-Siegebreaker-png.png"
-        },
-        "name": "Valiant Martyr Siegebreaker",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
