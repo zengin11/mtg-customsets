@@ -32,7 +32,7 @@
             <text>(You defend this battle. Your opponents can attack it.) 
 Creatures can't attack you or non-Siege battles you control unless their controller pays {X} for each of those creatures, where X is the number of non-Siege battles you control.</text>
             <prop>
-                <layout>normal</layout>
+                <layout>battle</layout>
                 <side>front</side>
                 <manacost>{1}{G}{W}</manacost>
                 <cmc>3</cmc>
@@ -44,6 +44,7 @@ Creatures can't attack you or non-Siege battles you control unless their control
                 <loyalty>5</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
+            <landscapeOrientation>1</landscapeOrientation>
             <set rarity="Uncommon" picurl="https://i.ibb.co/fVJQLx0R/Defense-of-the-Marchwall-png.png" picurl_large="https://i.ibb.co/gbY6hRg1/Defense-of-the-Marchwall-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
@@ -308,6 +309,25 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png" picurl_large="https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Soaring Onslaught</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/5x40bpPm/Soaring-Onslaught-png.png" picurl_large="https://i.ibb.co/1JQgFyk1/Soaring-Onslaught-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2076,6 +2096,7 @@ When this Siege enters, destroy target nonland permanent.</text>
                 <loyalty>3</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
+            <landscapeOrientation>1</landscapeOrientation>
             <set rarity="Uncommon" picurl="https://i.ibb.co/cSdLX7Tx/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/MxL653N9/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Price of a Mile</related>
@@ -2221,25 +2242,6 @@ Equip {3}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>March of the War Machines</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WrKnPF4/March-of-the-War-Machines-png.png" picurl_large="https://i.ibb.co/SkvNd04/March-of-the-War-Machines-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Repentus Border Post</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2275,9 +2277,10 @@ When this Siege enters, creatures you control get +1/+0 and gain haste until end
                 <loyalty>3</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
+            <landscapeOrientation>1</landscapeOrientation>
             <set rarity="Uncommon" picurl="https://i.ibb.co/rfvTFMY4/Invasion-of-Ekhara-png.png" picurl_large="https://i.ibb.co/JFC0m2V5/Invasion-of-Ekhara-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Soaring Onslaught</related>
+            <related attach="transform">March of the War Machines</related>
             </card>
         <card>
             <name>Concealed Gun Team</name>
@@ -3872,7 +3875,7 @@ Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 
             <related attach="transform">Siege of UH09</related>
             </card>
         <card>
-            <name>Soaring Onslaught</name>
+            <name>March of the War Machines</name>
             <text>Whenever a creature you control deals combat damage to a battle, it deals that much damage to defending player.</text>
             <prop>
                 <layout>transform</layout>
@@ -3887,7 +3890,7 @@ Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/5x40bpPm/Soaring-Onslaught-png.png" picurl_large="https://i.ibb.co/1JQgFyk1/Soaring-Onslaught-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/ymQKbSgn/March-of-the-War-Machines-png.png" picurl_large="https://i.ibb.co/HLHRkdGD/March-of-the-War-Machines-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Invasion of Ekhara</related>
             </card>

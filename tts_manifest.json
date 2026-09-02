@@ -4076,9 +4076,9 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/5x40bpPm/Soaring-Onslaught-png.png"
+              "large": "https://i.ibb.co/ymQKbSgn/March-of-the-War-Machines-png.png"
             },
-            "name": "Soaring Onslaught",
+            "name": "March of the War Machines",
             "oracle_text": "Whenever a creature you control deals combat damage to a battle, it deals that much damage to defending player.",
             "type_line": "Enchantment"
           }
@@ -8329,6 +8329,19 @@
         "power": "2",
         "toughness": "4",
         "type_line": "Artifact Creature — Human Soldier"
+      }
+    }
+  },
+  "soaring onslaught": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/5x40bpPm/Soaring-Onslaught-png.png"
+        },
+        "name": "Soaring Onslaught",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
