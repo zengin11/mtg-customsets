@@ -76,8 +76,8 @@
       "DER.7 Booker Recon Chassis": "2026-09-02T19:06:15Z",
       "Deadly Espionage": "2026-09-02T18:37:21Z",
       "Dedicated Roboticist": "2026-09-02T18:37:21Z",
-      "Defense of UH02": "2026-09-02T18:37:21Z",
-      "Defense of UH10": "2026-09-02T18:37:21Z",
+      "Defense of UH02": "2026-09-02T20:26:55Z",
+      "Defense of UH10": "2026-09-02T20:26:55Z",
       "Defense of UW13": "2026-09-02T18:37:21Z",
       "Defense of the Marchwall": "2026-09-02T19:30:33Z",
       "Drafted Dragster": "2026-09-02T19:06:15Z",
@@ -86,11 +86,11 @@
       "E-25 \"Spotlight\" AWACS": "2026-09-02T18:37:21Z",
       "EA-28 \"Howler\" Screening Jet": "2026-09-02T18:37:21Z",
       "Elspeth's Cleansing Fury": "2026-09-02T18:37:21Z",
-      "Elspeth, Exploited Exemplar": "2026-09-02T18:37:21Z",
+      "Elspeth, Exploited Exemplar": "2026-09-02T20:26:55Z",
       "F.L.C. Command Cruiser (1)": "2026-09-02T01:01:58Z",
       "Field Salvage Kit": "2026-09-02T18:37:21Z",
       "Fighter": "2026-09-02T01:01:58Z",
-      "Fire the R-ZERO": "2026-09-02T18:37:21Z",
+      "Fire the R-ZERO": "2026-09-02T20:26:55Z",
       "Flight School": "2026-09-02T18:37:21Z",
       "Force a Retreat": "2026-09-02T18:37:21Z",
       "Frontline Reinforcements": "2026-09-02T18:37:21Z",
@@ -180,14 +180,14 @@
       "Siege of CR14": "2026-09-02T18:37:21Z",
       "Siege of CU11": "2026-09-02T18:37:21Z",
       "Siege of CW14": "2026-09-02T18:37:21Z",
-      "Siege of UH01": "2026-09-02T18:37:21Z",
-      "Siege of UH03": "2026-09-02T18:37:21Z",
-      "Siege of UH04": "2026-09-02T18:37:21Z",
-      "Siege of UH05": "2026-09-02T18:37:21Z",
-      "Siege of UH06": "2026-09-02T18:37:21Z",
-      "Siege of UH07": "2026-09-02T18:37:21Z",
-      "Siege of UH08": "2026-09-02T18:37:21Z",
-      "Siege of UH09": "2026-09-02T18:37:21Z",
+      "Siege of UH01": "2026-09-02T20:26:55Z",
+      "Siege of UH03": "2026-09-02T20:26:55Z",
+      "Siege of UH04": "2026-09-02T20:26:55Z",
+      "Siege of UH05": "2026-09-02T20:26:55Z",
+      "Siege of UH06": "2026-09-02T20:26:55Z",
+      "Siege of UH07": "2026-09-02T20:26:55Z",
+      "Siege of UH08": "2026-09-02T20:26:55Z",
+      "Siege of UH09": "2026-09-02T20:26:55Z",
       "Site Augustine, S.L.I. Capital": "2026-09-02T18:37:21Z",
       "Skywatch Anti-Air Division": "2026-09-02T18:37:21Z",
       "Soaring Onslaught": "2026-09-02T19:53:55Z",
@@ -221,14 +221,14 @@
       "Victory of CR14": "2026-09-02T18:37:21Z",
       "Victory of CU11": "2026-09-02T18:37:21Z",
       "Victory of CW14": "2026-09-02T18:37:21Z",
-      "Victory of UH01": "2026-09-02T18:37:21Z",
-      "Victory of UH03": "2026-09-02T18:37:21Z",
-      "Victory of UH04": "2026-09-02T18:37:21Z",
-      "Victory of UH05": "2026-09-02T18:37:21Z",
-      "Victory of UH06": "2026-09-02T18:37:21Z",
-      "Victory of UH07": "2026-09-02T18:37:21Z",
-      "Victory of UH08": "2026-09-02T18:37:21Z",
-      "Victory of UH09": "2026-09-02T18:37:21Z",
+      "Victory of UH01": "2026-09-02T20:26:55Z",
+      "Victory of UH03": "2026-09-02T20:26:55Z",
+      "Victory of UH04": "2026-09-02T20:26:55Z",
+      "Victory of UH05": "2026-09-02T20:26:55Z",
+      "Victory of UH06": "2026-09-02T20:26:55Z",
+      "Victory of UH07": "2026-09-02T20:26:55Z",
+      "Victory of UH08": "2026-09-02T20:26:55Z",
+      "Victory of UH09": "2026-09-02T20:26:55Z",
       "Victory of UU10": "2026-09-02T18:37:21Z",
       "War Fever": "2026-09-02T18:37:21Z",
       "War Map": "2026-09-02T19:13:09Z",
@@ -802,7 +802,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-02T20:15:45Z"
+      "updated": "2026-09-02T20:26:55Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -824,6 +824,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-02T20:15:33Z"
+    "updated": "2026-09-02T20:15:52Z"
   }
 }

@@ -2098,7 +2098,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Kzr9PsF5/Defense-of-UH02-png.png"
+          "large": "https://i.ibb.co/vvL2SKg1/Defense-of-UH02-png.png"
         },
         "loyalty": "4",
         "name": "Defense of UH02",
@@ -2112,7 +2112,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/0y76c25d/Defense-of-UH10-png.png"
+          "large": "https://i.ibb.co/MyQB70vj/Defense-of-UH10-png.png"
         },
         "loyalty": "4",
         "name": "Defense of UH10",
@@ -2527,7 +2527,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/rGrFrwtg/Elspeth-Exploited-Exemplar-png.png"
+          "large": "https://i.ibb.co/zWt77pYr/Elspeth-Exploited-Exemplar-png.png"
         },
         "loyalty": "5",
         "name": "Elspeth, Exploited Exemplar",
@@ -2761,7 +2761,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/LDMPVtmC/Fire-the-R-ZERO-png.png"
+          "large": "https://i.ibb.co/WWvmQt3N/Fire-the-R-ZERO-png.png"
         },
         "name": "Fire the R-ZERO",
         "oracle_text": "Remove any number of counters from among permanents on the battlefield. This spell deals that much damage to any target.",
@@ -7904,7 +7904,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/Dmgv1Qr/Siege-of-UH01-png.png"
+              "large": "https://i.ibb.co/tMB1x2q9/Siege-of-UH01-png.png"
             },
             "loyalty": "2",
             "name": "Siege of UH01",
@@ -7913,7 +7913,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/Q7XRZ4DG/Victory-of-UH01-png.png"
+              "large": "https://i.ibb.co/WN4n4Wbd/Victory-of-UH01-png.png"
             },
             "name": "Victory of UH01",
             "oracle_text": "Put a +1/+1 counter on each creature and/or Vehicle you control with flying.",
@@ -7932,20 +7932,21 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/bMyLNXzr/Siege-of-UH03-png.png"
+              "large": "https://i.ibb.co/4w8MPbcL/Siege-of-UH03-png.png"
             },
+            "loyalty": "6",
             "name": "Siege of UH03",
             "oracle_text": "When this Siege enters, create two 0/1 blue Pilot creature tokens with ace 2. (They crew Vehicles as though their power were 2 greater.)",
-            "power": "@",
-            "toughness": "/@6/6@//@6",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/KpBRJFC9/Victory-of-UH03-png.png"
+              "large": "https://i.ibb.co/LXK3MNLh/Victory-of-UH03-png.png"
             },
             "name": "Victory of UH03",
             "oracle_text": "Trample, vigilance, ward {1}\nCrew 4",
+            "power": "6",
+            "toughness": "6",
             "type_line": "Artifact — Vehicle"
           }
         ],
@@ -7961,20 +7962,21 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/FkbhRs64/Siege-of-UH04-png.png"
+              "large": "https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png"
             },
+            "loyalty": "4",
             "name": "Siege of UH04",
             "oracle_text": "When this Siege enters, surveil 3. \n Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.",
-            "power": "@",
-            "toughness": "/@1/4@//@1",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/wZsRgrgR/Victory-of-UH04-png.png"
+              "large": "https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png"
             },
             "name": "Victory of UH04",
             "oracle_text": "Flying\nFabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)",
+            "power": "1",
+            "toughness": "1",
             "type_line": "Artifact Creature — Robot"
           }
         ],
@@ -7990,7 +7992,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/JwNg135Y/Siege-of-UH05-png.png"
+              "large": "https://i.ibb.co/DPtpGnLK/Siege-of-UH05-png.png"
             },
             "loyalty": "4",
             "name": "Siege of UH05",
@@ -7999,7 +8001,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/VWPWXdFL/Victory-of-UH05-png.png"
+              "large": "https://i.ibb.co/qFRdrR8b/Victory-of-UH05-png.png"
             },
             "name": "Victory of UH05",
             "oracle_text": "Whenever one or more creatures you control deal combat damage to a player or battle, populate.",
@@ -8018,20 +8020,21 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/60zMJr7D/Siege-of-UH06-png.png"
+              "large": "https://i.ibb.co/JWc47Qdx/Siege-of-UH06-png.png"
             },
+            "loyalty": "4",
             "name": "Siege of UH06",
             "oracle_text": "When this Siege enters, choose one —\n• Put two charge counters on target permanent you control.\n• Put two +1/+1 counters on target permanent you control.",
-            "power": "@",
-            "toughness": "/@2/4@//@4",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/gLB2F7Cn/Victory-of-UH06-png.png"
+              "large": "https://i.ibb.co/1Y5YbdwR/Victory-of-UH06-png.png"
             },
             "name": "Victory of UH06",
             "oracle_text": "Lifelink\nWhen this artifact enters, redistribute any number of counters among artifacts and creatures you control.\nThis Vehicle gets +2/+0 for each charge counter on it.\nCrew 2",
+            "power": "2",
+            "toughness": "4",
             "type_line": "Artifact — Vehicle"
           }
         ],
@@ -8047,17 +8050,16 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/HD3qQkkR/Siege-of-UH07-png.png"
+              "large": "https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png"
             },
+            "loyalty": "4",
             "name": "Siege of UH07",
             "oracle_text": "When this Siege enters, discard any number of cards, then draw that many cards.",
-            "power": "@",
-            "toughness": "/@/4@//@",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/LzT1dVYz/Victory-of-UH07-png.png"
+              "large": "https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png"
             },
             "name": "Victory of UH07",
             "oracle_text": "Gain control of target artifact with mana value X or less, where X is the number of Pilots and/or Vehicles you control.",
@@ -8076,20 +8078,21 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/zhXbT80d/Siege-of-UH08-png.png"
+              "large": "https://i.ibb.co/svRbM47C/Siege-of-UH08-png.png"
             },
+            "loyalty": "3",
             "name": "Siege of UH08",
             "oracle_text": "Flash\nWhen this Siege enters, target creature gains double strike until end of turn.",
-            "power": "@",
-            "toughness": "/@3/3@//@3",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/CpKv0wXV/Victory-of-UH08-png.png"
+              "large": "https://i.ibb.co/TBZXZ8ww/Victory-of-UH08-png.png"
             },
             "name": "Victory of UH08",
             "oracle_text": "Whenever this creature is dealt damage, it deals that much damage to any target.",
+            "power": "3",
+            "toughness": "3",
             "type_line": "Creature — Human Soldier"
           }
         ],
@@ -8105,20 +8108,21 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/s9pdCmnC/Siege-of-UH09-png.png"
+              "large": "https://i.ibb.co/HLWHtyZz/Siege-of-UH09-png.png"
             },
+            "loyalty": "3",
             "name": "Siege of UH09",
             "oracle_text": "When this Siege enters, it deals 3 damage to its protector.",
-            "power": "@",
-            "toughness": "/@1/3@//@4",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/C3cFy0Y2/Victory-of-UH09-png.png"
+              "large": "https://i.ibb.co/mrmFwff6/Victory-of-UH09-png.png"
             },
             "name": "Victory of UH09",
             "oracle_text": "Menace\nMobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",
+            "power": "1",
+            "toughness": "4",
             "type_line": "Creature — Human Soldier"
           }
         ],
