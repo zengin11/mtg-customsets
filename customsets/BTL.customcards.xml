@@ -332,6 +332,25 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>A-44 "Honker" Strike Fighter</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/G4KW6Gtb/A-44-Honker-Strike-Fighter-png.png" picurl_large="https://i.ibb.co/dwdPTXLz/A-44-Honker-Strike-Fighter-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>R.D.I. Main Battle Tank</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -956,6 +975,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/jPLb5Bb4/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/jPLb5Bb4/Flyswatter-Missile-Team-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Dedicated Roboticist</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/v4Kc0CCp/Dedicated-Roboticist-png.png" picurl_large="https://i.ibb.co/s9Mg8ppn/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2590,101 +2628,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/h1DsFry5/Reserve-Crew-png.png" picurl_large="https://i.ibb.co/h1DsFry5/Reserve-Crew-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Defense of the Marchwall</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png" picurl_large="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>A-44 "Honker" Strike Fighter</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/G4KW6Gtb/A-44-Honker-Strike-Fighter-png.png" picurl_large="https://i.ibb.co/dwdPTXLz/A-44-Honker-Strike-Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Dedicated Roboticist</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/v4Kc0CCp/Dedicated-Roboticist-png.png" picurl_large="https://i.ibb.co/s9Mg8ppn/Dedicated-Roboticist-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Trench-Clashes of El Gelly</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Invasion of Ekhara</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png" picurl_large="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
