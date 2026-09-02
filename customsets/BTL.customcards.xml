@@ -1113,7 +1113,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/QjCFWSYw/MAS-203-Compensator-png.png" picurl_large="https://i.ibb.co/M5GDzwP0/MAS-203-Compensator-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/ZRV7X7rc/MAS-203-Compensator-png.png" picurl_large="https://i.ibb.co/nqbtmtyQ/MAS-203-Compensator-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2578,7 +2578,7 @@ When this creature enters or dies, up to one target creature without flying gets
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/d4Tzc4Z6/War-Map-png.png" picurl_large="https://i.ibb.co/d4Tzc4Z6/War-Map-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/5b8rVmC/War-Map-png.png" picurl_large="https://i.ibb.co/YHkcGmJ/War-Map-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2618,7 +2618,7 @@ Modular 5  (This creature enters with five +1/+1 counters on it. When it dies, y
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gZVyM1g7/Autonomous-Warfighter-png.png" picurl_large="https://i.ibb.co/gZVyM1g7/Autonomous-Warfighter-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/BVgp1FdK/Autonomous-Warfighter-png.png" picurl_large="https://i.ibb.co/LzCFGHbh/Autonomous-Warfighter-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2803,6 +2803,27 @@ Whenever this creature crews a Vehicle, that Vehicle gains trample until end of 
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>BC-9 "Mile High" Aircruiser</name>
+            <text>Flying, menace
+Whenever this Vehicle deals combat damage to a player or battle, destroy target land controlled by that player or that battle's protector unless they have this Vehicle deal 5 damage to them.
+Crew 3</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{R}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>1/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/RGtk4sDC/BC-9-Mile-High-Aircruiser-png.png" picurl_large="https://i.ibb.co/qLh3FcrR/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Order a Raid</name>
             <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
 • Destroy target artifact.
@@ -2922,8 +2943,27 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/G3sbjVbD/AC-30-Booker-Recon-Gunship-png.png" picurl_large="https://i.ibb.co/1Jswx9wN/AC-30-Booker-Recon-Gunship-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/R4VMwY6W/AC-30-Booker-Recon-Gunship-png.png" picurl_large="https://i.ibb.co/fGPKwqN7/AC-30-Booker-Recon-Gunship-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Momentum Chaser</name>
+            <text>Vehicles crewed by this creature during a main phase this turn have "{1}: This Vehicle gets +1/+0 until end of turn."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Pilot</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/vxbYZ2zS/Momentum-Chaser-png.png" picurl_large="https://i.ibb.co/ynDSWLsr/Momentum-Chaser-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Coalition Field Marshal</name>
@@ -3524,46 +3564,6 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/hFTmB2DP/Flight-School-png.png" picurl_large="https://i.ibb.co/xqr71zJp/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>BC-9 "Mile High" Aircruiser</name>
-            <text>Flying, menace
-Whenever this Vehicle deals combat damage to a player or battle, destroy target land controlled by that player or that battle's protector unless they have this Vehicle deal 5 damage to them.
-Crew 3</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{R}</manacost>
-                <cmc>4</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>1/6</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/RGtk4sDC/BC-9-Mile-High-Aircruiser-png.png" picurl_large="https://i.ibb.co/qLh3FcrR/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Momentum Chaser</name>
-            <text>Vehicles crewed by this creature during a main phase this turn have "{1}: This Vehicle gets +1/+0 until end of turn."</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{R}</manacost>
-                <cmc>1</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Pilot</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/vxbYZ2zS/Momentum-Chaser-png.png" picurl_large="https://i.ibb.co/ynDSWLsr/Momentum-Chaser-png.png">BTL</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Victory of CW14</name>

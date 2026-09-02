@@ -26,7 +26,7 @@
       "\"Rhox\" Drone Transport": "2026-09-02T18:37:21Z",
       "A-13 \"Honker\" Strike Fighter": "2026-09-02T19:06:14Z",
       "A-44 \"Honker\" Strike Fighter": "2026-09-02T18:37:21Z",
-      "AC.30 Booker Recon Gunship": "2026-09-02T18:37:21Z",
+      "AC.30 Booker Recon Gunship": "2026-09-02T19:13:09Z",
       "AH.960 Booker Retrofit": "2026-09-02T18:37:21Z",
       "AI Upgrade": "2026-09-02T18:37:21Z",
       "Aerial Siege of CR12": "2026-09-02T01:01:58Z",
@@ -45,7 +45,7 @@
       "Armed by the Lowest Bidder": "2026-09-02T18:37:21Z",
       "Armored Exoskeleton": "2026-09-02T18:37:21Z",
       "Assembly Lab": "2026-09-02T01:01:58Z",
-      "Autonomous Warfighter": "2026-09-02T18:37:21Z",
+      "Autonomous Warfighter": "2026-09-02T19:13:09Z",
       "B.6 Mandalay Auto-Bomber": "2026-09-02T18:37:21Z",
       "BC-9 \"Mile High\" Aircruiser": "2026-09-02T19:06:57Z",
       "BG Signpost": "2026-09-02T19:06:15Z",
@@ -117,7 +117,7 @@
       "Logistics Specialist": "2026-09-02T18:37:21Z",
       "Logistics Specialist Officer": "2026-09-02T19:06:14Z",
       "Logistics Truck": "2026-09-02T18:37:21Z",
-      "MAS-203 \"Compensator\"": "2026-09-02T18:37:21Z",
+      "MAS-203 \"Compensator\"": "2026-09-02T19:13:09Z",
       "MF-26 \"Blaze\" Fighter": "2026-09-02T18:37:21Z",
       "Maintenance Drone": "2026-09-02T01:01:58Z",
       "Manafold Wings": "2026-09-02T18:37:21Z",
@@ -231,7 +231,7 @@
       "Victory of UH09": "2026-09-02T18:37:21Z",
       "Victory of UU10": "2026-09-02T18:37:21Z",
       "War Fever": "2026-09-02T18:37:21Z",
-      "War Map": "2026-09-02T18:37:21Z",
+      "War Map": "2026-09-02T19:13:09Z",
       "Wary WSO": "2026-09-02T18:37:21Z",
       "Wastes": "2026-09-02T01:01:58Z",
       "X.55 Mandalay Executor": "2026-09-02T18:37:21Z"
@@ -802,7 +802,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-02T19:06:57Z"
+      "updated": "2026-09-02T19:13:09Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -824,6 +824,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-02T18:56:06Z"
+    "updated": "2026-09-02T19:06:29Z"
   }
 }
