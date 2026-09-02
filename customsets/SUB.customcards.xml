@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-08-27</releasedate>
+        <set> v1.4<releasedate>2026-09-01</releasedate>
             <name>SUB</name>
             <longname>Subnautica</longname>
             <settype>Custom</settype>
@@ -24,7 +24,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Kp4mh1FD/Airship-Crash-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Kp4mh1FD/Airship-Crash-png.png" picurl_large="https://i.ibb.co/Kp4mh1FD/Airship-Crash-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -45,7 +45,7 @@ Partner—All Systems Online</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/jZwpfBLT/Ryley-Robinson-Survivor-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jZwpfBLT/Ryley-Robinson-Survivor-png.png" picurl_large="https://i.ibb.co/jZwpfBLT/Ryley-Robinson-Survivor-png.png">SUB</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -64,7 +64,7 @@ Partner—All Systems Online</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wFT8NX43/Overprotect-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/wFT8NX43/Overprotect-png.png" picurl_large="https://i.ibb.co/wFT8NX43/Overprotect-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -86,7 +86,7 @@ Partner—All Systems Online</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0VRfVvjV/The-Prawn-Indomitable-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0VRfVvjV/The-Prawn-Indomitable-png.png" picurl_large="https://i.ibb.co/0VRfVvjV/The-Prawn-Indomitable-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -106,7 +106,7 @@ As long as The Sea Emperor is mature, Kraken, Leviathan, Octopus, and Serpent ca
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/V6gqHGs/The-Sea-Emperor-Synaptic-Guide-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/V6gqHGs/The-Sea-Emperor-Synaptic-Guide-png.png" picurl_large="https://i.ibb.co/V6gqHGs/The-Sea-Emperor-Synaptic-Guide-png.png">SUB</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -127,7 +127,7 @@ This land enters tapped unless you control a Survivor.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/60PCPB6F/The-Aurora-s-Wreckage-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/60PCPB6F/The-Aurora-s-Wreckage-png.png" picurl_large="https://i.ibb.co/60PCPB6F/The-Aurora-s-Wreckage-png.png">SUB</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -148,7 +148,7 @@ Trample</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Xr29bsWy/Ambushing-Ghost-Leviathan-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Xr29bsWy/Ambushing-Ghost-Leviathan-png.png" picurl_large="https://i.ibb.co/Xr29bsWy/Ambushing-Ghost-Leviathan-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -169,7 +169,7 @@ Firebending X, where X is this creature's power.  (Whenever this creature attack
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hRhFgZmw/Unstoppable-Sea-Dragon-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hRhFgZmw/Unstoppable-Sea-Dragon-png.png" picurl_large="https://i.ibb.co/hRhFgZmw/Unstoppable-Sea-Dragon-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -188,7 +188,7 @@ Firebending X, where X is this creature's power.  (Whenever this creature attack
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/GvkF8zkx/Migrating-Sea-Treaders-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/GvkF8zkx/Migrating-Sea-Treaders-png.png" picurl_large="https://i.ibb.co/GvkF8zkx/Migrating-Sea-Treaders-png.png">SUB</set>
             <tablerow>2</tablerow>
             <related>Treasure Token</related>
             </card>
@@ -208,7 +208,7 @@ Firebending X, where X is this creature's power.  (Whenever this creature attack
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9H5SDBg6/Habitat-Builder-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/9H5SDBg6/Habitat-Builder-png.png" picurl_large="https://i.ibb.co/9H5SDBg6/Habitat-Builder-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -230,7 +230,7 @@ ability2:{name:Ability 3,{x}, Sacrifice The Aurora: The Aurora deals X damage to
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ycMxDs3Z/The-Aurora-Plummeting-Flame-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ycMxDs3Z/The-Aurora-Plummeting-Flame-png.png" picurl_large="https://i.ibb.co/ycMxDs3Z/The-Aurora-Plummeting-Flame-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -251,7 +251,7 @@ When this creature matures, create two copies of it, except they're juveniles.</
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/SDWHzv5d/Nurturing-Sea-Emperor-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/SDWHzv5d/Nurturing-Sea-Emperor-png.png" picurl_large="https://i.ibb.co/SDWHzv5d/Nurturing-Sea-Emperor-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -272,7 +272,7 @@ When this creature matures, create two copies of it, except they're juveniles.</
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hRjDGSBd/Territorial-Reaper-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hRjDGSBd/Territorial-Reaper-png.png" picurl_large="https://i.ibb.co/hRjDGSBd/Territorial-Reaper-png.png">SUB</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -296,7 +296,7 @@ ability2:{name:Ability 3,{T}: For each land you control, add {g} or {u}. Spend t
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xS8ypTYy/4546b-Leviathan-Wake-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xS8ypTYy/4546b-Leviathan-Wake-png.png" picurl_large="https://i.ibb.co/xS8ypTYy/4546b-Leviathan-Wake-png.png">SUB</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -316,7 +316,7 @@ ability2:{name:Ability 3,{T}: For each land you control, add {g} or {u}. Spend t
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fzqmgQW1/Birds-of-Paradise-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fzqmgQW1/Birds-of-Paradise-png.png" picurl_large="https://i.ibb.co/fzqmgQW1/Birds-of-Paradise-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -338,7 +338,7 @@ ability2:{name:Ability 3,Sacrifice six artifacts: Creatures you control gain fly
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png" picurl_large="https://i.ibb.co/S77B3zTp/The-Neptune-Rising-Tide-png.png">SUB</set>
             <tablerow>1</tablerow>
             <related>Clue Token</related>
             <related>Map Token</related>
@@ -361,7 +361,7 @@ When this creature enters or matures, draw cards equal to its power.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mF28TMWQ/Long-Lived-Reefback-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/mF28TMWQ/Long-Lived-Reefback-png.png" picurl_large="https://i.ibb.co/mF28TMWQ/Long-Lived-Reefback-png.png">SUB</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -382,7 +382,7 @@ When this creature enters or matures, draw cards equal to its power.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qFX0T1vD/Bioscanner-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qFX0T1vD/Bioscanner-png.png" picurl_large="https://i.ibb.co/qFX0T1vD/Bioscanner-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -401,7 +401,7 @@ When this creature enters or matures, draw cards equal to its power.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Kc9gjdMB/Ventgarden-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Kc9gjdMB/Ventgarden-png.png" picurl_large="https://i.ibb.co/Kc9gjdMB/Ventgarden-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -423,7 +423,7 @@ Partner—All Systems Online</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Vc9MrZkg/The-Cyclops-Behemoth-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Vc9MrZkg/The-Cyclops-Behemoth-png.png" picurl_large="https://i.ibb.co/Vc9MrZkg/The-Cyclops-Behemoth-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -444,7 +444,7 @@ Partner—All Systems Online</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ZpDb5PDg/The-Seamoth-Wayfinder-png.png">SUB</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ZpDb5PDg/The-Seamoth-Wayfinder-png.png" picurl_large="https://i.ibb.co/ZpDb5PDg/The-Seamoth-Wayfinder-png.png">SUB</set>
             <tablerow>1</tablerow>
             </card>
         </cards>

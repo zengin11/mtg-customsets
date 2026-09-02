@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-08-27</releasedate>
+        <set> v1.4<releasedate>2026-09-01</releasedate>
             <name>ARC</name>
             <longname>Arcane</longname>
             <settype>Custom</settype>
@@ -26,7 +26,7 @@ Partner—Scars, State</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4Zr9QBVH/Marcus-Corrupt-Sheriff-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4Zr9QBVH/Marcus-Corrupt-Sheriff-png.png" picurl_large="https://i.ibb.co/4Zr9QBVH/Marcus-Corrupt-Sheriff-png.png">ARC</set>
             <tablerow>2</tablerow>
             <related>Treasure Token</related>
             </card>
@@ -48,7 +48,7 @@ Partner—State</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/jk84kxW5/Grayson-Piltover-Chief-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jk84kxW5/Grayson-Piltover-Chief-png.png" picurl_large="https://i.ibb.co/jk84kxW5/Grayson-Piltover-Chief-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -69,7 +69,7 @@ Partner—State, Strike, Study</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hxHwTTKy/Jayce-Hextech-Pioneer-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/hxHwTTKy/Jayce-Hextech-Pioneer-png.png" picurl_large="https://i.ibb.co/hxHwTTKy/Jayce-Hextech-Pioneer-png.png">ARC</set>
             <tablerow>2</tablerow>
             <related>Powerstone Token</related>
             </card>
@@ -91,7 +91,7 @@ Partner—Scars</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qMmT3R82/Sevica-The-Right-Hand-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qMmT3R82/Sevica-The-Right-Hand-png.png" picurl_large="https://i.ibb.co/qMmT3R82/Sevica-The-Right-Hand-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -111,7 +111,7 @@ Noncreature artifact tokens you control are Equipment in addition to their other
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/twm1kb8m/Ekko-Firelight-Leader-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/twm1kb8m/Ekko-Firelight-Leader-png.png" picurl_large="https://i.ibb.co/twm1kb8m/Ekko-Firelight-Leader-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -132,7 +132,7 @@ Partner—State</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RTnKKZWT/Mel-Medarda-Benefactor-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/RTnKKZWT/Mel-Medarda-Benefactor-png.png" picurl_large="https://i.ibb.co/RTnKKZWT/Mel-Medarda-Benefactor-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -152,7 +152,7 @@ Partner—Study</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/QvWxr8CT/Sky-Young-Promising-Researcher-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/QvWxr8CT/Sky-Young-Promising-Researcher-png.png" picurl_large="https://i.ibb.co/QvWxr8CT/Sky-Young-Promising-Researcher-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -172,7 +172,7 @@ Mobilize X, where X is the number of artifacts you control.  (Whenever she attac
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CsKZ4SJx/Ambessa-Matriarch-of-War-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/CsKZ4SJx/Ambessa-Matriarch-of-War-png.png" picurl_large="https://i.ibb.co/CsKZ4SJx/Ambessa-Matriarch-of-War-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -194,7 +194,7 @@ Partner—Strike</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xK6K6qQ4/Vi-Heavyhanded-Pugilist-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xK6K6qQ4/Vi-Heavyhanded-Pugilist-png.png" picurl_large="https://i.ibb.co/xK6K6qQ4/Vi-Heavyhanded-Pugilist-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -215,7 +215,7 @@ Partner—Study</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TBMFYKJh/Viktor-Herald-of-Machines-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TBMFYKJh/Viktor-Herald-of-Machines-png.png" picurl_large="https://i.ibb.co/TBMFYKJh/Viktor-Herald-of-Machines-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -236,7 +236,7 @@ Partner—Scars, Spite</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zVxMBXyg/Silco-Undercity-Kingpin-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zVxMBXyg/Silco-Undercity-Kingpin-png.png" picurl_large="https://i.ibb.co/zVxMBXyg/Silco-Undercity-Kingpin-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -258,7 +258,7 @@ Partner—State, Strike</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tpNHLYjw/Caitlyn-Kiramman-Enforcer-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tpNHLYjw/Caitlyn-Kiramman-Enforcer-png.png" picurl_large="https://i.ibb.co/tpNHLYjw/Caitlyn-Kiramman-Enforcer-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -279,7 +279,7 @@ Partner—Study</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/VcXmND55/Heimerdinger-Guarded-Inventor-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/VcXmND55/Heimerdinger-Guarded-Inventor-png.png" picurl_large="https://i.ibb.co/VcXmND55/Heimerdinger-Guarded-Inventor-png.png">ARC</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -301,7 +301,7 @@ Partner—Spite</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Zz2WWyyW/Jinx-Loose-Cannon-png.png">ARC</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Zz2WWyyW/Jinx-Loose-Cannon-png.png" picurl_large="https://i.ibb.co/Zz2WWyyW/Jinx-Loose-Cannon-png.png">ARC</set>
             <tablerow>2</tablerow>
             <related>Junk Token</related>
             </card>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-08-27</releasedate>
+        <set> v1.4<releasedate>2026-09-01</releasedate>
             <name>Z11</name>
             <longname>Zengin11 Misc Customs</longname>
             <settype>Custom</settype>
@@ -24,7 +24,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/VYqcw229/Kyodai-The-Veil-Sundered-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/VYqcw229/Kyodai-The-Veil-Sundered-png.png" picurl_large="https://i.ibb.co/VYqcw229/Kyodai-The-Veil-Sundered-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -43,7 +43,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0Vh9kkc3/Everyone-s-Gone-Home-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0Vh9kkc3/Everyone-s-Gone-Home-png.png" picurl_large="https://i.ibb.co/0Vh9kkc3/Everyone-s-Gone-Home-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -62,7 +62,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DPfxggfz/Murderous-Rage-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DPfxggfz/Murderous-Rage-png.png" picurl_large="https://i.ibb.co/DPfxggfz/Murderous-Rage-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -81,7 +81,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zq7VTch/Soul-of-Slumbering-Chimes-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zq7VTch/Soul-of-Slumbering-Chimes-png.png" picurl_large="https://i.ibb.co/zq7VTch/Soul-of-Slumbering-Chimes-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -100,7 +100,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KpM0pnsj/Court-of-Law-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KpM0pnsj/Court-of-Law-png.png" picurl_large="https://i.ibb.co/KpM0pnsj/Court-of-Law-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -119,7 +119,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gLGf43g7/It-That-Slaps-Your-Face-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gLGf43g7/It-That-Slaps-Your-Face-png.png" picurl_large="https://i.ibb.co/gLGf43g7/It-That-Slaps-Your-Face-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -138,7 +138,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5xGrSW51/Shock-ft-Gambling-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5xGrSW51/Shock-ft-Gambling-png.png" picurl_large="https://i.ibb.co/5xGrSW51/Shock-ft-Gambling-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -157,7 +157,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/NvDnVwb/Tezzeret-s-Finale-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/NvDnVwb/Tezzeret-s-Finale-png.png" picurl_large="https://i.ibb.co/NvDnVwb/Tezzeret-s-Finale-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -176,7 +176,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1tP9Mqph/Jeskai-Secrets-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1tP9Mqph/Jeskai-Secrets-png.png" picurl_large="https://i.ibb.co/1tP9Mqph/Jeskai-Secrets-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -195,7 +195,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fdqfZbbG/Grounded-Lightning-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fdqfZbbG/Grounded-Lightning-png.png" picurl_large="https://i.ibb.co/fdqfZbbG/Grounded-Lightning-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -214,7 +214,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gZb6nrHW/Plagarize-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gZb6nrHW/Plagarize-png.png" picurl_large="https://i.ibb.co/gZb6nrHW/Plagarize-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -233,7 +233,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DDhw9Wk3/Impassioned-Forum-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/DDhw9Wk3/Impassioned-Forum-png.png" picurl_large="https://i.ibb.co/DDhw9Wk3/Impassioned-Forum-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -252,7 +252,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sdt4YprD/Calculus-of-War-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/sdt4YprD/Calculus-of-War-png.png" picurl_large="https://i.ibb.co/sdt4YprD/Calculus-of-War-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -271,7 +271,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/F4ZrZnQM/Impending-Order-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/F4ZrZnQM/Impending-Order-png.png" picurl_large="https://i.ibb.co/F4ZrZnQM/Impending-Order-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -290,7 +290,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vCTTD369/A-Real-Brawl-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/vCTTD369/A-Real-Brawl-png.png" picurl_large="https://i.ibb.co/vCTTD369/A-Real-Brawl-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -309,7 +309,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/GQH08wBm/Chroma-Radiant-Prismatist-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/GQH08wBm/Chroma-Radiant-Prismatist-png.png" picurl_large="https://i.ibb.co/GQH08wBm/Chroma-Radiant-Prismatist-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -328,7 +328,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gLdBGk7g/Traitorous-Sliver-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gLdBGk7g/Traitorous-Sliver-png.png" picurl_large="https://i.ibb.co/gLdBGk7g/Traitorous-Sliver-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -347,7 +347,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KzsQwZgn/Generous-Fleshgrafter-png.png">Z11</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KzsQwZgn/Generous-Fleshgrafter-png.png" picurl_large="https://i.ibb.co/KzsQwZgn/Generous-Fleshgrafter-png.png">Z11</set>
             <tablerow>1</tablerow>
             </card>
         </cards>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-08-27</releasedate>
+        <set> v1.4<releasedate>2026-09-01</releasedate>
             <name>NGO</name>
             <longname>Ninjago</longname>
             <settype>Custom</settype>
@@ -25,7 +25,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XZhxZZFQ/Venomari-Seer-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XZhxZZFQ/Venomari-Seer-png.png" picurl_large="https://i.ibb.co/XZhxZZFQ/Venomari-Seer-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -46,7 +46,7 @@ Whenever a creature you control deals combat damage to a player, each opponent l
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HpYz6K2c/The-Overlord-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HpYz6K2c/The-Overlord-png.png" picurl_large="https://i.ibb.co/HpYz6K2c/The-Overlord-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -66,7 +66,7 @@ Flying, first strike</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1GWS2bNV/Shard-Guardian-of-the-Rime-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1GWS2bNV/Shard-Guardian-of-the-Rime-png.png" picurl_large="https://i.ibb.co/1GWS2bNV/Shard-Guardian-of-the-Rime-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -85,7 +85,7 @@ Flying, first strike</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nNR86d5f/Vindicate-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/nNR86d5f/Vindicate-png.png" picurl_large="https://i.ibb.co/nNR86d5f/Vindicate-png.png">NGO</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -106,7 +106,7 @@ You can activate Morro's Spinjutsu ability from your graveyard as though he was 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/21Mnpx4K/Morro-Promised-Greatness-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/21Mnpx4K/Morro-Promised-Greatness-png.png" picurl_large="https://i.ibb.co/21Mnpx4K/Morro-Promised-Greatness-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Morro, Master of Wind</related>
             </card>
@@ -127,7 +127,7 @@ Flying, trample</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nqpYZfJ6/Rocky-Guardian-of-the-Crags-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/nqpYZfJ6/Rocky-Guardian-of-the-Crags-png.png" picurl_large="https://i.ibb.co/nqpYZfJ6/Rocky-Guardian-of-the-Crags-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -146,7 +146,7 @@ Flying, trample</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TDBkQSQx/Putrefy-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TDBkQSQx/Putrefy-png.png" picurl_large="https://i.ibb.co/TDBkQSQx/Putrefy-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -166,7 +166,7 @@ When Zane enters, create a 2/1 white Bird artifact creature token with flying.  
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Wvx5Gt7D/Zane-the-White-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Wvx5Gt7D/Zane-the-White-Ninja-png.png" picurl_large="https://i.ibb.co/Wvx5Gt7D/Zane-the-White-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Zane, Master of Ice</related>
             </card>
@@ -187,7 +187,7 @@ Draw seven cards. Until end of turn, you may cast spells from your hand and acti
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4RN3qw67/Tornado-of-Creation-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4RN3qw67/Tornado-of-Creation-png.png" picurl_large="https://i.ibb.co/4RN3qw67/Tornado-of-Creation-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -207,7 +207,7 @@ When this creature enters, create a Map token.  (It's an artifact with "{1}, {T}
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PvDTnPJ5/Spyglass-Siren-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PvDTnPJ5/Spyglass-Siren-png.png" picurl_large="https://i.ibb.co/PvDTnPJ5/Spyglass-Siren-png.png">NGO</set>
             <tablerow>1</tablerow>
             <related>Map Token</related>
             </card>
@@ -229,7 +229,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Sj5BF1n/The-Nunchucks-of-Lightning-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Sj5BF1n/The-Nunchucks-of-Lightning-png.png" picurl_large="https://i.ibb.co/Sj5BF1n/The-Nunchucks-of-Lightning-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -249,7 +249,7 @@ Haste</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5x61pvzJ/Kai-the-Red-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5x61pvzJ/Kai-the-Red-Ninja-png.png" picurl_large="https://i.ibb.co/5x61pvzJ/Kai-the-Red-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Kai, Master of Flame</related>
             </card>
@@ -270,7 +270,7 @@ Whenever another permanent leaves the battlefield during your turn, you may put 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dwLMhn1B/The-Great-Devourer-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/dwLMhn1B/The-Great-Devourer-png.png" picurl_large="https://i.ibb.co/dwLMhn1B/The-Great-Devourer-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -289,7 +289,7 @@ Whenever another permanent leaves the battlefield during your turn, you may put 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WW40VQ6Y/Tormented-Soul-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/WW40VQ6Y/Tormented-Soul-png.png" picurl_large="https://i.ibb.co/WW40VQ6Y/Tormented-Soul-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -310,7 +310,7 @@ Partner—Sons of the First</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LDNj5JvC/Lord-Garmadon-Dark-King-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/LDNj5JvC/Lord-Garmadon-Dark-King-png.png" picurl_large="https://i.ibb.co/LDNj5JvC/Lord-Garmadon-Dark-King-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related>Incubator Token</related>
             </card>
@@ -331,7 +331,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/99ZmBM29/Cole-the-Black-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/99ZmBM29/Cole-the-Black-Ninja-png.png" picurl_large="https://i.ibb.co/99ZmBM29/Cole-the-Black-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Cole, Master of Earth</related>
             </card>
@@ -353,7 +353,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gLWVjNK5/Samurai-X-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gLWVjNK5/Samurai-X-png.png" picurl_large="https://i.ibb.co/gLWVjNK5/Samurai-X-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -373,7 +373,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XxrkFvSB/Birds-of-Paradise-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XxrkFvSB/Birds-of-Paradise-png.png" picurl_large="https://i.ibb.co/XxrkFvSB/Birds-of-Paradise-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -392,7 +392,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/2348B61Y/Mist-Cloaked-Herald-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/2348B61Y/Mist-Cloaked-Herald-png.png" picurl_large="https://i.ibb.co/2348B61Y/Mist-Cloaked-Herald-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -411,7 +411,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fVCtjmM0/Fell-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fVCtjmM0/Fell-png.png" picurl_large="https://i.ibb.co/fVCtjmM0/Fell-png.png">NGO</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -430,7 +430,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mrP6pv8s/Triton-Shorestalker-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/mrP6pv8s/Triton-Shorestalker-png.png" picurl_large="https://i.ibb.co/mrP6pv8s/Triton-Shorestalker-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -449,7 +449,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5WLp3tdQ/Grand-Sensei-Dereth-the-Brown-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5WLp3tdQ/Grand-Sensei-Dereth-the-Brown-Ninja-png.png" picurl_large="https://i.ibb.co/5WLp3tdQ/Grand-Sensei-Dereth-the-Brown-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related>Treasure Token</related>
             </card>
@@ -470,7 +470,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Fb42GYF7/Fangpyre-Infector-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Fb42GYF7/Fangpyre-Infector-png.png" picurl_large="https://i.ibb.co/Fb42GYF7/Fangpyre-Infector-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -489,7 +489,7 @@ Menace</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qFnZVHD7/Kaseto-Orochi-Archmage-Scales-Hypnobrai-Waymaker-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/qFnZVHD7/Kaseto-Orochi-Archmage-Scales-Hypnobrai-Waymaker-png.png" picurl_large="https://i.ibb.co/qFnZVHD7/Kaseto-Orochi-Archmage-Scales-Hypnobrai-Waymaker-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -509,7 +509,7 @@ When Nya enters, you may search your library for an artifact card, reveal it, th
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8gKmYnr9/Nya-Novice-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/8gKmYnr9/Nya-Novice-Ninja-png.png" picurl_large="https://i.ibb.co/8gKmYnr9/Nya-Novice-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Nya, Master of Water</related>
             </card>
@@ -531,7 +531,7 @@ If Pythor would leave the battlefield, you may instead pay {1}{r}{u}. If you do,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sJyS23Lb/Pythor-P-Chumsworth-Confidant-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/sJyS23Lb/Pythor-P-Chumsworth-Confidant-png.png" picurl_large="https://i.ibb.co/sJyS23Lb/Pythor-P-Chumsworth-Confidant-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Pythor, Resurrected Schemer</related>
             </card>
@@ -551,7 +551,7 @@ If Pythor would leave the battlefield, you may instead pay {1}{r}{u}. If you do,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/W4Z7ghMX/Kodama-s-Reach-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/W4Z7ghMX/Kodama-s-Reach-png.png" picurl_large="https://i.ibb.co/W4Z7ghMX/Kodama-s-Reach-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -571,7 +571,7 @@ Whenever this creature deals combat damage to a player, create a token that's a 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sd3nwnwD/Mist-Syndicate-Naga-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/sd3nwnwD/Mist-Syndicate-Naga-png.png" picurl_large="https://i.ibb.co/sd3nwnwD/Mist-Syndicate-Naga-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -592,7 +592,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zV9mK2FK/The-Sword-of-Fire-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zV9mK2FK/The-Sword-of-Fire-png.png" picurl_large="https://i.ibb.co/zV9mK2FK/The-Sword-of-Fire-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -612,7 +612,7 @@ Flying, vigilance</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/rfv9JTVB/Wisp-Guardian-of-the-Tempest-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/rfv9JTVB/Wisp-Guardian-of-the-Tempest-png.png" picurl_large="https://i.ibb.co/rfv9JTVB/Wisp-Guardian-of-the-Tempest-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -631,7 +631,7 @@ Flying, vigilance</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/6RBrpgSK/High-Priest-of-Penance-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/6RBrpgSK/High-Priest-of-Penance-png.png" picurl_large="https://i.ibb.co/6RBrpgSK/High-Priest-of-Penance-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -650,7 +650,7 @@ Flying, vigilance</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yDgwnZk/Skydive-Ride-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/yDgwnZk/Skydive-Ride-png.png" picurl_large="https://i.ibb.co/yDgwnZk/Skydive-Ride-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -670,7 +670,7 @@ Skulk</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MDJGd8Bv/Jay-the-Blue-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MDJGd8Bv/Jay-the-Blue-Ninja-png.png" picurl_large="https://i.ibb.co/MDJGd8Bv/Jay-the-Blue-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Jay, Master of Lightning</related>
             </card>
@@ -692,7 +692,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HL9j0QFX/The-Scythe-of-Quakes-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HL9j0QFX/The-Scythe-of-Quakes-png.png" picurl_large="https://i.ibb.co/HL9j0QFX/The-Scythe-of-Quakes-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -711,7 +711,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nsbJqk86/Doom-Blade-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/nsbJqk86/Doom-Blade-png.png" picurl_large="https://i.ibb.co/nsbJqk86/Doom-Blade-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -731,7 +731,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9kTH77r1/Peter-Parker-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/9kTH77r1/Peter-Parker-png.png" picurl_large="https://i.ibb.co/9kTH77r1/Peter-Parker-png.png">NGO</set>
             <tablerow>1</tablerow>
             <related attach="transform">Amazing Spider-Man</related>
             </card>
@@ -752,7 +752,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/C3g569wC/Constrictai-Brute-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/C3g569wC/Constrictai-Brute-png.png" picurl_large="https://i.ibb.co/C3g569wC/Constrictai-Brute-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -772,7 +772,7 @@ Equip {2}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KcN44bms/Hypnobrai-Dazer-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KcN44bms/Hypnobrai-Dazer-png.png" picurl_large="https://i.ibb.co/KcN44bms/Hypnobrai-Dazer-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -793,7 +793,7 @@ Whenever a creature you control enters, if you didn't cast it, you may have it f
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/BVSMmGMJ/Chen-Tournament-Master-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BVSMmGMJ/Chen-Tournament-Master-png.png" picurl_large="https://i.ibb.co/BVSMmGMJ/Chen-Tournament-Master-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -813,7 +813,7 @@ Whenever a creature you control attacks and isn't blocked, add one mana of any c
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/YFL2PCrS/The-Golden-Ninja-Destined-Hero-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/YFL2PCrS/The-Golden-Ninja-Destined-Hero-png.png" picurl_large="https://i.ibb.co/YFL2PCrS/The-Golden-Ninja-Destined-Hero-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Lloyd, Ultimate Spinjitzu Master</related>
             </card>
@@ -834,7 +834,7 @@ Whenever this creature deals combat damage to a player, that player exiles the t
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/GQJtmCXd/Fallen-Shinobi-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/GQJtmCXd/Fallen-Shinobi-png.png" picurl_large="https://i.ibb.co/GQJtmCXd/Fallen-Shinobi-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -854,7 +854,7 @@ Whenever this creature deals combat damage to a player, that player exiles the t
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4RCmFDx6/Lloyd-the-Green-Ninja-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4RCmFDx6/Lloyd-the-Green-Ninja-png.png" picurl_large="https://i.ibb.co/4RCmFDx6/Lloyd-the-Green-Ninja-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Lloyd, Master of Energy</related>
             </card>
@@ -875,7 +875,7 @@ Flying, haste</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/FqqG0RXR/Flame-Guardian-of-the-Inferno-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/FqqG0RXR/Flame-Guardian-of-the-Inferno-png.png" picurl_large="https://i.ibb.co/FqqG0RXR/Flame-Guardian-of-the-Inferno-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -896,7 +896,7 @@ When this creature enters, tap target creature an opponent controls.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CpSqnNV9/Topplegeist-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/CpSqnNV9/Topplegeist-png.png" picurl_large="https://i.ibb.co/CpSqnNV9/Topplegeist-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -918,7 +918,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KxB7Mmzz/The-Destiny-s-Bounty-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KxB7Mmzz/The-Destiny-s-Bounty-png.png" picurl_large="https://i.ibb.co/KxB7Mmzz/The-Destiny-s-Bounty-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -937,7 +937,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TDpTk5pb/Incubator-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/TDpTk5pb/Incubator-png.png" picurl_large="https://i.ibb.co/TDpTk5pb/Incubator-png.png">NGO</set>
             <tablerow>1</tablerow>
             <related attach="transform">Phyrexian</related>
             </card>
@@ -957,7 +957,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nNc0HGpX/Nya-Cunning-Blacksmith-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/nNc0HGpX/Nya-Cunning-Blacksmith-png.png" picurl_large="https://i.ibb.co/nNc0HGpX/Nya-Cunning-Blacksmith-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -978,7 +978,7 @@ Partner—Sons of the First</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/G41ccvTw/Sensei-Wu-Ancient-Tutor-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/G41ccvTw/Sensei-Wu-Ancient-Tutor-png.png" picurl_large="https://i.ibb.co/G41ccvTw/Sensei-Wu-Ancient-Tutor-png.png">NGO</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1000,7 +1000,7 @@ Equip {1}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RTXVzmLw/The-Shurikens-of-Ice-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/RTXVzmLw/The-Shurikens-of-Ice-png.png" picurl_large="https://i.ibb.co/RTXVzmLw/The-Shurikens-of-Ice-png.png">NGO</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1020,7 +1020,7 @@ Equip {1}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fb5RPMV/Cole-Master-of-Earth-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fb5RPMV/Cole-Master-of-Earth-png.png" picurl_large="https://i.ibb.co/fb5RPMV/Cole-Master-of-Earth-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Cole, the Black Ninja</related>
             </card>
@@ -1042,7 +1042,7 @@ Equip {1}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Vchx0h2R/Jay-Master-of-Lightning-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Vchx0h2R/Jay-Master-of-Lightning-png.png" picurl_large="https://i.ibb.co/Vchx0h2R/Jay-Master-of-Lightning-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Jay, the Blue Ninja</related>
             </card>
@@ -1063,7 +1063,7 @@ Equip {1}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xSZTYNzk/Kai-Master-of-Flame-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xSZTYNzk/Kai-Master-of-Flame-png.png" picurl_large="https://i.ibb.co/xSZTYNzk/Kai-Master-of-Flame-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Kai, the Red Ninja</related>
             </card>
@@ -1085,7 +1085,7 @@ Whenever Lloyd deals combat damage to a player, he deals that much damage to tar
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gbsgfRPj/Lloyd-Master-of-Energy-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gbsgfRPj/Lloyd-Master-of-Energy-png.png" picurl_large="https://i.ibb.co/gbsgfRPj/Lloyd-Master-of-Energy-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Lloyd, the Green Ninja</related>
             </card>
@@ -1106,7 +1106,7 @@ Whenever Lloyd deals combat damage to a player, he deals that much damage to tar
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Z11F5HNN/Zane-Master-of-Ice-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z11F5HNN/Zane-Master-of-Ice-png.png" picurl_large="https://i.ibb.co/Z11F5HNN/Zane-Master-of-Ice-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Zane, the White Ninja</related>
             </card>
@@ -1127,7 +1127,7 @@ Whenever Lloyd deals combat damage to a player, he deals that much damage to tar
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zWXdm66P/Nya-Master-of-Water-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zWXdm66P/Nya-Master-of-Water-png.png" picurl_large="https://i.ibb.co/zWXdm66P/Nya-Master-of-Water-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Nya, Novice Ninja</related>
             </card>
@@ -1148,7 +1148,7 @@ Whenever Morro deals combat damage to a player, destroy target nonland permanent
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xSpyj5Xc/Morro-Master-of-Wind-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/xSpyj5Xc/Morro-Master-of-Wind-png.png" picurl_large="https://i.ibb.co/xSpyj5Xc/Morro-Master-of-Wind-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Morro, Promised Greatness</related>
             </card>
@@ -1169,7 +1169,7 @@ Whenever Morro deals combat damage to a player, destroy target nonland permanent
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WjrnTMh/Pythor-Resurrected-Schemer-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/WjrnTMh/Pythor-Resurrected-Schemer-png.png" picurl_large="https://i.ibb.co/WjrnTMh/Pythor-Resurrected-Schemer-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">Pythor P. Chumsworth, Confidant</related>
             </card>
@@ -1190,7 +1190,7 @@ Whenever Morro deals combat damage to a player, destroy target nonland permanent
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Ngy95Dwp/Lloyd-Ultimate-Spinjitzu-Master-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Ngy95Dwp/Lloyd-Ultimate-Spinjitzu-Master-png.png" picurl_large="https://i.ibb.co/Ngy95Dwp/Lloyd-Ultimate-Spinjitzu-Master-png.png">NGO</set>
             <tablerow>2</tablerow>
             <related attach="transform">The Golden Ninja, Destined Hero</related>
             </card>
@@ -1211,7 +1211,7 @@ Each legendary spell you cast that's one or more colors has web-slinging  {G}{W}
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Lz8gfJZw/Amazing-Spider-Man-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Lz8gfJZw/Amazing-Spider-Man-png.png" picurl_large="https://i.ibb.co/Lz8gfJZw/Amazing-Spider-Man-png.png">NGO</set>
             <tablerow>1</tablerow>
             <related attach="transform">Peter Parker</related>
             </card>
@@ -1231,7 +1231,7 @@ Each legendary spell you cast that's one or more colors has web-slinging  {G}{W}
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/67wjcYWb/Phyrexian-png.png">NGO</set>
+            <set rarity="NA" picurl="https://i.ibb.co/67wjcYWb/Phyrexian-png.png" picurl_large="https://i.ibb.co/67wjcYWb/Phyrexian-png.png">NGO</set>
             <tablerow>1</tablerow>
             <related attach="transform">Incubator</related>
             </card>
