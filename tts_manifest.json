@@ -2135,6 +2135,9 @@
     "default": "BTL",
     "printings": {
       "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/fVJQLx0R/Defense-of-the-Marchwall-png.png"
+        },
         "loyalty": "5",
         "name": "Defense of the Marchwall",
         "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures can't attack you or non-Siege battles you control unless their controller pays {X} for each of those creatures, where X is the number of non-Siege battles you control.",
@@ -4140,7 +4143,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/spxZ686w/Intercept-png.png"
+          "large": "https://i.ibb.co/hJB8Mt4p/Intercept-png.png"
         },
         "name": "Intercept",
         "oracle_text": "Counter target spell. If you control a creature or Vehicle with flying, surveil 2.",
@@ -4167,6 +4170,9 @@
       "BTL": {
         "card_faces": [
           {
+            "image_uris": {
+              "large": "https://i.ibb.co/rfvTFMY4/Invasion-of-Ekhara-png.png"
+            },
             "loyalty": "3",
             "name": "Invasion of Ekhara",
             "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, creatures you control get +1/+0 and gain haste until end of turn.",
@@ -9952,6 +9958,9 @@
       "BTL": {
         "card_faces": [
           {
+            "image_uris": {
+              "large": "https://i.ibb.co/cSdLX7Tx/Trench-Clashes-of-El-Gelly-png.png"
+            },
             "loyalty": "3",
             "name": "Trench-Clashes of El Gelly",
             "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \n Attrition -  This spell costs {2} less to cast if a nonland permanent left the battlefield this turn.\nWhen this Siege enters, destroy target nonland permanent.",
