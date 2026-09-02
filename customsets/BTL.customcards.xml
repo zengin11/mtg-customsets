@@ -9,7 +9,7 @@
         </sets>
     <cards>
         <card>
-            <name>Defense of the Marchwall</name>
+            <name>Soldier Token 3</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -24,26 +24,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png" picurl_large="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>I.A. Point Defense Destroyer</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/GfgQD4WC/I-A-Point-Defense-Destroyer-png.png" picurl_large="https://i.ibb.co/GfgQD4WC/I-A-Point-Defense-Destroyer-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Zz3JH5mR/Soldier-Token-3-png.png" picurl_large="https://i.ibb.co/tpShZgXw/Soldier-Token-3-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -63,6 +44,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png" picurl_large="https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Judgement SPG</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/JMdB21J/Judgement-SPG-png.png" picurl_large="https://i.ibb.co/p9P0Z7F/Judgement-SPG-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -218,25 +218,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Strategic Bomber</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qLsfxBs4/Strategic-Bomber-png.png" picurl_large="https://i.ibb.co/qLsfxBs4/Strategic-Bomber-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Knight's Beacon Interceptor</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -272,6 +253,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0yf2Lg3h/Logistics-Specialist-Officer-png.png" picurl_large="https://i.ibb.co/0yf2Lg3h/Logistics-Specialist-Officer-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Soldier Token 2</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TxH6CCS3/Soldier-Token-2-png.png" picurl_large="https://i.ibb.co/674zddxC/Soldier-Token-2-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -332,25 +332,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Maintenance Drone</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WWSx9BG8/Maintenance-Drone-png.png" picurl_large="https://i.ibb.co/WWSx9BG8/Maintenance-Drone-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>R.D.I. Main Battle Tank</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -386,6 +367,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png" picurl_large="https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Home-Front Supporter</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/v6KpCSR2/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/B5SbH9F8/Home-Front-Supporter-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -427,6 +427,44 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Fighter</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/kkC6HP2/Fighter-png.png" picurl_large="https://i.ibb.co/qXQFy2Y/Fighter-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Soldier Token 1</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wZbbjBcB/Soldier-Token-1-png.png" picurl_large="https://i.ibb.co/Q7qqtpDp/Soldier-Token-1-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Valiant Rearguard</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -465,44 +503,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>RG Signpost</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/67v6pmMm/RG-Signpost-png.png" picurl_large="https://i.ibb.co/67v6pmMm/RG-Signpost-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Siege of CG14</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/pvrdZ8f3/Siege-of-CG14-png.png" picurl_large="https://i.ibb.co/pvrdZ8f3/Siege-of-CG14-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Griffin Border Patrol</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -519,6 +519,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/TsTP6HZ/Griffin-Border-Patrol-png.png" picurl_large="https://i.ibb.co/TsTP6HZ/Griffin-Border-Patrol-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Martyr Siegebreaker</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/hRVbnFdf/Martyr-Siegebreaker-png.png" picurl_large="https://i.ibb.co/BVBb726N/Martyr-Siegebreaker-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -579,25 +598,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Logistics Truck</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/nN3Nrhrw/Logistics-Truck-png.png" picurl_large="https://i.ibb.co/nN3Nrhrw/Logistics-Truck-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Anti-Materiel Scout Team</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -617,7 +617,7 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Protect the Homeland</name>
+            <name>Pilot Token</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -632,26 +632,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hxK0KG1n/Protect-the-Homeland-png.png" picurl_large="https://i.ibb.co/hxK0KG1n/Protect-the-Homeland-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Poisoned Orders</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/60RhqzzP/Poisoned-Orders-png.png" picurl_large="https://i.ibb.co/60RhqzzP/Poisoned-Orders-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PZ3XZ3Wx/Pilot-Token-png.png" picurl_large="https://i.ibb.co/27mV7mMq/Pilot-Token-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -709,63 +690,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/0jt6c4Fc/Deadly-Espionage-png.png" picurl_large="https://i.ibb.co/0jt6c4Fc/Deadly-Espionage-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>A-44 "Honker" Strike Fighter</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png" picurl_large="https://i.ibb.co/SwR4LfQQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Thrull Squad Support Drone</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/jkxPFB12/Thrull-Squad-Support-Drone-png.png" picurl_large="https://i.ibb.co/jkxPFB12/Thrull-Squad-Support-Drone-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Overwhelming Victory</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/S4xqp8mm/Overwhelming-Victory-png.png" picurl_large="https://i.ibb.co/S4xqp8mm/Overwhelming-Victory-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -842,6 +766,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/kVQwCtP6/E-25-Spotlight-AWACS-png.png" picurl_large="https://i.ibb.co/kVQwCtP6/E-25-Spotlight-AWACS-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>DER.7 Booker Recon Chassis</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TD1Xz6V7/DER-7-Booker-Recon-Chassis-png.png" picurl_large="https://i.ibb.co/0pKNPTg6/DER-7-Booker-Recon-Chassis-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -940,25 +883,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>C-10 "Nanny" Aircraft Carrier</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/xSCgfyS9/C-10-Nanny-Aircraft-Carrier-png.png" picurl_large="https://i.ibb.co/xSCgfyS9/C-10-Nanny-Aircraft-Carrier-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Kraken Missile Cruiser</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -975,25 +899,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png" picurl_large="https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Battle of CW12</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/23nmBL0v/Battle-of-CW12-png.png" picurl_large="https://i.ibb.co/23nmBL0v/Battle-of-CW12-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1035,25 +940,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>War Fever</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/RTpxQq46/War-Fever-png.png" picurl_large="https://i.ibb.co/RTpxQq46/War-Fever-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>"Flyswatter" Missile Team</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -1070,25 +956,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/jPLb5Bb4/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/jPLb5Bb4/Flyswatter-Missile-Team-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Dedicated Roboticist</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/nqBY19nW/Dedicated-Roboticist-png.png" picurl_large="https://i.ibb.co/nqBY19nW/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1187,6 +1054,25 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Assembly Lab</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/dsTwNMpS/Assembly-Lab-png.png" picurl_large="https://i.ibb.co/fVgz3FNb/Assembly-Lab-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>"Draugr" Rocket Trucks</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -1263,44 +1149,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Siege of CB12</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/0y9XVh2p/Siege-of-CB12-png.png" picurl_large="https://i.ibb.co/0y9XVh2p/Siege-of-CB12-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Munition Stockpile</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/Lh1xRjLc/Munition-Stockpile-png.png" picurl_large="https://i.ibb.co/Lh1xRjLc/Munition-Stockpile-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Perfect Rework</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -1355,44 +1203,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/mVnDKcgg/R-D-I-Vanguard-Dogfighter-png.png" picurl_large="https://i.ibb.co/mVnDKcgg/R-D-I-Vanguard-Dogfighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Neurodigital Virus</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/9HNPvbT9/Neurodigital-Virus-png.png" picurl_large="https://i.ibb.co/9HNPvbT9/Neurodigital-Virus-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Battle of UU10</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Q3q2HCGS/Battle-of-UU10-png.png" picurl_large="https://i.ibb.co/Q3q2HCGS/Battle-of-UU10-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1469,25 +1279,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/VpLcHNQg/Sicario-Corp-Mercenaries-png.png" picurl_large="https://i.ibb.co/VpLcHNQg/Sicario-Corp-Mercenaries-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>UR Signpost</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Fbxpfw2j/UR-Signpost-png.png" picurl_large="https://i.ibb.co/Fbxpfw2j/UR-Signpost-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1602,25 +1393,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/3Yp9RBr6/Carrier-Crew-Chief-png.png" picurl_large="https://i.ibb.co/3Yp9RBr6/Carrier-Crew-Chief-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Battle of UB08</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Q3C9HPz5/Battle-of-UB08-png.png" picurl_large="https://i.ibb.co/Q3C9HPz5/Battle-of-UB08-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1757,25 +1529,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Coalition Field Major</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wFyqwX7P/Coalition-Field-Major-png.png" picurl_large="https://i.ibb.co/wFyqwX7P/Coalition-Field-Major-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Archangel Unit_ Model 0</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -1795,6 +1548,25 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Armed and Armored</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/fV9MF4rY/Armed-and-Armored-png.png" picurl_large="https://i.ibb.co/hxcs9D2R/Armed-and-Armored-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Prototype Railgun</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -1811,25 +1583,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/pv1xKxTq/Prototype-Railgun-png.png" picurl_large="https://i.ibb.co/pv1xKxTq/Prototype-Railgun-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Trench-Clashes of El Gelly</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1928,25 +1681,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Radio Backpack</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/yckJN0Dd/Radio-Backpack-png.png" picurl_large="https://i.ibb.co/yckJN0Dd/Radio-Backpack-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Repentus Border Post</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -1963,25 +1697,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/RTrgQnv5/Repentus-Border-Post-png.png" picurl_large="https://i.ibb.co/RTrgQnv5/Repentus-Border-Post-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Invasion of Ekhara</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png" picurl_large="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2118,6 +1833,25 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>U.C.I.T. E-War Submarine</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/p6ZhJpXP/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/rKMd4Jyt/U-C-I-T-E-War-Submarine-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Brother on Deployment</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2134,25 +1868,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/JFR2n6Gj/Brother-on-Deployment-png.png" picurl_large="https://i.ibb.co/JFR2n6Gj/Brother-on-Deployment-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Tunnel Run</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/2YYfN4pG/Tunnel-Run-png.png" picurl_large="https://i.ibb.co/2YYfN4pG/Tunnel-Run-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2194,25 +1909,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>RW Signpost</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/HDzcz3Ky/RW-Signpost-png.png" picurl_large="https://i.ibb.co/HDzcz3Ky/RW-Signpost-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Autonomous Warfighter</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2251,6 +1947,25 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Wastes</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MDgBtSjH/Wastes-png.png" picurl_large="https://i.ibb.co/GvdH8p1D/Wastes-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>MF-26 "Blaze" Fighter</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2267,25 +1982,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/Y4XTGyrc/MF-26-Blaze-Fighter-png.png" picurl_large="https://i.ibb.co/Y4XTGyrc/MF-26-Blaze-Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Networked Drone Operator</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/0pK4GhnP/Networked-Drone-Operator-png.png" picurl_large="https://i.ibb.co/0pK4GhnP/Networked-Drone-Operator-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2327,25 +2023,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Copy the Template</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/7J7Ls5L9/Copy-the-Template-png.png" picurl_large="https://i.ibb.co/7J7Ls5L9/Copy-the-Template-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Ready for Anything</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2362,25 +2039,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/k68XHt8X/Ready-for-Anything-png.png" picurl_large="https://i.ibb.co/k68XHt8X/Ready-for-Anything-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Aerial Siege of CR12</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nM8ZQvs1/Aerial-Siege-of-CR12-png.png" picurl_large="https://i.ibb.co/nM8ZQvs1/Aerial-Siege-of-CR12-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2403,25 +2061,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Rods from God</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/KzWD5mW6/Rods-from-God-png.png" picurl_large="https://i.ibb.co/KzWD5mW6/Rods-from-God-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>"Leonin" Logistics Chopper</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2438,6 +2077,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/8gjcY84H/Leonin-Logistics-Chopper-png.png" picurl_large="https://i.ibb.co/Xxz8YJkq/Leonin-Logistics-Chopper-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>AC.30 Booker Recon Gunship</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/TBhQ81J6/AC-30-Booker-Recon-Gunship-png.png" picurl_large="https://i.ibb.co/8D8y5bGq/AC-30-Booker-Recon-Gunship-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2460,6 +2118,25 @@
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Coalition Field Marshal</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/LXLMWCMT/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/9kFJLqJx/Coalition-Field-Marshal-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Order a Counterattack</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2476,6 +2153,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png" picurl_large="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Munitions Stockpile</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fG23zkm3/Munitions-Stockpile-png.png" picurl_large="https://i.ibb.co/n8bXN7hX/Munitions-Stockpile-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2574,25 +2270,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Battle of CG11</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/6cvDhX1y/Battle-of-CG11-png.png" picurl_large="https://i.ibb.co/6cvDhX1y/Battle-of-CG11-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>The Z-55 Executor, "Angel"</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2609,25 +2286,6 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Mythic" picurl="https://i.ibb.co/NnHRLGf7/The-Z-55-Executor-Angel-png.png" picurl_large="https://i.ibb.co/NnHRLGf7/The-Z-55-Executor-Angel-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Onslaught of Victory</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/20PtWxDQ/Onslaught-of-Victory-png.png" picurl_large="https://i.ibb.co/20PtWxDQ/Onslaught-of-Victory-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2669,63 +2327,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gallandi Ace Academy</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/MxktDg3p/Gallandi-Ace-Academy-png.png" picurl_large="https://i.ibb.co/MxktDg3p/Gallandi-Ace-Academy-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>BG Signpost</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PGMy8S1r/BG-Signpost-png.png" picurl_large="https://i.ibb.co/PGMy8S1r/BG-Signpost-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>No Man's Land</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/mVWm59HS/No-Man-s-Land-png.png" picurl_large="https://i.ibb.co/mVWm59HS/No-Man-s-Land-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Tocsky's Tungsten Terrors</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2745,25 +2346,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Aerial Siege of CU11</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/FGVmW5V/Aerial-Siege-of-CU11-png.png" picurl_large="https://i.ibb.co/FGVmW5V/Aerial-Siege-of-CU11-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>"Blue Fire" EMP Strike</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2780,6 +2362,25 @@
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Rare" picurl="https://i.ibb.co/rRYWHzDS/Blue-Fire-EMP-Strike-png.png" picurl_large="https://i.ibb.co/rRYWHzDS/Blue-Fire-EMP-Strike-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Intercept</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/spxZ686w/Intercept-png.png" picurl_large="https://i.ibb.co/rK8VcDc6/Intercept-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2859,25 +2460,6 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>"Rampart" APC Company</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/hJ2W3fdF/Rampart-APC-Company-png.png" picurl_large="https://i.ibb.co/hJ2W3fdF/Rampart-APC-Company-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Careful Captain</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -2897,7 +2479,7 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Field Salvage Kit</name>
+            <name>Construction Lab</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -2912,26 +2494,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/8tZxLT4/Field-Salvage-Kit-png.png" picurl_large="https://i.ibb.co/8tZxLT4/Field-Salvage-Kit-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Aerial Siege of CW14</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xqDXfKSC/Aerial-Siege-of-CW14-png.png" picurl_large="https://i.ibb.co/xqDXfKSC/Aerial-Siege-of-CW14-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Pz9W1FTd/Construction-Lab-png.png" picurl_large="https://i.ibb.co/cXC82kbj/Construction-Lab-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3030,7 +2593,7 @@
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Flight School</name>
+            <name>Defense of the Marchwall</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -3045,11 +2608,11 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/hFV3KfFM/Flight-School-png.png" picurl_large="https://i.ibb.co/hFV3KfFM/Flight-School-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png" picurl_large="https://i.ibb.co/6RHrn9Qg/Defense-of-the-Marchwall-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Soldier Token 3</name>
+            <name>A-44 "Honker" Strike Fighter</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -3064,11 +2627,11 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Zz3JH5mR/Soldier-Token-3-png.png" picurl_large="https://i.ibb.co/tpShZgXw/Soldier-Token-3-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/G4KW6Gtb/A-44-Honker-Strike-Fighter-png.png" picurl_large="https://i.ibb.co/dwdPTXLz/A-44-Honker-Strike-Fighter-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Judgement SPG</name>
+            <name>Dedicated Roboticist</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -3083,11 +2646,11 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/JMdB21J/Judgement-SPG-png.png" picurl_large="https://i.ibb.co/p9P0Z7F/Judgement-SPG-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/v4Kc0CCp/Dedicated-Roboticist-png.png" picurl_large="https://i.ibb.co/s9Mg8ppn/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Soldier Token 2</name>
+            <name>Trench-Clashes of El Gelly</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -3102,11 +2665,11 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TxH6CCS3/Soldier-Token-2-png.png" picurl_large="https://i.ibb.co/674zddxC/Soldier-Token-2-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/bnfKGXS/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Home-Front Supporter</name>
+            <name>Invasion of Ekhara</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
@@ -3121,273 +2684,7 @@
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/v6KpCSR2/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/B5SbH9F8/Home-Front-Supporter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Fighter</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/kkC6HP2/Fighter-png.png" picurl_large="https://i.ibb.co/qXQFy2Y/Fighter-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Soldier Token 1</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wZbbjBcB/Soldier-Token-1-png.png" picurl_large="https://i.ibb.co/Q7qqtpDp/Soldier-Token-1-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Martyr Siegebreaker</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/hRVbnFdf/Martyr-Siegebreaker-png.png" picurl_large="https://i.ibb.co/BVBb726N/Martyr-Siegebreaker-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Pilot Token</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PZ3XZ3Wx/Pilot-Token-png.png" picurl_large="https://i.ibb.co/27mV7mMq/Pilot-Token-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>DER.7 Booker Recon Chassis</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TD1Xz6V7/DER-7-Booker-Recon-Chassis-png.png" picurl_large="https://i.ibb.co/0pKNPTg6/DER-7-Booker-Recon-Chassis-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Assembly Lab</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dsTwNMpS/Assembly-Lab-png.png" picurl_large="https://i.ibb.co/fVgz3FNb/Assembly-Lab-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Armed and Armored</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/fV9MF4rY/Armed-and-Armored-png.png" picurl_large="https://i.ibb.co/hxcs9D2R/Armed-and-Armored-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>U.C.I.T. E-War Submarine</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/p6ZhJpXP/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/rKMd4Jyt/U-C-I-T-E-War-Submarine-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Wastes</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MDgBtSjH/Wastes-png.png" picurl_large="https://i.ibb.co/GvdH8p1D/Wastes-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>AC.30 Booker Recon Gunship</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/TBhQ81J6/AC-30-Booker-Recon-Gunship-png.png" picurl_large="https://i.ibb.co/8D8y5bGq/AC-30-Booker-Recon-Gunship-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Coalition Field Marshal</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/LXLMWCMT/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/9kFJLqJx/Coalition-Field-Marshal-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Munitions Stockpile</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fG23zkm3/Munitions-Stockpile-png.png" picurl_large="https://i.ibb.co/n8bXN7hX/Munitions-Stockpile-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Intercept</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/spxZ686w/Intercept-png.png" picurl_large="https://i.ibb.co/rK8VcDc6/Intercept-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Construction Lab</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Pz9W1FTd/Construction-Lab-png.png" picurl_large="https://i.ibb.co/cXC82kbj/Construction-Lab-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png" picurl_large="https://i.ibb.co/7PH70ty/Invasion-of-Ekhara-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>

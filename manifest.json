@@ -24,7 +24,7 @@
       "\"Rampart\" APC Company": "2026-09-02T01:01:58Z",
       "\"Rhox\" Drone Transport": "2026-09-02T01:01:58Z",
       "A-13 \"Honker\" Strike Fighter": "2026-09-02T01:01:58Z",
-      "A-44 \"Honker\" Strike Fighter": "2026-09-02T01:01:58Z",
+      "A-44 \"Honker\" Strike Fighter": "2026-09-02T01:05:25Z",
       "AC.30 Booker Recon Gunship": "2026-09-02T01:01:58Z",
       "AH.960 Booker Retrofit": "2026-09-02T01:01:58Z",
       "Aerial Siege of CR12": "2026-09-02T01:01:58Z",
@@ -72,7 +72,7 @@
       "DER.7 Booker Picket Ship": "2026-09-02T01:01:58Z",
       "DER.7 Booker Recon Chassis": "2026-09-02T01:01:58Z",
       "Deadly Espionage": "2026-09-02T01:01:58Z",
-      "Dedicated Roboticist": "2026-09-02T01:01:58Z",
+      "Dedicated Roboticist": "2026-09-02T01:05:25Z",
       "Defense of the Marchwall": "2026-09-02T01:01:58Z",
       "Drafted Dragster": "2026-09-02T01:01:58Z",
       "Drill Instructor": "2026-09-02T01:01:58Z",
@@ -771,7 +771,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-02T01:01:58Z"
+      "updated": "2026-09-02T01:05:25Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -793,6 +793,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-02T00:44:53Z"
+    "updated": "2026-09-02T00:59:48Z"
   }
 }
