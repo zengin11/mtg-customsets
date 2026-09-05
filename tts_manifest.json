@@ -535,7 +535,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/DHC5RjSt/Archangel-Unit-Model-0-png.png"
+          "large": "https://i.ibb.co/23mH1MpW/Archangel-Unit-Model-0-png.png"
         },
         "name": "Archangel Unit: Model 0",
         "oracle_text": "Flying\nModular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
@@ -1120,7 +1120,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/HTHQYDkF/Brother-on-Deployment-png.png"
+          "large": "https://i.ibb.co/Y46WFCs8/Brother-on-Deployment-png.png"
         },
         "name": "Brother on Deployment",
         "oracle_text": "Haste\nWhen this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)",
@@ -5595,7 +5595,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/s7hfVdz/Munitions-Stockpile-png.png"
+          "large": "https://i.ibb.co/YFm6CKw5/Munitions-Stockpile-png.png"
         },
         "name": "Munitions Stockpile",
         "oracle_text": "When this artifact enters, discard a card, then draw a card.\nWhen this artifact leaves the battlefield, it deals 2 damage to any target.",

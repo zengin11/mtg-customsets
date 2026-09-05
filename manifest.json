@@ -39,7 +39,7 @@
       "Angel's Deliverance Airlifter": "2026-09-02T18:37:21Z",
       "Anti-Air Missile Launcher": "2026-09-02T18:37:21Z",
       "Anti-Materiel Scout Team": "2026-09-02T18:37:21Z",
-      "Archangel Unit: Model 0": "2026-09-05T19:10:39Z",
+      "Archangel Unit: Model 0": "2026-09-05T19:12:46Z",
       "Archangel Unit_ Model 0": "2026-09-02T01:01:58Z",
       "Arctic Warfare Veterans": "2026-09-02T18:37:21Z",
       "Armed and Armored": "2026-09-05T19:10:39Z",
@@ -57,7 +57,7 @@
       "Battlefield Engineer": "2026-09-02T18:37:21Z",
       "Bellicose Colonel": "2026-09-02T18:37:21Z",
       "Breakthrough Battalion": "2026-09-02T18:37:21Z",
-      "Brother on Deployment": "2026-09-05T19:10:39Z",
+      "Brother on Deployment": "2026-09-05T19:12:46Z",
       "C-10 \"Nanny\" Aircraft Carrier": "2026-09-02T18:37:21Z",
       "Camouflage Netting": "2026-09-02T18:37:21Z",
       "Careful Captain": "2026-09-02T18:37:21Z",
@@ -131,7 +131,7 @@
       "Modular Combat Drone": "2026-09-05T19:10:39Z",
       "Momentum Chaser": "2026-09-02T19:06:57Z",
       "Munition Stockpile": "2026-09-02T01:01:58Z",
-      "Munitions Stockpile": "2026-09-05T19:10:39Z",
+      "Munitions Stockpile": "2026-09-05T19:12:46Z",
       "Networked Drone Operator": "2026-09-02T18:37:21Z",
       "Neurodigital Virus": "2026-09-02T18:37:21Z",
       "Night Vision Goggles": "2026-09-02T18:37:21Z",
@@ -809,7 +809,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-05T19:10:39Z"
+      "updated": "2026-09-05T19:12:46Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -831,6 +831,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-05T19:08:41Z"
+    "updated": "2026-09-05T19:12:01Z"
   }
 }
