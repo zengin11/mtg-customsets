@@ -173,6 +173,21 @@
       }
     }
   },
+  "accomplished saboteur": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/7t7ZF6QJ/Accomplished-Saboteur-png.png"
+        },
+        "name": "Accomplished Saboteur",
+        "oracle_text": "{2}{B}, Sacrifice an artifact or creature: Draw a card.",
+        "power": "3",
+        "toughness": "4",
+        "type_line": "Creature — Human Rogue Soldier"
+      }
+    }
+  },
   "aerial siege of cr12": {
     "default": "BTL",
     "printings": {
@@ -520,12 +535,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8T3bDTk/Archangel-Unit-Model-0-png.png"
+          "large": "https://i.ibb.co/DHC5RjSt/Archangel-Unit-Model-0-png.png"
         },
         "name": "Archangel Unit: Model 0",
-        "oracle_text": "Flying\nModular 2  (This creature enters with 2 +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
-        "power": "0",
-        "toughness": "0",
+        "oracle_text": "Flying\nModular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
+        "power": "1",
+        "toughness": "1",
         "type_line": "Artifact Creature — Robot Angel"
       }
     }
@@ -563,11 +578,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/fV9MF4rY/Armed-and-Armored-png.png"
+          "large": "https://i.ibb.co/wNNNdHVw/Armed-and-Armored-png.png"
         },
         "name": "Armed and Armored",
-        "oracle_text": "Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.",
-        "type_line": "Instant"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -727,10 +742,9 @@
         "image_uris": {
           "large": "https://i.ibb.co/ymmx2LnZ/Battle-of-CG11-png.png"
         },
-        "loyalty": "4",
         "name": "Battle of CG11",
-        "oracle_text": "Creatures you control get +1/+1 and have reach.",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -741,10 +755,9 @@
         "image_uris": {
           "large": "https://i.ibb.co/rKf6fc3Q/Battle-of-CW12-png.png"
         },
-        "loyalty": "6",
         "name": "Battle of CW12",
-        "oracle_text": "When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -769,11 +782,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/9k1cTYbG/Battle-of-UU10-png.png"
+              "large": "https://i.ibb.co/gZ3TbLGx/Battle-of-UU10-png.png"
             },
             "name": "Battle of UU10",
             "oracle_text": "Flash\nWhen this battle enters, counter target spell.",
-            "type_line": "Battle — Aerial Siege"
+            "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
@@ -1107,10 +1120,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/JFR2n6Gj/Brother-on-Deployment-png.png"
+          "large": "https://i.ibb.co/HTHQYDkF/Brother-on-Deployment-png.png"
         },
         "name": "Brother on Deployment",
-        "oracle_text": "When this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)",
+        "oracle_text": "Haste\nWhen this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)",
         "power": "1",
         "toughness": "1",
         "type_line": "Creature — Human Soldier"
@@ -1613,8 +1626,10 @@
           "large": "https://i.ibb.co/v6n4HXCG/Coalition-Border-Post-png.png"
         },
         "name": "Coalition Border Post",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Defender, reach, ward {3}\n{t}: Add {c}\n{1}, {t}: Add {g}{g}, {u}{u}, or {r}{r}.\nCrew 1",
+        "power": "1",
+        "toughness": "5",
+        "type_line": "Artifact Land — Vehicle"
       }
     }
   },
@@ -1623,12 +1638,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/LXLMWCMT/Coalition-Field-Marshal-png.png"
+          "large": "https://i.ibb.co/yBy5wbf2/Coalition-Field-Marshal-png.png"
         },
         "name": "Coalition Field Marshal",
         "oracle_text": "When this creature enters, create a 2/2 white Soldier creature token.\nWhenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
-        "power": "3",
-        "toughness": "3",
+        "power": "2",
+        "toughness": "2",
         "type_line": "Creature — Human Soldier Advisor"
       }
     }
@@ -1789,8 +1804,8 @@
           "large": "https://i.ibb.co/yBGGD2TS/Communications-Jam-png.png"
         },
         "name": "Communications Jam",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Enchant creature or Vehicle\nWhen this Aura enters, tap enchanted permanent.\n Arms Race -  As long as no opponent controls more artifacts than you, enchanted permanent doesn't untap during its controller's untap step.",
+        "type_line": "Enchantment — Aura"
       }
     }
   },
@@ -2076,6 +2091,34 @@
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Artificer"
+      }
+    }
+  },
+  "defense of cg11": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/zVqvKWbZ/Defense-of-CG11-png.png"
+        },
+        "loyalty": "4",
+        "name": "Defense of CG11",
+        "oracle_text": "Creatures you control get +1/+1 and have reach.",
+        "type_line": "Battle"
+      }
+    }
+  },
+  "defense of cw12": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/7NWrS4nB/Defense-of-CW12-png.png"
+        },
+        "loyalty": "6",
+        "name": "Defense of CW12",
+        "oracle_text": "When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.",
+        "type_line": "Battle"
       }
     }
   },
@@ -2374,12 +2417,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Mk91TSnh/Drill-Instructor-png.png"
+          "large": "https://i.ibb.co/7t5Hfv4z/Drill-Instructor-png.png"
         },
         "name": "Drill Instructor",
-        "oracle_text": "When this creature enters, populate. Creatures you control gain haste until end of turn. (To populate, create a token that's a copy of a creature token you control.)",
+        "oracle_text": "When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)\n{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.",
         "power": "1",
-        "toughness": "1",
+        "toughness": "2",
         "type_line": "Creature — Human Soldier Advisor"
       }
     }
@@ -2738,8 +2781,10 @@
           "large": "https://i.ibb.co/kkC6HP2/Fighter-png.png"
         },
         "name": "Fighter",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Flying\nCrew 1",
+        "power": "{fontcolorwhite}3",
+        "toughness": "1",
+        "type_line": "Token Artifact — Vehicle"
       }
     }
   },
@@ -2904,6 +2949,19 @@
       }
     }
   },
+  "freelance recovery": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Y7qq83Bc/Freelance-Recovery-png.png"
+        },
+        "name": "Freelance Recovery",
+        "oracle_text": "Return target creature card from your graveyard to the battlefield. If it's a Pilot, create two Treasure tokens.",
+        "type_line": "Sorcery"
+      }
+    }
+  },
   "friendly neighborhood": {
     "default": "KPDH",
     "printings": {
@@ -2977,8 +3035,10 @@
           "large": "https://i.ibb.co/GQyBGff2/Gallandi-Border-Post-png.png"
         },
         "name": "Gallandi Border Post",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Defender, first strike, ward {3}\n{t}: Add {c}\n{1}, {t}: Add {u}{u}, {r}{r}, or {w}{w}.\nCrew 3",
+        "power": "4",
+        "toughness": "2",
+        "type_line": "Artifact Land — Vehicle"
       }
     }
   },
@@ -3028,10 +3088,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/whVY0W2L/Genesis-Tactical-Assault-Unit-png.png"
+          "large": "https://i.ibb.co/v4t0ZbRB/Genesis-Tactical-Assault-Unit-png.png"
         },
         "name": "Genesis Tactical Assault Unit",
-        "oracle_text": "Modular 3  (This creature enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) \n{wb}, Remove a counter from a permanent you control: Put a +1/+1, charge, or defense counter on target permanent.",
+        "oracle_text": "Modular 3  (This creature enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) \n{x}{wb}, Remove X counters from a permanent you control: Put X +1/+1, charge, or defense counters on target permanent. Activate only as a sorcery.",
         "power": "0",
         "toughness": "0",
         "type_line": "Artifact Creature — Robot Soldier"
@@ -3648,7 +3708,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/v6KpCSR2/Home-Front-Supporter-png.png"
+          "large": "https://i.ibb.co/39C5brNV/Home-Front-Supporter-png.png"
         },
         "name": "Home-Front Supporter",
         "oracle_text": "Attrition — At the beginning of your end step, put a +1/+1 counter on another target creature or Vehicle. If a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature as well.",
@@ -3892,8 +3952,10 @@
           "large": "https://i.ibb.co/Jj2JhfWr/Imperial-Border-Post-png.png"
         },
         "name": "Imperial Border Post",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Defender, indestructible, ward {2}\n{t}: Add {c}\n{1}, {t}: Add {w}{w}, {b}{b}, or {g}{g}.\nCrew 2",
+        "power": "0",
+        "toughness": "8",
+        "type_line": "Artifact Land — Vehicle"
       }
     }
   },
@@ -5384,12 +5446,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/GfV1LgCn/Modular-Combat-Drone-png.png"
+          "large": "https://i.ibb.co/mCGP3TPH/Modular-Combat-Drone-png.png"
         },
         "name": "Modular Combat Drone",
-        "oracle_text": "Modular 3  (This creature enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
-        "power": "0",
-        "toughness": "0",
+        "oracle_text": "Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
+        "power": "2",
+        "toughness": "2",
         "type_line": "Artifact Creature — Robot Soldier"
       }
     }
@@ -5533,11 +5595,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/fG23zkm3/Munitions-Stockpile-png.png"
+          "large": "https://i.ibb.co/s7hfVdz/Munitions-Stockpile-png.png"
         },
         "name": "Munitions Stockpile",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "When this artifact enters, discard a card, then draw a card.\nWhen this artifact leaves the battlefield, it deals 2 damage to any target.",
+        "type_line": "Artifact — Munitions"
       }
     }
   },
@@ -6554,6 +6616,21 @@
       }
     }
   },
+  "r.d.i. armored car": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/nNs22Sf7/R-D-I-Armored-Car-png.png"
+        },
+        "name": "R.D.I. Armored Car",
+        "oracle_text": "Haste\nWhen this Vehicle enters, create a 1/1 red Soldier creature token.\nCrew 1",
+        "power": "2",
+        "toughness": "1",
+        "type_line": "Artifact — Vehicle"
+      }
+    }
+  },
   "r.d.i. main battle tank": {
     "default": "BTL",
     "printings": {
@@ -6577,10 +6654,8 @@
           "large": "https://i.ibb.co/6R7GB7tc/R-D-I-Reserve-Responder-png.png"
         },
         "name": "R.D.I. Reserve Responder",
-        "oracle_text": "Flying, haste\nWhen this Vehicle enters, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)\nCrew 1",
-        "power": "2",
-        "toughness": "2",
-        "type_line": "Artifact — Vehicle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -6733,11 +6808,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/k68XHt8X/Ready-for-Anything-png.png"
+          "large": "https://i.ibb.co/gkxqJRX/Ready-for-Anything-png.png"
         },
         "name": "Ready for Anything",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.",
+        "type_line": "Instant"
       }
     }
   },
@@ -6876,8 +6951,10 @@
           "large": "https://i.ibb.co/RTrgQnv5/Repentus-Border-Post-png.png"
         },
         "name": "Repentus Border Post",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Defender, lifelink, ward {3}\n{t}: Add {c}\n{1}, {t}: Add {r}{r}, {w}{w}, or {b}{b}.\nCrew 2",
+        "power": "2",
+        "toughness": "4",
+        "type_line": "Artifact Land — Vehicle"
       }
     }
   },
@@ -7350,8 +7427,23 @@
           "large": "https://i.ibb.co/tTzzSnj6/S-L-I-Border-Post-png.png"
         },
         "name": "S.L.I. Border Post",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Defender, modular 2\n{t}: Add {c}\n{1}, {t}: Add {b}{b}, {g}{g}, or {u}{u}.\nCrew 1",
+        "power": "0",
+        "toughness": "1",
+        "type_line": "Artifact Land — Vehicle"
+      }
+    }
+  },
+  "sabotage of narroway bridge": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/HpHtb6vC/Sabotage-of-Narroway-Bridge-png.png"
+        },
+        "name": "Sabotage of Narroway Bridge",
+        "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) ",
+        "type_line": "Battle — Siege"
       }
     }
   },
@@ -7745,11 +7837,13 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/ZzGJLvL5/Victory-of-CB12-png.png"
+              "large": "https://i.ibb.co/cSWM4g9q/Victory-of-CB12-png.png"
             },
             "name": "Victory of CB12",
             "oracle_text": "{2}{B}, Sacrifice an artifact or creature: Draw a card.",
-            "type_line": "Artifact"
+            "power": "3",
+            "toughness": "4",
+            "type_line": "Creature — Human Rogue Soldier"
           }
         ],
         "layout": "transform",
@@ -8273,10 +8367,8 @@
           "large": "https://i.ibb.co/60s1YXYg/Site-Augustine-S-L-I-Capital-png.png"
         },
         "name": "Site Augustine, S.L.I. Capital",
-        "oracle_text": "Indestructible\n{t}: Add {c}\n{t}: Add {b}{b}{g}{g}{u}{u}. Activate only while this Vehicle is a creature.\nCrew 6",
-        "power": "6",
-        "toughness": "6",
-        "type_line": "Legendary Artifact Land — Vehicle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9863,6 +9955,19 @@
         "name": "Turbulent Steppe",
         "oracle_text": "({T}: Add {R} or {W}.) \nThis land enters tapped unless your opponents control eight or more lands.",
         "type_line": "Land — Mountain Plains"
+      }
+    }
+  },
+  "turret defense": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/4wd75G79/Turret-Defense-png.png"
+        },
+        "name": "Turret Defense",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures you control get +1/+1 and have reach.",
+        "type_line": "Battle"
       }
     }
   },
