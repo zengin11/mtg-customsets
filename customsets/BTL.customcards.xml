@@ -9,383 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Genesis Tactical Assault Unit</name>
-            <text>Modular 3  (This creature enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) 
-{x}{wb}, Remove X counters from a permanent you control: Put X +1/+1, charge, or defense counters on target permanent. Activate only as a sorcery.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{W}{B}</manacost>
-                <cmc>4</cmc>
-                <colors>WB</colors>
-                <coloridentity>WB</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Soldier</type>
-                <pt>0/0</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/v4t0ZbRB/Genesis-Tactical-Assault-Unit-png.png" picurl_large="https://i.ibb.co/GQhzcXNJ/Genesis-Tactical-Assault-Unit-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Accomplished Saboteur</name>
-            <text>{2}{B}, Sacrifice an artifact or creature: Draw a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Rogue Soldier</type>
-                <pt>3/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/7t7ZF6QJ/Accomplished-Saboteur-png.png" picurl_large="https://i.ibb.co/KxCfH3Dj/Accomplished-Saboteur-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Home-Front Supporter</name>
-            <text>Attrition — At the beginning of your end step, put a +1/+1 counter on another target creature or Vehicle. If a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature as well.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Citizen</type>
-                <pt>0/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/39C5brNV/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/pBL6T0zN/Home-Front-Supporter-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Modular Combat Drone</name>
-            <text>Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Soldier</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mCGP3TPH/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/KjX8Jh89/Modular-Combat-Drone-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Drill Instructor</name>
-            <text>When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)
-{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier Advisor</type>
-                <pt>1/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/7t5Hfv4z/Drill-Instructor-png.png" picurl_large="https://i.ibb.co/qYfzSB5n/Drill-Instructor-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Defense of CW12</name>
-            <text>When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{W}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
-                <pt />
-                <loyalty>6</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/7NWrS4nB/Defense-of-CW12-png.png" picurl_large="https://i.ibb.co/k68qG14z/Defense-of-CW12-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Battle of UU10</name>
-            <text>Flash
-When this battle enters, counter target spell.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{2}{U}</manacost>
-                <cmc>3</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/gZ3TbLGx/Battle-of-UU10-png.png" picurl_large="https://i.ibb.co/fd2pVzbs/Battle-of-UU10-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UU10</related>
-            </card>
-        <card>
-            <name>Freelance Recovery</name>
-            <text>Return target creature card from your graveyard to the battlefield. If it's a Pilot, create two Treasure tokens.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{B}</manacost>
-                <cmc>5</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Y7qq83Bc/Freelance-Recovery-png.png" picurl_large="https://i.ibb.co/TBFFRkM4/Freelance-Recovery-png.png">BTL</set>
-            <tablerow>3</tablerow>
-            <related>Treasure Token</related>
-            </card>
-        <card>
-            <name>Archangel Unit: Model 0</name>
-            <text>Flying
-Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Angel</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/DHC5RjSt/Archangel-Unit-Model-0-png.png" picurl_large="https://i.ibb.co/pBzJLk9x/Archangel-Unit-Model-0-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Armed and Armored</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wNNNdHVw/Armed-and-Armored-png.png" picurl_large="https://i.ibb.co/JRRRcLVy/Armed-and-Armored-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Turret Defense</name>
-            <text>(You defend this battle. Your opponents can attack it.) 
-Creatures you control get +1/+1 and have reach.</text>
-            <prop>
-                <layout>battle</layout>
-                <side>front</side>
-                <manacost>{2}{g}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="NA" picurl="https://i.ibb.co/4wd75G79/Turret-Defense-png.png" picurl_large="https://i.ibb.co/FkVKjMKN/Turret-Defense-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Brother on Deployment</name>
-            <text>Haste
-When this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{R}</manacost>
-                <cmc>1</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/HTHQYDkF/Brother-on-Deployment-png.png" picurl_large="https://i.ibb.co/9Hrj29C8/Brother-on-Deployment-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Ready for Anything</name>
-            <text>Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gkxqJRX/Ready-for-Anything-png.png" picurl_large="https://i.ibb.co/KTJ4WrQ/Ready-for-Anything-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Coalition Field Marshal</name>
-            <text>When this creature enters, create a 2/2 white Soldier creature token.
-Whenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}{G}</manacost>
-                <cmc>4</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier Advisor</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/yBy5wbf2/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/bRBLS8Wt/Coalition-Field-Marshal-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Munitions Stockpile</name>
-            <text>When this artifact enters, discard a card, then draw a card.
-When this artifact leaves the battlefield, it deals 2 damage to any target.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{R}</manacost>
-                <cmc>1</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Munitions</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/s7hfVdz/Munitions-Stockpile-png.png" picurl_large="https://i.ibb.co/JZN1swg/Munitions-Stockpile-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Sabotage of Narroway Bridge</name>
-            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
-When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) </text>
-            <prop>
-                <layout>battle</layout>
-                <side>front</side>
-                <manacost>{3}{b}</manacost>
-                <cmc>4</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="NA" picurl="https://i.ibb.co/HpHtb6vC/Sabotage-of-Narroway-Bridge-png.png" picurl_large="https://i.ibb.co/bRKsCThF/Sabotage-of-Narroway-Bridge-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>R.D.I. Armored Car</name>
-            <text>Haste
-When this Vehicle enters, create a 1/1 red Soldier creature token.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{R}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>2/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/nNs22Sf7/R-D-I-Armored-Car-png.png" picurl_large="https://i.ibb.co/Nd6hhzp9/R-D-I-Armored-Car-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Archangel Unit: Model 0</name>
-            <text>Flying
-Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Angel</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/DHC5RjSt/Archangel-Unit-Model-0-png.png" picurl_large="https://i.ibb.co/pBzJLk9x/Archangel-Unit-Model-0-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Defense of CG11</name>
-            <text>Creatures you control get +1/+1 and have reach.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
-                <pt />
-                <loyalty>4</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/zVqvKWbZ/Defense-of-CG11-png.png" picurl_large="https://i.ibb.co/LdV74D61/Defense-of-CG11-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Soldier Token 3</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -467,6 +90,26 @@ Crew 3</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png" picurl_large="https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Genesis Tactical Assault Unit</name>
+            <text>Modular 3  (This creature enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) 
+{x}{wb}, Remove X counters from a permanent you control: Put X +1/+1, charge, or defense counters on target permanent. Activate only as a sorcery.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}{B}</manacost>
+                <cmc>4</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Soldier</type>
+                <pt>0/0</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/v4t0ZbRB/Genesis-Tactical-Assault-Unit-png.png" picurl_large="https://i.ibb.co/GQhzcXNJ/Genesis-Tactical-Assault-Unit-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Amphibious Infiltrator</name>
@@ -690,6 +333,25 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Accomplished Saboteur</name>
+            <text>{2}{B}, Sacrifice an artifact or creature: Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Rogue Soldier</type>
+                <pt>3/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7t7ZF6QJ/Accomplished-Saboteur-png.png" picurl_large="https://i.ibb.co/KxCfH3Dj/Accomplished-Saboteur-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>A-44 "Honker" Strike Fighter</name>
             <text>Flying, trample
 {2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
@@ -750,6 +412,25 @@ Equip {2U}</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png" picurl_large="https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Home-Front Supporter</name>
+            <text>Attrition — At the beginning of your end step, put a +1/+1 counter on another target creature or Vehicle. If a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature as well.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Citizen</type>
+                <pt>0/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/39C5brNV/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/pBL6T0zN/Home-Front-Supporter-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>S.L.I. Ablative VolunteerTM</name>
@@ -1299,6 +980,25 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Modular Combat Drone</name>
+            <text>Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Soldier</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/mCGP3TPH/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/KjX8Jh89/Modular-Combat-Drone-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>QRF.2 Toc-Mand Drone Ship</name>
             <text>Flash
 Flying
@@ -1457,6 +1157,26 @@ Whenever a nontoken creature you control enters, proliferate.  (Choose any numbe
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/nsmf9NLn/AI-Upgrade-png.png" picurl_large="https://i.ibb.co/mCTtkVcX/AI-Upgrade-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Drill Instructor</name>
+            <text>When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)
+{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier Advisor</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/7t5Hfv4z/Drill-Instructor-png.png" picurl_large="https://i.ibb.co/qYfzSB5n/Drill-Instructor-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>War Fever</name>
@@ -1663,6 +1383,25 @@ When this Siege enters, target creature gains double strike until end of turn.</
             <set rarity="Common" picurl="https://i.ibb.co/VptY8VTR/Armed-by-the-Lowest-Bidder-png.png" picurl_large="https://i.ibb.co/VptY8VTR/Armed-by-the-Lowest-Bidder-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related>Treasure Token</related>
+            </card>
+        <card>
+            <name>Defense of CW12</name>
+            <text>When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>6</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/7NWrS4nB/Defense-of-CW12-png.png" picurl_large="https://i.ibb.co/k68qG14z/Defense-of-CW12-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Assembly Lab</name>
@@ -1902,6 +1641,27 @@ Whenever enchanted permanent crews a Vehicle, create a copy of this Aura attache
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/ynmmhGVg/Neurodigital-Virus-png.png" picurl_large="https://i.ibb.co/7Jxxg8br/Neurodigital-Virus-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Battle of UU10</name>
+            <text>Flash
+When this battle enters, counter target spell.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/gZ3TbLGx/Battle-of-UU10-png.png" picurl_large="https://i.ibb.co/fd2pVzbs/Battle-of-UU10-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Victory of UU10</related>
             </card>
         <card>
             <name>"Rhox" Drone Transport</name>
@@ -2263,6 +2023,65 @@ Whenever this creature crews a Vehicle, that Vehicle gains mobilize 1 until end 
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/1tKRCxpr/Mobile-Infantry-Platoon-png.png" picurl_large="https://i.ibb.co/1tKRCxpr/Mobile-Infantry-Platoon-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Freelance Recovery</name>
+            <text>Return target creature card from your graveyard to the battlefield. If it's a Pilot, create two Treasure tokens.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{B}</manacost>
+                <cmc>5</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Y7qq83Bc/Freelance-Recovery-png.png" picurl_large="https://i.ibb.co/TBFFRkM4/Freelance-Recovery-png.png">BTL</set>
+            <tablerow>3</tablerow>
+            <related>Treasure Token</related>
+            </card>
+        <card>
+            <name>Archangel Unit: Model 0</name>
+            <text>Flying
+Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Angel</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/DHC5RjSt/Archangel-Unit-Model-0-png.png" picurl_large="https://i.ibb.co/pBzJLk9x/Archangel-Unit-Model-0-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Armed and Armored</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wNNNdHVw/Armed-and-Armored-png.png" picurl_large="https://i.ibb.co/JRRRcLVy/Armed-and-Armored-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Siege of UH06</name>
@@ -2641,6 +2460,27 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Turret Defense</name>
+            <text>(You defend this battle. Your opponents can attack it.) 
+Creatures you control get +1/+1 and have reach.</text>
+            <prop>
+                <layout>battle</layout>
+                <side>front</side>
+                <manacost>{2}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="NA" picurl="https://i.ibb.co/4wd75G79/Turret-Defense-png.png" picurl_large="https://i.ibb.co/FkVKjMKN/Turret-Defense-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Communications Jam</name>
             <text>Enchant creature or Vehicle
 When this Aura enters, tap enchanted permanent.
@@ -2700,6 +2540,26 @@ Crew 5</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/p6ZhJpXP/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/rKMd4Jyt/U-C-I-T-E-War-Submarine-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Brother on Deployment</name>
+            <text>Haste
+When this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/HTHQYDkF/Brother-on-Deployment-png.png" picurl_large="https://i.ibb.co/9Hrj29C8/Brother-on-Deployment-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Siege of UH01</name>
@@ -3004,6 +2864,25 @@ Whenever this creature crews a Vehicle, that Vehicle gains trample until end of 
             <related attach="transform">Victory of UH03</related>
             </card>
         <card>
+            <name>Ready for Anything</name>
+            <text>Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/gkxqJRX/Ready-for-Anything-png.png" picurl_large="https://i.ibb.co/KTJ4WrQ/Ready-for-Anything-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>BC-9 "Mile High" Aircruiser</name>
             <text>Flying, menace
 Whenever this Vehicle deals combat damage to a player or battle, destroy target land controlled by that player or that battle's protector unless they have this Vehicle deal 5 damage to them.
@@ -3167,6 +3046,26 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Coalition Field Marshal</name>
+            <text>When this creature enters, create a 2/2 white Soldier creature token.
+Whenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}{G}</manacost>
+                <cmc>4</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier Advisor</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/yBy5wbf2/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/bRBLS8Wt/Coalition-Field-Marshal-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Order a Counterattack</name>
             <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
 • Destroy target artifact creature or Vehicle.
@@ -3185,6 +3084,26 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png" picurl_large="https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Munitions Stockpile</name>
+            <text>When this artifact enters, discard a card, then draw a card.
+When this artifact leaves the battlefield, it deals 2 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Munitions</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/s7hfVdz/Munitions-Stockpile-png.png" picurl_large="https://i.ibb.co/JZN1swg/Munitions-Stockpile-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3327,6 +3246,27 @@ Crew 1</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Sabotage of Narroway Bridge</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) </text>
+            <prop>
+                <layout>battle</layout>
+                <side>front</side>
+                <manacost>{3}{b}</manacost>
+                <cmc>4</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="NA" picurl="https://i.ibb.co/HpHtb6vC/Sabotage-of-Narroway-Bridge-png.png" picurl_large="https://i.ibb.co/bRKsCThF/Sabotage-of-Narroway-Bridge-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Perseverant Pathfinder</name>
             <text>When this creature enters, surveil 1.
  Attrition  — {1}{B}: Return this card from your graveyard to the battlefield tapped. Activate only if a nonland permanent left the battlefield this turn.</text>
@@ -3405,6 +3345,27 @@ Modular 1 (This creature enters with a +1/+1 counter on it. When it dies, you ma
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/FkWw3ghR/Tocsky-s-Tungsten-Terrors-png.png" picurl_large="https://i.ibb.co/FkWw3ghR/Tocsky-s-Tungsten-Terrors-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>R.D.I. Armored Car</name>
+            <text>Haste
+When this Vehicle enters, create a 1/1 red Soldier creature token.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{R}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/nNs22Sf7/R-D-I-Armored-Car-png.png" picurl_large="https://i.ibb.co/Nd6hhzp9/R-D-I-Armored-Car-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>"Blue Fire" EMP Strike</name>
@@ -3588,6 +3549,26 @@ Crew 3</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Archangel Unit: Model 0</name>
+            <text>Flying
+Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Angel</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/DHC5RjSt/Archangel-Unit-Model-0-png.png" picurl_large="https://i.ibb.co/pBzJLk9x/Archangel-Unit-Model-0-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Field Salvage Kit</name>
             <text>Whenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If that artifact was a creature or had counters on it, surveil 1
 Equip {?}</text>
@@ -3624,6 +3605,25 @@ Equip {?}</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Pz9W1FTd/Construction-Lab-png.png" picurl_large="https://i.ibb.co/cXC82kbj/Construction-Lab-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Defense of CG11</name>
+            <text>Creatures you control get +1/+1 and have reach.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/zVqvKWbZ/Defense-of-CG11-png.png" picurl_large="https://i.ibb.co/LdV74D61/Defense-of-CG11-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
