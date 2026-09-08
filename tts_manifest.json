@@ -32,10 +32,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/jPLb5Bb4/Flyswatter-Missile-Team-png.png"
+          "large": "https://i.ibb.co/w5vfMMX/Flyswatter-Missile-Team-png.png"
         },
         "name": "\"Flyswatter\" Missile Team",
-        "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") \n{2}{r}, Sacrifice an artifact: This creature gets +2/+0 until end of turn.",
+        "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") \nWhenever this creature attacks, you may sacrifice an artifact. If you do, it gets +2/+0 until end of turn.",
         "power": "2",
         "toughness": "1",
         "type_line": "Creature — Human Soldier"
@@ -133,7 +133,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/G4KW6Gtb/A-44-Honker-Strike-Fighter-png.png"
+          "large": "https://i.ibb.co/dYpq468/A-44-Honker-Strike-Fighter-png.png"
         },
         "name": "A-44 \"Honker\" Strike Fighter",
         "oracle_text": "Flying, trample\n{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.\nCrew 1",
@@ -433,8 +433,8 @@
           "large": "https://i.ibb.co/rK6rf2zf/Anti-Air-Missile-Launcher-png.png"
         },
         "name": "Anti-Air Missile Launcher",
-        "oracle_text": "Equipped creature gets +1/+0 and has reach.\nWhenever equipped creature blocks or becomes blocked by a creature with flying, it gains first strike until end of combat.\nEquip {1}",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -563,10 +563,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XrtxTZ5K/Arctic-Warfare-Veterans-png.png"
+          "large": "https://i.ibb.co/mrGmDwn9/Arctic-Warfare-Veterans-png.png"
         },
         "name": "Arctic Warfare Veterans",
-        "oracle_text": "Vigilance\nWhen this creature enters, tap target creature an opponent controls and put a stun counter on it.",
+        "oracle_text": "Vigilance\nWhen this creature enters, tap target creature an opponent controls and put a stun counter on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.) ",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Soldier"
@@ -607,8 +607,8 @@
           "large": "https://i.ibb.co/cSmGqFQr/Armored-Exoskeleton-png.png"
         },
         "name": "Armored Exoskeleton",
-        "oracle_text": "Equipped creature gets +0/+3 and has vigilance.\nEquip {1}",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -1105,7 +1105,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/t0Zj10Z/Breakthrough-Battalion-png.png"
+          "large": "https://i.ibb.co/p61c4ZJP/Breakthrough-Battalion-png.png"
         },
         "name": "Breakthrough Battalion",
         "oracle_text": "Trample\nWhenever this creature crews a Vehicle, that Vehicle gains trample until end of turn.",
@@ -1237,8 +1237,8 @@
           "large": "https://i.ibb.co/cKPpJ47p/Camouflage-Netting-png.png"
         },
         "name": "Camouflage Netting",
-        "oracle_text": "Equipped creature has ward {2} and can't be blocked by creatures with flying.\nEquip creature without flying {2}",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -1288,12 +1288,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/3Yp9RBr6/Carrier-Crew-Chief-png.png"
+          "large": "https://i.ibb.co/zWXmj5Wd/Carrier-Crew-Chief-png.png"
         },
         "name": "Carrier Crew Chief",
-        "oracle_text": "{2}{W}, {t}: Put a +1/+1 counter or a charge counter on target artifact. Untap this creature if that artifact has flying.",
-        "power": "1",
-        "toughness": "1",
+        "oracle_text": "{2}{W}, {t}: Put a +1/+1 counter or a charge counter on target permanent. Untap this creature if that permanent has flying. Activate only as a sorcery.",
+        "power": "3",
+        "toughness": "3",
         "type_line": "Creature — Human Artificer Advisor"
       }
     }
@@ -2101,10 +2101,9 @@
         "image_uris": {
           "large": "https://i.ibb.co/zVqvKWbZ/Defense-of-CG11-png.png"
         },
-        "loyalty": "4",
         "name": "Defense of CG11",
-        "oracle_text": "Creatures you control get +1/+1 and have reach.",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -2417,7 +2416,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/7t5Hfv4z/Drill-Instructor-png.png"
+          "large": "https://i.ibb.co/ZzQQ8zZM/Drill-Instructor-png.png"
         },
         "name": "Drill Instructor",
         "oracle_text": "When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)\n{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.",
@@ -3254,7 +3253,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/yBWjL5pr/Grenade-Dropping-Drone-png.png"
+          "large": "https://i.ibb.co/HDZSF0bM/Grenade-Dropping-Drone-png.png"
         },
         "name": "Grenade-Dropping Drone",
         "oracle_text": "Flash\nFlying\nWhen this creature enters or dies, up to one target creature without flying gets -1/-1 until end of turn.",
@@ -3880,7 +3879,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/7NB9Fthk/I-A-Workhorse-Fighter-Jet-png.png"
+          "large": "https://i.ibb.co/390t4KPs/I-A-Workhorse-Fighter-Jet-png.png"
         },
         "name": "I.A. \"Workhorse\" Fighter Jet",
         "oracle_text": "Flying\nCrew 1",
@@ -4604,7 +4603,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/MkLCPR19/Kraken-Missile-Cruiser-png.png"
+          "large": "https://i.ibb.co/vxbkRQ1j/Kraken-Missile-Cruiser-png.png"
         },
         "name": "Kraken Missile Cruiser",
         "oracle_text": "When this Vehicle enters, destroy up to one target artifact or enchantment.\nCrew 3",
@@ -6821,7 +6820,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/bgj7FP9w/Rear-Admiral-of-the-Fleet-png.png"
+          "large": "https://i.ibb.co/8DWTFLkm/Rear-Admiral-of-the-Fleet-png.png"
         },
         "name": "Rear Admiral of the Fleet",
         "oracle_text": "When this creature enters, you may search your library for a Vehicle card with crew value 3 or greater, reveal it, put it into your hand, then shuffle.",
@@ -6839,8 +6838,8 @@
           "large": "https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png"
         },
         "name": "Reconnaissance Gear",
-        "oracle_text": "Equipped creature and Vehicles it crewed this turn have skulk and \"Whenever this creature attacks, surveil 1.\"\nEquip {2U}",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -7412,7 +7411,7 @@
           "large": "https://i.ibb.co/prxbbkPy/S-L-I-Ablative-Volunteer-png.png"
         },
         "name": "S.L.I. Ablative VolunteerTM",
-        "oracle_text": "Ace 2  (This creature crews Vehicles as though its power were 2 greater.) \nWhenever a Vehicle you control dies, if it was crewed by this creature during a main phase this turn, sacrifice this creature. When you do, return that Vehicle to the battlefield tapped under its owner's control.",
+        "oracle_text": "Ace 2  (This creature crews Vehicles as though its power were 2 greater.) \nWhenever a Vehicle you control dies, if it was crewed by this creature this turn, sacrifice this creature and return that Vehicle to the battlefield tapped under its owner's control.",
         "power": "1",
         "toughness": "1",
         "type_line": "Artifact Creature — Human Pilot"
@@ -7438,12 +7437,29 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/HpHtb6vC/Sabotage-of-Narroway-Bridge-png.png"
-        },
-        "name": "Sabotage of Narroway Bridge",
-        "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) ",
-        "type_line": "Battle — Siege"
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/HpHtb6vC/Sabotage-of-Narroway-Bridge-png.png"
+            },
+            "loyalty": "3",
+            "name": "Sabotage of Narroway Bridge",
+            "oracle_text": "When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/ynCrMBBc/Accomplished-Saboteur-png.png"
+            },
+            "name": "Accomplished Saboteur",
+            "oracle_text": "{2}{B}, Sacrifice an artifact or creature: Draw a card.",
+            "power": "3",
+            "toughness": "4",
+            "type_line": "Creature — Human Rogue Soldier"
+          }
+        ],
+        "layout": "transform",
+        "name": "Sabotage of Narroway Bridge"
       }
     }
   },
@@ -7511,7 +7527,7 @@
           "large": "https://i.ibb.co/GfmR7hW3/Savvy-Strategist-png.png"
         },
         "name": "Savvy Strategist",
-        "oracle_text": "Attrition  — When this creature enters, return a Vehicle, battle, or creature card from your graveyard to your hand. If a nonland permanent left the battlefield this turn, instead return up to one of each.",
+        "oracle_text": "Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, return target Vehicle, battle, or creature card from your graveyard to your hand.",
         "power": "3",
         "toughness": "3",
         "type_line": "Creature — Human Soldier Advisor"
@@ -7825,29 +7841,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/WWvdb9xw/Siege-of-CB12-png.png"
-            },
-            "loyalty": "3",
-            "name": "Siege of CB12",
-            "oracle_text": "When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/cSWM4g9q/Victory-of-CB12-png.png"
-            },
-            "name": "Victory of CB12",
-            "oracle_text": "{2}{B}, Sacrifice an artifact or creature: Draw a card.",
-            "power": "3",
-            "toughness": "4",
-            "type_line": "Creature — Human Rogue Soldier"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of CB12"
+        "image_uris": {
+          "large": "https://i.ibb.co/WWvdb9xw/Siege-of-CB12-png.png"
+        },
+        "name": "Siege of CB12",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -7855,27 +7854,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/YF7xX0Sd/Siege-of-CG14-png.png"
-            },
-            "loyalty": "5",
-            "name": "Siege of CG14",
-            "oracle_text": "Flash\nWhen this Siege enters, target creature you control deals damage equal to its power to another target creature or battle.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/PZWtgc1P/Victory-of-CG14-png.png"
-            },
-            "name": "Victory of CG14",
-            "oracle_text": "Put a +1/+1 counter on each creature and Vehicle you control.",
-            "type_line": "Sorcery"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of CG14"
+        "image_uris": {
+          "large": "https://i.ibb.co/YF7xX0Sd/Siege-of-CG14-png.png"
+        },
+        "name": "Siege of CG14",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8424,7 +8408,7 @@
         "oracle_text": "Vigilance, reach\nThis creature can block only creatures with flying.\n Renew -  {g}, Exile this card from your graveyard: Put a reach counter on target creature or Vehicle. Activate only as a sorcery.",
         "power": "2",
         "toughness": "4",
-        "type_line": "Artifact Creature — Human Soldier"
+        "type_line": "Creature — Human Soldier"
       }
     }
   },
@@ -9049,6 +9033,19 @@
         "name": "Swarm of Secrets",
         "oracle_text": "When this enchantment enters, create X plus one 1/1 red Demon creature tokens.\nSacrifice a creature: Target player reveals the top card of their library. You may put it on the bottom. Activate only once each turn.",
         "type_line": "Enchantment"
+      }
+    }
+  },
+  "swift retaliation": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/RTrqCQ1D/Swift-Retaliation-png.png"
+        },
+        "name": "Swift Retaliation",
+        "oracle_text": "This spell deals 1 damage to each of up to three target attacking or blocking creatures.",
+        "type_line": "Instant"
       }
     }
   },
@@ -9860,11 +9857,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/cSdLX7Tx/Trench-Clashes-of-El-Gelly-png.png"
+              "large": "https://i.ibb.co/gFW8jwTb/Trench-Clashes-of-El-Gelly-png.png"
             },
             "loyalty": "3",
             "name": "Trench-Clashes of El Gelly",
-            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \n Attrition -  This spell costs {2} less to cast if a nonland permanent left the battlefield this turn.\nWhen this Siege enters, destroy target nonland permanent.",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \n Attrition -  This spell costs {2} less to cast if a nonland permanent left the battlefield this turn.\nWhen this Siege enters, destroy up to one target nonland permanent.",
             "type_line": "Battle — Siege"
           },
           {
@@ -10004,7 +10001,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/5x6nSjd5/U-C-I-T-Battlecruiser-png.png"
+          "large": "https://i.ibb.co/FL4NtCZP/U-C-I-T-Battlecruiser-png.png"
         },
         "name": "U.C.I.T. Battlecruiser",
         "oracle_text": "Ward {2}\nCrew 4\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
@@ -10271,11 +10268,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8gbzyqDx/Victory-of-CB12-png.png"
+          "large": "https://i.ibb.co/cSWM4g9q/Victory-of-CB12-png.png"
         },
         "name": "Victory of CB12",
-        "oracle_text": "{2}{B}, Sacrifice an artifact or creature: Draw a card.",
-        "type_line": "Artifact"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -10284,11 +10281,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/LDtLbJVR/Victory-of-CG14-png.png"
+          "large": "https://i.ibb.co/PZWtgc1P/Victory-of-CG14-png.png"
         },
         "name": "Victory of CG14",
-        "oracle_text": "Put a +1/+1 counter on each creature and Vehicle you control.",
-        "type_line": "Sorcery"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -10472,7 +10469,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XkCKRk93/Wary-WSO-png.png"
+          "large": "https://i.ibb.co/TMgQp6ff/Wary-WSO-png.png"
         },
         "name": "Wary WSO",
         "oracle_text": "Whenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigilance until end of turn.",
