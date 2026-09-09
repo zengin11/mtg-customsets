@@ -548,7 +548,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/23mH1MpW/Archangel-Unit-Model-0-png.png"
+          "large": "https://i.ibb.co/DfGNQCCp/Archangel-Unit-Model-0-png.png"
         },
         "name": "Archangel Unit: Model 0",
         "oracle_text": "Flying\nModular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
@@ -576,7 +576,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/mrGmDwn9/Arctic-Warfare-Veterans-png.png"
+          "large": "https://i.ibb.co/DgkkxbgG/Arctic-Warfare-Veterans-png.png"
         },
         "name": "Arctic Warfare Veterans",
         "oracle_text": "Vigilance\nWhen this creature enters, tap target creature an opponent controls and put a stun counter on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.) ",
@@ -1301,7 +1301,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/zWXmj5Wd/Carrier-Crew-Chief-png.png"
+          "large": "https://i.ibb.co/1J4gg4Ym/Carrier-Crew-Chief-png.png"
         },
         "name": "Carrier Crew Chief",
         "oracle_text": "{2}{W}, {t}: Put a +1/+1 counter or a charge counter on target permanent. Untap this creature if that permanent has flying. Activate only as a sorcery.",
@@ -1651,7 +1651,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/yBy5wbf2/Coalition-Field-Marshal-png.png"
+          "large": "https://i.ibb.co/cSk5gwBH/Coalition-Field-Marshal-png.png"
         },
         "name": "Coalition Field Marshal",
         "oracle_text": "When this creature enters, create a 2/2 white Soldier creature token.\nWhenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
@@ -2444,7 +2444,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/ZzQQ8zZM/Drill-Instructor-png.png"
+          "large": "https://i.ibb.co/2YCDxC27/Drill-Instructor-png.png"
         },
         "name": "Drill Instructor",
         "oracle_text": "When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)\n{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.",
@@ -2994,7 +2994,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Y7qq83Bc/Freelance-Recovery-png.png"
+          "large": "https://i.ibb.co/7dtn72Gs/Freelance-Recovery-png.png"
         },
         "name": "Freelance Recovery",
         "oracle_text": "Return target creature card from your graveyard to the battlefield. If it's a Pilot, create two Treasure tokens.",
@@ -3128,7 +3128,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/v4t0ZbRB/Genesis-Tactical-Assault-Unit-png.png"
+          "large": "https://i.ibb.co/PzD4ddBr/Genesis-Tactical-Assault-Unit-png.png"
         },
         "name": "Genesis Tactical Assault Unit",
         "oracle_text": "Modular 3  (This creature enters with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) \n{x}{wb}, Remove X counters from a permanent you control: Put X +1/+1, charge, or defense counters on target permanent. Activate only as a sorcery.",
@@ -3748,7 +3748,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/39C5brNV/Home-Front-Supporter-png.png"
+          "large": "https://i.ibb.co/xNgGCh5/Home-Front-Supporter-png.png"
         },
         "name": "Home-Front Supporter",
         "oracle_text": "Attrition — At the beginning of your end step, put a +1/+1 counter on another target creature or Vehicle. If a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature as well.",
@@ -6661,7 +6661,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/nNs22Sf7/R-D-I-Armored-Car-png.png"
+          "large": "https://i.ibb.co/nsd1YsLr/R-D-I-Armored-Car-png.png"
         },
         "name": "R.D.I. Armored Car",
         "oracle_text": "Haste\nWhen this Vehicle enters, create a 1/1 red Soldier creature token.\nCrew 1",
@@ -6848,7 +6848,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gkxqJRX/Ready-for-Anything-png.png"
+          "large": "https://i.ibb.co/6cFfdQSS/Ready-for-Anything-png.png"
         },
         "name": "Ready for Anything",
         "oracle_text": "Target creature or Vehicle you control gains reach, trample, hexproof, and indestructible until end of turn. If it isn't a creature, it becomes an artifact creature until end of turn. Otherwise, draw a card.",
@@ -7481,7 +7481,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/HpHtb6vC/Sabotage-of-Narroway-Bridge-png.png"
+              "large": "https://i.ibb.co/0d0hPTr/Sabotage-of-Narroway-Bridge-png.png"
             },
             "loyalty": "3",
             "name": "Sabotage of Narroway Bridge",
@@ -7490,7 +7490,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/ynCrMBBc/Accomplished-Saboteur-png.png"
+              "large": "https://i.ibb.co/KjQpHSdC/Accomplished-Saboteur-png.png"
             },
             "name": "Accomplished Saboteur",
             "oracle_text": "{2}{B}, Sacrifice an artifact or creature: Draw a card.",
@@ -9593,7 +9593,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/sv3w0NHH/Plundered-Materiel-png.png"
+              "large": "https://i.ibb.co/TxxrrvGq/Plundered-Materiel-png.png"
             },
             "name": "Plundered Materiel",
             "oracle_text": "Put a +1/+1 counter on each creature and Vehicle you control.",
