@@ -1,10 +1,10 @@
 Siege of CW14 // Victory of CW14
 Siege of CU11 // Victory of CU11
 Battle of UU10 // Victory of UU10
-Siege of CB12 // Victory of CB12
+Sabotage of Narroway Bridge // Accomplished Saboteur
 Siege of CR12 // Victory of CR12
 Siege of CR14 // Victory of CR14
-Siege of CG14 // Victory of CG14
+The Tarian Disaster // Plundered Materiel
 Siege of UH01 // Victory of UH01
 Siege of UH03 // Victory of UH03
 Siege of UH04 // Victory of UH04

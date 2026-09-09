@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-08</releasedate>
+        <set> v1.4<releasedate>2026-09-09</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
@@ -446,7 +446,7 @@ Whenever a Vehicle you control dies, if it was crewed by this creature this turn
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/prxbbkPy/S-L-I-Ablative-Volunteer-png.png" picurl_large="https://i.ibb.co/Qjfppxcd/S-L-I-Ablative-Volunteer-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/gb6q5DNx/S-L-I-Ablative-Volunteer-png.png" picurl_large="https://i.ibb.co/PstX75Kd/S-L-I-Ablative-Volunteer-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -672,8 +672,8 @@ Crew 1</text>
             </card>
         <card>
             <name>Force a Retreat</name>
-            <text>Return target nonland permanent to its owner's hand.
-This spell costs {1} less to cast if it targets a battle.</text>
+            <text>This spell costs {1} less to cast if it targets a battle.
+Return target nonland permanent to its owner's hand.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -687,7 +687,7 @@ This spell costs {1} less to cast if it targets a battle.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/dw3QyqyB/Force-a-Retreat-png.png" picurl_large="https://i.ibb.co/dw3QyqyB/Force-a-Retreat-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/DS8V062/Force-a-Retreat-png.png" picurl_large="https://i.ibb.co/Q1Cbyqw/Force-a-Retreat-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -829,6 +829,27 @@ Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/0jt6c4Fc/Deadly-Espionage-png.png" picurl_large="https://i.ibb.co/0jt6c4Fc/Deadly-Espionage-png.png">BTL</set>
             <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>"Flyswatter" Missile Team</name>
+            <text>Reach
+When this creature enters, create a Munitions token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to any target.") 
+Whenever this creature attacks, you may sacrifice an artifact. If you do, it gets +2/+0 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/R4spPVng/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/FqybJjvh/Flyswatter-Missile-Team-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Thrull Squad Support Drone</name>
@@ -1009,7 +1030,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mCGP3TPH/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/KjX8Jh89/Modular-Combat-Drone-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/CpQgDdhf/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/GfRyNwcq/Modular-Combat-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1214,27 +1235,6 @@ Enchanted creature and any Vehicles crewed by it this turn attack each turn if a
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>"Flyswatter" Missile Team</name>
-            <text>Reach
-When this creature enters, create a Munitions token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to any target.") 
-Whenever this creature attacks, you may sacrifice an artifact. If you do, it gets +2/+0 until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>2/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/w5vfMMX/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/XcwqSSg/Flyswatter-Missile-Team-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Dedicated Roboticist</name>
             <text>When this creature enters, create a 1/1 colorless Servo artifact creature token.
  Attrition  — At the beginning of your end step, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.</text>
@@ -1251,7 +1251,7 @@ Whenever this creature attacks, you may sacrifice an artifact. If you do, it get
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/v4Kc0CCp/Dedicated-Roboticist-png.png" picurl_large="https://i.ibb.co/s9Mg8ppn/Dedicated-Roboticist-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/N2HTtcB5/Dedicated-Roboticist-png.png" picurl_large="https://i.ibb.co/WvYVGmJZ/Dedicated-Roboticist-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1699,7 +1699,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
         <card>
             <name>Airborne Ranger Regiment</name>
             <text>This creature has flying as long as you control another creature with flying.
-When this creature enters, put a +1/+1 counter on another target creature you control.</text>
+When this creature enters, put a +1/+1 counter on another target creature or Vehicle you control.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1713,7 +1713,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/DDwgrNCS/Airborne-Ranger-Regiment-png.png" picurl_large="https://i.ibb.co/qMmFJzsP/Airborne-Ranger-Regiment-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/ZRTp6ZPS/Airborne-Ranger-Regiment-png.png" picurl_large="https://i.ibb.co/XfJrZwgD/Airborne-Ranger-Regiment-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1893,7 +1893,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/GfmR7hW3/Savvy-Strategist-png.png" picurl_large="https://i.ibb.co/JWZHnhvF/Savvy-Strategist-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/6QMXT4c/Savvy-Strategist-png.png" picurl_large="https://i.ibb.co/MdvBtRy/Savvy-Strategist-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2096,6 +2096,25 @@ Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you m
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Swift Retaliation</name>
+            <text>This spell deals 1 damage to each of up to three target attacking or blocking creatures.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/RTrqCQ1D/Swift-Retaliation-png.png" picurl_large="https://i.ibb.co/nMdFDQTL/Swift-Retaliation-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Siege of UH06</name>
             <text>When this Siege enters, choose one —
 • Put two charge counters on target permanent you control.
@@ -2156,7 +2175,7 @@ When this Siege enters, destroy up to one target nonland permanent.</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/gFW8jwTb/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/84xwK25n/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/wZBFDHwP/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/WNG4S9PM/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Price of a Mile</related>
             </card>
@@ -3176,7 +3195,7 @@ Crew 1
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/WWwRyFdc/AH-960-Booker-Retrofit-png.png" picurl_large="https://i.ibb.co/WWwRyFdc/AH-960-Booker-Retrofit-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/d468hF7g/AH-960-Booker-Retrofit-png.png" picurl_large="https://i.ibb.co/b5LcfT7J/AH-960-Booker-Retrofit-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3717,23 +3736,127 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Swift Retaliation</name>
-            <text>This spell deals 1 damage to each of up to three target attacking or blocking creatures.</text>
+            <name>Twilight Over the Shield</name>
+            <text>(You defend this battle. Your opponents can attack it.) 
+Creatures you control get +1/+1 and have reach.</text>
+            <prop>
+                <layout>battle</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Common" picurl="https://i.ibb.co/G47HHzD5/Twilight-Over-the-Shield-png.png" picurl_large="https://i.ibb.co/dwBmm8v5/Twilight-Over-the-Shield-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Selective Armament</name>
+            <text>Choose one —
+•  Target creature has base power and toughness 1/1 until end of turn.
+•  Target creature with flying has base power and toughness 4/4 until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{W}</manacost>
-                <cmc>4</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
                 <maintype>Instant</maintype>
                 <type>Instant</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/RTrqCQ1D/Swift-Retaliation-png.png" picurl_large="https://i.ibb.co/nMdFDQTL/Swift-Retaliation-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/GQPGYnFs/Selective-Armament-png.png" picurl_large="https://i.ibb.co/k2czb5M3/Selective-Armament-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Entrenched Ambush</name>
+            <text>Target creature gets +2/+3 and gains reach until end of turn. If it's a Soldier, untap it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/ZR6xYbGq/Entrenched-Ambush-png.png" picurl_large="https://i.ibb.co/kVgX9P5N/Entrenched-Ambush-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Cybernetic Sapper</name>
+            <text>This creature enters with X charge counters on it.
+Remove a charge counter from this creature: Remove up to two counters from target permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/hFWvZRqF/Cybernetic-Sapper-png.png" picurl_large="https://i.ibb.co/4RTxYZQR/Cybernetic-Sapper-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Absent Without Leave</name>
+            <text>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Up to two target creatures can't block or crew Vehicles this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/PGjqqG0J/Absent-Without-Leave-png.png" picurl_large="https://i.ibb.co/7tCsstLB/Absent-Without-Leave-png.png">BTL</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>The Tarian Disaster</name>
+            <text>Flash
+When this Siege enters, target creature you control deals damage equal to its power to another target creature or battle.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>5</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Common" picurl="https://i.ibb.co/G3pdnKmY/The-Tarian-Disaster-png.png" picurl_large="https://i.ibb.co/JFtcmfZ6/The-Tarian-Disaster-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Plundered Materiel</related>
             </card>
         <card>
             <name>Victory of CW14</name>
@@ -3871,7 +3994,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sv3w0NHH/Plundered-Materiel-png.png" picurl_large="https://i.ibb.co/XZJshK88/Plundered-Materiel-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/sv3w0NHH/Plundered-Materiel-png.png" picurl_large="https://i.ibb.co/XZJshK88/Plundered-Materiel-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">The Tarian Disaster</related>
             </card>

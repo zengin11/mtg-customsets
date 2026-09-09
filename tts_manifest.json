@@ -32,7 +32,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/w5vfMMX/Flyswatter-Missile-Team-png.png"
+          "large": "https://i.ibb.co/R4spPVng/Flyswatter-Missile-Team-png.png"
         },
         "name": "\"Flyswatter\" Missile Team",
         "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") \nWhenever this creature attacks, you may sacrifice an artifact. If you do, it gets +2/+0 until end of turn.",
@@ -158,6 +158,19 @@
       }
     }
   },
+  "absent without leave": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/PGjqqG0J/Absent-Without-Leave-png.png"
+        },
+        "name": "Absent Without Leave",
+        "oracle_text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nUp to two target creatures can't block or crew Vehicles this turn.",
+        "type_line": "Sorcery"
+      }
+    }
+  },
   "ac.30 booker recon gunship": {
     "default": "BTL",
     "printings": {
@@ -258,7 +271,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/WWwRyFdc/AH-960-Booker-Retrofit-png.png"
+          "large": "https://i.ibb.co/d468hF7g/AH-960-Booker-Retrofit-png.png"
         },
         "name": "AH.960 Booker Retrofit",
         "oracle_text": "Flying, deathtouch\nCrew 1\n Renew  — {1}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a deathtouch counter on target creature or Vehicle. Activate only as a sorcery.",
@@ -286,10 +299,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/DDwgrNCS/Airborne-Ranger-Regiment-png.png"
+          "large": "https://i.ibb.co/ZRTp6ZPS/Airborne-Ranger-Regiment-png.png"
         },
         "name": "Airborne Ranger Regiment",
-        "oracle_text": "This creature has flying as long as you control another creature with flying.\nWhen this creature enters, put a +1/+1 counter on another target creature you control.",
+        "oracle_text": "This creature has flying as long as you control another creature with flying.\nWhen this creature enters, put a +1/+1 counter on another target creature or Vehicle you control.",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Soldier"
@@ -1995,6 +2008,21 @@
       }
     }
   },
+  "cybernetic sapper": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/hFWvZRqF/Cybernetic-Sapper-png.png"
+        },
+        "name": "Cybernetic Sapper",
+        "oracle_text": "This creature enters with X charge counters on it.\nRemove a charge counter from this creature: Remove up to two counters from target permanent.",
+        "power": "1",
+        "toughness": "1",
+        "type_line": "Artifact Creature — Robot"
+      }
+    }
+  },
   "dagon, ocean's ire": {
     "default": "JJK",
     "printings": {
@@ -2084,7 +2112,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/v4Kc0CCp/Dedicated-Roboticist-png.png"
+          "large": "https://i.ibb.co/N2HTtcB5/Dedicated-Roboticist-png.png"
         },
         "name": "Dedicated Roboticist",
         "oracle_text": "When this creature enters, create a 1/1 colorless Servo artifact creature token.\n Attrition  — At the beginning of your end step, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.",
@@ -2604,6 +2632,19 @@
       }
     }
   },
+  "entrenched ambush": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ZR6xYbGq/Entrenched-Ambush-png.png"
+        },
+        "name": "Entrenched Ambush",
+        "oracle_text": "Target creature gets +2/+3 and gains reach until end of turn. If it's a Soldier, untap it.",
+        "type_line": "Instant"
+      }
+    }
+  },
   "environmental sciences": {
     "default": "KPDH",
     "printings": {
@@ -2906,10 +2947,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/dw3QyqyB/Force-a-Retreat-png.png"
+          "large": "https://i.ibb.co/DS8V062/Force-a-Retreat-png.png"
         },
         "name": "Force a Retreat",
-        "oracle_text": "Return target nonland permanent to its owner's hand.\nThis spell costs {1} less to cast if it targets a battle.",
+        "oracle_text": "This spell costs {1} less to cast if it targets a battle.\nReturn target nonland permanent to its owner's hand.",
         "type_line": "Instant"
       }
     }
@@ -5445,7 +5486,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/mCGP3TPH/Modular-Combat-Drone-png.png"
+          "large": "https://i.ibb.co/CpQgDdhf/Modular-Combat-Drone-png.png"
         },
         "name": "Modular Combat Drone",
         "oracle_text": "Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
@@ -7408,7 +7449,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/prxbbkPy/S-L-I-Ablative-Volunteer-png.png"
+          "large": "https://i.ibb.co/gb6q5DNx/S-L-I-Ablative-Volunteer-png.png"
         },
         "name": "S.L.I. Ablative VolunteerTM",
         "oracle_text": "Ace 2  (This creature crews Vehicles as though its power were 2 greater.) \nWhenever a Vehicle you control dies, if it was crewed by this creature this turn, sacrifice this creature and return that Vehicle to the battlefield tapped under its owner's control.",
@@ -7524,7 +7565,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/GfmR7hW3/Savvy-Strategist-png.png"
+          "large": "https://i.ibb.co/6QMXT4c/Savvy-Strategist-png.png"
         },
         "name": "Savvy Strategist",
         "oracle_text": "Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, return target Vehicle, battle, or creature card from your graveyard to your hand.",
@@ -7623,6 +7664,19 @@
         },
         "name": "Seething Song",
         "oracle_text": "Add {R}{R}{R}{R}{R}.",
+        "type_line": "Instant"
+      }
+    }
+  },
+  "selective armament": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/GQPGYnFs/Selective-Armament-png.png"
+        },
+        "name": "Selective Armament",
+        "oracle_text": "Choose one —\n•  Target creature has base power and toughness 1/1 until end of turn.\n•  Target creature with flying has base power and toughness 4/4 until end of turn.",
         "type_line": "Instant"
       }
     }
@@ -9523,6 +9577,34 @@
       }
     }
   },
+  "the tarian disaster": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/G3pdnKmY/The-Tarian-Disaster-png.png"
+            },
+            "loyalty": "5",
+            "name": "The Tarian Disaster",
+            "oracle_text": "Flash\nWhen this Siege enters, target creature you control deals damage equal to its power to another target creature or battle.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/sv3w0NHH/Plundered-Materiel-png.png"
+            },
+            "name": "Plundered Materiel",
+            "oracle_text": "Put a +1/+1 counter on each creature and Vehicle you control.",
+            "type_line": "Sorcery"
+          }
+        ],
+        "layout": "transform",
+        "name": "The Tarian Disaster"
+      }
+    }
+  },
   "the z-55 executor, \"angel\"": {
     "default": "BTL",
     "printings": {
@@ -9857,7 +9939,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/gFW8jwTb/Trench-Clashes-of-El-Gelly-png.png"
+              "large": "https://i.ibb.co/wZBFDHwP/Trench-Clashes-of-El-Gelly-png.png"
             },
             "loyalty": "3",
             "name": "Trench-Clashes of El Gelly",
@@ -9978,6 +10060,20 @@
         "name": "Twiddle",
         "oracle_text": "You may tap or untap target artifact, creature, or land.",
         "type_line": "Instant"
+      }
+    }
+  },
+  "twilight over the shield": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/G47HHzD5/Twilight-Over-the-Shield-png.png"
+        },
+        "loyalty": "4",
+        "name": "Twilight Over the Shield",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures you control get +1/+1 and have reach.",
+        "type_line": "Battle"
       }
     }
   },
