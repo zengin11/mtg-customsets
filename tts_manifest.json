@@ -35,8 +35,8 @@
           "large": "https://i.ibb.co/R4spPVng/Flyswatter-Missile-Team-png.png"
         },
         "name": "\"Flyswatter\" Missile Team",
-        "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") \nWhenever this creature attacks, you may sacrifice an artifact. If you do, it gets +2/+0 until end of turn.",
-        "power": "2",
+        "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") ",
+        "power": "3",
         "toughness": "1",
         "type_line": "Creature — Human Soldier"
       }
@@ -62,7 +62,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8gjcY84H/Leonin-Logistics-Chopper-png.png"
+          "large": "https://i.ibb.co/60VHHHPd/Leonin-Logistics-Chopper-png.png"
         },
         "name": "\"Leonin\" Logistics Chopper",
         "oracle_text": "Flying\nWhenever this Vehicle deals combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) \nCrew 1",
@@ -274,9 +274,9 @@
           "large": "https://i.ibb.co/d468hF7g/AH-960-Booker-Retrofit-png.png"
         },
         "name": "AH.960 Booker Retrofit",
-        "oracle_text": "Flying, deathtouch\nCrew 1\n Renew  — {1}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a deathtouch counter on target creature or Vehicle. Activate only as a sorcery.",
+        "oracle_text": "Flying, deathtouch\nWhen this Vehicle dies, put a deathtouch counter on target creature you control.\nCrew 1",
         "power": "2",
-        "toughness": "2",
+        "toughness": "1",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -418,9 +418,9 @@
           "large": "https://i.ibb.co/fzBfQhPf/Angel-s-Deliverance-Airlifter-png.png"
         },
         "name": "Angel's Deliverance Airlifter",
-        "oracle_text": "Flying\nWhen this Vehicle enters, create three 1/1 red Soldier creature tokens.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
-        "power": "4",
-        "toughness": "6",
+        "oracle_text": "Flying, vigilance\nWhen this Vehicle enters, create three 1/1 red Soldier creature tokens.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
+        "power": "3",
+        "toughness": "4",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -1173,6 +1173,21 @@
       }
     }
   },
+  "ca01": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/38BW4vH/CA01-png.png"
+        },
+        "name": "CA01",
+        "oracle_text": "{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.",
+        "power": "1",
+        "toughness": "2",
+        "type_line": "Artifact Creature — Robot Soldier"
+      }
+    }
+  },
   "cabal therapist": {
     "default": "KPDH",
     "printings": {
@@ -1611,7 +1626,7 @@
           "large": "https://i.ibb.co/xtK9C0XM/Clever-Tactician-png.png"
         },
         "name": "Clever Tactician",
-        "oracle_text": "At the beginning of your end step, if you activated an ability of a Vehicle this turn, you may draw a card.",
+        "oracle_text": "At the beginning of your end step, if you've activated an ability of a permanent that isn't a mana ability this turn, you may draw a card. If you do, discard a card.",
         "power": "3",
         "toughness": "4",
         "type_line": "Creature — Human Soldier Advisor"
@@ -1728,6 +1743,19 @@
         "name": "Collective Inferno",
         "oracle_text": "Convoke  (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) \nAs this enchantment enters, choose a creature type.\nDouble all damage that sources you control of the chosen type would deal.",
         "type_line": "Enchantment"
+      }
+    }
+  },
+  "colonel jack anders": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/1fv1pR5p/Colonel-Jack-Anders-png.png"
+        },
+        "name": "Colonel Jack Anders",
+        "oracle_text": "",
+        "type_line": "Legendary Creature — Human Pilot Advisor"
       }
     }
   },
@@ -1850,6 +1878,19 @@
       }
     }
   },
+  "confessor-general": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/FkbB7VmF/Confessor-General-png.png"
+        },
+        "name": "Confessor-General",
+        "oracle_text": "Creates Munitions\nWhenever a permanent you control leaves the battlefield, [do something with counters]",
+        "type_line": "Legendary Creature — Human Soldier Advisor"
+      }
+    }
+  },
   "constrictai brute": {
     "default": "NGO",
     "printings": {
@@ -1873,6 +1914,21 @@
         "name": "Construction Lab",
         "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
         "type_line": "Unknown"
+      }
+    }
+  },
+  "coolname, precision vanguard": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/gLTnTgDY/Coolname-Precision-Vanguard-png.png"
+        },
+        "name": "Coolname, Precision Vanguard",
+        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
+        "power": "3",
+        "toughness": "1",
+        "type_line": "Legendary Creature — Human Pilot"
       }
     }
   },
@@ -2073,10 +2129,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/0jt6c4Fc/Deadly-Espionage-png.png"
+          "large": "https://i.ibb.co/99RvNzG1/Deadly-Espionage-png.png"
         },
         "name": "Deadly Espionage",
-        "oracle_text": "Destroy target creature. If it was tapped, its controller discards a card.",
+        "oracle_text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDestroy target creature or Vehicle.",
         "type_line": "Sorcery"
       }
     }
@@ -2112,12 +2168,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/N2HTtcB5/Dedicated-Roboticist-png.png"
+          "large": "https://i.ibb.co/tTrx2MkL/Dedicated-Roboticist-png.png"
         },
         "name": "Dedicated Roboticist",
         "oracle_text": "When this creature enters, create a 1/1 colorless Servo artifact creature token.\n Attrition  — At the beginning of your end step, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.",
-        "power": "2",
-        "toughness": "2",
+        "power": "3",
+        "toughness": "4",
         "type_line": "Creature — Human Artificer"
       }
     }
@@ -2142,10 +2198,9 @@
         "image_uris": {
           "large": "https://i.ibb.co/7NWrS4nB/Defense-of-CW12-png.png"
         },
-        "loyalty": "6",
         "name": "Defense of CW12",
-        "oracle_text": "When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -2154,7 +2209,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/fVJQLx0R/Defense-of-the-Marchwall-png.png"
+          "large": "https://i.ibb.co/p6kTdzfv/Defense-of-the-Marchwall-png.png"
         },
         "loyalty": "5",
         "name": "Defense of the Marchwall",
@@ -2424,6 +2479,32 @@
       }
     }
   },
+  "dr. korella mandalay": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/BVpGFB71/Dr-Korella-Mandalay-png.png"
+        },
+        "name": "Dr. Korella Mandalay",
+        "oracle_text": "",
+        "type_line": "Legendary Creature — Human Artificer"
+      }
+    }
+  },
+  "dr. leonard tocsky": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Qvvqp6F7/Dr-Leonard-Tocsky-png.png"
+        },
+        "name": "Dr. Leonard Tocsky",
+        "oracle_text": "",
+        "type_line": "Legendary Creature — Human Artificer"
+      }
+    }
+  },
   "dragon's eye savants": {
     "default": "KPDH",
     "printings": {
@@ -2478,7 +2559,7 @@
         },
         "name": "E-25 \"Spotlight\" AWACS",
         "oracle_text": "Flying, ward {1}\nOther permanents you control with flying have ward {1}.\nAs long as this Vehicle is a creature, other creatures you control with flying get +1/+1 and have vigilance.\nCrew 1",
-        "power": "0",
+        "power": "{fontcolorwhite}0",
         "toughness": "4",
         "type_line": "Artifact — Vehicle"
       }
@@ -2564,6 +2645,21 @@
       }
     }
   },
+  "ef-14 \"spotlight\" awacs": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Q7KDg8M1/EF-14-Spotlight-AWACS-png.png"
+        },
+        "name": "EF-14 \"Spotlight\" AWACS",
+        "oracle_text": "Flying\nOther creatures you control with flying get +2/+1.\nCrew 2",
+        "power": "3",
+        "toughness": "2",
+        "type_line": "Artifact — Vehicle"
+      }
+    }
+  },
   "ekko, firelight leader": {
     "default": "ARC",
     "printings": {
@@ -2606,6 +2702,32 @@
       }
     }
   },
+  "empress anastasia iv": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/yn5qqYD0/Empress-Anastasia-IV-png.png"
+        },
+        "name": "Empress Anastasia IV",
+        "oracle_text": "Pillow fort effect\nAttrition -> Counters",
+        "type_line": "Legendary Creature — Human Noble"
+      }
+    }
+  },
+  "engineering lab": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/yn1fL6yz/Engineering-Lab-png.png"
+        },
+        "name": "Engineering Lab",
+        "oracle_text": "Artifact spells you cast cost {1} less to cast.\n{1}, Sacrifice this artifact: Draw a card.",
+        "type_line": "Artifact"
+      }
+    }
+  },
   "enlightened tutor": {
     "default": "KPDH",
     "printings": {
@@ -2640,8 +2762,8 @@
           "large": "https://i.ibb.co/ZR6xYbGq/Entrenched-Ambush-png.png"
         },
         "name": "Entrenched Ambush",
-        "oracle_text": "Target creature gets +2/+3 and gains reach until end of turn. If it's a Soldier, untap it.",
-        "type_line": "Instant"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -3920,7 +4042,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/390t4KPs/I-A-Workhorse-Fighter-Jet-png.png"
+          "large": "https://i.ibb.co/qMywYf9L/I-A-Workhorse-Fighter-Jet-png.png"
         },
         "name": "I.A. \"Workhorse\" Fighter Jet",
         "oracle_text": "Flying\nCrew 1",
@@ -5783,6 +5905,19 @@
       }
     }
   },
+  "nathan booker": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Qy4ZHhX/Nathan-Booker-png.png"
+        },
+        "name": "Nathan Booker",
+        "oracle_text": "Creates Treasures",
+        "type_line": "Legendary Creature — Human Advisor"
+      }
+    }
+  },
   "networked drone operator": {
     "default": "BTL",
     "printings": {
@@ -5981,9 +6116,9 @@
           "large": "https://i.ibb.co/21C76phC/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
-        "oracle_text": "Flying\n Wartime Measures  — This Vehicle has first strike as long as you control a battle or have defeated a battle this game.\nCrew 1",
-        "power": "3",
-        "toughness": "1",
+        "oracle_text": "Flying\nThis Vehicle has double strike as long as it's attacking.\nCrew 2",
+        "power": "2",
+        "toughness": "2",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -6048,7 +6183,7 @@
           "large": "https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png"
         },
         "name": "Order a Counterattack",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target artifact creature or Vehicle.\n• Target creature gets +2/+2 and gains lifelink until end of turn.",
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target artifact creature or Vehicle.\n•   Target creature gets +2/+0 and gains indestructible until end of turn.",
         "type_line": "Instant"
       }
     }
@@ -6061,7 +6196,7 @@
           "large": "https://i.ibb.co/9XzK8mP/Order-a-Raid-png.png"
         },
         "name": "Order a Raid",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target artifact.\n• Up to two target creatures each get +2/+0 until end of turn.",
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target artifact.\n•   Up to two target creatures each get +2/+0 until end of turn.",
         "type_line": "Instant"
       }
     }
@@ -6074,7 +6209,7 @@
           "large": "https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png"
         },
         "name": "Order a Resupply",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Draw two cards.\n• Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Draw two cards.\n•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
         "type_line": "Instant"
       }
     }
@@ -6087,7 +6222,7 @@
           "large": "https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target creature with flying.\n• Populate (Create a token that's a copy of a creature token you control.)",
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature with flying.\n•   Populate (Create a token that's a copy of a creature token you control.)",
         "type_line": "Instant"
       }
     }
@@ -6452,10 +6587,10 @@
           "large": "https://i.ibb.co/VWX8dx28/Precision-Vanguard-png.png"
         },
         "name": "Precision Vanguard",
-        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.  (This can reduce generic costs.) \nVehicles crewed by this creature this turn have vigilance and haste.",
+        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
         "power": "3",
         "toughness": "1",
-        "type_line": "Legendary Creature — Human Pilot"
+        "type_line": "Creature — Human Pilot"
       }
     }
   },
@@ -6469,6 +6604,32 @@
         "name": "Predators' Hour",
         "oracle_text": "Until end of turn, creatures you control gain menace and \"Whenever this creature deals combat damage to a player, exile the top card of that player's library face down. You may look at and play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.\"",
         "type_line": "Sorcery"
+      }
+    }
+  },
+  "premier mahlik iron": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/XxY84BTT/Premier-Mahlik-Iron-png.png"
+        },
+        "name": "Premier Mahlik Iron",
+        "oracle_text": "Synergy with big-crew Vehicles\nActivated ability that makes Soldier tokens?",
+        "type_line": "Legendary Creature — Human Soldier Advisor"
+      }
+    }
+  },
+  "president": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Vcq9kmDV/President-png.png"
+        },
+        "name": "President",
+        "oracle_text": "Support for flying Vehicles\nActivated ability that can interact with Sieges",
+        "type_line": "Legendary Creature — Human Advisor"
       }
     }
   },
@@ -7569,8 +7730,8 @@
         },
         "name": "Savvy Strategist",
         "oracle_text": "Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, return target Vehicle, battle, or creature card from your graveyard to your hand.",
-        "power": "3",
-        "toughness": "3",
+        "power": "2",
+        "toughness": "2",
         "type_line": "Creature — Human Soldier Advisor"
       }
     }
@@ -7676,8 +7837,8 @@
           "large": "https://i.ibb.co/GQPGYnFs/Selective-Armament-png.png"
         },
         "name": "Selective Armament",
-        "oracle_text": "Choose one —\n•  Target creature has base power and toughness 1/1 until end of turn.\n•  Target creature with flying has base power and toughness 4/4 until end of turn.",
-        "type_line": "Instant"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -7977,27 +8138,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/Vp21cYm4/Siege-of-CU11-png.png"
-            },
-            "loyalty": "5",
-            "name": "Siege of CU11",
-            "oracle_text": "When this Siege enters, target creature you control gets +2/+2 and gains flying until end of turn.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/F4RnFdZw/Victory-of-CU11-png.png"
-            },
-            "name": "Victory of CU11",
-            "oracle_text": "Return target artifact card from your graveyard to the battlefield.",
-            "type_line": "Sorcery"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of CU11"
+        "image_uris": {
+          "large": "https://i.ibb.co/Vp21cYm4/Siege-of-CU11-png.png"
+        },
+        "name": "Siege of CU11",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8005,27 +8151,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/LX5kw8Jw/Siege-of-CW14-png.png"
-            },
-            "loyalty": "3",
-            "name": "Siege of CW14",
-            "oracle_text": "When this Siege enters, destroy up to one target Vehicle or tapped creature.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/wZxCsQcw/Victory-of-CW14-png.png"
-            },
-            "name": "Victory of CW14",
-            "oracle_text": "Proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) ",
-            "type_line": "Sorcery"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of CW14"
+        "image_uris": {
+          "large": "https://i.ibb.co/LX5kw8Jw/Siege-of-CW14-png.png"
+        },
+        "name": "Siege of CW14",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8459,7 +8590,7 @@
           "large": "https://i.ibb.co/1ftWhCWZ/Skywatch-Anti-Air-Division-png.png"
         },
         "name": "Skywatch Anti-Air Division",
-        "oracle_text": "Vigilance, reach\nThis creature can block only creatures with flying.\n Renew -  {g}, Exile this card from your graveyard: Put a reach counter on target creature or Vehicle. Activate only as a sorcery.",
+        "oracle_text": "Vigilance, reach\nThis creature can block only creatures with flying.",
         "power": "2",
         "toughness": "4",
         "type_line": "Creature — Human Soldier"
@@ -8601,8 +8732,8 @@
           "large": "https://i.ibb.co/DXxRdB6/Spear-Fleet-Marines-png.png"
         },
         "name": "Spear Fleet Marines",
-        "oracle_text": "Reach, haste\nWhen this creature enters, creatures you control gain trample until end of turn.",
-        "power": "3",
+        "oracle_text": "Haste\nWhen this creature enters, creatures you control gain trample until end of turn.",
+        "power": "4",
         "toughness": "3",
         "type_line": "Creature — Human Soldier"
       }
@@ -9095,10 +9226,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/RTrqCQ1D/Swift-Retaliation-png.png"
+          "large": "https://i.ibb.co/7NZjNLZV/Swift-Retaliation-png.png"
         },
         "name": "Swift Retaliation",
-        "oracle_text": "This spell deals 1 damage to each of up to three target attacking or blocking creatures.",
+        "oracle_text": "This spell deals 3 damage to target attacking or blocking creature.\nWartime Measures — If you control a battle or have defeated a battle this game, it instead deals 3 damage divided as you choose among any number of target attacking or blocking creatures.",
         "type_line": "Instant"
       }
     }
@@ -9629,6 +9760,8 @@
         },
         "name": "Third Lance Grenadiers",
         "oracle_text": "Reach, menace\n{t}, Sacrifice an artifact or creature: This creature deals damage equal to its power to target player or battle.",
+        "power": "2",
+        "toughness": "4",
         "type_line": "Creature — Human Soldier"
       }
     }
@@ -9948,10 +10081,10 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/nNgdjH8Q/Price-of-a-Mile-png.png"
+              "large": "https://i.ibb.co/yL8Df4F/Price-of-a-Mile-png.png"
             },
             "name": "Price of a Mile",
-            "oracle_text": "Return target permanent card from your graveyard to your hand. If it's a battle, you may return it to the battlefield instead.\nCreate two Treasure tokens.",
+            "oracle_text": "Create two Treasure tokens. Each opponent discards a card and loses 2 life.",
             "type_line": "Sorcery"
           }
         ],
@@ -10127,10 +10260,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/p6ZhJpXP/U-C-I-T-E-War-Submarine-png.png"
+          "large": "https://i.ibb.co/rKyd46x2/U-C-I-T-E-War-Submarine-png.png"
         },
         "name": "U.C.I.T. E-War Submarine",
-        "oracle_text": "Arms Race  - {t}: Tap target artifact, creature, or land. Activate only if this Vehicle is a creature or if no opponent controls more artifacts than you.\nCrew 5",
+        "oracle_text": "Arms Race  - {2}, {t}: Tap target artifact, creature, or land. This ability costs {2} less to activate if no opponent controls more artifacts than you.\nCrew 5",
         "power": "6",
         "toughness": "8",
         "type_line": "Artifact — Vehicle"
@@ -10416,11 +10549,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/G4qYkxXp/Victory-of-CU11-png.png"
+          "large": "https://i.ibb.co/F4RnFdZw/Victory-of-CU11-png.png"
         },
         "name": "Victory of CU11",
-        "oracle_text": "Return target artifact card from your graveyard to the battlefield.",
-        "type_line": "Sorcery"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -10429,11 +10562,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Y7YzDDdZ/Victory-of-CW14-png.png"
+          "large": "https://i.ibb.co/wZxCsQcw/Victory-of-CW14-png.png"
         },
         "name": "Victory of CW14",
-        "oracle_text": "Proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
-        "type_line": "Sorcery"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
