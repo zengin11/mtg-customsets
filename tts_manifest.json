@@ -32,7 +32,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/R4spPVng/Flyswatter-Missile-Team-png.png"
+          "large": "https://i.ibb.co/XZjB5yQq/Flyswatter-Missile-Team-png.png"
         },
         "name": "\"Flyswatter\" Missile Team",
         "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") ",
@@ -271,7 +271,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/d468hF7g/AH-960-Booker-Retrofit-png.png"
+          "large": "https://i.ibb.co/G32RTcbb/AH-960-Booker-Retrofit-png.png"
         },
         "name": "AH.960 Booker Retrofit",
         "oracle_text": "Flying, deathtouch\nWhen this Vehicle dies, put a deathtouch counter on target creature you control.\nCrew 1",
@@ -410,12 +410,40 @@
       }
     }
   },
+  "anders' response": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/2399nDCR/Anders-Response-png.png"
+            },
+            "loyalty": "5",
+            "name": "Anders' Response",
+            "oracle_text": "When this Siege enters, target creature you control gets +2/+2 and gains flying until end of turn.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/FkQ6YrN7/Anders-Reclamation-png.png"
+            },
+            "name": "Anders' Reclamation",
+            "oracle_text": "Return target artifact card from your graveyard to the battlefield.",
+            "type_line": "Sorcery"
+          }
+        ],
+        "layout": "transform",
+        "name": "Anders' Response"
+      }
+    }
+  },
   "angel's deliverance airlifter": {
     "default": "BTL",
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/fzBfQhPf/Angel-s-Deliverance-Airlifter-png.png"
+          "large": "https://i.ibb.co/4wJRXTnL/Angel-s-Deliverance-Airlifter-png.png"
         },
         "name": "Angel's Deliverance Airlifter",
         "oracle_text": "Flying, vigilance\nWhen this Vehicle enters, create three 1/1 red Soldier creature tokens.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
@@ -435,19 +463,6 @@
         "name": "Anguish",
         "oracle_text": "Target player reveals a card at random from their hand. When they do, this spell deals damage to target creature they control equal to that card's mana value. If no damage is dealt this way, return this spell to its owner's hand.\nFlashback {2}{r}",
         "type_line": "Sorcery"
-      }
-    }
-  },
-  "anti-air missile launcher": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/rK6rf2zf/Anti-Air-Missile-Launcher-png.png"
-        },
-        "name": "Anti-Air Missile Launcher",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -586,19 +601,6 @@
       }
     }
   },
-  "armed and armored": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/wNNNdHVw/Armed-and-Armored-png.png"
-        },
-        "name": "Armed and Armored",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "armed by the lowest bidder": {
     "default": "BTL",
     "printings": {
@@ -609,19 +611,6 @@
         "name": "Armed by the Lowest Bidder",
         "oracle_text": "Target creature gets +3/-1 until end of turn. Create a Treasure token.  (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\") ",
         "type_line": "Instant"
-      }
-    }
-  },
-  "armored exoskeleton": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/cSmGqFQr/Armored-Exoskeleton-png.png"
-        },
-        "name": "Armored Exoskeleton",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -745,32 +734,6 @@
         "name": "Basilisk Collar",
         "oracle_text": "Equipped creature has deathtouch and lifelink.\nEquip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.) ",
         "type_line": "Artifact — Equipment"
-      }
-    }
-  },
-  "battle of cg11": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/ymmx2LnZ/Battle-of-CG11-png.png"
-        },
-        "name": "Battle of CG11",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "battle of cw12": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/rKf6fc3Q/Battle-of-CW12-png.png"
-        },
-        "name": "Battle of CW12",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -1257,19 +1220,6 @@
       }
     }
   },
-  "camouflage netting": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/cKPpJ47p/Camouflage-Netting-png.png"
-        },
-        "name": "Camouflage Netting",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "candid inspiration": {
     "default": "KPDH",
     "printings": {
@@ -1623,7 +1573,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/xtK9C0XM/Clever-Tactician-png.png"
+          "large": "https://i.ibb.co/0RdjXCDV/Clever-Tactician-png.png"
         },
         "name": "Clever Tactician",
         "oracle_text": "At the beginning of your end step, if you've activated an ability of a permanent that isn't a mana ability this turn, you may draw a card. If you do, discard a card.",
@@ -1860,21 +1810,6 @@
         "name": "Compelled Torment",
         "oracle_text": "Target player reveals their hand. When they do, this spell deals damage to them or to target creature they control equal to the greatest mana value of cards revealed this way.",
         "type_line": "Instant"
-      }
-    }
-  },
-  "concealed gun team": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/Zp4KwDxc/Concealed-Gun-Team-png.png"
-        },
-        "name": "Concealed Gun Team",
-        "oracle_text": "Flash\nWhen this creature enters, it deals 2 damage to target attacking or blocking creature.",
-        "power": "2",
-        "toughness": "4",
-        "type_line": "Creature — Human Soldier"
       }
     }
   },
@@ -2178,32 +2113,6 @@
       }
     }
   },
-  "defense of cg11": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/zVqvKWbZ/Defense-of-CG11-png.png"
-        },
-        "name": "Defense of CG11",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "defense of cw12": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/7NWrS4nB/Defense-of-CW12-png.png"
-        },
-        "name": "Defense of CW12",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "defense of the marchwall": {
     "default": "BTL",
     "printings": {
@@ -2257,6 +2166,19 @@
         "name": "Defense of UW13",
         "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhenever a nontoken creature you control enters, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) ",
         "type_line": "Battle"
+      }
+    }
+  },
+  "defilade ambuscade": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/BHpVcjDX/Defilade-Ambuscade-png.png"
+        },
+        "name": "Defilade Ambuscade",
+        "oracle_text": "Target creature gets +2/+3 and gains reach until end of turn. If it's a Soldier, untap it.",
+        "type_line": "Instant"
       }
     }
   },
@@ -2550,21 +2472,6 @@
       }
     }
   },
-  "e-25 \"spotlight\" awacs": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/kVQwCtP6/E-25-Spotlight-AWACS-png.png"
-        },
-        "name": "E-25 \"Spotlight\" AWACS",
-        "oracle_text": "Flying, ward {1}\nOther permanents you control with flying have ward {1}.\nAs long as this Vehicle is a creature, other creatures you control with flying get +1/+1 and have vigilance.\nCrew 1",
-        "power": "{fontcolorwhite}0",
-        "toughness": "4",
-        "type_line": "Artifact — Vehicle"
-      }
-    }
-  },
   "ea-28 \"howler\" screening jet": {
     "default": "BTL",
     "printings": {
@@ -2751,19 +2658,6 @@
         "name": "Entrancing Melody",
         "oracle_text": "Gain control of target creature with mana value X.",
         "type_line": "Sorcery"
-      }
-    }
-  },
-  "entrenched ambush": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/ZR6xYbGq/Entrenched-Ambush-png.png"
-        },
-        "name": "Entrenched Ambush",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -3095,6 +2989,20 @@
         "name": "Forest",
         "oracle_text": "",
         "type_line": "Basic Land — Forest"
+      }
+    }
+  },
+  "fort steelgill's judgement": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/hFDmd7Cm/Fort-Steelgill-s-Judgement-png.png"
+        },
+        "loyalty": "6",
+        "name": "Fort Steelgill's Judgement",
+        "oracle_text": "When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.",
+        "type_line": "Battle"
       }
     }
   },
@@ -5946,19 +5854,6 @@
       }
     }
   },
-  "night vision goggles": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/PskdVQ4t/Night-Vision-Goggles-png.png"
-        },
-        "name": "Night Vision Goggles",
-        "oracle_text": "When this Equipment enters, put a +1/+1 counter on target creature you control. Attach this Equipment to it.\nEquipped creature has deathtouch as long as it's your turn.\nEquip {2}",
-        "type_line": "Artifact — Equipment"
-      }
-    }
-  },
   "night's whisper": {
     "default": "KPDH",
     "printings": {
@@ -6113,7 +6008,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/21C76phC/Oasis-Reclaimer-png.png"
+          "large": "https://i.ibb.co/WWcCjLk5/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
         "oracle_text": "Flying\nThis Vehicle has double strike as long as it's attacking.\nCrew 2",
@@ -6180,7 +6075,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/zhhNNrxN/Order-a-Counterattack-png.png"
+          "large": "https://i.ibb.co/Rp9H0Mt5/Order-a-Counterattack-png.png"
         },
         "name": "Order a Counterattack",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target artifact creature or Vehicle.\n•   Target creature gets +2/+0 and gains indestructible until end of turn.",
@@ -6193,7 +6088,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/9XzK8mP/Order-a-Raid-png.png"
+          "large": "https://i.ibb.co/k6hmpX1G/Order-a-Raid-png.png"
         },
         "name": "Order a Raid",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target artifact.\n•   Up to two target creatures each get +2/+0 until end of turn.",
@@ -6206,7 +6101,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/zTpzWv7p/Order-a-Resupply-png.png"
+          "large": "https://i.ibb.co/kszfFJGj/Order-a-Resupply-png.png"
         },
         "name": "Order a Resupply",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Draw two cards.\n•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
@@ -6219,7 +6114,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/84fyYJTw/Order-an-Air-Defense-png.png"
+          "large": "https://i.ibb.co/KxvtSKNd/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature with flying.\n•   Populate (Create a token that's a copy of a creature token you control.)",
@@ -6579,21 +6474,6 @@
       }
     }
   },
-  "precision vanguard": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/VWX8dx28/Precision-Vanguard-png.png"
-        },
-        "name": "Precision Vanguard",
-        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
-        "power": "3",
-        "toughness": "1",
-        "type_line": "Creature — Human Pilot"
-      }
-    }
-  },
   "predators' hour": {
     "default": "JJK",
     "printings": {
@@ -6617,6 +6497,21 @@
         "name": "Premier Mahlik Iron",
         "oracle_text": "Synergy with big-crew Vehicles\nActivated ability that makes Soldier tokens?",
         "type_line": "Legendary Creature — Human Soldier Advisor"
+      }
+    }
+  },
+  "preserver of the penitent": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Kcm9G4MF/Preserver-of-the-Penitent-png.png"
+        },
+        "name": "Preserver of the Penitent",
+        "oracle_text": "{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle.\nCrew 2",
+        "power": "3",
+        "toughness": "3",
+        "type_line": "Artifact — Vehicle"
       }
     }
   },
@@ -6847,19 +6742,6 @@
       }
     }
   },
-  "r.d.i. reserve responder": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/6R7GB7tc/R-D-I-Reserve-Responder-png.png"
-        },
-        "name": "R.D.I. Reserve Responder",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "r.d.i. vanguard dogfighter": {
     "default": "BTL",
     "printings": {
@@ -7029,19 +6911,6 @@
         "power": "3",
         "toughness": "3",
         "type_line": "Creature — Human Pilot Advisor"
-      }
-    }
-  },
-  "reconnaissance gear": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/VW2LBb0X/Reconnaissance-Gear-png.png"
-        },
-        "name": "Reconnaissance Gear",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -7726,7 +7595,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/6QMXT4c/Savvy-Strategist-png.png"
+          "large": "https://i.ibb.co/fztghQWq/Savvy-Strategist-png.png"
         },
         "name": "Savvy Strategist",
         "oracle_text": "Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, return target Vehicle, battle, or creature card from your graveyard to your hand.",
@@ -7829,16 +7698,16 @@
       }
     }
   },
-  "selective armament": {
+  "selective rearmament": {
     "default": "BTL",
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/GQPGYnFs/Selective-Armament-png.png"
+          "large": "https://i.ibb.co/5wqJbK6/Selective-Rearmament-png.png"
         },
-        "name": "Selective Armament",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "name": "Selective Rearmament",
+        "oracle_text": "Choose one —\n•  Target creature has base power and toughness 1/1 until end of turn.\n•  Target creature with flying has base power and toughness 4/4 until end of turn.",
+        "type_line": "Instant"
       }
     }
   },
@@ -8052,32 +7921,6 @@
       }
     }
   },
-  "siege of cb12": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/WWvdb9xw/Siege-of-CB12-png.png"
-        },
-        "name": "Siege of CB12",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "siege of cg14": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/YF7xX0Sd/Siege-of-CG14-png.png"
-        },
-        "name": "Siege of CG14",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "siege of cr12": {
     "default": "BTL",
     "printings": {
@@ -8131,32 +7974,6 @@
         ],
         "layout": "transform",
         "name": "Siege of CR14"
-      }
-    }
-  },
-  "siege of cu11": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/Vp21cYm4/Siege-of-CU11-png.png"
-        },
-        "name": "Siege of CU11",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "siege of cw14": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/LX5kw8Jw/Siege-of-CW14-png.png"
-        },
-        "name": "Siege of CW14",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -8587,7 +8404,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/1ftWhCWZ/Skywatch-Anti-Air-Division-png.png"
+          "large": "https://i.ibb.co/Y5rDHr9/Skywatch-Anti-Air-Division-png.png"
         },
         "name": "Skywatch Anti-Air Division",
         "oracle_text": "Vigilance, reach\nThis creature can block only creatures with flying.",
@@ -8729,7 +8546,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/DXxRdB6/Spear-Fleet-Marines-png.png"
+          "large": "https://i.ibb.co/Wv5F8pKn/Spear-Fleet-Marines-png.png"
         },
         "name": "Spear Fleet Marines",
         "oracle_text": "Haste\nWhen this creature enters, creatures you control gain trample until end of turn.",
@@ -9177,7 +8994,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/6cPTnZhb/Supportive-Seamen-png.png"
+          "large": "https://i.ibb.co/1GnS6Q8v/Supportive-Seamen-png.png"
         },
         "name": "Supportive Seamen",
         "oracle_text": "Whenever this creature becomes tapped, untap target artifact you control. This ability triggers only once each turn.\n{4}{U}, {T}: Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) ",
@@ -9695,6 +9512,34 @@
       }
     }
   },
+  "the street war": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/c4SNzdR/The-Street-War-png.png"
+            },
+            "loyalty": "3",
+            "name": "The Street War",
+            "oracle_text": "When this Siege enters, destroy up to one target Vehicle or tapped creature.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/4nMvj4gF/From-Rubble-png.png"
+            },
+            "name": "From Rubble",
+            "oracle_text": "Proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+            "type_line": "Sorcery"
+          }
+        ],
+        "layout": "transform",
+        "name": "The Street War"
+      }
+    }
+  },
   "the sword of fire": {
     "default": "NGO",
     "printings": {
@@ -10170,19 +10015,6 @@
       }
     }
   },
-  "turret defense": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/4wd75G79/Turret-Defense-png.png"
-        },
-        "name": "Turret Defense",
-        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures you control get +1/+1 and have reach.",
-        "type_line": "Battle"
-      }
-    }
-  },
   "twiddle": {
     "default": "KPDH",
     "printings": {
@@ -10201,7 +10033,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/G47HHzD5/Twilight-Over-the-Shield-png.png"
+          "large": "https://i.ibb.co/7dxk5r4V/Twilight-Over-the-Shield-png.png"
         },
         "loyalty": "4",
         "name": "Twilight Over the Shield",
@@ -10492,32 +10324,6 @@
       }
     }
   },
-  "victory of cb12": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/cSWM4g9q/Victory-of-CB12-png.png"
-        },
-        "name": "Victory of CB12",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "victory of cg14": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/PZWtgc1P/Victory-of-CG14-png.png"
-        },
-        "name": "Victory of CG14",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "victory of cr12": {
     "default": "BTL",
     "printings": {
@@ -10541,32 +10347,6 @@
         "name": "Victory of CR14",
         "oracle_text": "Attacking creatures you control get +1/+0.",
         "type_line": "Enchantment"
-      }
-    }
-  },
-  "victory of cu11": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/F4RnFdZw/Victory-of-CU11-png.png"
-        },
-        "name": "Victory of CU11",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "victory of cw14": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/wZxCsQcw/Victory-of-CW14-png.png"
-        },
-        "name": "Victory of CW14",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
