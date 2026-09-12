@@ -829,10 +829,8 @@
           "large": "https://i.ibb.co/KjXvSGv5/Bellicose-Colonel-png.png"
         },
         "name": "Bellicose Colonel",
-        "oracle_text": "When this creature enters, create a 3/3 green Soldier creature token, then populate. (Create a token that's a copy of a creature token you control.)\nSoldiers you control have trample.",
-        "power": "1",
-        "toughness": "1",
-        "type_line": "Creature — Human Soldier Advisor"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -1857,7 +1855,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gLTnTgDY/Coolname-Precision-Vanguard-png.png"
+          "large": "https://i.ibb.co/MbszSrM/Coolname-Precision-Vanguard-png.png"
         },
         "name": "Coolname, Precision Vanguard",
         "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
@@ -2118,11 +2116,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/p6kTdzfv/Defense-of-the-Marchwall-png.png"
+          "large": "https://i.ibb.co/8g2Jbyc8/Defense-of-the-Marchwall-png.png"
         },
         "loyalty": "5",
         "name": "Defense of the Marchwall",
-        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures can't attack you or non-Siege battles you control unless their controller pays {X} for each of those creatures, where X is the number of non-Siege battles you control.",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures can't attack you or battles you protect unless their controller pays {X} for each of those creatures, where X is the number of non-Siege battles you control.",
         "type_line": "Battle"
       }
     }
@@ -3068,6 +3066,19 @@
         "name": "Frostboil Snarl",
         "oracle_text": "As this land enters, you may reveal an Island or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {U} or {R}.",
         "type_line": "Land"
+      }
+    }
+  },
+  "fund the front": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/gZP2P8F5/Fund-the-Front-png.png"
+        },
+        "name": "Fund the Front",
+        "oracle_text": "Create a 3/3 green Soldier creature token and a Treasure token.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -4130,12 +4141,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/r29tn8VW/Inspiring-Sergeant-png.png"
+          "large": "https://i.ibb.co/9Qq6LSs/Inspiring-Sergeant-png.png"
         },
         "name": "Inspiring Sergeant",
-        "oracle_text": "Flash\n Attrition  — When this creature enters, untap another target creature you control. Put two +1/+1 counters on it if a nonland permanent left the battlefield this turn.",
+        "oracle_text": "Flash\n Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on target creature.",
         "power": "2",
-        "toughness": "2",
+        "toughness": "1",
         "type_line": "Creature — Human Soldier"
       }
     }
@@ -6075,10 +6086,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Rp9H0Mt5/Order-a-Counterattack-png.png"
+          "large": "https://i.ibb.co/cXZxnxy5/Order-a-Counterattack-png.png"
         },
         "name": "Order a Counterattack",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target artifact creature or Vehicle.\n•   Target creature gets +2/+0 and gains indestructible until end of turn.",
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature.\n•   Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.",
         "type_line": "Instant"
       }
     }
@@ -6101,11 +6112,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/kszfFJGj/Order-a-Resupply-png.png"
+          "large": "https://i.ibb.co/TDfS5FdC/Order-a-Resupply-png.png"
         },
         "name": "Order a Resupply",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Draw two cards.\n•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
-        "type_line": "Instant"
+        "type_line": "Sorcery"
       }
     }
   },
@@ -6114,11 +6125,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/KxvtSKNd/Order-an-Air-Defense-png.png"
+          "large": "https://i.ibb.co/C3HwzzhR/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature with flying.\n•   Populate (Create a token that's a copy of a creature token you control.)",
-        "type_line": "Instant"
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature or Vehicle with flying.\n•   Populate  (Create a token that's a copy of a creature token you control.) ",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -6505,11 +6516,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Kcm9G4MF/Preserver-of-the-Penitent-png.png"
+          "large": "https://i.ibb.co/cXhdLX5D/Preserver-of-the-Penitent-png.png"
         },
         "name": "Preserver of the Penitent",
-        "oracle_text": "{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle.\nCrew 2",
-        "power": "3",
+        "oracle_text": "Lifelink\n{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle.\nCrew 2",
+        "power": "2",
         "toughness": "3",
         "type_line": "Artifact — Vehicle"
       }
@@ -8021,10 +8032,10 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/LXK3MNLh/Victory-of-UH03-png.png"
+              "large": "https://i.ibb.co/23LhVfHh/Victory-of-UH03-png.png"
             },
             "name": "Victory of UH03",
-            "oracle_text": "Trample, vigilance, ward {1}\nCrew 4",
+            "oracle_text": "Trample, vigilance, ward {2}\nCrew 4",
             "power": "6",
             "toughness": "6",
             "type_line": "Artifact — Vehicle"
@@ -8072,19 +8083,21 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/DPtpGnLK/Siege-of-UH05-png.png"
+              "large": "https://i.ibb.co/TxfxtbsM/Siege-of-UH05-png.png"
             },
-            "loyalty": "4",
+            "loyalty": "3",
             "name": "Siege of UH05",
             "oracle_text": "When this Siege enters, create a 2/2 white Soldier creature token. It gains haste until end of turn.",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/qFRdrR8b/Victory-of-UH05-png.png"
+              "large": "https://i.ibb.co/CsVDVdqP/Victory-of-UH05-png.png"
             },
             "name": "Victory of UH05",
             "oracle_text": "Whenever one or more creatures you control deal combat damage to a player or battle, populate.",
+            "power": "2",
+            "toughness": "3",
             "type_line": "Creature — Human Soldier"
           }
         ],
@@ -8407,10 +8420,8 @@
           "large": "https://i.ibb.co/Y5rDHr9/Skywatch-Anti-Air-Division-png.png"
         },
         "name": "Skywatch Anti-Air Division",
-        "oracle_text": "Vigilance, reach\nThis creature can block only creatures with flying.",
-        "power": "2",
-        "toughness": "4",
-        "type_line": "Creature — Human Soldier"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9926,10 +9937,10 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/F4ZfshJs/Price-of-a-Mile-png.png"
+              "large": "https://i.ibb.co/rq2ytZ5/Price-of-a-Mile-png.png"
             },
             "name": "Price of a Mile",
-            "oracle_text": "Create two Treasure tokens. Each opponent discards a card and loses 2 life.",
+            "oracle_text": "Create a Treasure token. Each opponent discards a card and loses 1 life.",
             "type_line": "Sorcery"
           }
         ],
