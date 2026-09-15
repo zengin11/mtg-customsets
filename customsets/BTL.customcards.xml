@@ -9,127 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>"Flyswatter" Missile Team</name>
-            <text>Reach
-When this creature enters, create a Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/ymN9cNr6/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/kVG7sGt4/Flyswatter-Missile-Team-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Modular Combat Drone</name>
-            <text>Modular 2  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Soldier</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/zVFWm9px/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/5hkX1pm4/Modular-Combat-Drone-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>S.L.I. Ablative VolunteerTM</name>
-            <text>Whenever a Vehicle crewed by this creature this turn dies, you may sacrifice this creature. If you do, return that Vehicle to the battlefield tapped under its owner's control with a +1/+1 counter on it.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{B}</manacost>
-                <cmc>2</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Human Pilot</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/spZzfDVV/S-L-I-Ablative-Volunteer-TM-png.png" picurl_large="https://i.ibb.co/vCSRFrjj/S-L-I-Ablative-Volunteer-TM-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Big Robot</name>
-            <text>Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  
-Trample
-When this creature enters, you gain 4 life. If it was kicked, put three +1/+1 counters on it.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{G}</manacost>
-                <cmc>5</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Soldier</type>
-                <pt>4/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png" picurl_large="https://i.ibb.co/4RtT6Nbf/Big-Robot-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Munitions Stockpile</name>
-            <text>Choose one —
-•  Create two Ordnance tokens.  (They're artifacts with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") 
-•  Discard a card, then draw two cards.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/67FGq65W/Munitions-Stockpile-png.png" picurl_large="https://i.ibb.co/C3Q4SxFH/Munitions-Stockpile-png.png">BTL</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>AH.960 Booker Retrofit</name>
-            <text>Flying, deathtouch
-When this Vehicle dies, put a +1/+1 counter on target creature you control.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{B}</manacost>
-                <cmc>2</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>2/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/G4vX7GY9/AH-960-Booker-Retrofit-png.png" picurl_large="https://i.ibb.co/67R2YG98/AH-960-Booker-Retrofit-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Soldier Token 3</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -534,6 +413,25 @@ Crew 1</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>S.L.I. Ablative VolunteerTM</name>
+            <text>Whenever a Vehicle crewed by this creature this turn dies, you may sacrifice this creature. If you do, return that Vehicle to the battlefield tapped under its owner's control with a +1/+1 counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Human Pilot</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/spZzfDVV/S-L-I-Ablative-Volunteer-TM-png.png" picurl_large="https://i.ibb.co/vCSRFrjj/S-L-I-Ablative-Volunteer-TM-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Bellicose Colonel</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -914,6 +812,26 @@ Destroy target creature or Vehicle.</text>
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>"Flyswatter" Missile Team</name>
+            <text>Reach
+When this creature enters, create a Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/ymN9cNr6/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/kVG7sGt4/Flyswatter-Missile-Team-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Thrull Squad Support Drone</name>
             <text>Menace
 Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) 
@@ -1054,6 +972,25 @@ Crew 2</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/WWcCjLk5/Oasis-Reclaimer-png.png" picurl_large="https://i.ibb.co/3y0KQnpd/Oasis-Reclaimer-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Modular Combat Drone</name>
+            <text>Modular 2  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Soldier</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/zVFWm9px/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/5hkX1pm4/Modular-Combat-Drone-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>QRF.2 Toc-Mand Drone Ship</name>
@@ -2620,6 +2557,27 @@ When this creature enters or dies, up to one target creature without flying gets
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Big Robot</name>
+            <text>Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  
+Trample
+When this creature enters, you gain 4 life. If it was kicked, put three +1/+1 counters on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{G}</manacost>
+                <cmc>5</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Soldier</type>
+                <pt>4/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png" picurl_large="https://i.ibb.co/4RtT6Nbf/Big-Robot-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>War Map</name>
             <text>Wartime Measures -  {2}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If you control a battle or have defeated a battle this game, search for two basic land cards instead.</text>
             <prop>
@@ -3144,6 +3102,27 @@ Whenever you attack with three or more Soldiers, populate. The token enters tapp
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Munitions Stockpile</name>
+            <text>Choose one —
+•  Create two Ordnance tokens.  (They're artifacts with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") 
+•  Discard a card, then draw two cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/67FGq65W/Munitions-Stockpile-png.png" picurl_large="https://i.ibb.co/C3Q4SxFH/Munitions-Stockpile-png.png">BTL</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
             <name>I.A. "Workhorse" Fighter Jet</name>
             <text>Flying
 Crew 1</text>
@@ -3182,6 +3161,27 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/CKkTMYpk/Put-in-Stasis-png.png" picurl_large="https://i.ibb.co/CKkTMYpk/Put-in-Stasis-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>AH.960 Booker Retrofit</name>
+            <text>Flying, deathtouch
+When this Vehicle dies, put a +1/+1 counter on target creature you control.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/G4vX7GY9/AH-960-Booker-Retrofit-png.png" picurl_large="https://i.ibb.co/67R2YG98/AH-960-Booker-Retrofit-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>

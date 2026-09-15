@@ -179,8 +179,8 @@
           "large": "https://i.ibb.co/tw7Ct1rt/Abundance-png.png"
         },
         "name": "Abundance",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.",
+        "type_line": "Enchantment"
       }
     }
   },
@@ -701,10 +701,10 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/S45Px0G6/Baby-Saja-Ungodly-Lyricist-png.png"
+          "large": "https://i.ibb.co/39Jbbdrf/Baby-Saja-Ungodly-Lyricist-png.png"
         },
         "name": "Baby Saja, Ungodly Lyricist",
-        "oracle_text": "Rhyme Scheme -  Each instant and sorcery card in your hand has \"Splice onto instant or sorcery that shares a color with this card.\" The splice cost is equal to its mana cost.  (As you cast an instant or sorcery spell, you may reveal any number of cards from your hand that share a color with it and pay their costs. If you do, add that card's effects to that spell.) \nPartner—Saja",
+        "oracle_text": "Shame  - Whenever an opponent reveals their first card or cards each turn, choose one.\n•  Draw a card.\n•  Add {r}{r}. Until end of turn, you don't lose this mana as steps and phases end. \nPartner—Saja",
         "power": "1",
         "toughness": "3",
         "type_line": "Legendary Creature — Demon Performer"
@@ -855,8 +855,8 @@
           "large": "https://i.ibb.co/gbPbnyCP/Belt-of-Giant-Strength-png.png"
         },
         "name": "Belt of Giant Strength",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Equipped creature has base power and toughness 10/10.\nEquip {10}. This ability costs {X} less to activate, where X is the power of the creature it targets.",
+        "type_line": "Artifact — Equipment"
       }
     }
   },
@@ -1168,8 +1168,8 @@
           "large": "https://i.ibb.co/CpB5T4g7/Bushwhack-png.png"
         },
         "name": "Bushwhack",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Choose one —\n•  Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n•  Target creature you control fights target creature you don't control.  (Each deals damage equal to its power to the other.) ",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -1847,8 +1847,8 @@
           "large": "https://i.ibb.co/RGcz0VTk/Commune-with-Spirits-png.png"
         },
         "name": "Commune with Spirits",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Look at the top four cards of your library. You may reveal an enchantment or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -2072,8 +2072,8 @@
           "large": "https://i.ibb.co/3ypC6716/Cultivate-png.png"
         },
         "name": "Cultivate",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -2760,8 +2760,10 @@
           "large": "https://i.ibb.co/BK75gZD5/Environmental-Scientist-png.png"
         },
         "name": "Environmental Scientist",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+        "power": "2",
+        "toughness": "2",
+        "type_line": "Creature — Human Druid"
       }
     }
   },
@@ -2812,8 +2814,10 @@
           "large": "https://i.ibb.co/rRv6gBbk/Fa-adiyah-Seer-Sudogwon-Seers-png.png"
         },
         "name": "Fa'adiyah Seer (Sudogwon Seers)",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "{T}: Draw a card and reveal it. If it isn't a land card, discard it.",
+        "power": "1",
+        "toughness": "1",
+        "type_line": "Creature — Human Shaman"
       }
     }
   },
@@ -3373,8 +3377,8 @@
           "large": "https://i.ibb.co/BVVWh5Fz/Glowcap-Lantern-png.png"
         },
         "name": "Glowcap Lantern",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Equipped creature has \"You may look at the top card of your library any time\" and \"Whenever this creature attacks, it explores.\"  (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.) \nEquip {2}",
+        "type_line": "Artifact — Equipment"
       }
     }
   },
@@ -3386,8 +3390,8 @@
           "large": "https://i.ibb.co/cSx69sJT/Go-Forth-png.png"
         },
         "name": "Go Forth",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Choose one —\n•  Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n•  Target creature gets +2/+2 until end of turn.",
+        "type_line": "Instant"
       }
     }
   },
@@ -3855,8 +3859,10 @@
           "large": "https://i.ibb.co/pv2VWgrN/Herald-of-Succession-png.png"
         },
         "name": "Herald of Succession",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "When this creature enters, create a 1/1 white Citizen creature token.\nResonate - Citizens you control get +1/+0, have vigilance, and are Warriors in addition to their other types until end of turn.  (Do so whenever an effect has you reveal one or more cards.) ",
+        "power": "3",
+        "toughness": "3",
+        "type_line": "Creature — Human Warrior Shaman"
       }
     }
   },
@@ -3980,8 +3986,10 @@
           "large": "https://i.ibb.co/h12kXFDp/Horizon-Seeker-png.png"
         },
         "name": "Horizon Seeker",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Boast — {1}{G}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.  (Activate only if this creature attacked this turn and only once each turn.) ",
+        "power": "3",
+        "toughness": "2",
+        "type_line": "Creature — Human Warrior"
       }
     }
   },
@@ -4831,8 +4839,8 @@
           "large": "https://i.ibb.co/CpLHhrnx/Kodama-s-Reach-Gwi-ma-s-Reach-png.png"
         },
         "name": "Kodama's Reach (Gwi-ma's Reach)",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+        "type_line": "Sorcery — Arcane"
       }
     }
   },
@@ -4930,8 +4938,8 @@
           "large": "https://i.ibb.co/ksQ3bRNw/Lay-of-the-Land-png.png"
         },
         "name": "Lay of the Land",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -5291,8 +5299,8 @@
           "large": "https://i.ibb.co/rKtYWt8N/Many-Partings-png.png"
         },
         "name": "Many Partings",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token.  (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\") ",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -5984,8 +5992,8 @@
           "large": "https://i.ibb.co/W4bYGt45/Namsan-Heart-of-the-Honmoon-png.png"
         },
         "name": "Namsan, Heart of the Honmoon",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "{t}: Add {C}.\n{1}, {t}: Add {u}{r}. When that mana is spent to cast a spliced spell or a spell with miracle, scry 1.",
+        "type_line": "Legendary Land"
       }
     }
   },
@@ -7393,8 +7401,8 @@
           "large": "https://i.ibb.co/8gKDYMrv/Revenge-of-the-Hunted-png.png"
         },
         "name": "Revenge of the Hunted",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.\nMiracle {G}  (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.) ",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -9132,8 +9140,10 @@
           "large": "https://i.ibb.co/bgvfgM6h/Subway-Train-png.png"
         },
         "name": "Subway Train",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "When this Vehicle enters, you may pay  {G}. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nCrew 2  (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.) ",
+        "power": "{fontcolorwhite}3",
+        "toughness": "1",
+        "type_line": "Artifact — Vehicle"
       }
     }
   },
@@ -9401,7 +9411,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/JWd46PR9/Temple-of-Malice-png.png"
+          "large": "https://i.ibb.co/XgwykJk/Temple-of-Malice-png.png"
         },
         "name": "Temple of Malice",
         "oracle_text": "This land enters tapped.\nWhen this land enters, scry 1.\n{T}: Add {B} or {R}.",
@@ -10697,11 +10707,11 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/mCJqd6kG/Warm-Welcome-png.png"
+          "large": "https://i.ibb.co/nN0wX5K9/Warm-Welcome-png.png"
         },
         "name": "Warm Welcome",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. Create a 1/1 green and white Citizen creature token.",
+        "type_line": "Instant"
       }
     }
   },
@@ -11044,6 +11054,21 @@
       }
     }
   },
+  "zoey, lyrical genius": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ynKvgcjD/Zoey-Lyrical-Genius-png.png"
+        },
+        "name": "Zoey, Lyrical Genius",
+        "oracle_text": "Each instant and sorcery card in your hand has \"Splice onto instant or sorcery that shares a color with this card.\" The splice cost is equal to its mana cost.  (To splice a card onto another spell, reveal it from your hand and pay its splice cost as you cast that spell. Add the revealed card's effects to that spell.) ",
+        "power": "0",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Human Performer"
+      }
+    }
+  },
   "zoey, rap genius": {
     "default": "KPDH",
     "printings": {
@@ -11052,8 +11077,10 @@
           "large": "https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png"
         },
         "name": "Zoey, Rap Genius",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Resonate - Put a lyric counter on Zoey.  (Do so whenever an effect has you reveal one or more cards) \n{t}, Remove X counters from Zoey: Add X mana of any one color. This mana can't be spent to cast a permanent spell.\nPartner—HUNTR/X",
+        "power": "1",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Human Warrior Performer"
       }
     }
   }

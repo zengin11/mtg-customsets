@@ -9,404 +9,85 @@
         </sets>
     <cards>
         <card>
-            <name>Cheering Crowd</name>
-            <text>At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.</text>
+            <name>Baby Saja, Ungodly Lyricist</name>
+            <text>Shame  - Whenever an opponent reveals their first card or cards each turn, choose one.
+•  Draw a card.
+•  Add {r}{r}. Until end of turn, you don't lose this mana as steps and phases end. 
+Partner—Saja</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{R/G}</manacost>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/39Jbbdrf/Baby-Saja-Ungodly-Lyricist-png.png" picurl_large="https://i.ibb.co/67dSSwnv/Baby-Saja-Ungodly-Lyricist-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Warm Welcome</name>
+            <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. Create a 1/1 green and white Citizen creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{g}</manacost>
+                <cmc>4</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nN0wX5K9/Warm-Welcome-png.png" picurl_large="https://i.ibb.co/W43HrYRZ/Warm-Welcome-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Temple of Malice</name>
+            <text>This land enters tapped.
+When this land enters, scry 1.
+{T}: Add {B} or {R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>BR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XgwykJk/Temple-of-Malice-png.png" picurl_large="https://i.ibb.co/bZfHRdR/Temple-of-Malice-png.png">KPDH</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Zoey, Lyrical Genius</name>
+            <text>Each instant and sorcery card in your hand has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice a card onto another spell, reveal it from your hand and pay its splice cost as you cast that spell. Add the revealed card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
                 <cmc>2</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Citizen</maintype>
-                <type>Creature — Human Citizen</type>
-                <pt>2/2</pt>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Performer</type>
+                <pt>0/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/239Fpn8n/Cheering-Crowd-png.png" picurl_large="https://i.ibb.co/MkvgJ282/Cheering-Crowd-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Horizon Seeker</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/h12kXFDp/Horizon-Seeker-png.png" picurl_large="https://i.ibb.co/cX2PbhDz/Horizon-Seeker-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Go Forth</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cSx69sJT/Go-Forth-png.png" picurl_large="https://i.ibb.co/YFbcSV2j/Go-Forth-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Weathered Wayfarer</name>
-            <text>{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Cleric</maintype>
-                <type>Creature — Human Nomad Cleric</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tpfvPPR2/Weathered-Wayfarer-png.png" picurl_large="https://i.ibb.co/fdRyGGJN/Weathered-Wayfarer-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Abundance</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tw7Ct1rt/Abundance-png.png" picurl_large="https://i.ibb.co/p6tX8kF8/Abundance-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Revenge of the Hunted</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8gKDYMrv/Revenge-of-the-Hunted-png.png" picurl_large="https://i.ibb.co/YBR702cn/Revenge-of-the-Hunted-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Belt of Giant Strength</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gbPbnyCP/Belt-of-Giant-Strength-png.png" picurl_large="https://i.ibb.co/Ngmg4xzm/Belt-of-Giant-Strength-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Glowcap Lantern</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/BVVWh5Fz/Glowcap-Lantern-png.png" picurl_large="https://i.ibb.co/1ffyCtjv/Glowcap-Lantern-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Namsan, Heart of the Honmoon</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/W4bYGt45/Namsan-Heart-of-the-Honmoon-png.png" picurl_large="https://i.ibb.co/tT7WQXTK/Namsan-Heart-of-the-Honmoon-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Lay of the Land</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ksQ3bRNw/Lay-of-the-Land-png.png" picurl_large="https://i.ibb.co/xtJm9pxB/Lay-of-the-Land-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Subway Train</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/bgvfgM6h/Subway-Train-png.png" picurl_large="https://i.ibb.co/hRdqRJg5/Subway-Train-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Zoey, Rap Genius</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png" picurl_large="https://i.ibb.co/RTTkWN3j/Zoey-Rap-Genius-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Bushwhack</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CpB5T4g7/Bushwhack-png.png" picurl_large="https://i.ibb.co/20q7fRxt/Bushwhack-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Environmental Scientist</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/BK75gZD5/Environmental-Scientist-png.png" picurl_large="https://i.ibb.co/0VWRfMNR/Environmental-Scientist-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Herald of Succession</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/pv2VWgrN/Herald-of-Succession-png.png" picurl_large="https://i.ibb.co/TBcjKZqJ/Herald-of-Succession-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Fa'adiyah Seer (Sudogwon Seers)</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/rRv6gBbk/Fa-adiyah-Seer-Sudogwon-Seers-png.png" picurl_large="https://i.ibb.co/tT3sS0ZB/Fa-adiyah-Seer-Sudogwon-Seers-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Cultivate</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3ypC6716/Cultivate-png.png" picurl_large="https://i.ibb.co/7Jn1MXvM/Cultivate-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Many Partings</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/rKtYWt8N/Many-Partings-png.png" picurl_large="https://i.ibb.co/8nBqhBvt/Many-Partings-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Commune with Spirits</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RGcz0VTk/Commune-with-Spirits-png.png" picurl_large="https://i.ibb.co/zWZGR0VT/Commune-with-Spirits-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Kodama's Reach (Gwi-ma's Reach)</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CpLHhrnx/Kodama-s-Reach-Gwi-ma-s-Reach-png.png" picurl_large="https://i.ibb.co/KcnrF19C/Kodama-s-Reach-Gwi-ma-s-Reach-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Environmental Sciences</name>
-            <text>(If you start the game with this card outside your deck, a card with 'Learn' can find it.) 
-Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}</manacost>
-                <cmc>2</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Sorcery</maintype>
-                <type>Sorcery - Lesson</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LDgcfvZK/Environmental-Sciences-png.png" picurl_large="https://i.ibb.co/Y4d1GbLg/Environmental-Sciences-png.png">KPDH</set>
-            <tablerow>3</tablerow>
+            <set rarity="NA" picurl="https://i.ibb.co/ynKvgcjD/Zoey-Lyrical-Genius-png.png" picurl_large="https://i.ibb.co/xSw9ztTy/Zoey-Lyrical-Genius-png.png">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Chorus of the First Hunters</name>
@@ -773,6 +454,25 @@ Partner—HUNTR/X</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Cheering Crowd</name>
+            <text>At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R/G}</manacost>
+                <cmc>2</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Citizen</maintype>
+                <type>Creature — Human Citizen</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/239Fpn8n/Cheering-Crowd-png.png" picurl_large="https://i.ibb.co/MkvgJ282/Cheering-Crowd-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Rumi, Broken Glass</name>
             <text>{2}{wb}: Target player reveals their hand.
 Whenever a player reveals a white card, Rumi gains hexproof until end of turn. The same is true for blue and flying, black and lifelink, red and first strike, and green and indestructible.</text>
@@ -791,6 +491,25 @@ Whenever a player reveals a white card, Rumi gains hexproof until end of turn. T
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5WQDSrNJ/Rumi-Broken-Glass-png.png" picurl_large="https://i.ibb.co/5WQDSrNJ/Rumi-Broken-Glass-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Horizon Seeker</name>
+            <text>Boast — {1}{G}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.  (Activate only if this creature attacked this turn and only once each turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Warrior</maintype>
+                <type>Creature — Human Warrior</type>
+                <pt>3/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/h12kXFDp/Horizon-Seeker-png.png" picurl_large="https://i.ibb.co/cX2PbhDz/Horizon-Seeker-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Open the Armory Alt</name>
@@ -1067,6 +786,27 @@ Draw a card.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/jP1gcWxk/Hidden-Lair-png.png" picurl_large="https://i.ibb.co/jP1gcWxk/Hidden-Lair-png.png">KPDH</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Go Forth</name>
+            <text>Choose one —
+•  Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+•  Target creature gets +2/+2 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cSx69sJT/Go-Forth-png.png" picurl_large="https://i.ibb.co/YFbcSV2j/Go-Forth-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Fierce Guardianship</name>
@@ -1553,6 +1293,25 @@ Other Warriors you control get +1/+1.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Weathered Wayfarer</name>
+            <text>{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Cleric</maintype>
+                <type>Creature — Human Nomad Cleric</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tpfvPPR2/Weathered-Wayfarer-png.png" picurl_large="https://i.ibb.co/fdRyGGJN/Weathered-Wayfarer-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Sidequest: Catch a Fish</name>
             <text>At the beginning of your upkeep, look at the top card of your library. If it's an artifact or creature card, you may reveal it and put it into your hand. If you put a card into your hand this way, create a Food token and transform this enchantment.</text>
             <prop>
@@ -1612,6 +1371,65 @@ Partner—HUNTR/X</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/ym7sKkbM/Zoey-HUNTR-X-Maknae-Promo-png.png" picurl_large="https://i.ibb.co/ym7sKkbM/Zoey-HUNTR-X-Maknae-Promo-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Abundance</name>
+            <text>If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}{G}</manacost>
+                <cmc>4</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tw7Ct1rt/Abundance-png.png" picurl_large="https://i.ibb.co/p6tX8kF8/Abundance-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Revenge of the Hunted</name>
+            <text>Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.
+Miracle {G}  (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{G}{G}</manacost>
+                <cmc>6</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8gKDYMrv/Revenge-of-the-Hunted-png.png" picurl_large="https://i.ibb.co/YBR702cn/Revenge-of-the-Hunted-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Belt of Giant Strength</name>
+            <text>Equipped creature has base power and toughness 10/10.
+Equip {10}. This ability costs {X} less to activate, where X is the power of the creature it targets.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gbPbnyCP/Belt-of-Giant-Strength-png.png" picurl_large="https://i.ibb.co/Ngmg4xzm/Belt-of-Giant-Strength-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Resonating Scream</name>
@@ -1957,6 +1775,26 @@ Other Warriors you control get +1/+1.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Glowcap Lantern</name>
+            <text>Equipped creature has "You may look at the top card of your library any time" and "Whenever this creature attacks, it explores."  (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.) 
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BVVWh5Fz/Glowcap-Lantern-png.png" picurl_large="https://i.ibb.co/1ffyCtjv/Glowcap-Lantern-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Gwi-ma's Guiltsapper</name>
             <text>Undying  (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.) 
  Shame -  Whenever an opponent reveals their first card each turn, other creatures you control gain undying until end of turn.</text>
@@ -1977,6 +1815,26 @@ Other Warriors you control get +1/+1.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Namsan, Heart of the Honmoon</name>
+            <text>{t}: Add {C}.
+{1}, {t}: Add {u}{r}. When that mana is spent to cast a spliced spell or a spell with miracle, scry 1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Legendary Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/W4bYGt45/Namsan-Heart-of-the-Honmoon-png.png" picurl_large="https://i.ibb.co/tT7WQXTK/Namsan-Heart-of-the-Honmoon-png.png">KPDH</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
             <name>Vibrant Cityscape</name>
             <text>{t}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
             <prop>
@@ -1994,26 +1852,6 @@ Other Warriors you control get +1/+1.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/v4GsXfRt/Vibrant-Cityscape-png.png" picurl_large="https://i.ibb.co/v4GsXfRt/Vibrant-Cityscape-png.png">KPDH</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Baby Saja, Ungodly Lyricist</name>
-            <text>Rhyme Scheme -  Each instant and sorcery card in your hand has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (As you cast an instant or sorcery spell, you may reveal any number of cards from your hand that share a color with it and pay their costs. If you do, add that card's effects to that spell.) 
-Partner—Saja</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{ur}</manacost>
-                <cmc>2</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>1/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/S45Px0G6/Baby-Saja-Ungodly-Lyricist-png.png" picurl_large="https://i.ibb.co/S45Px0G6/Baby-Saja-Ungodly-Lyricist-png.png">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Friendly Neighborhood</name>
@@ -2363,25 +2201,6 @@ Partner—Saja</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Warm Welcome</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mCJqd6kG/Warm-Welcome-png.png" picurl_large="https://i.ibb.co/mCJqd6kG/Warm-Welcome-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Guiding Voice</name>
             <text>Put a +1/+1 counter on target creature.
 Learn.  (You may reveal a Lesson card you own from outside the game and put it into your hand, or may discard a card to draw a card.) </text>
@@ -2467,6 +2286,25 @@ Partner—Saja</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/F4YLs3ms/Jinu-Inquisitory-Idol-png.png" picurl_large="https://i.ibb.co/F4YLs3ms/Jinu-Inquisitory-Idol-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Lay of the Land</name>
+            <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ksQ3bRNw/Lay-of-the-Land-png.png" picurl_large="https://i.ibb.co/xtJm9pxB/Lay-of-the-Land-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Seething Song</name>
@@ -2905,6 +2743,26 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Subway Train</name>
+            <text>When this Vehicle enters, you may pay  {G}. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Crew 2  (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity>G</coloridentity>
+                <maintype>Vehicle</maintype>
+                <type>Artifact — Vehicle</type>
+                <pt>{fontcolorwhite}3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bgvfgM6h/Subway-Train-png.png" picurl_large="https://i.ibb.co/hRdqRJg5/Subway-Train-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Sink into Stupor</name>
             <text>Return target spell or nonland permanent an opponent controls to its owner's hand.</text>
             <prop>
@@ -2986,6 +2844,27 @@ Equip {5}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Zoey, Rap Genius</name>
+            <text>Resonate - Put a lyric counter on Zoey.  (Do so whenever an effect has you reveal one or more cards) 
+{t}, Remove X counters from Zoey: Add X mana of any one color. This mana can't be spent to cast a permanent spell.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png" picurl_large="https://i.ibb.co/RTTkWN3j/Zoey-Rap-Genius-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Gwi-ma's Heartflayer</name>
             <text>Ward—Pay 2 life
  Shame -  Whenever an opponent reveals their first card each turn, creatures they control get -2/-0 and creatures you control get +2/+0 until end of turn.</text>
@@ -3026,6 +2905,27 @@ Equip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Bushwhack</name>
+            <text>Choose one —
+•  Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+•  Target creature you control fights target creature you don't control.  (Each deals damage equal to its power to the other.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpB5T4g7/Bushwhack-png.png" picurl_large="https://i.ibb.co/20q7fRxt/Bushwhack-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
             <name>Derpy and Sussie, Loyal Messengers</name>
             <text>Whenever you reveal your first card each turn, you may draw a card. If you do, target opponent draws a card then discards a card.
 Derpy and Sussie can't be blocked.</text>
@@ -3044,6 +2944,25 @@ Derpy and Sussie can't be blocked.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/RGDJgHgY/Derpy-and-Sussie-Loyal-Messengers-png.png" picurl_large="https://i.ibb.co/RGDJgHgY/Derpy-and-Sussie-Loyal-Messengers-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Environmental Scientist</name>
+            <text>When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Druid</maintype>
+                <type>Creature — Human Druid</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BK75gZD5/Environmental-Scientist-png.png" picurl_large="https://i.ibb.co/0VWRfMNR/Environmental-Scientist-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Romantic Getaway</name>
@@ -3863,6 +3782,26 @@ Partner—Lost to shame</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Herald of Succession</name>
+            <text>When this creature enters, create a 1/1 white Citizen creature token.
+Resonate - Citizens you control get +1/+0, have vigilance, and are Warriors in addition to their other types until end of turn.  (Do so whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Warrior Shaman</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pv2VWgrN/Herald-of-Succession-png.png" picurl_large="https://i.ibb.co/TBcjKZqJ/Herald-of-Succession-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Resonant Arcanists</name>
             <text>{t}: Add two mana in any combination of colors. Spend this mana only to cast an Arcane spell or to pay a splice cost.</text>
             <prop>
@@ -3958,27 +3897,6 @@ Splice onto Arcane—Tap an untapped white creature you control.  (As you cast a
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/qLDpm1v8/Hundred-Talon-Strike-png.png" picurl_large="https://i.ibb.co/qLDpm1v8/Hundred-Talon-Strike-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Temple of Malice</name>
-            <text>This land enters tapped.
-When this land enters, scry 1.
-{T}: Add {B} or {R}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity>BR</coloridentity>
-                <maintype>Land</maintype>
-                <type>Land</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JWd46PR9/Temple-of-Malice-png.png" picurl_large="https://i.ibb.co/JWd46PR9/Temple-of-Malice-png.png">KPDH</set>
-            <tablerow>0</tablerow>
             </card>
         <card>
             <name>Food alt Sexy</name>
@@ -4403,6 +4321,25 @@ Whenever a player casts a spell, if they've revealed a card this turn, you may c
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Fa'adiyah Seer (Sudogwon Seers)</name>
+            <text>{T}: Draw a card and reveal it. If it isn't a land card, discard it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Shaman</maintype>
+                <type>Creature — Human Shaman</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rRv6gBbk/Fa-adiyah-Seer-Sudogwon-Seers-png.png" picurl_large="https://i.ibb.co/tT3sS0ZB/Fa-adiyah-Seer-Sudogwon-Seers-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Zoey's Shin-kal</name>
             <text>Equipped creature gets +1/+1 and has prowess.
 If you've revealed a blue card this turn, equipped creature has vigilance.
@@ -4603,6 +4540,25 @@ Forecast — {2}{W}, Reveal this card from your hand: Tap target untapped creatu
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Cultivate</name>
+            <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3ypC6716/Cultivate-png.png" picurl_large="https://i.ibb.co/7Jn1MXvM/Cultivate-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
             <name>Restless Spire</name>
             <text>This land enters tapped.
 {T}: Add {U} or {R}.
@@ -4623,6 +4579,26 @@ Whenever this land attacks, scry 1.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/jPk4Jqm5/Restless-Spire-png.png" picurl_large="https://i.ibb.co/jPk4Jqm5/Restless-Spire-png.png">KPDH</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Many Partings</name>
+            <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token.  (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rKtYWt8N/Many-Partings-png.png" picurl_large="https://i.ibb.co/8nBqhBvt/Many-Partings-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            <related>Food Token</related>
             </card>
         <card>
             <name>Anguish</name>
@@ -4683,6 +4659,25 @@ Sacrifice this artifact: Draw a card.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/gFvtPm0f/Commander-s-Sphere-png.png" picurl_large="https://i.ibb.co/gFvtPm0f/Commander-s-Sphere-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Commune with Spirits</name>
+            <text>Look at the top four cards of your library. You may reveal an enchantment or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{G}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RGcz0VTk/Commune-with-Spirits-png.png" picurl_large="https://i.ibb.co/zWZGR0VT/Commune-with-Spirits-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Sunken Hollow</name>
@@ -5419,6 +5414,25 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Kodama's Reach (Gwi-ma's Reach)</name>
+            <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Arcane</maintype>
+                <type>Sorcery — Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpLHhrnx/Kodama-s-Reach-Gwi-ma-s-Reach-png.png" picurl_large="https://i.ibb.co/KcnrF19C/Kodama-s-Reach-Gwi-ma-s-Reach-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Terramorphic Expanse</name>
             <text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
             <prop>
@@ -5436,6 +5450,26 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png" picurl_large="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png">KPDH</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Environmental Sciences</name>
+            <text>(If you start the game with this card outside your deck, a card with 'Learn' can find it.) 
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Lesson</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LDgcfvZK/Environmental-Sciences-png.png" picurl_large="https://i.ibb.co/Y4d1GbLg/Environmental-Sciences-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Everdream</name>
