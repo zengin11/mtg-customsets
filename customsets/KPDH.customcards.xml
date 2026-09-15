@@ -1,13 +1,413 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-01</releasedate>
+        <set> v1.4<releasedate>2026-09-14</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Cheering Crowd</name>
+            <text>At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R/G}</manacost>
+                <cmc>2</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Citizen</maintype>
+                <type>Creature — Human Citizen</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/239Fpn8n/Cheering-Crowd-png.png" picurl_large="https://i.ibb.co/MkvgJ282/Cheering-Crowd-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Horizon Seeker</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/h12kXFDp/Horizon-Seeker-png.png" picurl_large="https://i.ibb.co/cX2PbhDz/Horizon-Seeker-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Go Forth</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cSx69sJT/Go-Forth-png.png" picurl_large="https://i.ibb.co/YFbcSV2j/Go-Forth-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Weathered Wayfarer</name>
+            <text>{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{W}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Cleric</maintype>
+                <type>Creature — Human Nomad Cleric</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tpfvPPR2/Weathered-Wayfarer-png.png" picurl_large="https://i.ibb.co/fdRyGGJN/Weathered-Wayfarer-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Abundance</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/tw7Ct1rt/Abundance-png.png" picurl_large="https://i.ibb.co/p6tX8kF8/Abundance-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Revenge of the Hunted</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8gKDYMrv/Revenge-of-the-Hunted-png.png" picurl_large="https://i.ibb.co/YBR702cn/Revenge-of-the-Hunted-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Belt of Giant Strength</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gbPbnyCP/Belt-of-Giant-Strength-png.png" picurl_large="https://i.ibb.co/Ngmg4xzm/Belt-of-Giant-Strength-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Glowcap Lantern</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BVVWh5Fz/Glowcap-Lantern-png.png" picurl_large="https://i.ibb.co/1ffyCtjv/Glowcap-Lantern-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Namsan, Heart of the Honmoon</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/W4bYGt45/Namsan-Heart-of-the-Honmoon-png.png" picurl_large="https://i.ibb.co/tT7WQXTK/Namsan-Heart-of-the-Honmoon-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Lay of the Land</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ksQ3bRNw/Lay-of-the-Land-png.png" picurl_large="https://i.ibb.co/xtJm9pxB/Lay-of-the-Land-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Subway Train</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bgvfgM6h/Subway-Train-png.png" picurl_large="https://i.ibb.co/hRdqRJg5/Subway-Train-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Zoey, Rap Genius</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png" picurl_large="https://i.ibb.co/RTTkWN3j/Zoey-Rap-Genius-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Bushwhack</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpB5T4g7/Bushwhack-png.png" picurl_large="https://i.ibb.co/20q7fRxt/Bushwhack-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Environmental Scientist</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BK75gZD5/Environmental-Scientist-png.png" picurl_large="https://i.ibb.co/0VWRfMNR/Environmental-Scientist-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Herald of Succession</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pv2VWgrN/Herald-of-Succession-png.png" picurl_large="https://i.ibb.co/TBcjKZqJ/Herald-of-Succession-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Fa'adiyah Seer (Sudogwon Seers)</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rRv6gBbk/Fa-adiyah-Seer-Sudogwon-Seers-png.png" picurl_large="https://i.ibb.co/tT3sS0ZB/Fa-adiyah-Seer-Sudogwon-Seers-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Cultivate</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3ypC6716/Cultivate-png.png" picurl_large="https://i.ibb.co/7Jn1MXvM/Cultivate-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Many Partings</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rKtYWt8N/Many-Partings-png.png" picurl_large="https://i.ibb.co/8nBqhBvt/Many-Partings-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Commune with Spirits</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RGcz0VTk/Commune-with-Spirits-png.png" picurl_large="https://i.ibb.co/zWZGR0VT/Commune-with-Spirits-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Kodama's Reach (Gwi-ma's Reach)</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/CpLHhrnx/Kodama-s-Reach-Gwi-ma-s-Reach-png.png" picurl_large="https://i.ibb.co/KcnrF19C/Kodama-s-Reach-Gwi-ma-s-Reach-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Environmental Sciences</name>
+            <text>(If you start the game with this card outside your deck, a card with 'Learn' can find it.) 
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Lesson</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LDgcfvZK/Environmental-Sciences-png.png" picurl_large="https://i.ibb.co/Y4d1GbLg/Environmental-Sciences-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -370,25 +770,6 @@ Partner—HUNTR/X</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/TJQYvdS/Soulbound-Reinforcements-png.png" picurl_large="https://i.ibb.co/TJQYvdS/Soulbound-Reinforcements-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Cheering Crowd</name>
-            <text>At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R/G}</manacost>
-                <cmc>2</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Citizen</maintype>
-                <type>Creature — Human Citizen</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/przwcJjG/Cheering-Crowd-png.png" picurl_large="https://i.ibb.co/przwcJjG/Cheering-Crowd-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1170,25 +1551,6 @@ Other Warriors you control get +1/+1.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/hJv2mN8M/Celine-Trainer-of-Hunters-Alt-png.png" picurl_large="https://i.ibb.co/hJv2mN8M/Celine-Trainer-of-Hunters-Alt-png.png">KPDH</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Weathered Wayfarer</name>
-            <text>{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{W}</manacost>
-                <cmc>1</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Cleric</maintype>
-                <type>Creature — Human Nomad Cleric</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/2YtKNkN8/Weathered-Wayfarer-png.png" picurl_large="https://i.ibb.co/2YtKNkN8/Weathered-Wayfarer-png.png">KPDH</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Sidequest: Catch a Fish</name>
@@ -5074,26 +5436,6 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png" picurl_large="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png">KPDH</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Environmental Sciences</name>
-            <text>(If you start the game with this card outside your deck, a card with 'Learn' can find it.) 
-Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}</manacost>
-                <cmc>2</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Sorcery</maintype>
-                <type>Sorcery - Lesson</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/mFdbWZ5d/Environmental-Sciences-png.png" picurl_large="https://i.ibb.co/mFdbWZ5d/Environmental-Sciences-png.png">KPDH</set>
-            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Everdream</name>

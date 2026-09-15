@@ -32,10 +32,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XZjB5yQq/Flyswatter-Missile-Team-png.png"
+          "large": "https://i.ibb.co/ymN9cNr6/Flyswatter-Missile-Team-png.png"
         },
         "name": "\"Flyswatter\" Missile Team",
-        "oracle_text": "Reach\nWhen this creature enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") ",
+        "oracle_text": "Reach\nWhen this creature enters, create a Ordnance token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") ",
         "power": "3",
         "toughness": "1",
         "type_line": "Creature — Human Soldier"
@@ -171,6 +171,19 @@
       }
     }
   },
+  "abundance": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/tw7Ct1rt/Abundance-png.png"
+        },
+        "name": "Abundance",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "ac.30 booker recon gunship": {
     "default": "BTL",
     "printings": {
@@ -271,10 +284,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/G32RTcbb/AH-960-Booker-Retrofit-png.png"
+          "large": "https://i.ibb.co/G4vX7GY9/AH-960-Booker-Retrofit-png.png"
         },
         "name": "AH.960 Booker Retrofit",
-        "oracle_text": "Flying, deathtouch\nWhen this Vehicle dies, put a deathtouch counter on target creature you control.\nCrew 1",
+        "oracle_text": "Flying, deathtouch\nWhen this Vehicle dies, put a +1/+1 counter on target creature you control.\nCrew 1",
         "power": "2",
         "toughness": "1",
         "type_line": "Artifact — Vehicle"
@@ -525,7 +538,7 @@
     }
   },
   "arcane signet": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -834,6 +847,19 @@
       }
     }
   },
+  "belt of giant strength": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/gbPbnyCP/Belt-of-Giant-Strength-png.png"
+        },
+        "name": "Belt of Giant Strength",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "bestie beatdown": {
     "default": "JJK",
     "printings": {
@@ -844,6 +870,21 @@
         "name": "Bestie Beatdown",
         "oracle_text": "Two target creatures you control each deal damage equal to their power to target creature an opponent controls.",
         "type_line": "Sorcery"
+      }
+    }
+  },
+  "big robot": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png"
+        },
+        "name": "Big Robot",
+        "oracle_text": "Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  \nTrample\nWhen this creature enters, you gain 4 life. If it was kicked, put three +1/+1 counters on it.",
+        "power": "4",
+        "toughness": "3",
+        "type_line": "Artifact Creature — Robot Soldier"
       }
     }
   },
@@ -929,7 +970,7 @@
     }
   },
   "blasphemous act": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -1116,6 +1157,19 @@
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Demon Shapeshifter"
+      }
+    }
+  },
+  "bushwhack": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/CpB5T4g7/Bushwhack-png.png"
+        },
+        "name": "Bushwhack",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -1389,7 +1443,7 @@
     }
   },
   "chaos warp": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -1414,7 +1468,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/przwcJjG/Cheering-Crowd-png.png"
+          "large": "https://i.ibb.co/239Fpn8n/Cheering-Crowd-png.png"
         },
         "name": "Cheering Crowd",
         "oracle_text": "At the beginning of each player's first main phase, that player may put a +1/+1 counter on this creature. If they do, they add {C} for each counter on it.",
@@ -1785,6 +1839,19 @@
       }
     }
   },
+  "commune with spirits": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/RGcz0VTk/Commune-with-Spirits-png.png"
+        },
+        "name": "Commune with Spirits",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "communications jam": {
     "default": "BTL",
     "printings": {
@@ -1997,6 +2064,19 @@
       }
     }
   },
+  "cultivate": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/3ypC6716/Cultivate-png.png"
+        },
+        "name": "Cultivate",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "cybernetic sapper": {
     "default": "BTL",
     "printings": {
@@ -2194,7 +2274,7 @@
     }
   },
   "deflecting swat": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -2286,7 +2366,7 @@
     }
   },
   "disaster radius": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -2664,11 +2744,24 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/mFdbWZ5d/Environmental-Sciences-png.png"
+          "large": "https://i.ibb.co/LDgcfvZK/Environmental-Sciences-png.png"
         },
         "name": "Environmental Sciences",
         "oracle_text": "(If you start the game with this card outside your deck, a card with 'Learn' can find it.) \nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.",
         "type_line": "Sorcery — Lesson"
+      }
+    }
+  },
+  "environmental scientist": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/BK75gZD5/Environmental-Scientist-png.png"
+        },
+        "name": "Environmental Scientist",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -2706,6 +2799,19 @@
           "large": "https://i.ibb.co/hzxNfHv/F-L-C-Command-Cruiser-1-png.png"
         },
         "name": "F.L.C. Command Cruiser (1)",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
+  "fa'adiyah seer (sudogwon seers)": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/rRv6gBbk/Fa-adiyah-Seer-Sudogwon-Seers-png.png"
+        },
+        "name": "Fa'adiyah Seer (Sudogwon Seers)",
         "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
         "type_line": "Unknown"
       }
@@ -2897,7 +3003,7 @@
     }
   },
   "flawless maneuver": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -2970,7 +3076,7 @@
     }
   },
   "forest": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -3256,6 +3362,32 @@
         "name": "Glamoured Disguises",
         "oracle_text": "Until your next turn, any number of target creatures are Citizens with base power and toughness 1/1.\n Reverberate -   If you've revealed a card this turn, any number of those creatures also lose all abilities until your next turn.",
         "type_line": "Sorcery — Arcane"
+      }
+    }
+  },
+  "glowcap lantern": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/BVVWh5Fz/Glowcap-Lantern-png.png"
+        },
+        "name": "Glowcap Lantern",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
+  "go forth": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/cSx69sJT/Go-Forth-png.png"
+        },
+        "name": "Go Forth",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -3715,6 +3847,19 @@
       }
     }
   },
+  "herald of succession": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/pv2VWgrN/Herald-of-Succession-png.png"
+        },
+        "name": "Herald of Succession",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "hidden lair": {
     "default": "KPDH",
     "printings": {
@@ -3824,6 +3969,19 @@
         "name": "Horizon of the Captivating Skandha",
         "oracle_text": "(As this enters, put all other worlds into their owners' graveyards.) \nAt the beginning of your end step, create a 0/0 blue Spirit Fish creature token with X +1/+1 counters on it, where X is the number of Spirits, Krakens, Leviathans, Octopuses, and Serpents you control.\nWhen this enchantment leaves the battlefield, tap each creature you don't control.",
         "type_line": "World Kindred Enchantment — Spirit"
+      }
+    }
+  },
+  "horizon seeker": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/h12kXFDp/Horizon-Seeker-png.png"
+        },
+        "name": "Horizon Seeker",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -4232,7 +4390,7 @@
     }
   },
   "island": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -4665,6 +4823,19 @@
       }
     }
   },
+  "kodama's reach (gwi-ma's reach)": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/CpLHhrnx/Kodama-s-Reach-Gwi-ma-s-Reach-png.png"
+        },
+        "name": "Kodama's Reach (Gwi-ma's Reach)",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "kokichi muta, empowered": {
     "default": "JJK",
     "printings": {
@@ -4748,6 +4919,19 @@
         "name": "Lay Bare",
         "oracle_text": "Counter target spell. Look at its controller's hand.",
         "type_line": "Instant"
+      }
+    }
+  },
+  "lay of the land": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ksQ3bRNw/Lay-of-the-Land-png.png"
+        },
+        "name": "Lay of the Land",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -5096,6 +5280,19 @@
         "name": "Manafold Wings",
         "oracle_text": "Enchant creature or Vehicle\nEnchanted permanent has flying, vigilance, and lifelink.",
         "type_line": "Enchantment — Aura"
+      }
+    }
+  },
+  "many partings": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/rKtYWt8N/Many-Partings-png.png"
+        },
+        "name": "Many Partings",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -5527,12 +5724,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/d4XbzqVm/Modular-Combat-Drone-png.png"
+          "large": "https://i.ibb.co/zVFWm9px/Modular-Combat-Drone-png.png"
         },
         "name": "Modular Combat Drone",
-        "oracle_text": "Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
-        "power": "2",
-        "toughness": "2",
+        "oracle_text": "Modular 2  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
+        "power": "1",
+        "toughness": "1",
         "type_line": "Artifact Creature — Robot Soldier"
       }
     }
@@ -5625,7 +5822,7 @@
     }
   },
   "mountain": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -5676,11 +5873,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/YFm6CKw5/Munitions-Stockpile-png.png"
+          "large": "https://i.ibb.co/67FGq65W/Munitions-Stockpile-png.png"
         },
         "name": "Munitions Stockpile",
-        "oracle_text": "When this artifact enters, discard a card, then draw a card.\nWhen this artifact leaves the battlefield, it deals 2 damage to any target.",
-        "type_line": "Artifact — Munitions"
+        "oracle_text": "Choose one —\n•  Create two Ordnance tokens.  (They're artifacts with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") \n•  Discard a card, then draw two cards.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -5776,6 +5973,19 @@
         "power": "{fontcolorwhite}1",
         "toughness": "1",
         "type_line": "Creature — Human Demon Druid"
+      }
+    }
+  },
+  "namsan, heart of the honmoon": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/W4bYGt45/Namsan-Heart-of-the-Honmoon-png.png"
+        },
+        "name": "Namsan, Heart of the Honmoon",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -6240,7 +6450,7 @@
     }
   },
   "path to exile": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -6387,7 +6597,7 @@
     }
   },
   "plains": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -6821,7 +7031,7 @@
     }
   },
   "rakdos charm": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -7175,6 +7385,19 @@
       }
     }
   },
+  "revenge of the hunted": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/8gKDYMrv/Revenge-of-the-Hunted-png.png"
+        },
+        "name": "Revenge of the Hunted",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "riding the rhythm": {
     "default": "KPDH",
     "printings": {
@@ -7490,12 +7713,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/k2Pj43vm/S-L-I-Ablative-Volunteer-png.png"
+          "large": "https://i.ibb.co/spZzfDVV/S-L-I-Ablative-Volunteer-TM-png.png"
         },
         "name": "S.L.I. Ablative VolunteerTM",
-        "oracle_text": "Ace 2  (This creature crews Vehicles as though its power were 2 greater.) \nWhenever a Vehicle you control dies, if it was crewed by this creature this turn, sacrifice this creature and return that Vehicle to the battlefield tapped under its owner's control.",
-        "power": "1",
-        "toughness": "1",
+        "oracle_text": "Whenever a Vehicle crewed by this creature this turn dies, you may sacrifice this creature. If you do, return that Vehicle to the battlefield tapped under its owner's control with a +1/+1 counter on it.",
+        "power": "2",
+        "toughness": "2",
         "type_line": "Artifact Creature — Human Pilot"
       }
     }
@@ -8441,7 +8664,7 @@
     }
   },
   "sol ring": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -8901,6 +9124,19 @@
       }
     }
   },
+  "subway train": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/bgvfgM6h/Subway-Train-png.png"
+        },
+        "name": "Subway Train",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "suguru geto, curse catcher": {
     "default": "JJK",
     "printings": {
@@ -9016,7 +9252,7 @@
     }
   },
   "swamp": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -9063,7 +9299,7 @@
     }
   },
   "swiftfoot boots": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -9084,7 +9320,7 @@
     }
   },
   "swords to plowshares": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -9980,7 +10216,7 @@
     }
   },
   "truth and power": {
-    "default": "JJK",
+    "default": "KPDH",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -10545,7 +10781,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/2YtKNkN8/Weathered-Wayfarer-png.png"
+          "large": "https://i.ibb.co/tpfvPPR2/Weathered-Wayfarer-png.png"
         },
         "name": "Weathered Wayfarer",
         "oracle_text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.",
@@ -10805,6 +11041,19 @@
         "power": "1",
         "toughness": "3",
         "type_line": "Legendary Creature — Demon Warrior Performer"
+      }
+    }
+  },
+  "zoey, rap genius": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png"
+        },
+        "name": "Zoey, Rap Genius",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   }

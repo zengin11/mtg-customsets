@@ -19,7 +19,7 @@
     "BTL": {
       "\"Blue Fire\" EMP Strike": "2026-09-02T18:37:21Z",
       "\"Draugr\" Rocket Trucks": "2026-09-02T18:37:21Z",
-      "\"Flyswatter\" Missile Team": "2026-09-11T20:30:58Z",
+      "\"Flyswatter\" Missile Team": "2026-09-15T01:22:25Z",
       "\"Groundpounder\" Brigade": "2026-09-02T18:37:21Z",
       "\"Leonin\" Logistics Chopper": "2026-09-11T20:22:58Z",
       "\"Rampart\" APC Company": "2026-09-02T18:37:21Z",
@@ -27,7 +27,7 @@
       "A-13 \"Honker\" Strike Fighter": "2026-09-02T19:06:14Z",
       "A-44 \"Honker\" Strike Fighter": "2026-09-08T18:22:54Z",
       "AC.30 Booker Recon Gunship": "2026-09-02T20:04:02Z",
-      "AH.960 Booker Retrofit": "2026-09-11T20:30:58Z",
+      "AH.960 Booker Retrofit": "2026-09-15T01:22:25Z",
       "AI Upgrade": "2026-09-02T18:37:21Z",
       "Absent Without Leave": "2026-09-09T16:15:14Z",
       "Accomplished Saboteur": "2026-09-11T20:34:04Z",
@@ -59,6 +59,7 @@
       "Battle of UU10": "2026-09-05T19:10:39Z",
       "Battlefield Engineer": "2026-09-02T18:37:21Z",
       "Bellicose Colonel": "2026-09-12T18:55:18Z",
+      "Big Robot": "2026-09-15T01:22:25Z",
       "Breakthrough Battalion": "2026-09-08T18:22:54Z",
       "Brother on Deployment": "2026-09-05T19:12:46Z",
       "C-10 \"Nanny\" Aircraft Carrier": "2026-09-02T18:37:21Z",
@@ -146,10 +147,10 @@
       "March of the War Machines": "2026-09-02T20:04:02Z",
       "Martyr Siegebreaker": "2026-09-02T18:37:21Z",
       "Mobile Infantry Platoon": "2026-09-02T18:37:21Z",
-      "Modular Combat Drone": "2026-09-11T20:34:04Z",
+      "Modular Combat Drone": "2026-09-15T01:22:25Z",
       "Momentum Chaser": "2026-09-02T19:06:57Z",
       "Munition Stockpile": "2026-09-02T01:01:58Z",
-      "Munitions Stockpile": "2026-09-05T19:12:46Z",
+      "Munitions Stockpile": "2026-09-15T01:22:25Z",
       "Nathan Booker": "2026-09-11T20:22:58Z",
       "Networked Drone Operator": "2026-09-02T18:37:21Z",
       "Neurodigital Virus": "2026-09-02T18:37:21Z",
@@ -195,7 +196,7 @@
       "Reserve Crew": "2026-09-02T18:37:21Z",
       "Resourceful Commandant": "2026-09-02T18:37:21Z",
       "Rods from God": "2026-09-02T18:37:21Z",
-      "S.L.I. Ablative VolunteerTM": "2026-09-11T20:34:04Z",
+      "S.L.I. Ablative VolunteerTM": "2026-09-15T01:22:25Z",
       "S.L.I. Border Post": "2026-09-05T19:10:39Z",
       "SOF Sandstorm Division": "2026-09-02T18:37:21Z",
       "Sabotage of Narroway Bridge": "2026-09-11T20:34:04Z",
@@ -459,6 +460,7 @@
     },
     "KPDH": {
       "Abby, Icon of Strength": "2026-09-02T01:02:00Z",
+      "Abundance": "2026-09-15T01:25:22Z",
       "Anguish": "2026-09-02T01:02:00Z",
       "Arcane Infusion": "2026-09-02T01:02:00Z",
       "Arcane Signet": "2026-09-02T01:02:00Z",
@@ -469,6 +471,7 @@
       "Banishing Strike": "2026-09-02T01:02:00Z",
       "Basilisk Collar": "2026-09-02T01:02:00Z",
       "Beast Within": "2026-09-02T01:02:00Z",
+      "Belt of Giant Strength": "2026-09-15T01:25:22Z",
       "Blasphemous Act": "2026-09-02T01:02:00Z",
       "Blessed Breath": "2026-09-02T01:02:00Z",
       "Bloodthirsty Conqueror": "2026-09-02T01:02:00Z",
@@ -476,6 +479,7 @@
       "Bonfire of the Damned": "2026-09-02T01:02:00Z",
       "Brainstorm": "2026-09-02T01:02:00Z",
       "Brutal Deceivers": "2026-09-02T01:02:00Z",
+      "Bushwhack": "2026-09-15T01:25:22Z",
       "Cabal Therapist": "2026-09-02T01:02:00Z",
       "Calibrated Blast": "2026-09-02T01:02:00Z",
       "Candid Inspiration": "2026-09-02T01:02:00Z",
@@ -487,7 +491,7 @@
       "Celine, Veteran Reaper": "2026-09-02T01:02:00Z",
       "Ceremonial Groundbreaker": "2026-09-02T01:02:00Z",
       "Chaos Warp": "2026-09-02T01:02:00Z",
-      "Cheering Crowd": "2026-09-02T01:02:00Z",
+      "Cheering Crowd": "2026-09-15T01:25:22Z",
       "Chorus of the First Hunters": "2026-09-02T01:02:00Z",
       "Citizen": "2026-09-02T01:02:00Z",
       "Citizen Alt Sob": "2026-09-02T01:02:00Z",
@@ -500,6 +504,7 @@
       "Commander's Plate": "2026-09-02T01:02:00Z",
       "Commander's Plate Alt Huntrix": "2026-09-02T01:02:00Z",
       "Commander's Sphere": "2026-09-02T01:02:00Z",
+      "Commune with Spirits": "2026-09-15T01:25:22Z",
       "Compelled Torment": "2026-09-02T01:02:00Z",
       "Cooking Campsite": "2026-09-02T01:02:00Z",
       "Counterbalance": "2026-09-02T01:02:00Z",
@@ -508,6 +513,7 @@
       "Crosis, the Purger (Gwi-ma, Condemning Kaiju)": "2026-09-02T01:02:00Z",
       "Cruel Ultimatum": "2026-09-02T01:02:00Z",
       "Crumbling Necropolis": "2026-09-02T01:02:00Z",
+      "Cultivate": "2026-09-15T01:25:22Z",
       "Dakra Mystic": "2026-09-02T01:02:00Z",
       "Darling of the Masses": "2026-09-02T01:02:00Z",
       "Deadly Rollick": "2026-09-02T01:02:00Z",
@@ -527,8 +533,10 @@
       "Eerie Procession": "2026-09-02T01:02:00Z",
       "Enlightened Tutor": "2026-09-02T01:02:00Z",
       "Entrancing Melody": "2026-09-02T01:02:00Z",
-      "Environmental Sciences": "2026-09-02T01:02:00Z",
+      "Environmental Sciences": "2026-09-15T01:25:22Z",
+      "Environmental Scientist": "2026-09-15T01:25:22Z",
       "Everdream": "2026-09-02T01:02:00Z",
+      "Fa'adiyah Seer (Sudogwon Seers)": "2026-09-15T01:25:22Z",
       "Fact or Fiction": "2026-09-02T01:02:00Z",
       "Farewell": "2026-09-02T01:02:00Z",
       "Fierce Guardianship": "2026-09-02T01:02:00Z",
@@ -543,6 +551,8 @@
       "Glacial Fortress": "2026-09-02T01:02:00Z",
       "Glacial Ray": "2026-09-02T01:02:00Z",
       "Glamoured Disguises": "2026-09-02T01:02:00Z",
+      "Glowcap Lantern": "2026-09-15T01:25:22Z",
+      "Go Forth": "2026-09-15T01:25:22Z",
       "Grand Crescendo": "2026-09-02T01:02:00Z",
       "Guiding Voice": "2026-09-02T01:02:00Z",
       "Gwi-ma's Distortion": "2026-09-02T01:02:00Z",
@@ -564,9 +574,11 @@
       "Harmonic Restoration": "2026-09-02T01:02:00Z",
       "Harmonize": "2026-09-02T01:02:00Z",
       "Harmonized Crescendo": "2026-09-02T01:02:00Z",
+      "Herald of Succession": "2026-09-15T01:25:22Z",
       "Hidden Lair": "2026-09-02T01:02:00Z",
       "Holistic Clinic": "2026-09-02T01:02:00Z",
       "Horde Ambusher": "2026-09-02T01:02:00Z",
+      "Horizon Seeker": "2026-09-15T01:25:22Z",
       "Hullbreaker Horror": "2026-09-02T01:02:00Z",
       "Hundred-Talon Strike": "2026-09-02T01:02:00Z",
       "Hunter's Stance": "2026-09-02T01:02:00Z",
@@ -585,10 +597,13 @@
       "Jinu, Inquisitory Idol": "2026-09-02T01:02:00Z",
       "Jinu, Living in your Mind": "2026-09-02T01:02:00Z",
       "Junk": "2026-09-02T01:02:00Z",
+      "Kodama's Reach (Gwi-ma's Reach)": "2026-09-15T01:25:22Z",
       "Lay Bare": "2026-09-02T01:02:00Z",
+      "Lay of the Land": "2026-09-15T01:25:22Z",
       "Legion Angel": "2026-09-02T01:02:00Z",
       "Legion Angel Alt": "2026-09-02T01:02:00Z",
       "Lifted by Clouds": "2026-09-02T01:02:00Z",
+      "Many Partings": "2026-09-15T01:25:22Z",
       "Martyr of Sands": "2026-09-02T01:02:00Z",
       "Meet the Light": "2026-09-02T01:02:00Z",
       "Memories Returning": "2026-09-02T01:02:00Z",
@@ -608,6 +623,7 @@
       "Mystery, Silencer of Secrets": "2026-09-02T01:02:00Z",
       "Mystic Monastery": "2026-09-02T01:02:00Z",
       "Mystic Visionaries": "2026-09-02T01:02:00Z",
+      "Namsan, Heart of the Honmoon": "2026-09-15T01:25:22Z",
       "Night's Whisper": "2026-09-02T01:02:00Z",
       "Observed Alleyway": "2026-09-02T01:02:00Z",
       "Open the Armory": "2026-09-02T01:02:00Z",
@@ -637,6 +653,7 @@
       "Resonating Strike": "2026-09-02T01:02:00Z",
       "Resounding Negation": "2026-09-02T01:02:00Z",
       "Restless Spire": "2026-09-02T01:02:00Z",
+      "Revenge of the Hunted": "2026-09-15T01:25:22Z",
       "Riding the Rhythm": "2026-09-02T01:02:00Z",
       "Rogue's Passage": "2026-09-02T01:02:00Z",
       "Romance, Alluring Star": "2026-09-02T01:02:00Z",
@@ -682,6 +699,7 @@
       "Stormcarved Coast": "2026-09-02T01:02:00Z",
       "Stormchaser Chimera": "2026-09-02T01:02:00Z",
       "Strange Inversion": "2026-09-02T01:02:00Z",
+      "Subway Train": "2026-09-15T01:25:22Z",
       "Sulfur Falls": "2026-09-02T01:02:00Z",
       "Sunken Hollow": "2026-09-02T01:02:00Z",
       "Sunlight Seekers": "2026-09-02T01:02:00Z",
@@ -718,13 +736,14 @@
       "Warm Welcome": "2026-09-02T01:02:00Z",
       "Wash Away": "2026-09-02T01:02:00Z",
       "Watcher of the Roost": "2026-09-02T01:02:00Z",
-      "Weathered Wayfarer": "2026-09-02T01:02:00Z",
+      "Weathered Wayfarer": "2026-09-15T01:25:22Z",
       "Wrath of God": "2026-09-02T01:02:00Z",
       "Zoey's Shin-kal": "2026-09-02T01:02:00Z",
       "Zoey, Colors Swirling": "2026-09-02T01:02:00Z",
       "Zoey, HUNTR/X Maknae": "2026-09-02T01:02:00Z",
       "Zoey, HUNTR_X Maknae Promo": "2026-09-02T01:02:00Z",
-      "Zoey, Infernal Thrall": "2026-09-02T01:02:00Z"
+      "Zoey, Infernal Thrall": "2026-09-02T01:02:00Z",
+      "Zoey, Rap Genius": "2026-09-15T01:25:22Z"
     },
     "NGO": {
       "Amazing Spider-Man": "2026-09-02T01:02:02Z",
@@ -838,13 +857,13 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-12T19:13:02Z"
+      "updated": "2026-09-15T01:22:25Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-02T01:02:00Z"
+      "updated": "2026-09-15T01:25:22Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -860,6 +879,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-12T18:53:55Z"
+    "updated": "2026-09-12T19:12:56Z"
   }
 }
