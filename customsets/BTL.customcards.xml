@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-14</releasedate>
+        <set> v1.4<releasedate>2026-09-17</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
@@ -812,26 +812,6 @@ Destroy target creature or Vehicle.</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>"Flyswatter" Missile Team</name>
-            <text>Reach
-When this creature enters, create a Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/ymN9cNr6/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/kVG7sGt4/Flyswatter-Missile-Team-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Thrull Squad Support Drone</name>
             <text>Menace
 Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) 
@@ -975,7 +955,7 @@ Crew 2</text>
             </card>
         <card>
             <name>Modular Combat Drone</name>
-            <text>Modular 2  (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
+            <text>Modular 2  (This creature enters with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1194,6 +1174,26 @@ Enchanted creature and any Vehicles crewed by it this turn attack each turn if a
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/vC9LBX1Q/War-Fever-png.png" picurl_large="https://i.ibb.co/GfmCJH7t/War-Fever-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>"Flyswatter" Missile Team</name>
+            <text>Reach
+When this creature enters, create an Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/ymN9cNr6/Flyswatter-Missile-Team-png.png" picurl_large="https://i.ibb.co/kVG7sGt4/Flyswatter-Missile-Team-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Dedicated Roboticist</name>
@@ -1440,7 +1440,7 @@ Untap this creature during each other player's untap step.</text>
             </card>
         <card>
             <name>Siege of UH09</name>
-            <text>When this Siege enters, it deals 3 damage to its protector.</text>
+            <text>When this Siege enters, create an Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -1454,7 +1454,7 @@ Untap this creature during each other player's untap step.</text>
                 <loyalty>3</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/HLWHtyZz/Siege-of-UH09-png.png" picurl_large="https://i.ibb.co/TDVg4Gy8/Siege-of-UH09-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Vpxd8Hpm/Siege-of-UH09-png.png" picurl_large="https://i.ibb.co/sJChr5JH/Siege-of-UH09-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Victory of UH09</related>
             </card>
@@ -1804,21 +1804,21 @@ Crew 3</text>
             </card>
         <card>
             <name>Battle of UB08</name>
-            <text>At the beginning of your end step, each opponent loses 1 life and you gain 1 life.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>4</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/k2tXBtby/Battle-of-UB08-png.png" picurl_large="https://i.ibb.co/s9ZqRZxP/Battle-of-UB08-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/k2tXBtby/Battle-of-UB08-png.png" picurl_large="https://i.ibb.co/s9ZqRZxP/Battle-of-UB08-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3166,7 +3166,7 @@ Crew 1</text>
         <card>
             <name>AH.960 Booker Retrofit</name>
             <text>Flying, deathtouch
-When this Vehicle dies, put a +1/+1 counter on target creature you control.
+When this Vehicle dies, put a +1/+1 counter on target creature or Vehicle you control.
 Crew 1</text>
             <prop>
                 <layout>normal</layout>
@@ -3297,12 +3297,12 @@ Crew 1</text>
                 <colors />
                 <coloridentity>WR</coloridentity>
                 <maintype>Land</maintype>
-                <type>Legendary Land</type>
+                <type>Land</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/QFBPXVXj/Gallandi-Ace-Academy-png.png" picurl_large="https://i.ibb.co/PZpctytz/Gallandi-Ace-Academy-png.png">BTL</set>
+            <set rarity="Rare" picurl="https://i.ibb.co/7x28MkBk/Gallandi-Ace-Academy-png.png" picurl_large="https://i.ibb.co/6cgV9XGX/Gallandi-Ace-Academy-png.png">BTL</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -3788,7 +3788,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             </card>
         <card>
             <name>Flight School</name>
-            <text>{T}: Add {1}
+            <text>{T}: Add {C}
 {2}, {T}: Create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater.)</text>
             <prop>
                 <layout>normal</layout>
@@ -3803,7 +3803,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/hFTmB2DP/Flight-School-png.png" picurl_large="https://i.ibb.co/xqr71zJp/Flight-School-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/KjZf1T0R/Flight-School-png.png" picurl_large="https://i.ibb.co/N6hJ4cVQ/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
             </card>
         <card>

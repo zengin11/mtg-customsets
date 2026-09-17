@@ -1,94 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-14</releasedate>
+        <set> v1.4<releasedate>2026-09-17</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
-        <card>
-            <name>Baby Saja, Ungodly Lyricist</name>
-            <text>Shame  - Whenever an opponent reveals their first card or cards each turn, choose one.
-•  Draw a card.
-•  Add {r}{r}. Until end of turn, you don't lose this mana as steps and phases end. 
-Partner—Saja</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{u}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>1/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/39Jbbdrf/Baby-Saja-Ungodly-Lyricist-png.png" picurl_large="https://i.ibb.co/67dSSwnv/Baby-Saja-Ungodly-Lyricist-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Warm Welcome</name>
-            <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. Create a 1/1 green and white Citizen creature token.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{g}</manacost>
-                <cmc>4</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nN0wX5K9/Warm-Welcome-png.png" picurl_large="https://i.ibb.co/W43HrYRZ/Warm-Welcome-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Temple of Malice</name>
-            <text>This land enters tapped.
-When this land enters, scry 1.
-{T}: Add {B} or {R}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity>BR</coloridentity>
-                <maintype>Land</maintype>
-                <type>Land</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XgwykJk/Temple-of-Malice-png.png" picurl_large="https://i.ibb.co/bZfHRdR/Temple-of-Malice-png.png">KPDH</set>
-            <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Zoey, Lyrical Genius</name>
-            <text>Each instant and sorcery card in your hand has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice a card onto another spell, reveal it from your hand and pay its splice cost as you cast that spell. Add the revealed card's effects to that spell.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{u}{r}</manacost>
-                <cmc>2</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Performer</type>
-                <pt>0/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/ynKvgcjD/Zoey-Lyrical-Genius-png.png" picurl_large="https://i.ibb.co/xSw9ztTy/Zoey-Lyrical-Genius-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -666,7 +585,7 @@ Splice onto instant or sorcery {2}{u}{u}  (As you cast an instant or sorcery spe
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5gZcz4kC/Seaside-Citadel-png.png" picurl_large="https://i.ibb.co/5gZcz4kC/Seaside-Citadel-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Hffsvrpn/Seaside-Citadel-png.png" picurl_large="https://i.ibb.co/hJJj5K1D/Seaside-Citadel-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1688,7 +1607,7 @@ Partner—Saja</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zHCf2cvW/Mystery-Show-Stealer-png.png" picurl_large="https://i.ibb.co/zHCf2cvW/Mystery-Show-Stealer-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jkhnYK4h/Mystery-Show-Stealer-png.png" picurl_large="https://i.ibb.co/tpBV6fCB/Mystery-Show-Stealer-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1852,6 +1771,28 @@ Equip {2}</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/v4GsXfRt/Vibrant-Cityscape-png.png" picurl_large="https://i.ibb.co/v4GsXfRt/Vibrant-Cityscape-png.png">KPDH</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Baby Saja, Ungodly Lyricist</name>
+            <text>Shame  - Whenever an opponent reveals their first card or cards each turn, choose one.
+•  Draw a card.
+•  Add {r}{r}. Until end of turn, you don't lose this mana as steps and phases end. 
+Partner—Saja</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/r2fY3BdQ/Baby-Saja-Ungodly-Lyricist-png.png" picurl_large="https://i.ibb.co/HTp6CchK/Baby-Saja-Ungodly-Lyricist-png.png">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Friendly Neighborhood</name>
@@ -2201,6 +2142,25 @@ Partner—Saja</text>
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Warm Welcome</name>
+            <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. Create a 1/1 green and white Citizen creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{g}</manacost>
+                <cmc>4</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/nN0wX5K9/Warm-Welcome-png.png" picurl_large="https://i.ibb.co/W43HrYRZ/Warm-Welcome-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Guiding Voice</name>
             <text>Put a +1/+1 counter on target creature.
 Learn.  (You may reveal a Lesson card you own from outside the game and put it into your hand, or may discard a card to draw a card.) </text>
@@ -2440,7 +2400,7 @@ Partner—Saja</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gZ94p9Gc/Romance-Alluring-Star-png.png" picurl_large="https://i.ibb.co/gZ94p9Gc/Romance-Alluring-Star-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/60xshCxF/Romance-Alluring-Star-png.png" picurl_large="https://i.ibb.co/d4qK9YqD/Romance-Alluring-Star-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3899,6 +3859,27 @@ Splice onto Arcane—Tap an untapped white creature you control.  (As you cast a
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Temple of Malice</name>
+            <text>This land enters tapped.
+When this land enters, scry 1.
+{T}: Add {B} or {R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>BR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XgwykJk/Temple-of-Malice-png.png" picurl_large="https://i.ibb.co/bZfHRdR/Temple-of-Malice-png.png">KPDH</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
             <name>Food alt Sexy</name>
             <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
             <prop>
@@ -4901,6 +4882,25 @@ If you've revealed a blue card this turn, scry 1, then draw a card.</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Zoey, Lyrical Genius</name>
+            <text>Each instant and sorcery card in your hand has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice a card onto another spell, reveal it from your hand and pay its splice cost as you cast that spell. Add the revealed card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Performer</type>
+                <pt>0/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ynKvgcjD/Zoey-Lyrical-Genius-png.png" picurl_large="https://i.ibb.co/xSw9ztTy/Zoey-Lyrical-Genius-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Abby, Icon of Strength</name>
             <text>Trample
  Shame -  Whenever an opponent reveals their first card or cards each turn, you may pay X life, where X is the highest mana value among those cards. If you do, Abby gets +X/+X until end of turn.
@@ -4918,7 +4918,7 @@ Partner—Saja  (You can have two commanders if both have this.) </text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/svvvrcB5/Abby-Icon-of-Strength-png.png" picurl_large="https://i.ibb.co/svvvrcB5/Abby-Icon-of-Strength-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BV1PCxVK/Abby-Icon-of-Strength-png.png" picurl_large="https://i.ibb.co/wNvLzXNr/Abby-Icon-of-Strength-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -5672,6 +5672,25 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Urban Retreat</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/LDgfGKkJ/Urban-Retreat-png.png" picurl_large="https://i.ibb.co/GfMjhmxt/Urban-Retreat-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>

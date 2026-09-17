@@ -19,7 +19,7 @@
     "BTL": {
       "\"Blue Fire\" EMP Strike": "2026-09-02T18:37:21Z",
       "\"Draugr\" Rocket Trucks": "2026-09-02T18:37:21Z",
-      "\"Flyswatter\" Missile Team": "2026-09-15T01:22:25Z",
+      "\"Flyswatter\" Missile Team": "2026-09-17T16:24:47Z",
       "\"Groundpounder\" Brigade": "2026-09-02T18:37:21Z",
       "\"Leonin\" Logistics Chopper": "2026-09-11T20:22:58Z",
       "\"Rampart\" APC Company": "2026-09-02T18:37:21Z",
@@ -27,7 +27,7 @@
       "A-13 \"Honker\" Strike Fighter": "2026-09-02T19:06:14Z",
       "A-44 \"Honker\" Strike Fighter": "2026-09-08T18:22:54Z",
       "AC.30 Booker Recon Gunship": "2026-09-02T20:04:02Z",
-      "AH.960 Booker Retrofit": "2026-09-15T01:22:25Z",
+      "AH.960 Booker Retrofit": "2026-09-17T16:24:47Z",
       "AI Upgrade": "2026-09-02T18:37:21Z",
       "Absent Without Leave": "2026-09-09T16:15:14Z",
       "Accomplished Saboteur": "2026-09-11T20:34:04Z",
@@ -55,7 +55,7 @@
       "BG Signpost": "2026-09-02T19:06:15Z",
       "Battle of CG11": "2026-09-11T20:28:33Z",
       "Battle of CW12": "2026-09-11T20:28:33Z",
-      "Battle of UB08": "2026-09-02T18:37:21Z",
+      "Battle of UB08": "2026-09-17T16:24:47Z",
       "Battle of UU10": "2026-09-05T19:10:39Z",
       "Battlefield Engineer": "2026-09-02T18:37:21Z",
       "Bellicose Colonel": "2026-09-12T18:55:18Z",
@@ -110,14 +110,14 @@
       "Field Salvage Kit": "2026-09-02T18:37:21Z",
       "Fighter": "2026-09-05T19:10:39Z",
       "Fire the R-ZERO": "2026-09-02T20:26:55Z",
-      "Flight School": "2026-09-02T18:37:21Z",
+      "Flight School": "2026-09-17T16:24:47Z",
       "Force a Retreat": "2026-09-09T16:15:14Z",
       "Fort Steelgill's Judgement": "2026-09-11T20:30:58Z",
       "Freelance Recovery": "2026-09-11T20:34:04Z",
       "From Rubble": "2026-09-11T20:34:04Z",
       "Frontline Reinforcements": "2026-09-02T18:37:21Z",
       "Fund the Front": "2026-09-12T18:55:18Z",
-      "Gallandi Ace Academy": "2026-09-02T18:37:21Z",
+      "Gallandi Ace Academy": "2026-09-17T16:24:47Z",
       "Gallandi Border Post": "2026-09-05T19:10:39Z",
       "Gallandi Gunship Crew": "2026-09-02T18:37:21Z",
       "Genesis Tactical Assault Unit": "2026-09-11T20:34:04Z",
@@ -147,7 +147,7 @@
       "March of the War Machines": "2026-09-02T20:04:02Z",
       "Martyr Siegebreaker": "2026-09-02T18:37:21Z",
       "Mobile Infantry Platoon": "2026-09-02T18:37:21Z",
-      "Modular Combat Drone": "2026-09-15T01:22:25Z",
+      "Modular Combat Drone": "2026-09-17T16:24:47Z",
       "Momentum Chaser": "2026-09-02T19:06:57Z",
       "Munition Stockpile": "2026-09-02T01:01:58Z",
       "Munitions Stockpile": "2026-09-15T01:22:25Z",
@@ -219,7 +219,7 @@
       "Siege of UH06": "2026-09-02T20:26:55Z",
       "Siege of UH07": "2026-09-02T20:26:55Z",
       "Siege of UH08": "2026-09-02T20:26:55Z",
-      "Siege of UH09": "2026-09-02T20:26:55Z",
+      "Siege of UH09": "2026-09-17T16:24:47Z",
       "Site Augustine, S.L.I. Capital": "2026-09-05T19:10:39Z",
       "Skywatch Anti-Air Division": "2026-09-12T18:55:18Z",
       "Soaring Onslaught": "2026-09-02T19:53:55Z",
@@ -459,14 +459,14 @@
       "Yuta, Jujutsu Duplicator": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "Abby, Icon of Strength": "2026-09-02T01:02:00Z",
+      "Abby, Icon of Strength": "2026-09-17T16:25:39Z",
       "Abundance": "2026-09-15T03:49:11Z",
       "Anguish": "2026-09-02T01:02:00Z",
       "Arcane Infusion": "2026-09-02T01:02:00Z",
       "Arcane Signet": "2026-09-02T01:02:00Z",
       "Arcane Signet Alt": "2026-09-02T01:02:00Z",
       "Ascendant Finale": "2026-09-02T01:02:00Z",
-      "Baby Saja, Ungodly Lyricist": "2026-09-15T03:49:11Z",
+      "Baby Saja, Ungodly Lyricist": "2026-09-17T16:25:39Z",
       "Banishing Light": "2026-09-02T01:02:00Z",
       "Banishing Strike": "2026-09-02T01:02:00Z",
       "Basilisk Collar": "2026-09-02T01:02:00Z",
@@ -619,7 +619,7 @@
       "Mountain": "2026-09-02T01:02:00Z",
       "Murmurs from Beyond": "2026-09-02T01:02:00Z",
       "Myriad Landscape": "2026-09-02T01:02:00Z",
-      "Mystery, Show Stealer": "2026-09-02T01:02:00Z",
+      "Mystery, Show Stealer": "2026-09-17T16:25:39Z",
       "Mystery, Silencer of Secrets": "2026-09-02T01:02:00Z",
       "Mystic Monastery": "2026-09-02T01:02:00Z",
       "Mystic Visionaries": "2026-09-02T01:02:00Z",
@@ -656,7 +656,7 @@
       "Revenge of the Hunted": "2026-09-15T03:49:11Z",
       "Riding the Rhythm": "2026-09-02T01:02:00Z",
       "Rogue's Passage": "2026-09-02T01:02:00Z",
-      "Romance, Alluring Star": "2026-09-02T01:02:00Z",
+      "Romance, Alluring Star": "2026-09-17T16:25:39Z",
       "Romantic Getaway": "2026-09-02T01:02:00Z",
       "Rooftop Rendezvous": "2026-09-02T01:02:00Z",
       "Ruby Medallion": "2026-09-02T01:02:00Z",
@@ -672,7 +672,7 @@
       "Sapphire Medallion": "2026-09-02T01:02:00Z",
       "Scepter of Celebration": "2026-09-02T01:02:00Z",
       "Scheduled Thoroughfare": "2026-09-02T01:02:00Z",
-      "Seaside Citadel": "2026-09-02T01:02:00Z",
+      "Seaside Citadel": "2026-09-17T16:25:39Z",
       "Seething Landscape": "2026-09-02T01:02:00Z",
       "Seething Song": "2026-09-02T01:02:00Z",
       "Shameful Distortion": "2026-09-02T01:02:00Z",
@@ -729,6 +729,7 @@
       "Unassuming Crowd": "2026-09-02T01:02:00Z",
       "Unbreakable Formation": "2026-09-02T01:02:00Z",
       "Underground River": "2026-09-02T01:02:00Z",
+      "Urban Retreat": "2026-09-17T16:25:39Z",
       "Veil of Secrecy": "2026-09-02T01:02:00Z",
       "Vibrant Cityscape": "2026-09-02T01:02:00Z",
       "Vineglimmer Snarl": "2026-09-02T01:02:00Z",
@@ -858,13 +859,13 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-15T01:22:25Z"
+      "updated": "2026-09-17T16:24:47Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-15T03:49:11Z"
+      "updated": "2026-09-17T16:25:39Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -880,6 +881,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-15T01:22:05Z"
+    "updated": "2026-09-15T03:48:31Z"
   }
 }
