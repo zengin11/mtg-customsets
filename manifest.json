@@ -630,6 +630,7 @@
       "Observed Alleyway": "2026-09-02T01:02:00Z",
       "Open the Armory": "2026-09-02T01:02:00Z",
       "Open the Armory Alt": "2026-09-02T01:02:00Z",
+      "Oracle of Mul Daya": "2026-09-24T02:48:43Z",
       "Overblaze": "2026-09-02T01:02:00Z",
       "Path of Ancestry": "2026-09-02T01:02:00Z",
       "Path of Ancestry Alt": "2026-09-02T01:02:00Z",
@@ -868,7 +869,7 @@
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-24T01:48:01Z"
+      "updated": "2026-09-24T02:48:43Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -884,6 +885,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-24T01:44:47Z"
+    "updated": "2026-09-24T01:48:02Z"
   }
 }

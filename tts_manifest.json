@@ -6326,6 +6326,21 @@
       }
     }
   },
+  "oracle of mul daya": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/sJqfPkK7/Oracle-of-Mul-Daya-png.png"
+        },
+        "name": "Oracle of Mul Daya",
+        "oracle_text": "You may play an additional land on each of your turns.\nPlay with the top card of your library revealed.\nYou may play lands from the top of your library.",
+        "power": "2",
+        "toughness": "2",
+        "type_line": "Creature — Elf Shaman"
+      }
+    }
+  },
   "order a counterattack": {
     "default": "BTL",
     "printings": {
