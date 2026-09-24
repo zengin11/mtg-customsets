@@ -9,24 +9,43 @@
         </sets>
     <cards>
         <card>
-            <name>Oracle of Mul Daya</name>
-            <text>You may play an additional land on each of your turns.
-Play with the top card of your library revealed.
-You may play lands from the top of your library.</text>
+            <name>Harmonic Restoration</name>
+            <text>Reverberate -  Return target creature card from your graveyard to your hand. If you revealed one or more cards this turn, return it to the battlefield instead.
+Miracle {w}  (You may cast this card for its Miracle cost when you draw it if it's the first card you drew this turn.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{G}</manacost>
-                <cmc>4</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Shaman</maintype>
-                <type>Creature — Elf Shaman</type>
-                <pt>2/2</pt>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sJqfPkK7/Oracle-of-Mul-Daya-png.png" picurl_large="https://i.ibb.co/prd7PGfq/Oracle-of-Mul-Daya-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/FtHBCfy/Harmonic-Restoration-png.png" picurl_large="https://i.ibb.co/KHK9SQf/Harmonic-Restoration-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Thunderous Wrath</name>
+            <text>Thunderous Wrath deals 5 damage to any target.
+Miracle {R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{R}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8nmRSQck/Thunderous-Wrath-png.png" picurl_large="https://i.ibb.co/Kc5Q38wn/Thunderous-Wrath-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1091,26 +1110,6 @@ When this artifact enters, draw a card.
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Harmonic Restoration</name>
-            <text>Resonate -  Return target creature card from your graveyard to your hand. If you revealed one or more cards this turn, return it to the battlefield instead.
-Splice onto instant or sorcery {4}{w}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{w}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery - Arcane</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dwKJtDkX/Harmonic-Restoration-png.png" picurl_large="https://i.ibb.co/dwKJtDkX/Harmonic-Restoration-png.png">KPDH</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
             <name>Clifftop Retreat</name>
             <text>This land enters tapped unless you control a Mountain or a Plains.
 {T}: Add {R} or {W}.</text>
@@ -1712,27 +1711,6 @@ Splice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this car
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Celine, Trainer of Hunters</name>
-            <text>Double strike
-Arcane spells and Performer spells you cast cost {r} less to cast.  (This can reduce generic costs.) 
-Other Warriors you control get +1/+1.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{w}{w}{u}</manacost>
-                <cmc>3</cmc>
-                <colors>WU</colors>
-                <coloridentity>WUR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior</type>
-                <pt>1/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/j9FW9XhD/Celine-Trainer-of-Hunters-png.png" picurl_large="https://i.ibb.co/j9FW9XhD/Celine-Trainer-of-Hunters-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Glowcap Lantern</name>
             <text>Equipped creature has "You may look at the top card of your library any time" and "Whenever this creature attacks, it explores."  (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.) 
 Equip {2}</text>
@@ -2055,6 +2033,27 @@ Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card f
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/SbFZ0By/Gwi-ma-s-Soulripper-png.png" picurl_large="https://i.ibb.co/SbFZ0By/Gwi-ma-s-Soulripper-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Oracle of Mul Daya</name>
+            <text>You may play an additional land on each of your turns.
+Play with the top card of your library revealed.
+You may play lands from the top of your library.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{G}</manacost>
+                <cmc>4</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Shaman</maintype>
+                <type>Creature — Elf Shaman</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/sJqfPkK7/Oracle-of-Mul-Daya-png.png" picurl_large="https://i.ibb.co/prd7PGfq/Oracle-of-Mul-Daya-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Truth and Power</name>
@@ -3222,27 +3221,6 @@ Flashback {7}{U}{U}</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Djinn of Wishes</name>
-            <text>Flying
-This creature enters with three wish counters on it.
-{2}{u}{u}, Remove a wish counter from this creature: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{u}{u}</manacost>
-                <cmc>5</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Djinn</maintype>
-                <type>Creature — Djinn</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/204ZcqrB/Djinn-of-Wishes-png.png" picurl_large="https://i.ibb.co/204ZcqrB/Djinn-of-Wishes-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Food</name>
             <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
             <prop>
@@ -3997,25 +3975,6 @@ Counter target spell [that wasn't cast from its owner's hand].</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Gwi-ma's Distortion</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fYWtjHWb/Gwi-ma-s-Distortion-png.png" picurl_large="https://i.ibb.co/fYWtjHWb/Gwi-ma-s-Distortion-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Harmonized Crescendo</name>
             <text>Convoke  (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) 
 Choose a creature type. Draw a card for each permanent you control of that type.</text>
@@ -4072,26 +4031,6 @@ Splice onto instant or sorcery {2}{u}{r}  (As you cast an instant or sorcery spe
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/bZbyJmn/Echoing-Harmony-png.png" picurl_large="https://i.ibb.co/bZbyJmn/Echoing-Harmony-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Thunderous Wrath</name>
-            <text>Thunderous Wrath deals 5 damage to any target.
-Miracle {R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{R}{R}</manacost>
-                <cmc>6</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gLFjL0cV/Thunderous-Wrath-png.png" picurl_large="https://i.ibb.co/gLFjL0cV/Thunderous-Wrath-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5298,25 +5237,6 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Mystery, Silencer of Secrets</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PzWc5v3d/Mystery-Silencer-of-Secrets-png.png" picurl_large="https://i.ibb.co/PzWc5v3d/Mystery-Silencer-of-Secrets-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Twiddle</name>
             <text>You may tap or untap target artifact, creature, or land.</text>
             <prop>
@@ -5528,25 +5448,6 @@ Splice onto instant or sorcery {2}{U}  (As you cast an instant or sorcery spell,
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/RTtvXqqL/Everdream-png.png" picurl_large="https://i.ibb.co/RTtvXqqL/Everdream-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Cruel Ultimatum</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/w8THHfQ/Cruel-Ultimatum-png.png" picurl_large="https://i.ibb.co/w8THHfQ/Cruel-Ultimatum-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>

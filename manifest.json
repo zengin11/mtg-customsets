@@ -491,6 +491,7 @@
       "Celine, Trainer of Hunters Alt": "2026-09-02T01:02:00Z",
       "Celine, Veteran Hunter": "2026-09-24T01:43:40Z",
       "Celine, Veteran Reaper": "2026-09-02T01:02:00Z",
+      "Celine, trainer of hunters": "2026-09-24T03:35:11Z",
       "Ceremonial Groundbreaker": "2026-09-02T01:02:00Z",
       "Chaos Warp": "2026-09-02T01:02:00Z",
       "Cheering Crowd": "2026-09-15T01:25:22Z",
@@ -513,7 +514,7 @@
       "Counterspell": "2026-09-02T01:02:00Z",
       "Counterspell Alt \uc8fc\ubb38 \ubb34\ud6a8\ud654": "2026-09-02T01:02:00Z",
       "Crosis, the Purger (Gwi-ma, Condemning Kaiju)": "2026-09-02T01:02:00Z",
-      "Cruel Ultimatum": "2026-09-02T01:02:00Z",
+      "Cruel Ultimatum": "2026-09-24T03:35:11Z",
       "Crumbling Necropolis": "2026-09-02T01:02:00Z",
       "Cultivate": "2026-09-15T03:49:11Z",
       "Dakra Mystic": "2026-09-02T01:02:00Z",
@@ -526,7 +527,7 @@
       "Disaster Radius": "2026-09-02T01:02:00Z",
       "Distant Melody": "2026-09-02T01:02:00Z",
       "Dive in the Fire": "2026-09-02T01:02:00Z",
-      "Djinn of Wishes": "2026-09-02T01:02:00Z",
+      "Djinn of Wishes": "2026-09-24T03:35:11Z",
       "Dragon's Eye Savants": "2026-09-02T01:02:00Z",
       "Eavesdropping Overview": "2026-09-02T01:02:00Z",
       "Echoing Banishment": "2026-09-02T01:02:00Z",
@@ -557,7 +558,7 @@
       "Go Forth": "2026-09-15T03:49:11Z",
       "Grand Crescendo": "2026-09-02T01:02:00Z",
       "Guiding Voice": "2026-09-02T01:02:00Z",
-      "Gwi-ma's Distortion": "2026-09-02T01:02:00Z",
+      "Gwi-ma's Distortion": "2026-09-24T03:35:11Z",
       "Gwi-ma's Griefchaser": "2026-09-02T01:02:00Z",
       "Gwi-ma's Guiltsapper": "2026-09-02T01:02:00Z",
       "Gwi-ma's Heartflayer": "2026-09-02T01:02:00Z",
@@ -573,7 +574,7 @@
       "HUNTR_X, Ft. the Fans Promo": "2026-09-02T01:02:00Z",
       "Halo Fountain": "2026-09-02T01:02:00Z",
       "Halo Fountain Alt": "2026-09-02T01:02:00Z",
-      "Harmonic Restoration": "2026-09-02T01:02:00Z",
+      "Harmonic Restoration": "2026-09-24T03:35:50Z",
       "Harmonize": "2026-09-02T01:02:00Z",
       "Harmonized Crescendo": "2026-09-02T01:02:00Z",
       "Herald of Succession": "2026-09-15T03:49:11Z",
@@ -622,7 +623,7 @@
       "Murmurs from Beyond": "2026-09-02T01:02:00Z",
       "Myriad Landscape": "2026-09-02T01:02:00Z",
       "Mystery, Show Stealer": "2026-09-24T01:43:40Z",
-      "Mystery, Silencer of Secrets": "2026-09-02T01:02:00Z",
+      "Mystery, Silencer of Secrets": "2026-09-24T03:35:11Z",
       "Mystic Monastery": "2026-09-02T01:02:00Z",
       "Mystic Visionaries": "2026-09-02T01:02:00Z",
       "Namsan, Heart of the Honmoon": "2026-09-15T03:49:11Z",
@@ -723,7 +724,7 @@
       "The Honmoon Reawakened": "2026-09-02T01:02:00Z",
       "Thoughtcutter Agent": "2026-09-02T01:02:00Z",
       "Through the Breach": "2026-09-02T01:02:00Z",
-      "Thunderous Wrath": "2026-09-02T01:02:00Z",
+      "Thunderous Wrath": "2026-09-24T03:35:50Z",
       "Tranquil Landscape": "2026-09-02T01:02:00Z",
       "Treasure": "2026-09-02T01:02:00Z",
       "Truth and Power": "2026-09-02T01:02:00Z",
@@ -869,7 +870,7 @@
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-24T02:48:43Z"
+      "updated": "2026-09-24T03:35:50Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -885,6 +886,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-24T01:48:02Z"
+    "updated": "2026-09-24T02:48:35Z"
   }
 }
