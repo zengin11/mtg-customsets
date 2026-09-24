@@ -2208,7 +2208,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8g2Jbyc8/Defense-of-the-Marchwall-png.png"
+          "large": "https://i.ibb.co/MD2yB4KS/Defense-of-the-Marchwall-png.png"
         },
         "loyalty": "5",
         "name": "Defense of the Marchwall",
@@ -4319,7 +4319,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/9Qq6LSs/Inspiring-Sergeant-png.png"
+          "large": "https://i.ibb.co/rRLhF2Dn/Inspiring-Sergeant-png.png"
         },
         "name": "Inspiring Sergeant",
         "oracle_text": "Flash\n Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on target creature.",
@@ -6331,7 +6331,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/cXZxnxy5/Order-a-Counterattack-png.png"
+          "large": "https://i.ibb.co/0xS04L9/Order-a-Counterattack-png.png"
         },
         "name": "Order a Counterattack",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature.\n•   Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.",
@@ -6357,7 +6357,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/TDfS5FdC/Order-a-Resupply-png.png"
+          "large": "https://i.ibb.co/gM0bZLvm/Order-a-Resupply-png.png"
         },
         "name": "Order a Resupply",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Draw two cards.\n•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
@@ -6370,7 +6370,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/C3HwzzhR/Order-an-Air-Defense-png.png"
+          "large": "https://i.ibb.co/TDJLYqg5/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature or Vehicle with flying.\n•   Populate  (Create a token that's a copy of a creature token you control.) ",
@@ -6761,7 +6761,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/cXhdLX5D/Preserver-of-the-Penitent-png.png"
+          "large": "https://i.ibb.co/spPwJGfG/Preserver-of-the-Penitent-png.png"
         },
         "name": "Preserver of the Penitent",
         "oracle_text": "Lifelink\n{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle.\nCrew 2",
@@ -10210,7 +10210,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/C59dhQwM/Price-of-a-Mile-png.png"
+              "large": "https://i.ibb.co/fVVSLJG2/Price-of-a-Mile-png.png"
             },
             "name": "Price of a Mile",
             "oracle_text": "Create a Treasure token. Each opponent discards a card and loses 1 life.",

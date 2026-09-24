@@ -9,149 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Zoey, Colors Swirling</name>
-            <text>Each instant and sorcery card you own has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice, reveal a card from your hand and pay its splice cost as you cast another spell. Add the revealed card's effects to that spell.) 
-Partner—HUNTR/X</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}</manacost>
-                <cmc>2</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>1/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3mCHyJnw/Zoey-Colors-Swirling-png.png" picurl_large="https://i.ibb.co/N2yz64MX/Zoey-Colors-Swirling-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Meet the Light</name>
-            <text>Each player reveals their hand, all face-down permanents they control, and all face-down cards they own in exile.  (Do so all at once.) 
-Draw a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{u}</manacost>
-                <cmc>1</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant - Arcane</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Fqnbsb8C/Meet-the-Light-png.png" picurl_large="https://i.ibb.co/mFSCvChg/Meet-the-Light-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Artist's Talent</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Class</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/spcHjQL4/Artist-s-Talent-png.png" picurl_large="https://i.ibb.co/DPmp4k3F/Artist-s-Talent-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Zoey, Crowd Pleaser</name>
-            <text>Reach
-Whenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.
-Partner—HUNTR/X</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>1/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0yHmG4vw/Zoey-Crowd-Pleaser-png.png" picurl_large="https://i.ibb.co/60jrW9Ld/Zoey-Crowd-Pleaser-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Celine, Veteran Hunter</name>
-            <text>Double strike, vigilance
-Whenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}{w}</manacost>
-                <cmc>4</cmc>
-                <colors>WUR</colors>
-                <coloridentity>WUR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior</type>
-                <pt>2/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/F48zzTcF/Celine-Veteran-Hunter-png.png" picurl_large="https://i.ibb.co/JjrHHJ89/Celine-Veteran-Hunter-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Mira, Napalm Era</name>
-            <text>Trample
-{2}{r}: Reveal the top card of your library. You may exile it.
-Resonate - Mira gets +2/+2 until end of turn.  (Do so whenever an effect has you reveal one or more cards.) 
-Partner—HUNTR/X</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/yFVWnfdG/Mira-Napalm-Era-png.png" picurl_large="https://i.ibb.co/pjnJv0bG/Mira-Napalm-Era-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Zoey, Lyrical Genius</name>
-            <text>Spells you cast cost {1} less to cast for each card spliced onto them.
-Resonate — Zoey deals 1 damage to each opponent.  (Do so whenever an effect has you reveal one or more cards.) 
-Whenever you cast an Arcane spell, draw a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{u}{u}{r}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Performer</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KcRQMHtT/Zoey-Lyrical-Genius-png.png" picurl_large="https://i.ibb.co/GfB1KjZz/Zoey-Lyrical-Genius-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -473,6 +330,26 @@ Cycling {G}{W}{U}  ({G}{W}{U}, Discard this card: Draw a card.) </text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Zoey, Colors Swirling</name>
+            <text>Each instant and sorcery card you own has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice, reveal a card from your hand and pay its splice cost as you cast another spell. Add the revealed card's effects to that spell.) 
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3mCHyJnw/Zoey-Colors-Swirling-png.png" picurl_large="https://i.ibb.co/N2yz64MX/Zoey-Colors-Swirling-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Soulbound Reinforcements</name>
             <text>Choose one - 
 •  Reveal your hand. Create a 1/1 green and Citizen creature token for each card you revealed this turn.
@@ -607,6 +484,26 @@ Whenever a player reveals a white card, Rumi gains hexproof until end of turn. T
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Q7Rm3xBJ/Treasure-png.png" picurl_large="https://i.ibb.co/Q7Rm3xBJ/Treasure-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Meet the Light</name>
+            <text>Each player reveals their hand, all face-down permanents they control, and all face-down cards they own in exile.  (Do so all at once.) 
+Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Fqnbsb8C/Meet-the-Light-png.png" picurl_large="https://i.ibb.co/mFSCvChg/Meet-the-Light-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2324,6 +2221,25 @@ Equip - {2}, {t}, Reveal your hand</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Artist's Talent</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Class</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/spcHjQL4/Artist-s-Talent-png.png" picurl_large="https://i.ibb.co/DPmp4k3F/Artist-s-Talent-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Shaper of the Pride</name>
             <text>Shadow  (This creature can block or be blocked by only creatures with shadow.) 
 Once each turn when a player reveals one or more nonland cards from their hand, you may exile any number of them. If you do, that player draws that many cards.</text>
@@ -3521,6 +3437,27 @@ Splice onto Arcane—Return a blue creature you control to its owner's hand.  (A
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Zoey, Crowd Pleaser</name>
+            <text>Reach
+Whenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/0yHmG4vw/Zoey-Crowd-Pleaser-png.png" picurl_large="https://i.ibb.co/60jrW9Ld/Zoey-Crowd-Pleaser-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Sunpetal Grove</name>
             <text>This land enters tapped unless you control a Forest or a Plains.
 {T}: Add {G} or {W}.</text>
@@ -3779,6 +3716,26 @@ At the beginning of your upkeep, reveal cards from the top of your library until
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/QFgTwHsJ/Prodder-of-Sin-png.png" picurl_large="https://i.ibb.co/QFgTwHsJ/Prodder-of-Sin-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Celine, Veteran Hunter</name>
+            <text>Double strike, vigilance
+Whenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>WUR</colors>
+                <coloridentity>WUR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>2/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/F48zzTcF/Celine-Veteran-Hunter-png.png" picurl_large="https://i.ibb.co/JjrHHJ89/Celine-Veteran-Hunter-png.png">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Blasphemous Act</name>
@@ -4338,6 +4295,28 @@ When this creature is turned face up, you gain 2 life.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png" picurl_large="https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mira, Napalm Era</name>
+            <text>Trample
+{2}{r}: Reveal the top card of your library. You may exile it.
+Resonate - Mira gets +2/+2 until end of turn.  (Do so whenever an effect has you reveal one or more cards.) 
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yFVWnfdG/Mira-Napalm-Era-png.png" picurl_large="https://i.ibb.co/pjnJv0bG/Mira-Napalm-Era-png.png">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Distant Melody</name>
@@ -4957,6 +4936,27 @@ If you've revealed a blue card this turn, scry 1, then draw a card.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/RTTQwcnx/Supportive-Parents-png.png" picurl_large="https://i.ibb.co/RTTQwcnx/Supportive-Parents-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Zoey, Lyrical Genius</name>
+            <text>Spells you cast cost {1} less to cast for each card spliced onto them.
+Resonate — Zoey deals 1 damage to each opponent.  (Do so whenever an effect has you reveal one or more cards.) 
+Whenever you cast an Arcane spell, draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{u}{r}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KcRQMHtT/Zoey-Lyrical-Genius-png.png" picurl_large="https://i.ibb.co/GfB1KjZz/Zoey-Lyrical-Genius-png.png">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Abby, Icon of Strength</name>

@@ -91,7 +91,7 @@
       "Defense of UH02": "2026-09-02T20:26:55Z",
       "Defense of UH10": "2026-09-02T20:26:55Z",
       "Defense of UW13": "2026-09-02T18:37:21Z",
-      "Defense of the Marchwall": "2026-09-12T18:55:18Z",
+      "Defense of the Marchwall": "2026-09-24T01:46:00Z",
       "Defilade Ambuscade": "2026-09-11T20:30:58Z",
       "Dr. Korella Mandalay": "2026-09-11T20:22:58Z",
       "Dr. Leonard Tocsky": "2026-09-11T20:22:58Z",
@@ -131,7 +131,7 @@
       "I.A. \"Workhorse\" Fighter Jet": "2026-09-11T20:22:58Z",
       "I.A. Point Defense Destroyer": "2026-09-02T18:37:21Z",
       "Imperial Border Post": "2026-09-05T19:10:39Z",
-      "Inspiring Sergeant": "2026-09-12T18:55:18Z",
+      "Inspiring Sergeant": "2026-09-24T01:46:00Z",
       "Intercept": "2026-09-02T18:56:41Z",
       "Invasion of Ekhara": "2026-09-02T20:15:45Z",
       "Judgement SPG": "2026-09-02T19:06:15Z",
@@ -159,10 +159,10 @@
       "No Man's Land": "2026-09-02T18:37:21Z",
       "Oasis Reclaimer": "2026-09-24T01:42:39Z",
       "Onslaught of Victory": "2026-09-02T01:01:58Z",
-      "Order a Counterattack": "2026-09-12T18:55:18Z",
+      "Order a Counterattack": "2026-09-24T01:46:00Z",
       "Order a Raid": "2026-09-11T20:30:58Z",
-      "Order a Resupply": "2026-09-12T18:55:18Z",
-      "Order an Air Defense": "2026-09-12T18:55:18Z",
+      "Order a Resupply": "2026-09-24T01:46:00Z",
+      "Order an Air Defense": "2026-09-24T01:46:00Z",
       "Order an Ambush": "2026-09-02T18:37:21Z",
       "Overwhelming Victory": "2026-09-02T19:06:15Z",
       "Penal Battalion": "2026-09-02T18:37:21Z",
@@ -174,9 +174,9 @@
       "Poisoned Orders": "2026-09-02T18:37:21Z",
       "Precision Vanguard": "2026-09-11T20:28:34Z",
       "Premier Mahlik Iron": "2026-09-11T20:22:58Z",
-      "Preserver of the Penitent": "2026-09-12T18:55:18Z",
+      "Preserver of the Penitent": "2026-09-24T01:46:00Z",
       "President": "2026-09-11T20:22:58Z",
-      "Price of a Mile": "2026-09-12T19:13:02Z",
+      "Price of a Mile": "2026-09-24T01:46:00Z",
       "Protect the Homeland": "2026-09-02T19:06:15Z",
       "Prototype Railgun": "2026-09-02T18:37:21Z",
       "Put in Stasis": "2026-09-02T18:37:21Z",
@@ -862,7 +862,7 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-24T01:42:39Z"
+      "updated": "2026-09-24T01:46:00Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
@@ -884,6 +884,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-17T21:53:56Z"
+    "updated": "2026-09-24T01:41:26Z"
   }
 }
