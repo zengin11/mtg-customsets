@@ -19,15 +19,15 @@
     "BTL": {
       "\"Blue Fire\" EMP Strike": "2026-09-02T18:37:21Z",
       "\"Draugr\" Rocket Trucks": "2026-09-02T18:37:21Z",
-      "\"Flyswatter\" Missile Team": "2026-09-17T16:24:47Z",
+      "\"Flyswatter\" Missile Team": "2026-09-24T01:42:39Z",
       "\"Groundpounder\" Brigade": "2026-09-02T18:37:21Z",
-      "\"Leonin\" Logistics Chopper": "2026-09-11T20:22:58Z",
+      "\"Leonin\" Logistics Chopper": "2026-09-24T01:42:39Z",
       "\"Rampart\" APC Company": "2026-09-02T18:37:21Z",
       "\"Rhox\" Drone Transport": "2026-09-02T18:37:21Z",
       "A-13 \"Honker\" Strike Fighter": "2026-09-02T19:06:14Z",
       "A-44 \"Honker\" Strike Fighter": "2026-09-08T18:22:54Z",
       "AC.30 Booker Recon Gunship": "2026-09-02T20:04:02Z",
-      "AH.960 Booker Retrofit": "2026-09-17T16:24:47Z",
+      "AH.960 Booker Retrofit": "2026-09-24T01:42:39Z",
       "AI Upgrade": "2026-09-02T18:37:21Z",
       "Absent Without Leave": "2026-09-09T16:15:14Z",
       "Accomplished Saboteur": "2026-09-11T20:34:04Z",
@@ -144,19 +144,20 @@
       "MF-26 \"Blaze\" Fighter": "2026-09-02T18:37:21Z",
       "Maintenance Drone": "2026-09-02T01:01:58Z",
       "Manafold Wings": "2026-09-02T18:37:21Z",
+      "Maneuver Specialists": "2026-09-24T01:42:39Z",
       "March of the War Machines": "2026-09-02T20:04:02Z",
       "Martyr Siegebreaker": "2026-09-02T18:37:21Z",
       "Mobile Infantry Platoon": "2026-09-02T18:37:21Z",
-      "Modular Combat Drone": "2026-09-17T16:24:47Z",
+      "Modular Combat Drone": "2026-09-24T01:42:39Z",
       "Momentum Chaser": "2026-09-02T19:06:57Z",
       "Munition Stockpile": "2026-09-02T01:01:58Z",
-      "Munitions Stockpile": "2026-09-15T01:22:25Z",
+      "Munitions Stockpile": "2026-09-24T01:42:39Z",
       "Nathan Booker": "2026-09-11T20:22:58Z",
       "Networked Drone Operator": "2026-09-02T18:37:21Z",
       "Neurodigital Virus": "2026-09-02T18:37:21Z",
       "Night Vision Goggles": "2026-09-11T20:28:33Z",
       "No Man's Land": "2026-09-02T18:37:21Z",
-      "Oasis Reclaimer": "2026-09-11T20:30:58Z",
+      "Oasis Reclaimer": "2026-09-24T01:42:39Z",
       "Onslaught of Victory": "2026-09-02T01:01:58Z",
       "Order a Counterattack": "2026-09-12T18:55:18Z",
       "Order a Raid": "2026-09-11T20:30:58Z",
@@ -181,7 +182,7 @@
       "Put in Stasis": "2026-09-02T18:37:21Z",
       "QRF.2 Toc-Mand Drone Ship": "2026-09-02T18:37:21Z",
       "R.D.I. Armored Car": "2026-09-11T20:34:04Z",
-      "R.D.I. Main Battle Tank": "2026-09-02T18:37:21Z",
+      "R.D.I. Main Battle Tank": "2026-09-24T01:42:39Z",
       "R.D.I. Reserve Responder": "2026-09-11T20:28:33Z",
       "R.D.I. Vanguard Dogfighter": "2026-09-02T18:37:21Z",
       "RG Signpost": "2026-09-02T19:06:15Z",
@@ -196,7 +197,7 @@
       "Reserve Crew": "2026-09-02T18:37:21Z",
       "Resourceful Commandant": "2026-09-02T18:37:21Z",
       "Rods from God": "2026-09-02T18:37:21Z",
-      "S.L.I. Ablative VolunteerTM": "2026-09-15T01:22:25Z",
+      "S.L.I. Ablative VolunteerTM": "2026-09-24T01:42:39Z",
       "S.L.I. Border Post": "2026-09-05T19:10:39Z",
       "SOF Sandstorm Division": "2026-09-02T18:37:21Z",
       "Sabotage of Narroway Bridge": "2026-09-11T20:34:04Z",
@@ -227,7 +228,7 @@
       "Soldier Token 2": "2026-09-02T01:01:58Z",
       "Soldier Token 3": "2026-09-02T01:01:58Z",
       "Spear Fleet Marines": "2026-09-11T20:30:58Z",
-      "Starstruck Rookies": "2026-09-02T20:04:02Z",
+      "Starstruck Rookies": "2026-09-24T01:42:39Z",
       "Steel Squad Leader": "2026-09-02T18:37:21Z",
       "Strategic Bomber": "2026-09-02T01:01:58Z",
       "Supportive Seamen": "2026-09-11T20:30:58Z",
@@ -459,14 +460,15 @@
       "Yuta, Jujutsu Duplicator": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "Abby, Icon of Strength": "2026-09-17T16:25:39Z",
+      "Abby, Icon of Strength": "2026-09-24T01:43:40Z",
       "Abundance": "2026-09-15T03:49:11Z",
       "Anguish": "2026-09-02T01:02:00Z",
       "Arcane Infusion": "2026-09-02T01:02:00Z",
       "Arcane Signet": "2026-09-02T01:02:00Z",
       "Arcane Signet Alt": "2026-09-02T01:02:00Z",
+      "Artist's Talent": "2026-09-24T01:43:40Z",
       "Ascendant Finale": "2026-09-02T01:02:00Z",
-      "Baby Saja, Ungodly Lyricist": "2026-09-17T16:25:39Z",
+      "Baby Saja, Ungodly Lyricist": "2026-09-24T01:43:40Z",
       "Banishing Light": "2026-09-02T01:02:00Z",
       "Banishing Strike": "2026-09-02T01:02:00Z",
       "Basilisk Collar": "2026-09-02T01:02:00Z",
@@ -487,7 +489,7 @@
       "Cast for Rehearsal": "2026-09-02T01:02:00Z",
       "Celine, Trainer of Hunters": "2026-09-02T01:02:00Z",
       "Celine, Trainer of Hunters Alt": "2026-09-02T01:02:00Z",
-      "Celine, Veteran Hunter": "2026-09-02T01:02:00Z",
+      "Celine, Veteran Hunter": "2026-09-24T01:43:40Z",
       "Celine, Veteran Reaper": "2026-09-02T01:02:00Z",
       "Ceremonial Groundbreaker": "2026-09-02T01:02:00Z",
       "Chaos Warp": "2026-09-02T01:02:00Z",
@@ -605,13 +607,13 @@
       "Lifted by Clouds": "2026-09-02T01:02:00Z",
       "Many Partings": "2026-09-15T03:49:11Z",
       "Martyr of Sands": "2026-09-02T01:02:00Z",
-      "Meet the Light": "2026-09-02T01:02:00Z",
+      "Meet the Light": "2026-09-24T01:43:40Z",
       "Memories Returning": "2026-09-02T01:02:00Z",
       "Mindblaze": "2026-09-02T01:02:00Z",
       "Mira's Gok-do": "2026-09-02T01:02:00Z",
       "Mira, Blade Dancer": "2026-09-02T01:02:00Z",
       "Mira, Blade Dancer Promo": "2026-09-02T01:02:00Z",
-      "Mira, Napalm Era": "2026-09-02T01:02:00Z",
+      "Mira, Napalm Era": "2026-09-24T01:43:40Z",
       "Mira, the Broken Blade": "2026-09-02T01:02:00Z",
       "Mistblade Shinobi": "2026-09-02T01:02:00Z",
       "Monumental Henge": "2026-09-02T01:02:00Z",
@@ -619,7 +621,7 @@
       "Mountain": "2026-09-02T01:02:00Z",
       "Murmurs from Beyond": "2026-09-02T01:02:00Z",
       "Myriad Landscape": "2026-09-02T01:02:00Z",
-      "Mystery, Show Stealer": "2026-09-17T16:25:39Z",
+      "Mystery, Show Stealer": "2026-09-24T01:43:40Z",
       "Mystery, Silencer of Secrets": "2026-09-02T01:02:00Z",
       "Mystic Monastery": "2026-09-02T01:02:00Z",
       "Mystic Visionaries": "2026-09-02T01:02:00Z",
@@ -656,7 +658,7 @@
       "Revenge of the Hunted": "2026-09-15T03:49:11Z",
       "Riding the Rhythm": "2026-09-02T01:02:00Z",
       "Rogue's Passage": "2026-09-02T01:02:00Z",
-      "Romance, Alluring Star": "2026-09-17T16:25:39Z",
+      "Romance, Alluring Star": "2026-09-24T01:43:40Z",
       "Romantic Getaway": "2026-09-02T01:02:00Z",
       "Rooftop Rendezvous": "2026-09-02T01:02:00Z",
       "Ruby Medallion": "2026-09-02T01:02:00Z",
@@ -729,7 +731,7 @@
       "Unassuming Crowd": "2026-09-02T01:02:00Z",
       "Unbreakable Formation": "2026-09-02T01:02:00Z",
       "Underground River": "2026-09-02T01:02:00Z",
-      "Urban Retreat": "2026-09-17T16:25:39Z",
+      "Urban Retreat": "2026-09-24T01:43:40Z",
       "Veil of Secrecy": "2026-09-02T01:02:00Z",
       "Vibrant Cityscape": "2026-09-02T01:02:00Z",
       "Vineglimmer Snarl": "2026-09-02T01:02:00Z",
@@ -740,12 +742,13 @@
       "Weathered Wayfarer": "2026-09-15T01:25:22Z",
       "Wrath of God": "2026-09-02T01:02:00Z",
       "Zoey's Shin-kal": "2026-09-02T01:02:00Z",
-      "Zoey, Colors Swirling": "2026-09-02T01:02:00Z",
+      "Zoey, Colors Swirling": "2026-09-24T01:43:40Z",
+      "Zoey, Crowd Pleaser": "2026-09-24T01:43:40Z",
       "Zoey, HUNTR/X Maknae": "2026-09-02T01:02:00Z",
       "Zoey, HUNTR_X Maknae Promo": "2026-09-02T01:02:00Z",
       "Zoey, Infernal Thrall": "2026-09-02T01:02:00Z",
-      "Zoey, Lyrical Genius": "2026-09-15T03:49:11Z",
-      "Zoey, Rap Genius": "2026-09-15T03:49:11Z"
+      "Zoey, Lyrical Genius": "2026-09-24T01:43:40Z",
+      "Zoey, Rap Genius": "2026-09-24T01:43:40Z"
     },
     "NGO": {
       "Amazing Spider-Man": "2026-09-02T01:02:02Z",
@@ -859,13 +862,13 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-17T16:24:47Z"
+      "updated": "2026-09-24T01:42:39Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-17T16:25:39Z"
+      "updated": "2026-09-24T01:43:40Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -881,6 +884,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-15T03:48:31Z"
+    "updated": "2026-09-17T21:53:56Z"
   }
 }

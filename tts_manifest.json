@@ -32,7 +32,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/ymN9cNr6/Flyswatter-Missile-Team-png.png"
+          "large": "https://i.ibb.co/tMfWvXBs/Flyswatter-Missile-Team-png.png"
         },
         "name": "\"Flyswatter\" Missile Team",
         "oracle_text": "Reach\nWhen this creature enters, create an Ordnance token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") ",
@@ -62,7 +62,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/60VHHHPd/Leonin-Logistics-Chopper-png.png"
+          "large": "https://i.ibb.co/qF7Y2D8D/Leonin-Logistics-Chopper-png.png"
         },
         "name": "\"Leonin\" Logistics Chopper",
         "oracle_text": "Flying\nWhenever this Vehicle deals combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) \nCrew 1",
@@ -151,7 +151,7 @@
           "large": "https://i.ibb.co/BV1PCxVK/Abby-Icon-of-Strength-png.png"
         },
         "name": "Abby, Icon of Strength",
-        "oracle_text": "Trample\n Shame -  Whenever an opponent reveals their first card or cards each turn, you may pay X life, where X is the highest mana value among those cards. If you do, Abby gets +X/+X until end of turn.\nPartner—Saja  (You can have two commanders if both have this.) ",
+        "oracle_text": "Trample\n Shame  - For each opponent, whenever they reveal one or more cards for the first time each turn, you may pay X life, where X is the highest mana value among those cards. If you do, Abby gets +X/+X until end of turn.\nPartner—Saja  (You can have two commanders if both have this.) ",
         "power": "4",
         "toughness": "4",
         "type_line": "Legendary Creature — Demon Performer"
@@ -284,7 +284,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/G4vX7GY9/AH-960-Booker-Retrofit-png.png"
+          "large": "https://i.ibb.co/mVQ4Qqgt/AH-960-Booker-Retrofit-png.png"
         },
         "name": "AH.960 Booker Retrofit",
         "oracle_text": "Flying, deathtouch\nWhen this Vehicle dies, put a +1/+1 counter on target creature or Vehicle you control.\nCrew 1",
@@ -627,6 +627,19 @@
       }
     }
   },
+  "artist's talent": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/spcHjQL4/Artist-s-Talent-png.png"
+        },
+        "name": "Artist's Talent",
+        "oracle_text": "",
+        "type_line": "Enchantment — Class"
+      }
+    }
+  },
   "ascendant finale": {
     "default": "KPDH",
     "printings": {
@@ -704,8 +717,8 @@
           "large": "https://i.ibb.co/r2fY3BdQ/Baby-Saja-Ungodly-Lyricist-png.png"
         },
         "name": "Baby Saja, Ungodly Lyricist",
-        "oracle_text": "Shame  - Whenever an opponent reveals their first card or cards each turn, choose one.\n•  Draw a card.\n•  Add {r}{r}. Until end of turn, you don't lose this mana as steps and phases end. \nPartner—Saja",
-        "power": "1",
+        "oracle_text": "Shame  - For each opponent, whenever they reveal one or more cards for the first time each turn, choose one.\n•  Draw a card. Discard a card at the beginning of the next end step.\n•  Add {u} or {r}. Until end of turn, you don't lose this mana as steps and phases end. \nPartner—Saja",
+        "power": "2",
         "toughness": "3",
         "type_line": "Legendary Creature — Demon Performer"
       }
@@ -1390,10 +1403,10 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/4nTn6R3c/Celine-Veteran-Hunter-png.png"
+          "large": "https://i.ibb.co/F48zzTcF/Celine-Veteran-Hunter-png.png"
         },
         "name": "Celine, Veteran Hunter",
-        "oracle_text": "Double strike, vigilance, trample\nWhenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. ",
+        "oracle_text": "Double strike, vigilance\nWhenever Celine attacks, you may exile a card from your hand face down. If you do, draw two cards. ",
         "power": "2",
         "toughness": "4",
         "type_line": "Legendary Creature — Human Warrior"
@@ -5290,6 +5303,21 @@
       }
     }
   },
+  "maneuver specialists": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ynGDKK54/Maneuver-Specialists-png.png"
+        },
+        "name": "Maneuver Specialists",
+        "oracle_text": "This creature gets +2/+0 as long as you've activated an ability that isn't a mana ability this turn.\n{8}: This creature gains first strike until end of turn.",
+        "power": "4",
+        "toughness": "5",
+        "type_line": "Creature — Human Soldier"
+      }
+    }
+  },
   "many partings": {
     "default": "KPDH",
     "printings": {
@@ -5396,10 +5424,10 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/KxYWjmgx/Meet-the-Light-png.png"
+          "large": "https://i.ibb.co/Fqnbsb8C/Meet-the-Light-png.png"
         },
         "name": "Meet the Light",
-        "oracle_text": "Each player reveals their hand, all face-down permanents they control, and all face-down cards they own in exile.  (Do so all at once.) \nScry 2.\nSplice onto instant or sorcery {u}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
+        "oracle_text": "Each player reveals their hand, all face-down permanents they control, and all face-down cards they own in exile.  (Do so all at once.) \nDraw a card.",
         "type_line": "Instant — Arcane"
       }
     }
@@ -5626,10 +5654,10 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/cKb0SrWb/Mira-Napalm-Era-png.png"
+          "large": "https://i.ibb.co/yFVWnfdG/Mira-Napalm-Era-png.png"
         },
         "name": "Mira, Napalm Era",
-        "oracle_text": "Menace, trample\n{2}{r}: Reveal the top card of your library. You may exile it.\nResonate - Mira gets +2/+2 until end of turn.  (Do so whenever an effect has you reveal one or more cards.) \nPartner—HUNTR/X",
+        "oracle_text": "Trample\n{2}{r}: Reveal the top card of your library. You may exile it.\nResonate - Mira gets +2/+2 until end of turn.  (Do so whenever an effect has you reveal one or more cards.) \nPartner—HUNTR/X",
         "power": "1",
         "toughness": "1",
         "type_line": "Legendary Creature — Human Warrior Performer"
@@ -5731,7 +5759,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/zVFWm9px/Modular-Combat-Drone-png.png"
+          "large": "https://i.ibb.co/TBBFfB5m/Modular-Combat-Drone-png.png"
         },
         "name": "Modular Combat Drone",
         "oracle_text": "Modular 2  (This creature enters with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) ",
@@ -5880,7 +5908,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/67FGq65W/Munitions-Stockpile-png.png"
+          "large": "https://i.ibb.co/SXsW7rxh/Munitions-Stockpile-png.png"
         },
         "name": "Munitions Stockpile",
         "oracle_text": "Choose one —\n•  Create two Ordnance tokens.  (They're artifacts with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") \n•  Discard a card, then draw two cards.",
@@ -5935,7 +5963,7 @@
           "large": "https://i.ibb.co/jkhnYK4h/Mystery-Show-Stealer-png.png"
         },
         "name": "Mystery, Show Stealer",
-        "oracle_text": "Shame -  Whenever an opponent reveals their first card or cards each turn, exile a nonland card from among them. You and that player may cast that card for as long as it remains exiled by paying 5 life in addition to its other costs. You may spend mana as though it were mana of any color to cast it.\nPartner—Saja",
+        "oracle_text": "Shame  - For each opponent, whenever they reveal one or more cards for the first time each turn, exile a nonland card from among them. You and that player may cast that card on your own turns for as long as it remains exiled by paying 5 life in addition to its other costs. You may spend mana as though it were mana of any color to cast it.\nPartner—Saja",
         "power": "2",
         "toughness": "2",
         "type_line": "Legendary Creature — Demon Performer"
@@ -6236,10 +6264,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/WWcCjLk5/Oasis-Reclaimer-png.png"
+          "large": "https://i.ibb.co/fPD6BFg/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
-        "oracle_text": "Flying\nThis Vehicle has double strike as long as it's attacking.\nCrew 2",
+        "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.\nCrew 1",
         "power": "2",
         "toughness": "2",
         "type_line": "Artifact — Vehicle"
@@ -6960,7 +6988,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/x8MC4rhC/R-D-I-Main-Battle-Tank-png.png"
+          "large": "https://i.ibb.co/jvzZFxVj/R-D-I-Main-Battle-Tank-png.png"
         },
         "name": "R.D.I. Main Battle Tank",
         "oracle_text": "Haste\nWartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)\nCrew 1",
@@ -7497,7 +7525,7 @@
           "large": "https://i.ibb.co/60xshCxF/Romance-Alluring-Star-png.png"
         },
         "name": "Romance, Alluring Star",
-        "oracle_text": "Shame -  Whenever an opponent reveals their first card or cards each turn, you may gain control of target creature they control with mana value X or less, where X is the highest mana value among those cards, until end of turn. Untap it. It gains haste until end of turn.\nPartner—Saja",
+        "oracle_text": "Shame  - For each opponent, whenever they reveal one or more cards for the first time each turn, you may gain control of target creature they control with mana value X or less, where X is the highest mana value among those cards, until end of turn. Untap it. It gains haste until end of turn.\nPartner—Saja",
         "power": "3",
         "toughness": "3",
         "type_line": "Legendary Creature — Demon Performer"
@@ -7720,7 +7748,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/spZzfDVV/S-L-I-Ablative-Volunteer-TM-png.png"
+          "large": "https://i.ibb.co/5WsFm521/S-L-I-Ablative-Volunteer-png.png"
         },
         "name": "S.L.I. Ablative VolunteerTM",
         "oracle_text": "Whenever a Vehicle crewed by this creature this turn dies, you may sacrifice this creature. If you do, return that Vehicle to the battlefield tapped under its owner's control with a +1/+1 counter on it.",
@@ -9028,7 +9056,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/RTzChLyC/Starstruck-Rookies-png.png"
+          "large": "https://i.ibb.co/Nd079SQ7/Starstruck-Rookies-png.png"
         },
         "name": "Starstruck Rookies",
         "oracle_text": "Whenever this creature crews a Vehicle, that Vehicle has base power and toughness X/X until end of turn, where X is the greatest power among Vehicle creatures you control.",
@@ -10476,8 +10504,8 @@
           "large": "https://i.ibb.co/LDgfGKkJ/Urban-Retreat-png.png"
         },
         "name": "Urban Retreat",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "This land enters tapped.\n{T}: Add {G}, {W}, or {U}.\n{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",
+        "type_line": "Land"
       }
     }
   },
@@ -11011,12 +11039,27 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/HDPRH40w/Zoey-Colors-Swirling-png.png"
+          "large": "https://i.ibb.co/3mCHyJnw/Zoey-Colors-Swirling-png.png"
         },
         "name": "Zoey, Colors Swirling",
-        "oracle_text": "Flash\nPlay with the top card of your library revealed.  (Whenever an unrevealed card is on top of your library, reveal it.) \n{3}{u}: Draw a card.\nPartner—HUNTR/X",
+        "oracle_text": "Each instant and sorcery card you own has \"Splice onto instant or sorcery that shares a color with this card.\" The splice cost is equal to its mana cost.  (To splice, reveal a card from your hand and pay its splice cost as you cast another spell. Add the revealed card's effects to that spell.) \nPartner—HUNTR/X",
         "power": "1",
         "toughness": "2",
+        "type_line": "Legendary Creature — Human Warrior Performer"
+      }
+    }
+  },
+  "zoey, crowd pleaser": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/0yHmG4vw/Zoey-Crowd-Pleaser-png.png"
+        },
+        "name": "Zoey, Crowd Pleaser",
+        "oracle_text": "Reach\nWhenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.\nPartner—HUNTR/X",
+        "power": "1",
+        "toughness": "3",
         "type_line": "Legendary Creature — Human Warrior Performer"
       }
     }
@@ -11071,11 +11114,11 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/ynKvgcjD/Zoey-Lyrical-Genius-png.png"
+          "large": "https://i.ibb.co/KcRQMHtT/Zoey-Lyrical-Genius-png.png"
         },
         "name": "Zoey, Lyrical Genius",
-        "oracle_text": "Each instant and sorcery card in your hand has \"Splice onto instant or sorcery that shares a color with this card.\" The splice cost is equal to its mana cost.  (To splice a card onto another spell, reveal it from your hand and pay its splice cost as you cast that spell. Add the revealed card's effects to that spell.) ",
-        "power": "0",
+        "oracle_text": "Spells you cast cost {1} less to cast for each card spliced onto them.\nResonate — Zoey deals 1 damage to each opponent.  (Do so whenever an effect has you reveal one or more cards.) \nWhenever you cast an Arcane spell, draw a card.",
+        "power": "3",
         "toughness": "3",
         "type_line": "Legendary Creature — Human Performer"
       }
@@ -11089,10 +11132,8 @@
           "large": "https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png"
         },
         "name": "Zoey, Rap Genius",
-        "oracle_text": "Resonate - Put a lyric counter on Zoey.  (Do so whenever an effect has you reveal one or more cards) \n{t}, Remove X counters from Zoey: Add X mana of any one color. This mana can't be spent to cast a permanent spell.\nPartner—HUNTR/X",
-        "power": "1",
-        "toughness": "3",
-        "type_line": "Legendary Creature — Human Warrior Performer"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   }
