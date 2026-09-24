@@ -7014,19 +7014,11 @@
     }
   },
   "rakdos charm": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
           "large": "https://i.ibb.co/TD9qH8mL/Rakdos-Charm-png.png"
-        },
-        "name": "Rakdos Charm",
-        "oracle_text": "Choose one —\n•  Exile target player's graveyard.\n•  Destroy target artifact.\n•  Each creature deals 1 damage to its controller.",
-        "type_line": "Instant"
-      },
-      "KPDH": {
-        "image_uris": {
-          "large": "https://i.ibb.co/RpHp0Hdv/Rakdos-Charm-png.png"
         },
         "name": "Rakdos Charm",
         "oracle_text": "Choose one —\n•  Exile target player's graveyard.\n•  Destroy target artifact.\n•  Each creature deals 1 damage to its controller.",

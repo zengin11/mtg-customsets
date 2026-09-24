@@ -645,7 +645,7 @@
       "Prodder of Sin": "2026-09-02T01:02:00Z",
       "Prospective Hunter": "2026-09-02T01:02:00Z",
       "Psychic Puppetry": "2026-09-02T01:02:00Z",
-      "Rakdos Charm": "2026-09-02T01:02:00Z",
+      "Rakdos Charm": "2026-09-24T03:47:05Z",
       "Rakshasa's Secret": "2026-09-02T01:02:00Z",
       "Raucous Audience": "2026-09-02T01:02:00Z",
       "Recruitment Officer": "2026-09-02T01:02:00Z",
@@ -870,7 +870,7 @@
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-24T03:35:50Z"
+      "updated": "2026-09-24T03:47:05Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -886,6 +886,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-24T02:48:35Z"
+    "updated": "2026-09-24T03:35:23Z"
   }
 }

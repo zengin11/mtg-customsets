@@ -9,46 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Harmonic Restoration</name>
-            <text>Reverberate -  Return target creature card from your graveyard to your hand. If you revealed one or more cards this turn, return it to the battlefield instead.
-Miracle {w}  (You may cast this card for its Miracle cost when you draw it if it's the first card you drew this turn.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{w}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery - Arcane</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/FtHBCfy/Harmonic-Restoration-png.png" picurl_large="https://i.ibb.co/KHK9SQf/Harmonic-Restoration-png.png">KPDH</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Thunderous Wrath</name>
-            <text>Thunderous Wrath deals 5 damage to any target.
-Miracle {R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{R}{R}</manacost>
-                <cmc>6</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8nmRSQck/Thunderous-Wrath-png.png" picurl_large="https://i.ibb.co/Kc5Q38wn/Thunderous-Wrath-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -1025,28 +985,6 @@ Miracle {1}{w}  (You may reveal this card as you draw it if it's the first card 
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Rakdos Charm</name>
-            <text>Choose one —
-•  Exile target player's graveyard.
-•  Destroy target artifact.
-•  Each creature deals 1 damage to its controller.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{b}{r}</manacost>
-                <cmc>2</cmc>
-                <colors>BR</colors>
-                <coloridentity>BR</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RpHp0Hdv/Rakdos-Charm-png.png" picurl_large="https://i.ibb.co/RpHp0Hdv/Rakdos-Charm-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Silver Shroud Costume</name>
             <text>Flash
 When this Equipment enters, attach it to target creature you control. That creature gains shroud until end of turn.  (It can't be the target of spells or abilities.) 
@@ -1108,6 +1046,26 @@ When this artifact enters, draw a card.
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/6cYjJrJM/Glacial-Fortress-png.png" picurl_large="https://i.ibb.co/6cYjJrJM/Glacial-Fortress-png.png">KPDH</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Harmonic Restoration</name>
+            <text>Reverberate -  Return target creature card from your graveyard to your hand. If you revealed one or more cards this turn, return it to the battlefield instead.
+Miracle {w}  (You may cast this card for its Miracle cost when you draw it if it's the first card you drew this turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery - Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/FtHBCfy/Harmonic-Restoration-png.png" picurl_large="https://i.ibb.co/KHK9SQf/Harmonic-Restoration-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Clifftop Retreat</name>
@@ -4031,6 +3989,26 @@ Splice onto instant or sorcery {2}{u}{r}  (As you cast an instant or sorcery spe
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/bZbyJmn/Echoing-Harmony-png.png" picurl_large="https://i.ibb.co/bZbyJmn/Echoing-Harmony-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Thunderous Wrath</name>
+            <text>Thunderous Wrath deals 5 damage to any target.
+Miracle {R}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{R}{R}</manacost>
+                <cmc>6</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8nmRSQck/Thunderous-Wrath-png.png" picurl_large="https://i.ibb.co/Kc5Q38wn/Thunderous-Wrath-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
