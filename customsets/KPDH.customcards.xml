@@ -2841,25 +2841,6 @@ Equip {5}</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Zoey, Rap Genius</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/pjjBpQfh/Zoey-Rap-Genius-png.png" picurl_large="https://i.ibb.co/RTTkWN3j/Zoey-Rap-Genius-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Gwi-ma's Heartflayer</name>
             <text>Ward—Pay 2 life
  Shame -  Whenever an opponent reveals their first card each turn, creatures they control get -2/-0 and creatures you control get +2/+0 until end of turn.</text>
@@ -3496,27 +3477,6 @@ Whenever this creature deals combat damage to a player, each opponent reveals th
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/FbG0bB2k/Gwi-ma-s-Shamegorger-png.png" picurl_large="https://i.ibb.co/FbG0bB2k/Gwi-ma-s-Shamegorger-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Zoey, HUNTR/X Maknae</name>
-            <text>Resonate - Untap Zoey.  (Do so whenever an effect has you reveal one or more cards) 
-{t}: Add one mana of any color. This mana can't be spent to cast a creature spell.
-Partner—HUNTR/X</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{u}{r}</manacost>
-                <cmc>2</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>1/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xqhy3CW7/Zoey-HUNTR-X-Maknae-png.png" picurl_large="https://i.ibb.co/xqhy3CW7/Zoey-HUNTR-X-Maknae-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
