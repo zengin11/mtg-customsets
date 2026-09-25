@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-23</releasedate>
+        <set> v1.4<releasedate>2026-09-24</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
@@ -65,7 +65,7 @@ You draw a card at the beginning of the next turn's upkeep.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XZD4pP8q/Monumental-Henge-png.png" picurl_large="https://i.ibb.co/XZD4pP8q/Monumental-Henge-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/F40WCxMk/Monumental-Henge-png.png" picurl_large="https://i.ibb.co/xqfsdC0K/Monumental-Henge-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -185,7 +185,7 @@ Splice onto instant or sorcery {3}{W}  (As you cast an instant or sorcery spell,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/67FvLxYy/Splicer-s-Skill-png.png" picurl_large="https://i.ibb.co/67FvLxYy/Splicer-s-Skill-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fdmvvjTx/Splicer-s-Skill-png.png" picurl_large="https://i.ibb.co/Df3pp0jR/Splicer-s-Skill-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -225,7 +225,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DgPG6T6z/Plains-png.png" picurl_large="https://i.ibb.co/DgPG6T6z/Plains-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/G3QDfy6h/Plains-png.png" picurl_large="https://i.ibb.co/jZkY9mNp/Plains-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -406,7 +406,7 @@ Whenever a player reveals a white card, Rumi gains hexproof until end of turn. T
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5WQDSrNJ/Rumi-Broken-Glass-png.png" picurl_large="https://i.ibb.co/5WQDSrNJ/Rumi-Broken-Glass-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/HD359y0j/Rumi-Broken-Glass-png.png" picurl_large="https://i.ibb.co/yn7HxCDr/Rumi-Broken-Glass-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -781,7 +781,7 @@ Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card f
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/8DcgXzjn/Resounding-Negation-png.png" picurl_large="https://i.ibb.co/8DcgXzjn/Resounding-Negation-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jkF67dSZ/Resounding-Negation-png.png" picurl_large="https://i.ibb.co/b5nWpxkR/Resounding-Negation-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -941,7 +941,7 @@ Whenever Celine attacks, defending player reveals their hand and the top card of
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vCmbxjsL/Swamp-png.png" picurl_large="https://i.ibb.co/vCmbxjsL/Swamp-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/J85VDdX/Swamp-png.png" picurl_large="https://i.ibb.co/md6kfBQ/Swamp-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1024,7 +1024,7 @@ When this artifact enters, draw a card.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JFB0dd9X/Instant-Ramen-png.png" picurl_large="https://i.ibb.co/JFB0dd9X/Instant-Ramen-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/0pbkyVSH/Instant-Ramen-png.png" picurl_large="https://i.ibb.co/rKrg2fSD/Instant-Ramen-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1044,7 +1044,7 @@ When this artifact enters, draw a card.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/6cYjJrJM/Glacial-Fortress-png.png" picurl_large="https://i.ibb.co/6cYjJrJM/Glacial-Fortress-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/CKXX92JH/Glacial-Fortress-png.png" picurl_large="https://i.ibb.co/k2rrD13S/Glacial-Fortress-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1084,7 +1084,7 @@ Miracle {w}  (You may cast this card for its Miracle cost when you draw it if it
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/t5BrDYd/Clifftop-Retreat-png.png" picurl_large="https://i.ibb.co/t5BrDYd/Clifftop-Retreat-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z6qrGrSx/Clifftop-Retreat-png.png" picurl_large="https://i.ibb.co/XZcPjPDt/Clifftop-Retreat-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1103,7 +1103,7 @@ Miracle {w}  (You may cast this card for its Miracle cost when you draw it if it
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CFM4P1B/Temple-of-the-False-God-png.png" picurl_large="https://i.ibb.co/CFM4P1B/Temple-of-the-False-God-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fVzhbGNL/Temple-of-the-False-God-png.png" picurl_large="https://i.ibb.co/nqNHT81t/Temple-of-the-False-God-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1221,7 +1221,7 @@ Other Warriors you control get +1/+1.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LzbSLZ4b/Sidequest-Catch-a-Fish-png.png" picurl_large="https://i.ibb.co/LzbSLZ4b/Sidequest-Catch-a-Fish-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/RkdLkcsq/Sidequest-Catch-a-Fish-png.png" picurl_large="https://i.ibb.co/sdzLdqNZ/Sidequest-Catch-a-Fish-png.png">KPDH</set>
             <tablerow>1</tablerow>
             <related attach="transform">Cooking Campsite</related>
             <related>Food Token</related>
@@ -1343,7 +1343,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wFNtGp9s/Resonating-Scream-png.png" picurl_large="https://i.ibb.co/wFNtGp9s/Resonating-Scream-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/d4zm40xw/Resonating-Scream-png.png" picurl_large="https://i.ibb.co/zV06VhDT/Resonating-Scream-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -1382,7 +1382,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vxQZ202w/Island-png.png" picurl_large="https://i.ibb.co/vxQZ202w/Island-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Ng7LwZLs/Island-png.png" picurl_large="https://i.ibb.co/zWNSKGSr/Island-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1421,7 +1421,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/VcjmqVZS/Murmurs-from-Beyond-png.png" picurl_large="https://i.ibb.co/VcjmqVZS/Murmurs-from-Beyond-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3fs8xKj/Murmurs-from-Beyond-png.png" picurl_large="https://i.ibb.co/4n7Bs0Vg/Murmurs-from-Beyond-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1440,7 +1440,7 @@ When you cycle this card, each opponent discards two cards at random then reveal
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/NnxxMbBM/Imperial-Recruiter-png.png" picurl_large="https://i.ibb.co/NnxxMbBM/Imperial-Recruiter-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4RYQr3jS/Imperial-Recruiter-png.png" picurl_large="https://i.ibb.co/HTxJ83rP/Imperial-Recruiter-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1624,7 +1624,7 @@ Miracle {2}{w}  (You may reveal this card as you draw it if it's the first card 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hRPs2rbn/Banishing-Strike-png.png" picurl_large="https://i.ibb.co/hRPs2rbn/Banishing-Strike-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/YTcp108k/Banishing-Strike-png.png" picurl_large="https://i.ibb.co/QjPrTDnN/Banishing-Strike-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -1665,7 +1665,7 @@ Splice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hJdTSBqH/Lifted-by-Clouds-png.png" picurl_large="https://i.ibb.co/hJdTSBqH/Lifted-by-Clouds-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/cc3jVW8Q/Lifted-by-Clouds-png.png" picurl_large="https://i.ibb.co/xSLNdng6/Lifted-by-Clouds-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1870,7 +1870,7 @@ Whenever this creature attacks, create a 1/1 green and white Citizen creature to
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/BHNNkRTc/Forest-png.png" picurl_large="https://i.ibb.co/BHNNkRTc/Forest-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BHQZJMmF/Forest-png.png" picurl_large="https://i.ibb.co/rKz6hrgN/Forest-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1890,7 +1890,7 @@ Whenever this creature attacks, create a 1/1 green and white Citizen creature to
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/NnZZfkh8/Port-Town-png.png" picurl_large="https://i.ibb.co/NnZZfkh8/Port-Town-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/jZrqrXTS/Port-Town-png.png" picurl_large="https://i.ibb.co/G35G5S0q/Port-Town-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -1909,7 +1909,7 @@ Whenever this creature attacks, create a 1/1 green and white Citizen creature to
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/CppffJkr/Recruitment-Officer-png.png" picurl_large="https://i.ibb.co/CppffJkr/Recruitment-Officer-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/nMJ0K7js/Recruitment-Officer-png.png" picurl_large="https://i.ibb.co/qYQn2NpM/Recruitment-Officer-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2050,7 +2050,7 @@ Creatures you control have haste.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/B570BRD0/Fact-or-Fiction-png.png" picurl_large="https://i.ibb.co/B570BRD0/Fact-or-Fiction-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/1Y0rMt3P/Fact-or-Fiction-png.png" picurl_large="https://i.ibb.co/ZRfBSp3F/Fact-or-Fiction-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2297,7 +2297,7 @@ Partner—Saja</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DPSLLbDH/Seething-Song-png.png" picurl_large="https://i.ibb.co/DPSLLbDH/Seething-Song-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/LDgjsZMM/Seething-Song-png.png" picurl_large="https://i.ibb.co/qLgq2rzz/Seething-Song-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2357,7 +2357,7 @@ At the beginning of your first main phase, you may sacrifice a creature. When yo
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/bj2bLwVD/Martyr-of-Sands-png.png" picurl_large="https://i.ibb.co/bj2bLwVD/Martyr-of-Sands-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/PZPRDjGk/Martyr-of-Sands-png.png" picurl_large="https://i.ibb.co/XZK9YLxH/Martyr-of-Sands-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2455,7 +2455,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/b5yzHyWd/Banishing-Light-png.png" picurl_large="https://i.ibb.co/b5yzHyWd/Banishing-Light-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/VcX1DCPJ/Banishing-Light-png.png" picurl_large="https://i.ibb.co/XrmQp5vj/Banishing-Light-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2714,7 +2714,7 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/9QjZjJH/Calibrated-Blast-png.png" picurl_large="https://i.ibb.co/9QjZjJH/Calibrated-Blast-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/5x9jPdG3/Calibrated-Blast-png.png" picurl_large="https://i.ibb.co/zH52z1Qg/Calibrated-Blast-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2997,7 +2997,7 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cKcfdfDS/Myriad-Landscape-png.png" picurl_large="https://i.ibb.co/cKcfdfDS/Myriad-Landscape-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z6bJP8tk/Myriad-Landscape-png.png" picurl_large="https://i.ibb.co/rGXtS6T1/Myriad-Landscape-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -3078,7 +3078,7 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cKGBNyN2/Eerie-Procession-png.png" picurl_large="https://i.ibb.co/cKGBNyN2/Eerie-Procession-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/v4mg7rSD/Eerie-Procession-png.png" picurl_large="https://i.ibb.co/chtMGpjx/Eerie-Procession-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3156,7 +3156,7 @@ Flashback {7}{U}{U}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qYHWx142/Brainstorm-png.png" picurl_large="https://i.ibb.co/qYHWx142/Brainstorm-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tMMXLvLk/Brainstorm-png.png" picurl_large="https://i.ibb.co/gMMV4f4H/Brainstorm-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3493,7 +3493,7 @@ When this creature enters, reveal the top five cards of your library. An opponen
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nNYVd8B9/Mountain-png.png" picurl_large="https://i.ibb.co/nNYVd8B9/Mountain-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/vCwZRZXV/Mountain-png.png" picurl_large="https://i.ibb.co/bjWzDzbQ/Mountain-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -3535,25 +3535,6 @@ Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell,
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/mF6Bxzm1/Dive-in-the-Fire-png.png" picurl_large="https://i.ibb.co/mF6Bxzm1/Dive-in-the-Fire-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Counterspell</name>
-            <text>Counter target spell.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{U}{U}</manacost>
-                <cmc>2</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JW8TJrCB/Counterspell-png.png" picurl_large="https://i.ibb.co/JW8TJrCB/Counterspell-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3671,7 +3652,7 @@ Blasphemous Act deals 13 damage to each creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KjSNYjdc/Blasphemous-Act-png.png" picurl_large="https://i.ibb.co/KjSNYjdc/Blasphemous-Act-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/YBYFCMzN/Blasphemous-Act-png.png" picurl_large="https://i.ibb.co/wh3FkX9d/Blasphemous-Act-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -3690,7 +3671,7 @@ Blasphemous Act deals 13 damage to each creature.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cSxpMV7P/Harmonize-png.png" picurl_large="https://i.ibb.co/cSxpMV7P/Harmonize-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BVk0bd2c/Harmonize-png.png" picurl_large="https://i.ibb.co/TBy96pMY/Harmonize-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -3888,7 +3869,7 @@ Splice onto Arcane {U}  (As you cast an Arcane spell, you may reveal this card f
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fVy5YQwS/Psychic-Puppetry-png.png" picurl_large="https://i.ibb.co/fVy5YQwS/Psychic-Puppetry-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/zTW0pXYG/Psychic-Puppetry-png.png" picurl_large="https://i.ibb.co/bMj8TsZz/Psychic-Puppetry-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -4191,7 +4172,7 @@ When this creature is turned face up, you gain 2 life.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png" picurl_large="https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/Z1VqY0y1/Watcher-of-the-Roost-png.png" picurl_large="https://i.ibb.co/HpV5xjmp/Watcher-of-the-Roost-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -4353,7 +4334,7 @@ Whenever Jinu attacks, each opponent reveals their hand. You choose a nonland ca
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/nqL2sPHs/Mystic-Monastery-png.png" picurl_large="https://i.ibb.co/nqL2sPHs/Mystic-Monastery-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/m5CfFzdc/Mystic-Monastery-png.png" picurl_large="https://i.ibb.co/qYMTF1hr/Mystic-Monastery-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -4992,7 +4973,7 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RTRxKgz0/Spellseeker-png.png" picurl_large="https://i.ibb.co/RTRxKgz0/Spellseeker-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/wFk7G7G9/Spellseeker-png.png" picurl_large="https://i.ibb.co/5g0kpkpN/Spellseeker-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5011,7 +4992,7 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gMLp6J10/Lay-Bare-png.png" picurl_large="https://i.ibb.co/gMLp6J10/Lay-Bare-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/BV4YvKq1/Lay-Bare-png.png" picurl_large="https://i.ibb.co/PZTVJzwS/Lay-Bare-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5171,7 +5152,7 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/5hYNFCkM/Basilisk-Collar-png.png" picurl_large="https://i.ibb.co/5hYNFCkM/Basilisk-Collar-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KcV6KfXb/Basilisk-Collar-png.png" picurl_large="https://i.ibb.co/CpVBPYzm/Basilisk-Collar-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5250,7 +5231,7 @@ Equip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/4g5bB25w/Sulfur-Falls-png.png" picurl_large="https://i.ibb.co/4g5bB25w/Sulfur-Falls-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/ynMzLWT2/Sulfur-Falls-png.png" picurl_large="https://i.ibb.co/BV7h8qDk/Sulfur-Falls-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -5309,7 +5290,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MDvHrCbK/Swarm-of-Secrets-png.png" picurl_large="https://i.ibb.co/MDvHrCbK/Swarm-of-Secrets-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/b5RjHnMJ/Swarm-of-Secrets-png.png" picurl_large="https://i.ibb.co/yFBmhJcS/Swarm-of-Secrets-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5347,7 +5328,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/rRTrhG7L/Night-s-Whisper-png.png" picurl_large="https://i.ibb.co/rRTrhG7L/Night-s-Whisper-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/n8LsCLFt/Night-s-Whisper-png.png" picurl_large="https://i.ibb.co/fGxYvxsL/Night-s-Whisper-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -5385,7 +5366,7 @@ Sacrifice a creature: Target player reveals the top card of their library. You m
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png" picurl_large="https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MDZ0Bv70/Terramorphic-Expanse-png.png" picurl_large="https://i.ibb.co/FbmTHrzT/Terramorphic-Expanse-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -5425,7 +5406,7 @@ Splice onto instant or sorcery {2}{U}  (As you cast an instant or sorcery spell,
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RTtvXqqL/Everdream-png.png" picurl_large="https://i.ibb.co/RTtvXqqL/Everdream-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/n8RBWf3k/Everdream-png.png" picurl_large="https://i.ibb.co/0VQKwZBJ/Everdream-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5487,7 +5468,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wFhnLc7g/Frostboil-Snarl-png.png" picurl_large="https://i.ibb.co/wFhnLc7g/Frostboil-Snarl-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/SXpdVQ0J/Frostboil-Snarl-png.png" picurl_large="https://i.ibb.co/rGJc5bMv/Frostboil-Snarl-png.png">KPDH</set>
             <tablerow>0</tablerow>
             </card>
         <card>
@@ -5527,7 +5508,7 @@ Equip {3}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DHK1HjZg/Chaos-Warp-png.png" picurl_large="https://i.ibb.co/DHK1HjZg/Chaos-Warp-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fzCWXxtV/Chaos-Warp-png.png" picurl_large="https://i.ibb.co/0RfLnGZp/Chaos-Warp-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5593,6 +5574,25 @@ Whenever you cast a spell, choose up to one —
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Idolized</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Cs3tYkzZ/Idolized-png.png" picurl_large="https://i.ibb.co/fGzSyh25/Idolized-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Cooking Campsite</name>
             <text>{T}: Add {W}.
 {3}, {T}, Sacrifice an artifact: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
@@ -5609,7 +5609,7 @@ Whenever you cast a spell, choose up to one —
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/b5dmFp3x/Cooking-Campsite-png.png" picurl_large="https://i.ibb.co/b5dmFp3x/Cooking-Campsite-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/gMMZB8hR/Cooking-Campsite-png.png" picurl_large="https://i.ibb.co/6RR0fSLW/Cooking-Campsite-png.png">KPDH</set>
             <tablerow>0</tablerow>
             <related attach="transform">Sidequest: Catch a Fish</related>
             </card>

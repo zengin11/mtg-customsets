@@ -729,7 +729,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/b5yzHyWd/Banishing-Light-png.png"
+          "large": "https://i.ibb.co/VcX1DCPJ/Banishing-Light-png.png"
         },
         "name": "Banishing Light",
         "oracle_text": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
@@ -742,7 +742,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/hRPs2rbn/Banishing-Strike-png.png"
+          "large": "https://i.ibb.co/YTcp108k/Banishing-Strike-png.png"
         },
         "name": "Banishing Strike",
         "oracle_text": "Reverberate -  Choose one. If you revealed a card this turn, instead choose any number.\n•  Exile target artifact.\n•  Exile target creature.\n•  Exile target enchantment.\nMiracle {2}{w}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) ",
@@ -755,7 +755,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/5hYNFCkM/Basilisk-Collar-png.png"
+          "large": "https://i.ibb.co/KcV6KfXb/Basilisk-Collar-png.png"
         },
         "name": "Basilisk Collar",
         "oracle_text": "Equipped creature has deathtouch and lifelink.\nEquip {2}  ({2}: Attach to target creature you control. Equip only as a sorcery.) ",
@@ -994,7 +994,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/KjSNYjdc/Blasphemous-Act-png.png"
+          "large": "https://i.ibb.co/YBYFCMzN/Blasphemous-Act-png.png"
         },
         "name": "Blasphemous Act",
         "oracle_text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
@@ -1119,7 +1119,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/qYHWx142/Brainstorm-png.png"
+          "large": "https://i.ibb.co/tMMXLvLk/Brainstorm-png.png"
         },
         "name": "Brainstorm",
         "oracle_text": "Draw three cards, then put two cards from your hand on top of your library in any order.",
@@ -1276,7 +1276,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/9QjZjJH/Calibrated-Blast-png.png"
+          "large": "https://i.ibb.co/5x9jPdG3/Calibrated-Blast-png.png"
         },
         "name": "Calibrated Blast",
         "oracle_text": "Reveal cards from the top of your library until you reveal a nonland card. Put the revealed cards on the bottom of your library in a random order. When you reveal a nonland card this way, Calibrated Blast deals damage equal to that card's mana value to any target.  (Each revealed card triggers resonate abilities seperately.) \nFlashback {3}{R}{R}  (You may cast this card from your graveyard for its flashback cost. Then exile it.) ",
@@ -1452,7 +1452,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/DHK1HjZg/Chaos-Warp-png.png"
+          "large": "https://i.ibb.co/fzCWXxtV/Chaos-Warp-png.png"
         },
         "name": "Chaos Warp",
         "oracle_text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library.  If it's a permanent card, they put it onto the battlefield.",
@@ -1637,7 +1637,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/t5BrDYd/Clifftop-Retreat-png.png"
+          "large": "https://i.ibb.co/Z6qrGrSx/Clifftop-Retreat-png.png"
         },
         "name": "Clifftop Retreat",
         "oracle_text": "This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}.",
@@ -1952,19 +1952,6 @@
         "name": "Counterbalance",
         "oracle_text": "Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.",
         "type_line": "Enchantment"
-      }
-    }
-  },
-  "counterspell": {
-    "default": "KPDH",
-    "printings": {
-      "KPDH": {
-        "image_uris": {
-          "large": "https://i.ibb.co/JW8TJrCB/Counterspell-png.png"
-        },
-        "name": "Counterspell",
-        "oracle_text": "Counter target spell.",
-        "type_line": "Instant"
       }
     }
   },
@@ -2593,7 +2580,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/cKGBNyN2/Eerie-Procession-png.png"
+          "large": "https://i.ibb.co/v4mg7rSD/Eerie-Procession-png.png"
         },
         "name": "Eerie Procession",
         "oracle_text": "Search your library for an Arcane card, reveal that card, put it into your hand, then shuffle.",
@@ -2743,7 +2730,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/RTtvXqqL/Everdream-png.png"
+          "large": "https://i.ibb.co/n8RBWf3k/Everdream-png.png"
         },
         "name": "Everdream",
         "oracle_text": "Draw a card.\nSplice onto instant or sorcery {2}{U}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
@@ -2797,7 +2784,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/B570BRD0/Fact-or-Fiction-png.png"
+          "large": "https://i.ibb.co/1Y0rMt3P/Fact-or-Fiction-png.png"
         },
         "name": "Fact or Fiction",
         "oracle_text": "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
@@ -3063,7 +3050,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/BHNNkRTc/Forest-png.png"
+          "large": "https://i.ibb.co/BHQZJMmF/Forest-png.png"
         },
         "name": "Forest",
         "oracle_text": "",
@@ -3142,7 +3129,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/wFhnLc7g/Frostboil-Snarl-png.png"
+          "large": "https://i.ibb.co/SXpdVQ0J/Frostboil-Snarl-png.png"
         },
         "name": "Frostboil Snarl",
         "oracle_text": "As this land enters, you may reveal an Island or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {U} or {R}.",
@@ -3306,7 +3293,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/6cYjJrJM/Glacial-Fortress-png.png"
+          "large": "https://i.ibb.co/CKXX92JH/Glacial-Fortress-png.png"
         },
         "name": "Glacial Fortress",
         "oracle_text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}.",
@@ -3758,7 +3745,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/cSxpMV7P/Harmonize-png.png"
+          "large": "https://i.ibb.co/BVk0bd2c/Harmonize-png.png"
         },
         "name": "Harmonize",
         "oracle_text": "Draw three cards.",
@@ -4123,6 +4110,19 @@
       }
     }
   },
+  "idolized": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Cs3tYkzZ/Idolized-png.png"
+        },
+        "name": "Idolized",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "impassioned forum": {
     "default": "Z11",
     "printings": {
@@ -4169,7 +4169,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/NnxxMbBM/Imperial-Recruiter-png.png"
+          "large": "https://i.ibb.co/4RYQr3jS/Imperial-Recruiter-png.png"
         },
         "name": "Imperial Recruiter",
         "oracle_text": "When this creature enters, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.",
@@ -4280,7 +4280,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/JFB0dd9X/Instant-Ramen-png.png"
+          "large": "https://i.ibb.co/0pbkyVSH/Instant-Ramen-png.png"
         },
         "name": "Instant Ramen",
         "oracle_text": "Flash\nWhen this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
@@ -4368,7 +4368,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/vxQZ202w/Island-png.png"
+          "large": "https://i.ibb.co/Ng7LwZLs/Island-png.png"
         },
         "name": "Island",
         "oracle_text": "",
@@ -4880,7 +4880,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/gMLp6J10/Lay-Bare-png.png"
+          "large": "https://i.ibb.co/BV4YvKq1/Lay-Bare-png.png"
         },
         "name": "Lay Bare",
         "oracle_text": "Counter target spell. Look at its controller's hand.",
@@ -4936,7 +4936,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/hJdTSBqH/Lifted-by-Clouds-png.png"
+          "large": "https://i.ibb.co/cc3jVW8Q/Lifted-by-Clouds-png.png"
         },
         "name": "Lifted by Clouds",
         "oracle_text": "Target creature gains flying until end of turn.\nSplice onto Arcane {1}{U}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
@@ -5310,7 +5310,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/bj2bLwVD/Martyr-of-Sands-png.png"
+          "large": "https://i.ibb.co/PZPRDjGk/Martyr-of-Sands-png.png"
         },
         "name": "Martyr of Sands",
         "oracle_text": "{1}, Reveal X white cards from your hand, Sacrifice this creature: You gain three times X life.",
@@ -5748,7 +5748,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/XZD4pP8q/Monumental-Henge-png.png"
+          "large": "https://i.ibb.co/F40WCxMk/Monumental-Henge-png.png"
         },
         "name": "Monumental Henge",
         "oracle_text": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.  (Artifacts, legendaries, and Sagas are historic.) ",
@@ -5815,7 +5815,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/nNYVd8B9/Mountain-png.png"
+          "large": "https://i.ibb.co/vCwZRZXV/Mountain-png.png"
         },
         "name": "Mountain",
         "oracle_text": "",
@@ -5880,7 +5880,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/VcjmqVZS/Murmurs-from-Beyond-png.png"
+          "large": "https://i.ibb.co/Q3fs8xKj/Murmurs-from-Beyond-png.png"
         },
         "name": "Murmurs from Beyond",
         "oracle_text": "Reveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.",
@@ -5893,7 +5893,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/cKcfdfDS/Myriad-Landscape-png.png"
+          "large": "https://i.ibb.co/Z6bJP8tk/Myriad-Landscape-png.png"
         },
         "name": "Myriad Landscape",
         "oracle_text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle.",
@@ -5921,7 +5921,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/nqL2sPHs/Mystic-Monastery-png.png"
+          "large": "https://i.ibb.co/m5CfFzdc/Mystic-Monastery-png.png"
         },
         "name": "Mystic Monastery",
         "oracle_text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}.",
@@ -6048,7 +6048,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/rRTrhG7L/Night-s-Whisper-png.png"
+          "large": "https://i.ibb.co/n8LsCLFt/Night-s-Whisper-png.png"
         },
         "name": "Night's Whisper",
         "oracle_text": "You draw two cards and you lose 2 life.",
@@ -6592,7 +6592,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/DgPG6T6z/Plains-png.png"
+          "large": "https://i.ibb.co/G3QDfy6h/Plains-png.png"
         },
         "name": "Plains",
         "oracle_text": "",
@@ -6657,7 +6657,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/NnZZfkh8/Port-Town-png.png"
+          "large": "https://i.ibb.co/jZrqrXTS/Port-Town-png.png"
         },
         "name": "Port Town",
         "oracle_text": "As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}.",
@@ -6836,7 +6836,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/fVy5YQwS/Psychic-Puppetry-png.png"
+          "large": "https://i.ibb.co/zTW0pXYG/Psychic-Puppetry-png.png"
         },
         "name": "Psychic Puppetry",
         "oracle_text": "You may tap or untap target permanent.\nSplice onto Arcane {U}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
@@ -7115,7 +7115,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/CppffJkr/Recruitment-Officer-png.png"
+          "large": "https://i.ibb.co/nMJ0K7js/Recruitment-Officer-png.png"
         },
         "name": "Recruitment Officer",
         "oracle_text": "{3}{W}: Look at the top four cards of your library. You may reveal a creature card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
@@ -7285,7 +7285,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/wFNtGp9s/Resonating-Scream-png.png"
+          "large": "https://i.ibb.co/d4zm40xw/Resonating-Scream-png.png"
         },
         "name": "Resonating Scream",
         "oracle_text": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nCycling {1}{u}{b}{r}  ({1}{u}{b}{r}, Discard this card: Draw a card.) \nWhen you cycle this card, each opponent discards two cards at random then reveals their hand.",
@@ -7311,7 +7311,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/8DcgXzjn/Resounding-Negation-png.png"
+          "large": "https://i.ibb.co/jkF67dSZ/Resounding-Negation-png.png"
         },
         "name": "Resounding Negation",
         "oracle_text": "Counter target spell unless its controller pays {2}.\n Reverberate  — If you or that spell's controller revealed a card this turn, counter that spell instead.",
@@ -7557,7 +7557,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/5WQDSrNJ/Rumi-Broken-Glass-png.png"
+          "large": "https://i.ibb.co/HD359y0j/Rumi-Broken-Glass-png.png"
         },
         "name": "Rumi, Broken Glass",
         "oracle_text": "{2}{wb}: Target player reveals their hand.\nWhenever a player reveals a white card, Rumi gains hexproof until end of turn. The same is true for blue and flying, black and lifelink, red and first strike, and green and indestructible.",
@@ -7899,7 +7899,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/DPSLLbDH/Seething-Song-png.png"
+          "large": "https://i.ibb.co/LDgjsZMM/Seething-Song-png.png"
         },
         "name": "Seething Song",
         "oracle_text": "Add {R}{R}{R}{R}{R}.",
@@ -8110,7 +8110,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/LzbSLZ4b/Sidequest-Catch-a-Fish-png.png"
+              "large": "https://i.ibb.co/RkdLkcsq/Sidequest-Catch-a-Fish-png.png"
             },
             "name": "Sidequest: Catch a Fish",
             "oracle_text": "At the beginning of your upkeep, look at the top card of your library. If it's an artifact or creature card, you may reveal it and put it into your hand. If you put a card into your hand this way, create a Food token and transform this enchantment.",
@@ -8118,7 +8118,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/b5dmFp3x/Cooking-Campsite-png.png"
+              "large": "https://i.ibb.co/gMMZB8hR/Cooking-Campsite-png.png"
             },
             "name": "Cooking Campsite",
             "oracle_text": "{T}: Add {W}.\n{3}, {T}, Sacrifice an artifact: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.",
@@ -8770,7 +8770,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/RTRxKgz0/Spellseeker-png.png"
+          "large": "https://i.ibb.co/wFk7G7G9/Spellseeker-png.png"
         },
         "name": "Spellseeker",
         "oracle_text": "When this creature enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.",
@@ -8942,7 +8942,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/67FvLxYy/Splicer-s-Skill-png.png"
+          "large": "https://i.ibb.co/fdmvvjTx/Splicer-s-Skill-png.png"
         },
         "name": "Splicer's Skill",
         "oracle_text": "Create a 3/3 colorless Phyrexian Golem artifact creature token.\nSplice onto instant or sorcery {3}{W}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
@@ -9134,7 +9134,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/4g5bB25w/Sulfur-Falls-png.png"
+          "large": "https://i.ibb.co/ynMzLWT2/Sulfur-Falls-png.png"
         },
         "name": "Sulfur Falls",
         "oracle_text": "This land enters tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R}.",
@@ -9241,7 +9241,7 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/vCmbxjsL/Swamp-png.png"
+          "large": "https://i.ibb.co/J85VDdX/Swamp-png.png"
         },
         "name": "Swamp",
         "oracle_text": "",
@@ -9254,7 +9254,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/MDvHrCbK/Swarm-of-Secrets-png.png"
+          "large": "https://i.ibb.co/b5RjHnMJ/Swarm-of-Secrets-png.png"
         },
         "name": "Swarm of Secrets",
         "oracle_text": "When this enchantment enters, create X plus one 1/1 red Demon creature tokens.\nSacrifice a creature: Target player reveals the top card of their library. You may put it on the bottom. Activate only once each turn.",
@@ -9417,7 +9417,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/CFM4P1B/Temple-of-the-False-God-png.png"
+          "large": "https://i.ibb.co/fVzhbGNL/Temple-of-the-False-God-png.png"
         },
         "name": "Temple of the False God",
         "oracle_text": "{T}: Add {C}{C}. Activate only if you control five or more lands.",
@@ -9430,7 +9430,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/3y0wGjNy/Terramorphic-Expanse-png.png"
+          "large": "https://i.ibb.co/MDZ0Bv70/Terramorphic-Expanse-png.png"
         },
         "name": "Terramorphic Expanse",
         "oracle_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
@@ -10756,7 +10756,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/WhMTH3C/Watcher-of-the-Roost-png.png"
+          "large": "https://i.ibb.co/Z1VqY0y1/Watcher-of-the-Roost-png.png"
         },
         "name": "Watcher of the Roost",
         "oracle_text": "Flying\nMorph—Reveal a white card in your hand.  (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) \nWhen this creature is turned face up, you gain 2 life.",
