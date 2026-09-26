@@ -65,7 +65,7 @@
           "large": "https://i.ibb.co/qF7Y2D8D/Leonin-Logistics-Chopper-png.png"
         },
         "name": "\"Leonin\" Logistics Chopper",
-        "oracle_text": "Flying\nWhenever this Vehicle deals combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) \nCrew 1",
+        "oracle_text": "Flying\nWhenever one or more Vehicles or Soldiers you control deal combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) \nCrew 1",
         "power": "2",
         "toughness": "2",
         "type_line": "Artifact — Vehicle"
@@ -77,12 +77,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/35GMwW51/Rampart-APC-Company-png.png"
+          "large": "https://i.ibb.co/35502m9v/Rampart-APC-Company-png.png"
         },
         "name": "\"Rampart\" APC Company",
-        "oracle_text": "When this Vehicle enters, create two 1/1 red Soldier creature tokens.\nWhenever this Vehicle attacks, it gains indestructible until end of turn.\nWhenever this Vehicle blocks, put a +1/+1 counter on it.\nCrew 3",
-        "power": "5",
-        "toughness": "5",
+        "oracle_text": "When this Vehicle enters, create two 1/1 red Soldier creature tokens.\nWartime Measures —\nCrew 2",
+        "power": "4",
+        "toughness": "4",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -299,11 +299,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/nsmf9NLn/AI-Upgrade-png.png"
+          "large": "https://i.ibb.co/p6KGDtRz/AI-Upgrade-png.png"
         },
         "name": "AI Upgrade",
-        "oracle_text": "Equipped permanent gets +Whatever, has keyword, and is an artifact creature in addition to its other types",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Enchant creature or Vehicle\nEnchanted permanent gets +Whatever, has keyword, and is an artifact creature in addition to its other types.",
+        "type_line": "Enchantment — Aura"
       }
     }
   },
@@ -416,8 +416,8 @@
           "large": "https://i.ibb.co/DHRL5jqW/Amphibious-Infiltrator-png.png"
         },
         "name": "Amphibious Infiltrator",
-        "oracle_text": "This creature can't be blocked.\nWhenever this creature crews a Vehicle, that Vehicle gets +1/+0 and can't be blocked until end of turn.",
-        "power": "2",
+        "oracle_text": "This creature can't be blocked.\nWhenever this creature crews a Vehicle, that Vehicle can't be blocked this turn.",
+        "power": "1",
         "toughness": "1",
         "type_line": "Creature — Human Pilot"
       }
@@ -783,10 +783,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/gZ3TbLGx/Battle-of-UU10-png.png"
+              "large": "https://i.ibb.co/d4TcQHPY/Battle-of-UU10-png.png"
             },
+            "loyalty": "4",
             "name": "Battle of UU10",
-            "oracle_text": "Flash\nWhen this battle enters, counter target spell.",
+            "oracle_text": "Flash\nCounter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
             "type_line": "Battle — Siege"
           },
           {
@@ -823,12 +824,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/RGtk4sDC/BC-9-Mile-High-Aircruiser-png.png"
+          "large": "https://i.ibb.co/PvKZSf2Q/BC-9-Mile-High-Aircruiser-png.png"
         },
         "name": "BC-9 \"Mile High\" Aircruiser",
-        "oracle_text": "Flying, menace\nWhenever this Vehicle deals combat damage to a player or battle, destroy target land controlled by that player or that battle's protector unless they have this Vehicle deal 5 damage to them.\nCrew 3",
-        "power": "1",
-        "toughness": "6",
+        "oracle_text": "",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -1315,10 +1314,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/RTbh7HbM/Careful-Captain-png.png"
+          "large": "https://i.ibb.co/zHnhGZPF/Careful-Captain-png.png"
         },
         "name": "Careful Captain",
-        "oracle_text": "Whenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.",
+        "oracle_text": "Indestructible\nWhenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Pilot"
@@ -1999,10 +1998,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/0y9fJnJr/Crack-Shot-Ace-png.png"
+          "large": "https://i.ibb.co/G3JgX7Qd/Crack-Shot-Ace-png.png"
         },
         "name": "Crack Shot Ace",
-        "oracle_text": "First strike\nWhenever this creature crews a vehicle during your turn, double all damage that Vehicle would deal this turn.{flavor}\"Think twice before you mess with the best.\"",
+        "oracle_text": "First strike\nWhenever this creature crews a Vehicle during your main phase, double all damage that Vehicle would deal this turn.",
         "type_line": "Creature — Human Pilot"
       }
     }
@@ -2222,11 +2221,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/tPYyPymR/Defense-of-UW13-png.png"
+          "large": "https://i.ibb.co/4wZrWygT/Defense-of-UW13-png.png"
         },
-        "loyalty": "3",
+        "loyalty": "2",
         "name": "Defense of UW13",
-        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhenever a nontoken creature you control enters, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) ",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhenever another battle or nontoken creature you control enters, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) ",
         "type_line": "Battle"
       }
     }
@@ -2346,6 +2345,19 @@
         "power": "2",
         "toughness": "2",
         "type_line": "Legendary Creature — Spirit Cat Bird"
+      }
+    }
+  },
+  "desperate ritual": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/zVttVF04/Desperate-Ritual-png.png"
+        },
+        "name": "Desperate Ritual",
+        "oracle_text": "Add {R}{R}{R}.\nSplice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
+        "type_line": "Instant — Arcane"
       }
     }
   },
@@ -2905,8 +2917,8 @@
           "large": "https://i.ibb.co/tw7qxpY1/Field-Salvage-Kit-png.png"
         },
         "name": "Field Salvage Kit",
-        "oracle_text": "Whenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If that artifact was a creature or had counters on it, surveil 1\nEquip {?}",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -3472,10 +3484,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/ZRhLt6Wp/Griffin-Border-Patrol-png.png"
+          "large": "https://i.ibb.co/yJkmBnN/Griffin-Border-Patrol-png.png"
         },
         "name": "Griffin Border Patrol",
-        "oracle_text": "Flying, vigilance\nWhenever this Vehicle blocks, it deals 1 damage to target attacking creature.\nCrew 1",
+        "oracle_text": "Flying, vigilance\n{w}, {t}: This Vehicle deals 1 damage to target attacking or blocking creature.\nCrew 1",
         "power": "3",
         "toughness": "1",
         "type_line": "Artifact — Vehicle"
@@ -3908,6 +3920,19 @@
       }
     }
   },
+  "home-base hangar bay": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/qL9ZpwKn/Home-Base-Hangar-Bay-png.png"
+        },
+        "name": "Home-Base Hangar Bay",
+        "oracle_text": "Wartime Measures -  {2}{r}, {t}: Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) \n • Populate.  (Create a token that's a copy of a creature token you control.) ",
+        "type_line": "Artifact"
+      }
+    }
+  },
   "home-front supporter": {
     "default": "BTL",
     "printings": {
@@ -4144,7 +4169,7 @@
           "large": "https://i.ibb.co/SD4dK46m/I-A-Point-Defense-Destroyer-png.png"
         },
         "name": "I.A. Point Defense Destroyer",
-        "oracle_text": "Reach\nThis Vehicle can block an additional creature each combat.\n{1}{G}{G}: Target permanent you control gains protection from creatures with flying until end of turn. \nCrew 3",
+        "oracle_text": "Reach\n{1}{G}{G}: Target permanent you control gains protection from creatures with flying until end of turn.\nCrew 3",
         "power": "5",
         "toughness": "7",
         "type_line": "Artifact — Vehicle"
@@ -4820,11 +4845,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/QjN9Y7rM/Knight-s-Beacon-Interceptor-png.png"
+          "large": "https://i.ibb.co/Kxt01KVT/Knight-s-Beacon-Interceptor-png.png"
         },
         "name": "Knight's Beacon Interceptor",
-        "oracle_text": "Flying, lifelink\nWhen this Vehicle enters, you may return target Soldier, Pilot, or Vehicle card from your graveyard to the battlefield.\nCrew 1",
-        "power": "3",
+        "oracle_text": "Flying, lifelink\n{1}{B}, {T}, Sacrifice this Vehicle: Return target Soldier, Pilot, or Vehicle card from your graveyard to the battlefield.\nCrew 1",
+        "power": "2",
         "toughness": "2",
         "type_line": "Artifact — Vehicle"
       }
@@ -6118,10 +6143,8 @@
           "large": "https://i.ibb.co/YTwY6gXX/No-Man-s-Land-png.png"
         },
         "name": "No Man's Land",
-        "oracle_text": "Creatures can't attack you or battles you protect unless their controller pays {2} for each of those creatures.",
-        "power": "0",
-        "toughness": "4",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -6688,8 +6711,8 @@
           "large": "https://i.ibb.co/yFRpJry9/Poisoned-Orders-png.png"
         },
         "name": "Poisoned Orders",
-        "oracle_text": "Enchant Creature or Vehicle\nAt the beginning of each combat, choose target battle or player. Enchanted permanent attacks this turn if able and attacks that battle or player if able. (It can't attack its controller or anything its controller protects.)",
-        "type_line": ""
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -6960,10 +6983,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/N6Vk5Lbv/QRF-2-Toc-Mand-Drone-Ship-png.png"
+          "large": "https://i.ibb.co/DDbYgp5V/QRF-2-Toc-Mand-Drone-Ship-png.png"
         },
         "name": "QRF.2 Toc-Mand Drone Ship",
-        "oracle_text": "Flash\nFlying\nFabricate 2  (When this enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.) \nCrew 2",
+        "oracle_text": "Flying\nFabricate 3  (When this enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.) \nCrew 3",
         "power": "5",
         "toughness": "4",
         "type_line": "Artifact — Vehicle"
@@ -7008,10 +7031,8 @@
           "large": "https://i.ibb.co/xqspjZFx/R-D-I-Vanguard-Dogfighter-png.png"
         },
         "name": "R.D.I. Vanguard Dogfighter",
-        "oracle_text": "Flying\nWhenever this Vehicle attacks, target creature or Vehicle blocks it this turn if able. If that permanent is a Vehicle, it becomes an artifact creature until end of turn.\nCrew 2",
-        "power": "3",
-        "toughness": "4",
-        "type_line": "Artifact — Vehicle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -7049,8 +7070,8 @@
           "large": "https://i.ibb.co/Z1GvY9C8/Radio-Backpack-png.png"
         },
         "name": "Radio Backpack",
-        "oracle_text": "Equipped creature has ward {1} and \"Whenever this creature attacks, untap target artifact or creature.\"\nEquip Soldier {2}\nEquip {3}",
-        "type_line": "Artifact — Equipment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8253,6 +8274,34 @@
       }
     }
   },
+  "siege of ub11": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/11tkvYk/Siege-of-UB11-png.png"
+            },
+            "loyalty": "4",
+            "name": "Siege of UB11",
+            "oracle_text": "Attrition — Whenever a nonland permanent leaves the battlefield, surveil 1. Remove a defense counter from this Siege.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/WpsFGqLW/Victory-of-UB11-png.png"
+            },
+            "name": "Victory of UB11@",
+            "oracle_text": "???",
+            "type_line": "Something@"
+          }
+        ],
+        "layout": "transform",
+        "name": "Siege of UB11"
+      }
+    }
+  },
   "siege of uh01": {
     "default": "BTL",
     "printings": {
@@ -8739,6 +8788,19 @@
       }
     }
   },
+  "sol ring alt": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/TMb0MKy2/Sol-Ring-Alt-png.png"
+        },
+        "name": "Sol Ring Alt",
+        "oracle_text": "{T}: Add {C}{C}.",
+        "type_line": "Artifact"
+      }
+    }
+  },
   "soldier token 1": {
     "default": "BTL",
     "printings": {
@@ -9092,7 +9154,7 @@
           "large": "https://i.ibb.co/Nd079SQ7/Starstruck-Rookies-png.png"
         },
         "name": "Starstruck Rookies",
-        "oracle_text": "Whenever this creature crews a Vehicle, that Vehicle has base power and toughness X/X until end of turn, where X is the greatest power among Vehicle creatures you control.",
+        "oracle_text": "This creature and Vehicles it crewed this turn have +X/+X, where X is the greatest power among Vehicle creatures you control",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Pilot"
@@ -9314,10 +9376,8 @@
           "large": "https://i.ibb.co/1GnS6Q8v/Supportive-Seamen-png.png"
         },
         "name": "Supportive Seamen",
-        "oracle_text": "Whenever this creature becomes tapped, untap target artifact you control. This ability triggers only once each turn.\n{4}{U}, {T}: Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) ",
-        "power": "1",
-        "toughness": "4",
-        "type_line": "Creature — Human Soldier"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9948,10 +10008,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/YFg556Wj/Three-Tour-Captain-png.png"
+          "large": "https://i.ibb.co/x8RBhJsX/Three-Tour-Captain-png.png"
         },
         "name": "Three-Tour Captain",
-        "oracle_text": "When this creature enters and whenever a battle you control is defeated, put a +1/+1 counter on target creature or Vehicle.",
+        "oracle_text": "",
         "power": "2",
         "toughness": "1",
         "type_line": "Creature — Human Pilot"
@@ -9976,12 +10036,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/qMnTzjqp/Thrull-Squad-Support-Drone-png.png"
+          "large": "https://i.ibb.co/tMdtMD7g/Thrull-Squad-Support-Drone-png.png"
         },
         "name": "Thrull Squad Support Drone",
-        "oracle_text": "Menace\nFabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) \n Renew  — {1}{B}, Exile this card from your graveyard: Put a +1/+1 counter and a menace counter on target creature or Vehicle. Activate only as a sorcery.",
-        "power": "2",
-        "toughness": "2",
+        "oracle_text": "Menace\nFabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) \nModular 1 (This enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+        "power": "1",
+        "toughness": "1",
         "type_line": "Artifact Creature — Robot"
       }
     }
@@ -10367,7 +10427,7 @@
           "large": "https://i.ibb.co/Lh65rn8q/Two-Tour-Corporal-png.png"
         },
         "name": "Two-Tour Corporal",
-        "oracle_text": "When this creature enters and whenever a battle you control is defeated, create a 1/1 red Soldier creature token.",
+        "oracle_text": "",
         "power": "1",
         "toughness": "1",
         "type_line": "Creature — Human Soldier"
@@ -10856,6 +10916,19 @@
         "power": "2",
         "toughness": "1",
         "type_line": "Creature — Bird Soldier"
+      }
+    }
+  },
+  "wayfarer's bauble": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/N63dtK8M/Wayfarer-s-Bauble-png.png"
+        },
+        "name": "Wayfarer's Bauble",
+        "oracle_text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+        "type_line": "Artifact"
       }
     }
   },
