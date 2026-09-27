@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-26</releasedate>
+        <set> v1.4<releasedate>2026-09-27</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
@@ -250,27 +250,6 @@ Crew 2</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>"Leonin" Logistics Chopper</name>
-            <text>Flying
-Whenever one or more Vehicles or Soldiers you control deal combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) 
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/qF7Y2D8D/Leonin-Logistics-Chopper-png.png" picurl_large="https://i.ibb.co/3Y4mPTbT/Leonin-Logistics-Chopper-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Two-Tour Corporal</name>
             <text />
             <prop>
@@ -349,6 +328,27 @@ Crew 1</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/TDJLYqg5/Order-an-Air-Defense-png.png" picurl_large="https://i.ibb.co/Cp42msHF/Order-an-Air-Defense-png.png">BTL</set>
             <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Home-Base Hangar Bay</name>
+            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+ • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
+ • Populate.  (Create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/qL9ZpwKn/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/nqfWjS90/Home-Base-Hangar-Bay-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Home-Base Hangar Bay</name>
@@ -566,6 +566,27 @@ Crew 1</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/wh82ZRzQ/Crafty-Cadet-png.png" picurl_large="https://i.ibb.co/wh82ZRzQ/Crafty-Cadet-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Griffin Border Patrol</name>
+            <text>Flying, vigilance
+{w}, {t}: This Vehicle deals 1 damage to target attacking or blocking creature.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/yJkmBnN/Griffin-Border-Patrol-png.png" picurl_large="https://i.ibb.co/YGd4T7N/Griffin-Border-Patrol-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Martyr Siegebreaker</name>
@@ -810,6 +831,27 @@ Destroy target creature or Vehicle.</text>
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Thrull Squad Support Drone</name>
+            <text>Menace
+Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) 
+Modular 1 (This enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/tMdtMD7g/Thrull-Squad-Support-Drone-png.png" picurl_large="https://i.ibb.co/BV1xVBXb/Thrull-Squad-Support-Drone-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Fund the Front</name>
             <text>Create a 3/3 green Soldier creature token and a Treasure token.</text>
             <prop>
@@ -830,6 +872,25 @@ Destroy target creature or Vehicle.</text>
             <related>Treasure Token</related>
             </card>
         <card>
+            <name>Three-Tour Captain</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Pilot</type>
+                <pt>2/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/x8RBhJsX/Three-Tour-Captain-png.png" picurl_large="https://i.ibb.co/XkvKXS4j/Three-Tour-Captain-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Spear Fleet Marines</name>
             <text>Haste
 When this creature enters, creatures you control gain trample until end of turn.</text>
@@ -848,6 +909,26 @@ When this creature enters, creatures you control gain trample until end of turn.
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/Wv5F8pKn/Spear-Fleet-Marines-png.png" picurl_large="https://i.ibb.co/QvQnSjm9/Spear-Fleet-Marines-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Siege of UB11</name>
+            <text>Attrition — Whenever a nonland permanent leaves the battlefield, surveil 1. Remove a defense counter from this Siege.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/11tkvYk/Siege-of-UB11-png.png" picurl_large="https://i.ibb.co/WZ4LxNL/Siege-of-UB11-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Victory of UB11</related>
             </card>
         <card>
             <name>Relentless Assailant</name>
@@ -929,6 +1010,27 @@ Crew 1</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/TBBFfB5m/Modular-Combat-Drone-png.png" picurl_large="https://i.ibb.co/3yyL3yHB/Modular-Combat-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>QRF.2 Toc-Mand Drone Ship</name>
+            <text>Flying
+Fabricate 3  (When this enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.) 
+Crew 3</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{U}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>5/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/DDbYgp5V/QRF-2-Toc-Mand-Drone-Ship-png.png" picurl_large="https://i.ibb.co/WW30ptgx/QRF-2-Toc-Mand-Drone-Ship-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>C-10 "Nanny" Aircraft Carrier</name>
@@ -1029,6 +1131,46 @@ Creatures you control get +1/+1 and have reach.</text>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
             <set rarity="Common" picurl="https://i.ibb.co/7dxk5r4V/Twilight-Over-the-Shield-png.png" picurl_large="https://i.ibb.co/gLb4ptVw/Twilight-Over-the-Shield-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Defense of UW13</name>
+            <text>(You defend this battle. Your opponents can attack it.) 
+Whenever another battle or nontoken creature you control enters, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>2</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/4wZrWygT/Defense-of-UW13-png.png" picurl_large="https://i.ibb.co/SDXCNT7n/Defense-of-UW13-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>AI Upgrade</name>
+            <text>Enchant creature or Vehicle
+Enchanted permanent gets +Whatever, has keyword, and is an artifact creature in addition to its other types.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/p6KGDtRz/AI-Upgrade-png.png" picurl_large="https://i.ibb.co/0p98NgFM/AI-Upgrade-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1454,6 +1596,27 @@ Whenever enchanted permanent crews a Vehicle, create a copy of this Aura attache
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Battle of UU10</name>
+            <text>Flash
+Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{2}{U}{U}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/d4TcQHPY/Battle-of-UU10-png.png" picurl_large="https://i.ibb.co/VY1Nvkg4/Battle-of-UU10-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Victory of UU10</related>
+            </card>
+        <card>
             <name>"Rhox" Drone Transport</name>
             <text>Fabricate 2  (When this creature enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.) 
 Crew 2
@@ -1492,6 +1655,26 @@ When this creature enters, put a +1/+1 counter on another target creature or Veh
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/8n0YVGyP/Airborne-Ranger-Regiment-png.png" picurl_large="https://i.ibb.co/Gf0HjGZC/Airborne-Ranger-Regiment-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Crack Shot Ace</name>
+            <text>First strike
+Whenever this creature crews a Vehicle during your main phase, double all damage that Vehicle would deal this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Pilot</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/G3JgX7Qd/Crack-Shot-Ace-png.png" picurl_large="https://i.ibb.co/QjcsZ9vJ/Crack-Shot-Ace-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1713,6 +1896,26 @@ Crew 3</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/fztghQWq/Savvy-Strategist-png.png" picurl_large="https://i.ibb.co/ks07RMT5/Savvy-Strategist-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Victory of UB11@</name>
+            <text>???</text>
+            <prop>
+                <layout>transform</layout>
+                <side>back</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Something@</maintype>
+                <type>Something@</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/WpsFGqLW/Victory-of-UB11-png.png" picurl_large="https://i.ibb.co/sJtQbkZv/Victory-of-UB11-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Siege of UB11</related>
             </card>
         <card>
             <name>Trenchline Breach Team</name>
@@ -2730,6 +2933,25 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>BC-9 "Mile High" Aircruiser</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/PvKZSf2Q/BC-9-Mile-High-Aircruiser-png.png" picurl_large="https://i.ibb.co/hJbRqtGf/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Fort Steelgill's Judgement</name>
             <text>When this battle enters, exile target nonland permanent an opponent controls until this battle leaves the battlefield.</text>
             <prop>
@@ -2826,6 +3048,27 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/1GnS6Q8v/Supportive-Seamen-png.png" picurl_large="https://i.ibb.co/xqs4HLJC/Supportive-Seamen-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>"Leonin" Logistics Chopper</name>
+            <text>Flying
+Whenever one or more Vehicles or Soldiers you control deal combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) 
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/qF7Y2D8D/Leonin-Logistics-Chopper-png.png" picurl_large="https://i.ibb.co/3Y4mPTbT/Leonin-Logistics-Chopper-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3398,6 +3641,27 @@ When this creature enters, proliferate. (Choose any number of permanents and/or 
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>"Rampart" APC Company</name>
+            <text>When this Vehicle enters, create two 1/1 red Soldier creature tokens.
+Wartime Measures —
+Crew 2</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/35502m9v/Rampart-APC-Company-png.png" picurl_large="https://i.ibb.co/HLLr6TfC/Rampart-APC-Company-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Dr. Korella Mandalay</name>
             <text />
             <prop>
@@ -3414,6 +3678,26 @@ When this creature enters, proliferate. (Choose any number of permanents and/or 
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Rare" picurl="https://i.ibb.co/BVpGFB71/Dr-Korella-Mandalay-png.png" picurl_large="https://i.ibb.co/99DhSWfM/Dr-Korella-Mandalay-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Careful Captain</name>
+            <text>Indestructible
+Whenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Pilot</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/zHnhGZPF/Careful-Captain-png.png" picurl_large="https://i.ibb.co/Z1L6WxcS/Careful-Captain-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3592,290 +3876,6 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/KjZf1T0R/Flight-School-png.png" picurl_large="https://i.ibb.co/N6hJ4cVQ/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Home-Base Hangar Bay</name>
-            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you control a battle or have defeated a battle this game, you may choose both.
- • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
- • Populate.  (Create a token that's a copy of a creature token you control.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/qL9ZpwKn/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/nqfWjS90/Home-Base-Hangar-Bay-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Griffin Border Patrol</name>
-            <text>Flying, vigilance
-{w}, {t}: This Vehicle deals 1 damage to target attacking or blocking creature.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/yJkmBnN/Griffin-Border-Patrol-png.png" picurl_large="https://i.ibb.co/YGd4T7N/Griffin-Border-Patrol-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Thrull Squad Support Drone</name>
-            <text>Menace
-Fabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) 
-Modular 1 (This enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/tMdtMD7g/Thrull-Squad-Support-Drone-png.png" picurl_large="https://i.ibb.co/BV1xVBXb/Thrull-Squad-Support-Drone-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Three-Tour Captain</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Pilot</type>
-                <pt>2/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/x8RBhJsX/Three-Tour-Captain-png.png" picurl_large="https://i.ibb.co/XkvKXS4j/Three-Tour-Captain-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Siege of UB11</name>
-            <text>Attrition — Whenever a nonland permanent leaves the battlefield, surveil 1. Remove a defense counter from this Siege.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>4</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/11tkvYk/Siege-of-UB11-png.png" picurl_large="https://i.ibb.co/WZ4LxNL/Siege-of-UB11-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UB11</related>
-            </card>
-        <card>
-            <name>QRF.2 Toc-Mand Drone Ship</name>
-            <text>Flying
-Fabricate 3  (When this enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.) 
-Crew 3</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{U}</manacost>
-                <cmc>5</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>5/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/DDbYgp5V/QRF-2-Toc-Mand-Drone-Ship-png.png" picurl_large="https://i.ibb.co/WW30ptgx/QRF-2-Toc-Mand-Drone-Ship-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Defense of UW13</name>
-            <text>(You defend this battle. Your opponents can attack it.) 
-Whenever another battle or nontoken creature you control enters, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{W}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
-                <pt />
-                <loyalty>2</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/4wZrWygT/Defense-of-UW13-png.png" picurl_large="https://i.ibb.co/SDXCNT7n/Defense-of-UW13-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>AI Upgrade</name>
-            <text>Enchant creature or Vehicle
-Enchanted permanent gets +Whatever, has keyword, and is an artifact creature in addition to its other types.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Aura</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/p6KGDtRz/AI-Upgrade-png.png" picurl_large="https://i.ibb.co/0p98NgFM/AI-Upgrade-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Battle of UU10</name>
-            <text>Flash
-Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{2}{U}{U}</manacost>
-                <cmc>4</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>4</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/d4TcQHPY/Battle-of-UU10-png.png" picurl_large="https://i.ibb.co/VY1Nvkg4/Battle-of-UU10-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UU10</related>
-            </card>
-        <card>
-            <name>Crack Shot Ace</name>
-            <text>First strike
-Whenever this creature crews a Vehicle during your main phase, double all damage that Vehicle would deal this turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Pilot</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/G3JgX7Qd/Crack-Shot-Ace-png.png" picurl_large="https://i.ibb.co/QjcsZ9vJ/Crack-Shot-Ace-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Victory of UB11@</name>
-            <text>???</text>
-            <prop>
-                <layout>transform</layout>
-                <side>back</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Something@</maintype>
-                <type>Something@</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/WpsFGqLW/Victory-of-UB11-png.png" picurl_large="https://i.ibb.co/sJtQbkZv/Victory-of-UB11-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Siege of UB11</related>
-            </card>
-        <card>
-            <name>BC-9 "Mile High" Aircruiser</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/PvKZSf2Q/BC-9-Mile-High-Aircruiser-png.png" picurl_large="https://i.ibb.co/hJbRqtGf/BC-9-Mile-High-Aircruiser-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>"Rampart" APC Company</name>
-            <text>When this Vehicle enters, create two 1/1 red Soldier creature tokens.
-Wartime Measures —
-Crew 2</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{W}</manacost>
-                <cmc>4</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/35502m9v/Rampart-APC-Company-png.png" picurl_large="https://i.ibb.co/HLLr6TfC/Rampart-APC-Company-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Careful Captain</name>
-            <text>Indestructible
-Whenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Pilot</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/zHnhGZPF/Careful-Captain-png.png" picurl_large="https://i.ibb.co/Z1L6WxcS/Careful-Captain-png.png">BTL</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>From Rubble</name>

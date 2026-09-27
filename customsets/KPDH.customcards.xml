@@ -1,13 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-26</releasedate>
+        <set> v1.4<releasedate>2026-09-27</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Temple of Epiphany</name>
+            <text>This land enters tapped.
+When this land enters, scry 1.  (Look at the top card of your library. You may put that card on the bottom.) 
+{T}: Add {U} or {R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/39SVW41S/Temple-of-Epiphany-png.png" picurl_large="https://i.ibb.co/pB4NZb24/Temple-of-Epiphany-png.png">KPDH</set>
+            <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Arcane Signet Alt Bracelet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RGmrkChc/Arcane-Signet-Alt-Bracelet-png.png" picurl_large="https://i.ibb.co/Q7RS368M/Arcane-Signet-Alt-Bracelet-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -1464,27 +1504,6 @@ Splice onto Arcane {R}  (As you cast an Arcane spell, you may reveal this card f
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Temple of Epiphany</name>
-            <text>This land enters tapped.
-When this land enters, scry 1.  (Look at the top card of your library. You may put that card on the bottom.) 
-{T}: Add {U} or {R}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity>UR</coloridentity>
-                <maintype>Land</maintype>
-                <type>Land</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KcNfqjgp/Temple-of-Epiphany-png.png" picurl_large="https://i.ibb.co/KcNfqjgp/Temple-of-Epiphany-png.png">KPDH</set>
-            <tablerow>0</tablerow>
-            </card>
-        <card>
             <name>Overblaze</name>
             <text>Each time target permanent would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.
 Splice onto Arcane {2}{R}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
@@ -1950,6 +1969,26 @@ You may choose new targets for target spell or ability.</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/9HWpPmFD/Deflecting-Swat-png.png" picurl_large="https://i.ibb.co/9HWpPmFD/Deflecting-Swat-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Desperate Ritual</name>
+            <text>Add {R}{R}{R}.
+Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Arcane</maintype>
+                <type>Instant — Arcane</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zVttVF04/Desperate-Ritual-png.png" picurl_large="https://i.ibb.co/yFxxFpbQ/Desperate-Ritual-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -4477,6 +4516,25 @@ Forecast — {2}{W}, Reveal this card from your hand: Tap target untapped creatu
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Wayfarer's Bauble</name>
+            <text>{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/N63dtK8M/Wayfarer-s-Bauble-png.png" picurl_large="https://i.ibb.co/TBTxYtVs/Wayfarer-s-Bauble-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Entrancing Melody</name>
             <text>Gain control of target creature with mana value X.</text>
             <prop>
@@ -4995,6 +5053,25 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/kV18rC1v/Mother-of-Runes-png.png" picurl_large="https://i.ibb.co/kV18rC1v/Mother-of-Runes-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Sol Ring Alt</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TMb0MKy2/Sol-Ring-Alt-png.png" picurl_large="https://i.ibb.co/YBydBDgQ/Sol-Ring-Alt-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -5611,64 +5688,6 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Desperate Ritual</name>
-            <text>Add {R}{R}{R}.
-Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Arcane</maintype>
-                <type>Instant — Arcane</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zVttVF04/Desperate-Ritual-png.png" picurl_large="https://i.ibb.co/yFxxFpbQ/Desperate-Ritual-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Wayfarer's Bauble</name>
-            <text>{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}</manacost>
-                <cmc>1</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/N63dtK8M/Wayfarer-s-Bauble-png.png" picurl_large="https://i.ibb.co/TBTxYtVs/Wayfarer-s-Bauble-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Sol Ring Alt</name>
-            <text>{T}: Add {C}{C}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}</manacost>
-                <cmc>1</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TMb0MKy2/Sol-Ring-Alt-png.png" picurl_large="https://i.ibb.co/YBydBDgQ/Sol-Ring-Alt-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>

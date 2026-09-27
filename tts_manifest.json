@@ -571,6 +571,19 @@
       }
     }
   },
+  "arcane signet alt bracelet": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/RGmrkChc/Arcane-Signet-Alt-Bracelet-png.png"
+        },
+        "name": "Arcane Signet Alt Bracelet",
+        "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+        "type_line": "Artifact"
+      }
+    }
+  },
   "archangel unit: model 0": {
     "default": "BTL",
     "printings": {
@@ -9518,7 +9531,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/KcNfqjgp/Temple-of-Epiphany-png.png"
+          "large": "https://i.ibb.co/39SVW41S/Temple-of-Epiphany-png.png"
         },
         "name": "Temple of Epiphany",
         "oracle_text": "This land enters tapped.\nWhen this land enters, scry 1.  (Look at the top card of your library. You may put that card on the bottom.) \n{T}: Add {U} or {R}.",

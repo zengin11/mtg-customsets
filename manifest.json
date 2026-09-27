@@ -469,6 +469,7 @@
       "Arcane Infusion": "2026-09-25T02:55:51Z",
       "Arcane Signet": "2026-09-25T02:55:51Z",
       "Arcane Signet Alt": "2026-09-25T02:55:51Z",
+      "Arcane Signet Alt Bracelet": "2026-09-27T20:12:26Z",
       "Artist's Talent": "2026-09-24T01:43:40Z",
       "Ascendant Finale": "2026-09-25T02:55:51Z",
       "Baby Saja, Ungodly Lyricist": "2026-09-25T02:55:51Z",
@@ -725,7 +726,7 @@
       "Swiftfoot Boots": "2026-09-25T02:55:51Z",
       "Swords to Plowshares": "2026-09-25T02:55:51Z",
       "Temple of Deceit": "2026-09-25T02:55:51Z",
-      "Temple of Epiphany": "2026-09-25T02:55:51Z",
+      "Temple of Epiphany": "2026-09-27T20:12:26Z",
       "Temple of Malice": "2026-09-25T02:55:51Z",
       "Temple of Mystery": "2026-09-25T02:55:51Z",
       "Temple of Plenty": "2026-09-25T02:55:51Z",
@@ -881,7 +882,7 @@
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-26T21:15:40Z"
+      "updated": "2026-09-27T20:12:26Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -897,6 +898,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-26T21:13:51Z"
+    "updated": "2026-09-26T21:14:31Z"
   }
 }
