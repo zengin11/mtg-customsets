@@ -116,7 +116,7 @@
       "Freelance Recovery": "2026-09-11T20:34:04Z",
       "From Rubble": "2026-09-11T20:34:04Z",
       "Frontline Reinforcements": "2026-09-02T18:37:21Z",
-      "Fund the Front": "2026-09-12T18:55:18Z",
+      "Fund the Front": "2026-09-29T16:09:57Z",
       "Gallandi Ace Academy": "2026-09-17T16:24:47Z",
       "Gallandi Border Post": "2026-09-05T19:10:39Z",
       "Gallandi Gunship Crew": "2026-09-02T18:37:21Z",
@@ -653,6 +653,7 @@
       "Ponder": "2026-09-25T02:55:51Z",
       "Port Town": "2026-09-25T02:55:51Z",
       "Powerbalance": "2026-09-25T02:55:51Z",
+      "Price of Secrecy": "2026-09-29T16:09:55Z",
       "Prodder of Sin": "2026-09-25T02:55:51Z",
       "Prospective Hunter": "2026-09-25T02:55:51Z",
       "Psychic Puppetry": "2026-09-25T02:55:51Z",
@@ -709,7 +710,7 @@
       "Spellseeker": "2026-09-25T02:55:51Z",
       "Sphinx of Uthuun (Tiger of the Hojak-do)": "2026-09-25T02:55:51Z",
       "Spirit": "2026-09-25T02:55:51Z",
-      "Spirit Alt Derpy": "2026-09-25T02:55:51Z",
+      "Spirit Alt Derpy": "2026-09-29T16:09:48Z",
       "Spirit en-Dal": "2026-09-25T02:55:51Z",
       "Spiritual Visit": "2026-09-25T02:55:51Z",
       "Splicer's Skill": "2026-09-25T02:55:51Z",
@@ -880,13 +881,13 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-09-29T15:51:22Z"
+      "updated": "2026-09-29T16:09:57Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-09-29T15:51:46Z"
+      "updated": "2026-09-29T16:09:55Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -902,6 +903,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-09-29T15:51:17Z"
+    "updated": "2026-09-29T15:51:46Z"
   }
 }

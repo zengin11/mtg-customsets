@@ -4012,25 +4012,6 @@ Choose a creature type. Draw a card for each permanent you control of that type.
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Spirit Alt Derpy</name>
-            <text />
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Spirit</maintype>
-                <type>Token Creature — Spirit</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Nnk9w0rj/Spirit-Alt-Derpy-png.png" picurl_large="https://i.ibb.co/Nnk9w0rj/Spirit-Alt-Derpy-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Echoing Harmony</name>
             <text>Storm  (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.) 
 Splice onto instant or sorcery {2}{u}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
@@ -5745,6 +5726,25 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Price of Secrecy</name>
+            <text>At the beginning of each opponent's draw step, draw a card. Then that opponent may draw a card. If they do, they reveal that card. Otherwise, you discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xxd1b1Ms/Price-of-Secrecy-png.png" picurl_large="https://i.ibb.co/b5yTPTDB/Price-of-Secrecy-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>

@@ -853,7 +853,7 @@ Modular 1 (This enters with a +1/+1 counter on it. When it dies, you may put its
             </card>
         <card>
             <name>Fund the Front</name>
-            <text>Create a 3/3 green Soldier creature token and a Treasure token.</text>
+            <text>Create a 3/3 green Soldier creature token and a Treasure token.  (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>

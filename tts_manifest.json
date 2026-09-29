@@ -3196,7 +3196,7 @@
           "large": "https://i.ibb.co/gZP2P8F5/Fund-the-Front-png.png"
         },
         "name": "Fund the Front",
-        "oracle_text": "Create a 3/3 green Soldier creature token and a Treasure token.",
+        "oracle_text": "Create a 3/3 green Soldier creature token and a Treasure token.  (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\") ",
         "type_line": "Sorcery"
       }
     }
@@ -6874,6 +6874,19 @@
       }
     }
   },
+  "price of secrecy": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Xxd1b1Ms/Price-of-Secrecy-png.png"
+        },
+        "name": "Price of Secrecy",
+        "oracle_text": "At the beginning of each opponent's draw step, draw a card. Then that opponent may draw a card. If they do, they reveal that card. Otherwise, you discard a card.",
+        "type_line": "Enchantment"
+      }
+    }
+  },
   "principal gakuganji, old mettle": {
     "default": "JJK",
     "printings": {
@@ -9008,21 +9021,6 @@
           "large": "https://i.ibb.co/7xv0x816/Spirit-png.png"
         },
         "name": "Spirit",
-        "oracle_text": "",
-        "power": "1",
-        "toughness": "1",
-        "type_line": "Token Creature — Spirit"
-      }
-    }
-  },
-  "spirit alt derpy": {
-    "default": "KPDH",
-    "printings": {
-      "KPDH": {
-        "image_uris": {
-          "large": "https://i.ibb.co/Nnk9w0rj/Spirit-Alt-Derpy-png.png"
-        },
-        "name": "Spirit Alt Derpy",
         "oracle_text": "",
         "power": "1",
         "toughness": "1",
