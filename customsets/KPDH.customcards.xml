@@ -9,6 +9,44 @@
         </sets>
     <cards>
         <card>
+            <name>Arcane Signet Alt Bracelet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/39jS95gp/Arcane-Signet-Alt-Bracelet-png.png" picurl_large="https://i.ibb.co/JwGrwWDv/Arcane-Signet-Alt-Bracelet-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Unveiling Ritual</name>
+            <text>Each opponent reveals their hand. Add an amount of {ur} equal to the greatest mana value among cards revealed this way.  ({ur} can pay for {u} or {r}.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gLwL52pD/Unveiling-Ritual-png.png" picurl_large="https://i.ibb.co/xtGtpk0M/Unveiling-Ritual-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -1973,6 +2011,25 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Plundered Secrets</name>
+            <text>Each opponent reveals their hand. You may copy a nonland card revealed this way. Until the end of your next turn, you may cast the copy, and mana of any type can be spent to cast it.  (A copy of a permanent spell becomes a token.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{B}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xx82c03R/Plundered-Secrets-png.png" picurl_large="https://i.ibb.co/4RdmhvYr/Plundered-Secrets-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
             <name>Blessed Breath</name>
             <text>Target creature you control gains protection from the color of your choice until end of turn.
 Splice onto Arcane {W}  (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
@@ -3578,25 +3635,6 @@ Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell,
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Arcane Signet Alt Bracelet</name>
-            <text>{T}: Add one mana of any color in your commander's color identity.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}</manacost>
-                <cmc>2</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RGmrkChc/Arcane-Signet-Alt-Bracelet-png.png" picurl_large="https://i.ibb.co/Q7RS368M/Arcane-Signet-Alt-Bracelet-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Thoughtcutter Agent</name>
             <text>{U}{B}, {T}: Target player loses 1 life and reveals their hand.</text>
             <prop>
@@ -4454,6 +4492,25 @@ Whenever this creature deals combat damage to a player, you may return target cr
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Dg8H4MRz/Citizen-Alt-Tattoo-png.png" picurl_large="https://i.ibb.co/Dg8H4MRz/Citizen-Alt-Tattoo-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Shatter the Honmoon</name>
+            <text>Each opponent reveals their hand. This spell deals X damage to each creature your opponents control, where X is the greatest mana value among cards revealed this way.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{r}{r}</manacost>
+                <cmc>7</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/spbSWbWD/Shatter-the-Honmoon-png.png" picurl_large="https://i.ibb.co/wZBHcBcb/Shatter-the-Honmoon-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Echoing Harmony Alt</name>
@@ -5688,63 +5745,6 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Plundered Secrets</name>
-            <text>Each opponent reveals their hand. You may copy a nonland card revealed this way. Until the end of your next turn, you may cast the copy, and mana of any type can be spent to cast it.  (A copy of a permanent spell becomes a token.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{B}{R}</manacost>
-                <cmc>2</cmc>
-                <colors>BR</colors>
-                <coloridentity>BR</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Xx82c03R/Plundered-Secrets-png.png" picurl_large="https://i.ibb.co/4RdmhvYr/Plundered-Secrets-png.png">KPDH</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Shatter the Honmoon</name>
-            <text>Each opponent reveals their hand. This spell deals X damage to each creature your opponents control, where X is the greatest mana value among cards revealed this way.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{5}{r}{r}</manacost>
-                <cmc>7</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/spbSWbWD/Shatter-the-Honmoon-png.png" picurl_large="https://i.ibb.co/wZBHcBcb/Shatter-the-Honmoon-png.png">KPDH</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Unveiling Ritual</name>
-            <text>Each opponent reveals their hand. Add an amount of {ur} equal to the greatest mana value among cards revealed this way.  ({ur} can pay for {u} or {r}.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{u}{r}</manacost>
-                <cmc>2</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/NnmRH4BM/Unveiling-Ritual-png.png" picurl_large="https://i.ibb.co/k69ZWdCt/Unveiling-Ritual-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>

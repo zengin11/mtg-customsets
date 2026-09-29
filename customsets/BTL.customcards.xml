@@ -975,7 +975,7 @@ Crew 3</text>
             <name>Oasis Reclaimer</name>
             <text>Flying, first strike
 Wartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.
-Crew 1</text>
+Crew 2</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -985,7 +985,7 @@ Crew 1</text>
                 <coloridentity>W</coloridentity>
                 <maintype>Artifact</maintype>
                 <type>Artifact - Vehicle</type>
-                <pt>2/2</pt>
+                <pt>3/2</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
@@ -2613,24 +2613,22 @@ When this creature enters or dies, up to one target creature without flying gets
             </card>
         <card>
             <name>Big Robot</name>
-            <text>Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  
-Trample
-When this creature enters, you gain 4 life. If it was kicked, put three +1/+1 counters on it.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{4}{G}</manacost>
-                <cmc>5</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Soldier</type>
-                <pt>4/3</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png" picurl_large="https://i.ibb.co/4RtT6Nbf/Big-Robot-png.png">BTL</set>
-            <tablerow>2</tablerow>
+            <set rarity="NA" picurl="https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png" picurl_large="https://i.ibb.co/4RtT6Nbf/Big-Robot-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>War Map</name>
@@ -3876,6 +3874,27 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/KjZf1T0R/Flight-School-png.png" picurl_large="https://i.ibb.co/N6hJ4cVQ/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>Mechanized Pioneers</name>
+            <text>Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  
+Trample
+When this creature enters, you gain 4 life. If it was kicked, put four +1/+1 counters on it and it's a Robot artifact creature in addition to its other types.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{G}</manacost>
+                <cmc>5</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Soldier</type>
+                <pt>4/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/DPwkFjDF/Mechanized-Pioneers-png.png" picurl_large="https://i.ibb.co/9my20d90/Mechanized-Pioneers-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>From Rubble</name>

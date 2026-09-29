@@ -576,7 +576,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/RGmrkChc/Arcane-Signet-Alt-Bracelet-png.png"
+          "large": "https://i.ibb.co/39jS95gp/Arcane-Signet-Alt-Bracelet-png.png"
         },
         "name": "Arcane Signet Alt Bracelet",
         "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
@@ -905,10 +905,8 @@
           "large": "https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png"
         },
         "name": "Big Robot",
-        "oracle_text": "Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  \nTrample\nWhen this creature enters, you gain 4 life. If it was kicked, put three +1/+1 counters on it.",
-        "power": "4",
-        "toughness": "3",
-        "type_line": "Artifact Creature — Robot Soldier"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -5457,6 +5455,21 @@
       }
     }
   },
+  "mechanized pioneers": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/DPwkFjDF/Mechanized-Pioneers-png.png"
+        },
+        "name": "Mechanized Pioneers",
+        "oracle_text": "Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  \nTrample\nWhen this creature enters, you gain 4 life. If it was kicked, put four +1/+1 counters on it and it's a Robot artifact creature in addition to its other types.",
+        "power": "4",
+        "toughness": "4",
+        "type_line": "Creature — Human Soldier"
+      }
+    }
+  },
   "meet the light": {
     "default": "KPDH",
     "printings": {
@@ -6290,8 +6303,8 @@
           "large": "https://i.ibb.co/fPD6BFg/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
-        "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.\nCrew 1",
-        "power": "2",
+        "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.\nCrew 2",
+        "power": "3",
         "toughness": "2",
         "type_line": "Artifact — Vehicle"
       }
@@ -10633,7 +10646,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/NnmRH4BM/Unveiling-Ritual-png.png"
+          "large": "https://i.ibb.co/gLwL52pD/Unveiling-Ritual-png.png"
         },
         "name": "Unveiling Ritual",
         "oracle_text": "Each opponent reveals their hand. Add an amount of {ur} equal to the greatest mana value among cards revealed this way.  ({ur} can pay for {u} or {r}.) ",
