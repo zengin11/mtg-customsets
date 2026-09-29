@@ -2402,10 +2402,10 @@
       },
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/MkH9CXXg/Disaster-Radius-png.png"
+          "large": "https://i.ibb.co/XfDbwv9d/Disaster-Radius-png.png"
         },
         "name": "Disaster Radius",
-        "oracle_text": "As an additional cost to cast this spell, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.",
+        "oracle_text": "As an additional cost to cast this spell, reveal a creature card from your hand.\nThis spell deals X damage to each creature your opponents control, where X is the revealed card's mana value.",
         "type_line": "Sorcery"
       }
     }
@@ -6703,6 +6703,19 @@
       }
     }
   },
+  "plundered secrets": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Xx82c03R/Plundered-Secrets-png.png"
+        },
+        "name": "Plundered Secrets",
+        "oracle_text": "Each opponent reveals their hand. You may copy a nonland card revealed this way. Until the end of your next turn, you may cast the copy, and mana of any type can be spent to cast it.  (A copy of a permanent spell becomes a token.) ",
+        "type_line": "Sorcery"
+      }
+    }
+  },
   "pointed negotiations": {
     "default": "BTL",
     "printings": {
@@ -8106,6 +8119,19 @@
         "power": "0",
         "toughness": "1",
         "type_line": "Legendary Creature — Elemental Dragon"
+      }
+    }
+  },
+  "shatter the honmoon": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/spbSWbWD/Shatter-the-Honmoon-png.png"
+        },
+        "name": "Shatter the Honmoon",
+        "oracle_text": "Each opponent reveals their hand. This spell deals X damage to each creature your opponents control, where X is the greatest mana value among cards revealed this way.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -10599,6 +10625,19 @@
         "power": "11",
         "toughness": "11",
         "type_line": "Creature — Dragon Leviathan"
+      }
+    }
+  },
+  "unveiling ritual": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/NnmRH4BM/Unveiling-Ritual-png.png"
+        },
+        "name": "Unveiling Ritual",
+        "oracle_text": "Each opponent reveals their hand. Add an amount of {ur} equal to the greatest mana value among cards revealed this way.  ({ur} can pay for {u} or {r}.) ",
+        "type_line": "Instant"
       }
     }
   },

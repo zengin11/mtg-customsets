@@ -1,53 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-27</releasedate>
+        <set> v1.4<releasedate>2026-09-29</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
-        <card>
-            <name>Temple of Epiphany</name>
-            <text>This land enters tapped.
-When this land enters, scry 1.  (Look at the top card of your library. You may put that card on the bottom.) 
-{T}: Add {U} or {R}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity>UR</coloridentity>
-                <maintype>Land</maintype>
-                <type>Land</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/39SVW41S/Temple-of-Epiphany-png.png" picurl_large="https://i.ibb.co/pB4NZb24/Temple-of-Epiphany-png.png">KPDH</set>
-            <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Arcane Signet Alt Bracelet</name>
-            <text>{T}: Add one mana of any color in your commander's color identity.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}</manacost>
-                <cmc>2</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/RGmrkChc/Arcane-Signet-Alt-Bracelet-png.png" picurl_large="https://i.ibb.co/Q7RS368M/Arcane-Signet-Alt-Bracelet-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -1502,6 +1462,27 @@ Splice onto Arcane {R}  (As you cast an Arcane spell, you may reveal this card f
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/r2bRGbbY/Into-the-Fray-png.png" picurl_large="https://i.ibb.co/r2bRGbbY/Into-the-Fray-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Temple of Epiphany</name>
+            <text>This land enters tapped.
+When this land enters, scry 1.  (Look at the top card of your library. You may put that card on the bottom.) 
+{T}: Add {U} or {R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>UR</coloridentity>
+                <maintype>Land</maintype>
+                <type>Land</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/39SVW41S/Temple-of-Epiphany-png.png" picurl_large="https://i.ibb.co/pB4NZb24/Temple-of-Epiphany-png.png">KPDH</set>
+            <tablerow>0</tablerow>
             </card>
         <card>
             <name>Overblaze</name>
@@ -3597,6 +3578,25 @@ Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell,
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Arcane Signet Alt Bracelet</name>
+            <text>{T}: Add one mana of any color in your commander's color identity.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/RGmrkChc/Arcane-Signet-Alt-Bracelet-png.png" picurl_large="https://i.ibb.co/Q7RS368M/Arcane-Signet-Alt-Bracelet-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Thoughtcutter Agent</name>
             <text>{U}{B}, {T}: Target player loses 1 life and reveals their hand.</text>
             <prop>
@@ -5000,12 +5000,12 @@ Partner—Lost to Shame</text>
         <card>
             <name>Disaster Radius</name>
             <text>As an additional cost to cast this spell, reveal a creature card from your hand.
-Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.</text>
+This spell deals X damage to each creature your opponents control, where X is the revealed card's mana value.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{r}</manacost>
-                <cmc>4</cmc>
+                <manacost>{5}{r}{r}</manacost>
+                <cmc>7</cmc>
                 <colors>R</colors>
                 <coloridentity>R</coloridentity>
                 <maintype>Sorcery</maintype>
@@ -5014,7 +5014,7 @@ Disaster Radius deals X damage to each creature your opponents control, where X 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MkH9CXXg/Disaster-Radius-png.png" picurl_large="https://i.ibb.co/MkH9CXXg/Disaster-Radius-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XfDbwv9d/Disaster-Radius-png.png" picurl_large="https://i.ibb.co/spC2BMhD/Disaster-Radius-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -5688,6 +5688,63 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Plundered Secrets</name>
+            <text>Each opponent reveals their hand. You may copy a nonland card revealed this way. Until the end of your next turn, you may cast the copy, and mana of any type can be spent to cast it.  (A copy of a permanent spell becomes a token.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{B}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xx82c03R/Plundered-Secrets-png.png" picurl_large="https://i.ibb.co/4RdmhvYr/Plundered-Secrets-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Shatter the Honmoon</name>
+            <text>Each opponent reveals their hand. This spell deals X damage to each creature your opponents control, where X is the greatest mana value among cards revealed this way.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{r}{r}</manacost>
+                <cmc>7</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/spbSWbWD/Shatter-the-Honmoon-png.png" picurl_large="https://i.ibb.co/wZBHcBcb/Shatter-the-Honmoon-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Unveiling Ritual</name>
+            <text>Each opponent reveals their hand. Add an amount of {ur} equal to the greatest mana value among cards revealed this way.  ({ur} can pay for {u} or {r}.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/NnmRH4BM/Unveiling-Ritual-png.png" picurl_large="https://i.ibb.co/k69ZWdCt/Unveiling-Ritual-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
