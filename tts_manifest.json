@@ -10649,8 +10649,8 @@
           "large": "https://i.ibb.co/gLwL52pD/Unveiling-Ritual-png.png"
         },
         "name": "Unveiling Ritual",
-        "oracle_text": "Each opponent reveals their hand. Add an amount of {ur} equal to the greatest mana value among cards revealed this way.  ({ur} can pay for {u} or {r}.) ",
-        "type_line": "Instant"
+        "oracle_text": "Each opponent reveals their hand. Add X mana in any combination of {u} and/or {r}, where X is the greatest mana value among cards revealed this way. ",
+        "type_line": "Sorcery — Arcane"
       }
     }
   },
