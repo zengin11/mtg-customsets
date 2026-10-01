@@ -2728,6 +2728,9 @@
     "default": "KPDH",
     "printings": {
       "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/PsnTgdd0/Empowering-Triad-png.png"
+        },
         "name": "Empowering Triad",
         "oracle_text": "Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
         "power": "2",
@@ -5728,7 +5731,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/Y4F7Kx1M/Mira-Blade-Dancer-Promo-png.png"
+          "large": "https://i.ibb.co/DgYXzb11/Mira-Blade-Dancer-Promo-png.png"
         },
         "name": "Mira, Blade Dancer Promo",
         "oracle_text": "Resonate - Put a +1/+1 counter on Mira.  (Do so whenever an effect has you reveal one or more cards.) \nMira has trample as long as you've revealed a card from your hand this turn.\nPartner—HUNTR/X",
@@ -8203,6 +8206,9 @@
     "default": "KPDH",
     "printings": {
       "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/cK4JFFzW/Shielded-by-Trust-png.png"
+        },
         "name": "Shielded by Trust",
         "oracle_text": "Enchant creature\nResonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
         "type_line": "Enchantment — Aura"
@@ -9190,6 +9196,9 @@
     "default": "KPDH",
     "printings": {
       "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/kVYvGbrB/Spotlight-Challenger-png.png"
+        },
         "name": "Spotlight Challenger",
         "oracle_text": "Menace\nResonate - Target creature gets +1/+0 until end of turn. If this is the third time this ability has resolved this turn, up to one target creature can't block this turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
         "power": "2",
@@ -11269,6 +11278,21 @@
           "large": "https://i.ibb.co/m5kWy5h2/Zoey-Crowd-Pleaser-png.png"
         },
         "name": "Zoey, Crowd Pleaser",
+        "oracle_text": "Reach\nWhenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.\nPartner—HUNTR/X",
+        "power": "1",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Human Warrior Performer"
+      }
+    }
+  },
+  "zoey, crowd pleaser promo": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/zTJVJKsj/Zoey-Crowd-Pleaser-Promo-png.png"
+        },
+        "name": "Zoey, Crowd Pleaser Promo",
         "oracle_text": "Reach\nWhenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.\nPartner—HUNTR/X",
         "power": "1",
         "toughness": "3",
