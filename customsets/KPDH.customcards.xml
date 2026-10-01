@@ -1,109 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-30</releasedate>
+        <set> v1.4<releasedate>2026-10-01</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
-        <card>
-            <name>Mind Grind</name>
-            <text>Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{X}{U}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3mfZT84v/Mind-Grind-png.png" picurl_large="https://i.ibb.co/9Hw5pfch/Mind-Grind-png.png">KPDH</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Seething Song</name>
-            <text>Add {R}{R}{R}{R}{R}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/hFXxw0Ct/Seething-Song-png.png" picurl_large="https://i.ibb.co/nM3qtpR5/Seething-Song-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Chaos Mutation</name>
-            <text>Exile any number of target creatures controlled by different players. For each creature exiled this way, its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then puts the rest on the bottom of their library in a random order.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{U}{R}</manacost>
-                <cmc>5</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/356BTLjg/Chaos-Mutation-png.png" picurl_large="https://i.ibb.co/Y4npNq1H/Chaos-Mutation-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Consuming Aberration</name>
-            <text>This creature's power and toughness are each equal to the number of cards in your opponents' graveyards.
-Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{U}{B}</manacost>
-                <cmc>5</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Horror</maintype>
-                <type>Creature — Horror</type>
-                <pt>*/*</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PZpqCF19/Consuming-Aberration-png.png" picurl_large="https://i.ibb.co/bghcdQN2/Consuming-Aberration-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Telepathy</name>
-            <text>Your opponents play with their hands revealed.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{U}</manacost>
-                <cmc>1</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TjKrTf1/Telepathy-png.png" picurl_large="https://i.ibb.co/PXTtYLM/Telepathy-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -302,7 +206,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/prXCsDY3/Mira-Blade-Dancer-png.png" picurl_large="https://i.ibb.co/prXCsDY3/Mira-Blade-Dancer-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/QvPgzg81/Mira-Blade-Dancer-png.png" picurl_large="https://i.ibb.co/B2ypdp4S/Mira-Blade-Dancer-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -484,6 +388,25 @@ Partner—HUNTR/X</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/239Fpn8n/Cheering-Crowd-png.png" picurl_large="https://i.ibb.co/MkvgJ282/Cheering-Crowd-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mind Grind</name>
+            <text>Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{U}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3mfZT84v/Mind-Grind-png.png" picurl_large="https://i.ibb.co/9Hw5pfch/Mind-Grind-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Rumi, Broken Glass</name>
@@ -2395,6 +2318,25 @@ Partner—Saja</text>
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Seething Song</name>
+            <text>Add {R}{R}{R}{R}{R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hFXxw0Ct/Seething-Song-png.png" picurl_large="https://i.ibb.co/nM3qtpR5/Seething-Song-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Skyline View</name>
             <text>This land enters tapped.
 When ~ enters, sacrifice it unless you reveal your hand.
@@ -2530,7 +2472,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cH63wMH/Rumi-Leader-of-Idols-png.png" picurl_large="https://i.ibb.co/cH63wMH/Rumi-Leader-of-Idols-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/tPcb5dqj/Rumi-Leader-of-Idols-png.png" picurl_large="https://i.ibb.co/G3kVjhWY/Rumi-Leader-of-Idols-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3138,6 +3080,25 @@ Splice onto Arcane {1}{R}  (As you cast an Arcane spell, you may reveal this car
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Chaos Mutation</name>
+            <text>Exile any number of target creatures controlled by different players. For each creature exiled this way, its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then puts the rest on the bottom of their library in a random order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{R}</manacost>
+                <cmc>5</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/356BTLjg/Chaos-Mutation-png.png" picurl_large="https://i.ibb.co/Y4npNq1H/Chaos-Mutation-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Fortified Village</name>
             <text>As this land enters, you may reveal a Forest or Plains card from your hand. If you don't, this land enters tapped.
 {T}: Add {G} or {W}.</text>
@@ -3291,6 +3252,26 @@ Flashback {7}{U}{U}</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/sJj07Q4W/Mindblaze-png.png" picurl_large="https://i.ibb.co/sJj07Q4W/Mindblaze-png.png">KPDH</set>
             <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Consuming Aberration</name>
+            <text>This creature's power and toughness are each equal to the number of cards in your opponents' graveyards.
+Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{B}</manacost>
+                <cmc>5</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Horror</maintype>
+                <type>Creature — Horror</type>
+                <pt>*/*</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PZpqCF19/Consuming-Aberration-png.png" picurl_large="https://i.ibb.co/bghcdQN2/Consuming-Aberration-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Food</name>
@@ -3506,7 +3487,7 @@ Partner—HUNTR/X</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/0yHmG4vw/Zoey-Crowd-Pleaser-png.png" picurl_large="https://i.ibb.co/60jrW9Ld/Zoey-Crowd-Pleaser-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/m5kWy5h2/Zoey-Crowd-Pleaser-png.png" picurl_large="https://i.ibb.co/0yTb9yY6/Zoey-Crowd-Pleaser-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3846,6 +3827,25 @@ Partner—Lost to shame</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/v41sxFnk/Mira-the-Broken-Blade-png.png" picurl_large="https://i.ibb.co/v41sxFnk/Mira-the-Broken-Blade-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Telepathy</name>
+            <text>Your opponents play with their hands revealed.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TjKrTf1/Telepathy-png.png" picurl_large="https://i.ibb.co/PXTtYLM/Telepathy-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Herald of Succession</name>
