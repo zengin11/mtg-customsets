@@ -9,6 +9,25 @@
         </sets>
     <cards>
         <card>
+            <name>Empowering Triad</name>
+            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Shaman Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -2792,25 +2811,6 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5x9jPdG3/Calibrated-Blast-png.png" picurl_large="https://i.ibb.co/zH52z1Qg/Calibrated-Blast-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Empowering Triad</name>
-            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}{w}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Shaman Performer</type>
-                <pt>2/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Subway Train</name>
