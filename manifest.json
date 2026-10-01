@@ -545,6 +545,7 @@
       "Echoing Harmony": "2026-09-25T02:55:51Z",
       "Echoing Harmony Alt": "2026-09-25T02:55:51Z",
       "Eerie Procession": "2026-09-25T02:55:51Z",
+      "Empowering Triad": "2026-10-01T16:31:24Z",
       "Enlightened Tutor": "2026-09-25T02:55:51Z",
       "Entrancing Melody": "2026-09-25T02:55:51Z",
       "Environmental Sciences": "2026-09-25T02:55:51Z",
@@ -699,6 +700,7 @@
       "Shameful Distortion": "2026-09-25T02:55:51Z",
       "Shaper of the Pride": "2026-09-25T02:55:51Z",
       "Shatter the Honmoon": "2026-09-29T04:14:45Z",
+      "Shielded by Trust": "2026-10-01T16:31:24Z",
       "Sidequest: Catch a Fish": "2026-09-25T02:55:51Z",
       "Sidequest_ Catch a Fish": "2026-09-25T02:55:05Z",
       "Silence": "2026-09-25T02:55:51Z",
@@ -719,6 +721,7 @@
       "Spirit en-Dal": "2026-09-25T02:55:51Z",
       "Spiritual Visit": "2026-09-25T02:55:51Z",
       "Splicer's Skill": "2026-09-25T02:55:51Z",
+      "Spotlight Challenger": "2026-10-01T16:31:24Z",
       "Stock Up": "2026-09-25T02:55:51Z",
       "Stormcarved Coast": "2026-09-25T02:55:51Z",
       "Stormchaser Chimera": "2026-09-25T02:55:51Z",
@@ -893,7 +896,7 @@
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-10-01T04:23:36Z"
+      "updated": "2026-10-01T16:31:24Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -909,6 +912,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-10-01T01:14:48Z"
+    "updated": "2026-10-01T04:23:47Z"
   }
 }

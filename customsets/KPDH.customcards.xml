@@ -5803,6 +5803,65 @@ Whenever you cast a spell, choose up to one —
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Spotlight Challenger</name>
+            <text>Menace
+Resonate - Target creature gets +1/+0 until end of turn. If this is the third time this ability has resolved this turn, up to one target creature can't block this turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Warrior Performer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Shielded by Trust</name>
+            <text>Enchant creature
+Resonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Empowering Triad</name>
+            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Shaman Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Cooking Campsite</name>
             <text>{T}: Add {W}.
 {3}, {T}, Sacrifice an artifact: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>

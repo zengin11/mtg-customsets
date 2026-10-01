@@ -2724,6 +2724,18 @@
       }
     }
   },
+  "empowering triad": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "name": "Empowering Triad",
+        "oracle_text": "Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
+        "power": "3",
+        "toughness": "3",
+        "type_line": "Creature — Human Shaman Performer"
+      }
+    }
+  },
   "empress anastasia iv": {
     "default": "BTL",
     "printings": {
@@ -8187,6 +8199,16 @@
       }
     }
   },
+  "shielded by trust": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "name": "Shielded by Trust",
+        "oracle_text": "Enchant creature\nResonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
+        "type_line": "Enchantment — Aura"
+      }
+    }
+  },
   "shining sea of branches": {
     "default": "JJK",
     "printings": {
@@ -9161,6 +9183,18 @@
         "name": "Split-Second Domain",
         "oracle_text": "Search your library for a world card, exile it, then shuffle. For as long as that card remains exiled, you may cast it as though it had flash. If you do, it gains \"When this permanent enters, its controller sacrifices it.\"",
         "type_line": "Kindred Instant — Sorcerer"
+      }
+    }
+  },
+  "spotlight challenger": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "name": "Spotlight Challenger",
+        "oracle_text": "Menace\nResonate - Target creature gets +1/+0 until end of turn. If this is the third time this ability has resolved this turn, up to one target creature can't block this turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
+        "power": "2",
+        "toughness": "2",
+        "type_line": "Creature — Human Warrior Performer"
       }
     }
   },
