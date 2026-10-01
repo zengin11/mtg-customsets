@@ -1405,6 +1405,26 @@ When you cycle this card, each opponent discards two cards at random then reveal
             <tablerow>0</tablerow>
             </card>
         <card>
+            <name>Spotlight Challenger</name>
+            <text>Menace
+Resonate - Target creature gets +1/+0 until end of turn. If this is the third time this ability has resolved this turn, up to one target creature can't block this turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Warrior Performer</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Silundi Vision (Soul Vision)</name>
             <text>Look at the top six cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
             <prop>
@@ -1826,6 +1846,26 @@ Enchanted land has "{1}, {T}: Target creature gets +1/+1 until end of turn for e
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Lm8P61S/Dakra-Mystic-png.png" picurl_large="https://i.ibb.co/Lm8P61S/Dakra-Mystic-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Shielded by Trust</name>
+            <text>Enchant creature
+Resonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2752,6 +2792,25 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5x9jPdG3/Calibrated-Blast-png.png" picurl_large="https://i.ibb.co/zH52z1Qg/Calibrated-Blast-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Empowering Triad</name>
+            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Shaman Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Subway Train</name>
@@ -5801,65 +5860,6 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Spotlight Challenger</name>
-            <text>Menace
-Resonate - Target creature gets +1/+0 until end of turn. If this is the third time this ability has resolved this turn, up to one target creature can't block this turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Warrior Performer</type>
-                <pt>2/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Shielded by Trust</name>
-            <text>Enchant creature
-Resonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Aura</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Empowering Triad</name>
-            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{w}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Shaman Performer</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.imgur.com/aPmgJS2.jpeg" picurl_large="https://i.imgur.com/aPmgJS2.jpeg">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Cooking Campsite</name>

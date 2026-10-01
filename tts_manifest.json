@@ -2730,7 +2730,7 @@
       "KPDH": {
         "name": "Empowering Triad",
         "oracle_text": "Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
-        "power": "3",
+        "power": "2",
         "toughness": "3",
         "type_line": "Creature — Human Shaman Performer"
       }
