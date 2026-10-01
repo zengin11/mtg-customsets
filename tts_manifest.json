@@ -1449,6 +1449,19 @@
       }
     }
   },
+  "chaos mutation": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/356BTLjg/Chaos-Mutation-png.png"
+        },
+        "name": "Chaos Mutation",
+        "oracle_text": "Exile any number of target creatures controlled by different players. For each creature exiled this way, its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then puts the rest on the bottom of their library in a random order.",
+        "type_line": "Instant"
+      }
+    }
+  },
   "chaos warp": {
     "default": "KPDH",
     "printings": {
@@ -1921,6 +1934,21 @@
         "name": "Construction Lab",
         "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
         "type_line": "Unknown"
+      }
+    }
+  },
+  "consuming aberration": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/PZpqCF19/Consuming-Aberration-png.png"
+        },
+        "name": "Consuming Aberration",
+        "oracle_text": "This creature's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
+        "power": "*",
+        "toughness": "*",
+        "type_line": "Creature — Horror"
       }
     }
   },
@@ -4564,21 +4592,6 @@
       }
     }
   },
-  "jinu, ashamed idol": {
-    "default": "KPDH",
-    "printings": {
-      "KPDH": {
-        "image_uris": {
-          "large": "https://i.ibb.co/M5fH8zws/Jinu-Ashamed-Idol-png.png"
-        },
-        "name": "Jinu, Ashamed Idol",
-        "oracle_text": "Flying, menace\n Shame -  Whenever an opponent reveals their first card each turn, you gain 2 life.\nWhenever Jinu attacks, each opponent reveals their hand. You choose a nonland card from each. Each chosen cards' owner discards it unless they have you draw a card.\nPartner—Saja",
-        "power": "4",
-        "toughness": "4",
-        "type_line": "Legendary Creature — Demon Performer"
-      }
-    }
-  },
   "jinu, inquisitory idol": {
     "default": "KPDH",
     "printings": {
@@ -5641,6 +5654,19 @@
         "power": "3",
         "toughness": "3",
         "type_line": "Legendary Creature — Human Sorcerer"
+      }
+    }
+  },
+  "mind grind": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/3mfZT84v/Mind-Grind-png.png"
+        },
+        "name": "Mind Grind",
+        "oracle_text": "Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -8026,7 +8052,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/LDgjsZMM/Seething-Song-png.png"
+          "large": "https://i.ibb.co/hFXxw0Ct/Seething-Song-png.png"
         },
         "name": "Seething Song",
         "oracle_text": "Add {R}{R}{R}{R}{R}.",
@@ -8287,27 +8313,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/XxgSWgvh/Siege-of-CR12-png.png"
-            },
-            "loyalty": "4",
-            "name": "Siege of CR12",
-            "oracle_text": "When this Siege enters, it deals 3 damage to any target.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/tM3QQnm6/Victory-of-CR12-png.png"
-            },
-            "name": "Victory of CR12",
-            "oracle_text": "Destroy target artifact or land. Its controller creates a Wastes token.  (It's a basic land with \"{t}: Add {c}.\") ",
-            "type_line": "Sorcery"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of CR12"
+        "image_uris": {
+          "large": "https://i.ibb.co/XxgSWgvh/Siege-of-CR12-png.png"
+        },
+        "name": "Siege of CR12",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8315,27 +8326,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/qMxsLhmv/Siege-of-CR14-png.png"
-            },
-            "loyalty": "4",
-            "name": "Siege of CR14",
-            "oracle_text": "When this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) ",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/q3M4h6vR/Victory-of-CR14-png.png"
-            },
-            "name": "Victory of CR14",
-            "oracle_text": "Attacking creatures you control get +1/+0.",
-            "type_line": "Enchantment"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of CR14"
+        "image_uris": {
+          "large": "https://i.ibb.co/qMxsLhmv/Siege-of-CR14-png.png"
+        },
+        "name": "Siege of CR14",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9547,6 +9543,19 @@
         "power": "2",
         "toughness": "4",
         "type_line": "Legendary Creature — Human Sorcerer"
+      }
+    }
+  },
+  "telepathy": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/TjKrTf1/Telepathy-png.png"
+        },
+        "name": "Telepathy",
+        "oracle_text": "Your opponents play with their hands revealed.",
+        "type_line": "Enchantment"
       }
     }
   },
@@ -10782,11 +10791,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gb3H0fBs/Victory-of-CR12-png.png"
+          "large": "https://i.ibb.co/tM3QQnm6/Victory-of-CR12-png.png"
         },
         "name": "Victory of CR12",
-        "oracle_text": "Destroy target artifact or land. Its controller creates a Wastes token. (It's a basic land with \"{t}: Add {c}.\")",
-        "type_line": "Sorcery"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -10795,11 +10804,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Y48vjZMN/Victory-of-CR14-png.png"
+          "large": "https://i.ibb.co/q3M4h6vR/Victory-of-CR14-png.png"
         },
         "name": "Victory of CR14",
-        "oracle_text": "Attacking creatures you control get +1/+0.",
-        "type_line": "Enchantment"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },

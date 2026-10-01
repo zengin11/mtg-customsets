@@ -1,13 +1,109 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-29</releasedate>
+        <set> v1.4<releasedate>2026-09-30</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Mind Grind</name>
+            <text>Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{U}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/3mfZT84v/Mind-Grind-png.png" picurl_large="https://i.ibb.co/9Hw5pfch/Mind-Grind-png.png">KPDH</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Seething Song</name>
+            <text>Add {R}{R}{R}{R}{R}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hFXxw0Ct/Seething-Song-png.png" picurl_large="https://i.ibb.co/nM3qtpR5/Seething-Song-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Chaos Mutation</name>
+            <text>Exile any number of target creatures controlled by different players. For each creature exiled this way, its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then puts the rest on the bottom of their library in a random order.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{R}</manacost>
+                <cmc>5</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/356BTLjg/Chaos-Mutation-png.png" picurl_large="https://i.ibb.co/Y4npNq1H/Chaos-Mutation-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Consuming Aberration</name>
+            <text>This creature's power and toughness are each equal to the number of cards in your opponents' graveyards.
+Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{U}{B}</manacost>
+                <cmc>5</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Horror</maintype>
+                <type>Creature — Horror</type>
+                <pt>*/*</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/PZpqCF19/Consuming-Aberration-png.png" picurl_large="https://i.ibb.co/bghcdQN2/Consuming-Aberration-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Telepathy</name>
+            <text>Your opponents play with their hands revealed.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TjKrTf1/Telepathy-png.png" picurl_large="https://i.ibb.co/PXTtYLM/Telepathy-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -2155,28 +2251,6 @@ Performers you control have flying.</text>
             <tablerow>0</tablerow>
             </card>
         <card>
-            <name>Jinu, Ashamed Idol</name>
-            <text>Flying, menace
- Shame -  Whenever an opponent reveals their first card each turn, you gain 2 life.
-Whenever Jinu attacks, each opponent reveals their hand. You choose a nonland card from each. Each chosen cards' owner discards it unless they have you draw a card.
-Partner—Saja</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{u}{b}{r}</manacost>
-                <cmc>5</cmc>
-                <colors>UBR</colors>
-                <coloridentity>UBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Performer</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/M5fH8zws/Jinu-Ashamed-Idol-png.png" picurl_large="https://i.ibb.co/M5fH8zws/Jinu-Ashamed-Idol-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Warm Welcome</name>
             <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. Create a 1/1 green and white Citizen creature token.</text>
             <prop>
@@ -2319,25 +2393,6 @@ Partner—Saja</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/ksQ3bRNw/Lay-of-the-Land-png.png" picurl_large="https://i.ibb.co/xtJm9pxB/Lay-of-the-Land-png.png">KPDH</set>
             <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Seething Song</name>
-            <text>Add {R}{R}{R}{R}{R}.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/LDgjsZMM/Seething-Song-png.png" picurl_large="https://i.ibb.co/qLgq2rzz/Seething-Song-png.png">KPDH</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Skyline View</name>
@@ -3494,6 +3549,25 @@ Whenever this creature deals combat damage to a player, each opponent reveals th
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/FbG0bB2k/Gwi-ma-s-Shamegorger-png.png" picurl_large="https://i.ibb.co/FbG0bB2k/Gwi-ma-s-Shamegorger-png.png">KPDH</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Price of Secrecy</name>
+            <text>At the beginning of each opponent's draw step, draw a card. Then that opponent may draw a card. If they do, they reveal that card. Otherwise, you discard a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{b}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xxd1b1Ms/Price-of-Secrecy-png.png" picurl_large="https://i.ibb.co/b5yTPTDB/Price-of-Secrecy-png.png">KPDH</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>HUNTR_X, Ft. the Fans Promo</name>
@@ -5726,25 +5800,6 @@ Whenever you cast a spell, choose up to one —
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Price of Secrecy</name>
-            <text>At the beginning of each opponent's draw step, draw a card. Then that opponent may draw a card. If they do, they reveal that card. Otherwise, you discard a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{b}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Xxd1b1Ms/Price-of-Secrecy-png.png" picurl_large="https://i.ibb.co/b5yTPTDB/Price-of-Secrecy-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
