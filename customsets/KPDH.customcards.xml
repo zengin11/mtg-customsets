@@ -9,6 +9,45 @@
         </sets>
     <cards>
         <card>
+            <name>Shielded by Trust</name>
+            <text>Enchant creature
+Resonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xKQkqkVB/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/fV7gdgmy/Shielded-by-Trust-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Empowering Triad</name>
+            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Shaman Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7NVCTZGp/Empowering-Triad-png.png" picurl_large="https://i.ibb.co/zHbxLBS2/Empowering-Triad-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -1849,26 +1888,6 @@ Enchanted land has "{1}, {T}: Target creature gets +1/+1 until end of turn for e
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Shielded by Trust</name>
-            <text>Enchant creature
-Resonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Aura</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/cK4JFFzW/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/mrfJqqQn/Shielded-by-Trust-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Rumi, Cherished Melody</name>
             <text>Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
 Partner—HUNTR/X
@@ -2358,6 +2377,27 @@ Partner—Saja</text>
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Zoey, Crowd Pleaser Promo</name>
+            <text>Reach
+Whenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/zTJVJKsj/Zoey-Crowd-Pleaser-Promo-png.png" picurl_large="https://i.ibb.co/1t6G6HZh/Zoey-Crowd-Pleaser-Promo-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Seething Song</name>
             <text>Add {R}{R}{R}{R}{R}.</text>
             <prop>
@@ -2792,25 +2832,6 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5x9jPdG3/Calibrated-Blast-png.png" picurl_large="https://i.ibb.co/zH52z1Qg/Calibrated-Blast-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Empowering Triad</name>
-            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}{w}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Shaman Performer</type>
-                <pt>2/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/PsnTgdd0/Empowering-Triad-png.png" picurl_large="https://i.ibb.co/ym1hqrr7/Empowering-Triad-png.png">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Subway Train</name>
@@ -5860,27 +5881,6 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Zoey, Crowd Pleaser Promo</name>
-            <text>Reach
-Whenever you attack, reveal the top two cards of your library. An opponent puts one into your hand, and the other into your graveyard.
-Partner—HUNTR/X</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>1/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/zTJVJKsj/Zoey-Crowd-Pleaser-Promo-png.png" picurl_large="https://i.ibb.co/1t6G6HZh/Zoey-Crowd-Pleaser-Promo-png.png">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Cooking Campsite</name>

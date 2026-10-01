@@ -2729,7 +2729,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/PsnTgdd0/Empowering-Triad-png.png"
+          "large": "https://i.ibb.co/7NVCTZGp/Empowering-Triad-png.png"
         },
         "name": "Empowering Triad",
         "oracle_text": "Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
@@ -8207,10 +8207,10 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/cK4JFFzW/Shielded-by-Trust-png.png"
+          "large": "https://i.ibb.co/xKQkqkVB/Shielded-by-Trust-png.png"
         },
         "name": "Shielded by Trust",
-        "oracle_text": "Enchant creature\nResonate - Enchanted creature gains protection from the color of your choice until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) ",
+        "oracle_text": "Enchant creature\nResonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) ",
         "type_line": "Enchantment — Aura"
       }
     }
