@@ -1299,11 +1299,11 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/TD4TPpHK/Candid-Inspiration-png.png"
+          "large": "https://i.ibb.co/WNTtSwfx/Candid-Inspiration-png.png"
         },
         "name": "Candid Inspiration",
         "oracle_text": "Draw two cards. \n Reverberate  - If you've revealed a card this turn, instead draw three cards.\nMiracle {u}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) ",
-        "type_line": "Instant"
+        "type_line": "Sorcery"
       }
     }
   },

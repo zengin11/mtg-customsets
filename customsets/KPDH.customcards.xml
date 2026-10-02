@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-01</releasedate>
+        <set> v1.4<releasedate>2026-10-02</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
@@ -9,43 +9,25 @@
         </sets>
     <cards>
         <card>
-            <name>Shielded by Trust</name>
-            <text>Enchant creature
-Resonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <name>Candid Inspiration</name>
+            <text>Draw two cards. 
+ Reverberate  - If you've revealed a card this turn, instead draw three cards.
+Miracle {u}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{w}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Aura</type>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xKQkqkVB/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/fV7gdgmy/Shielded-by-Trust-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Empowering Triad</name>
-            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}{w}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Shaman Performer</type>
-                <pt>2/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/7NVCTZGp/Empowering-Triad-png.png" picurl_large="https://i.ibb.co/zHbxLBS2/Empowering-Triad-png.png">KPDH</set>
-            <tablerow>2</tablerow>
+            <set rarity="NA" picurl="https://i.ibb.co/WNTtSwfx/Candid-Inspiration-png.png" picurl_large="https://i.ibb.co/RG5yLmcv/Candid-Inspiration-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Chorus of the First Hunters</name>
@@ -1888,6 +1870,26 @@ Enchanted land has "{1}, {T}: Target creature gets +1/+1 until end of turn for e
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Shielded by Trust</name>
+            <text>Enchant creature
+Resonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xKQkqkVB/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/fV7gdgmy/Shielded-by-Trust-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Rumi, Cherished Melody</name>
             <text>Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
 Partner—HUNTR/X
@@ -2832,6 +2834,25 @@ Flashback {3}{R}{R}  (You may cast this card from your graveyard for its flashba
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/5x9jPdG3/Calibrated-Blast-png.png" picurl_large="https://i.ibb.co/zH52z1Qg/Calibrated-Blast-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Empowering Triad</name>
+            <text>Resonate - Target creature gains your choice of first strike, vigilance, or lifelink until end of turn.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Shaman Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/7NVCTZGp/Empowering-Triad-png.png" picurl_large="https://i.ibb.co/zHbxLBS2/Empowering-Triad-png.png">KPDH</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Subway Train</name>
@@ -4245,27 +4266,6 @@ Miracle {X}{R}  (You may reveal this card as you draw it if it's the first card 
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/hRdmkNHZ/Bonfire-of-the-Damned-png.png" picurl_large="https://i.ibb.co/hRdmkNHZ/Bonfire-of-the-Damned-png.png">KPDH</set>
             <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Candid Inspiration</name>
-            <text>Draw two cards. 
- Reverberate  - If you've revealed a card this turn, instead draw three cards.
-Miracle {u}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{u}</manacost>
-                <cmc>3</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/TD4TPpHK/Candid-Inspiration-png.png" picurl_large="https://i.ibb.co/TD4TPpHK/Candid-Inspiration-png.png">KPDH</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Rumi and Jinu, Idyllic</name>
