@@ -9042,6 +9042,14 @@
         "name": "Sol Ring",
         "oracle_text": "{T}: Add {C}{C}.",
         "type_line": "Artifact"
+      },
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/QvHNVtDv/Sol-Ring-png.png"
+        },
+        "name": "Sol Ring",
+        "oracle_text": "{T}: Add {C}{C}.",
+        "type_line": "Artifact"
       }
     }
   },

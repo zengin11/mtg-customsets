@@ -9,87 +9,6 @@
         </sets>
     <cards>
         <card>
-            <name>Mind Grind</name>
-            <text>Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{X}{U}{B}</manacost>
-                <cmc>3</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MyjLY20C/Mind-Grind-png.png" picurl_large="https://i.ibb.co/V0h87j4q/Mind-Grind-png.png">KPDH</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Shielded by Trust</name>
-            <text>Enchant creature
-Resonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{w}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Enchantment</maintype>
-                <type>Enchantment - Aura</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/wN5Tt53K/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/WWmQCmqc/Shielded-by-Trust-png.png">KPDH</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Gwi-ma's Shamegorger</name>
-            <text>Trample
- Shame  - Whenever an opponent reveals their first card or cards each turn, you gain X life, where X is the greatest mana value among those cards. Each opponent loses 2 life.
-Whenever this creature deals combat damage to a player, each opponent reveals that many cards from the top of their library.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{b}{b}{r}{r}</manacost>
-                <cmc>6</cmc>
-                <colors>BR</colors>
-                <coloridentity>BR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Demon Incarnation</type>
-                <pt>6/6</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/gbBK7Qc7/Gwi-ma-s-Shamegorger-png.png" picurl_large="https://i.ibb.co/nq5J04K0/Gwi-ma-s-Shamegorger-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Rumi, Queen of Nightmares</name>
-            <text>When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.
-{2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.
-Partner—Lost to Shame</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{ub}{br}</manacost>
-                <cmc>4</cmc>
-                <colors>UBR</colors>
-                <coloridentity>UBR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Demon Warrior Performer</type>
-                <pt>2/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/jvNccpZy/Rumi-Queen-of-Nightmares-png.png" picurl_large="https://i.ibb.co/xSkpp481/Rumi-Queen-of-Nightmares-png.png">KPDH</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
             <prop>
@@ -469,6 +388,25 @@ Partner—HUNTR/X</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/239Fpn8n/Cheering-Crowd-png.png" picurl_large="https://i.ibb.co/MkvgJ282/Cheering-Crowd-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mind Grind</name>
+            <text>Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{U}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MyjLY20C/Mind-Grind-png.png" picurl_large="https://i.ibb.co/V0h87j4q/Mind-Grind-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Rumi, Broken Glass</name>
@@ -1908,6 +1846,26 @@ Enchanted land has "{1}, {T}: Target creature gets +1/+1 until end of turn for e
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Lm8P61S/Dakra-Mystic-png.png" picurl_large="https://i.ibb.co/Lm8P61S/Dakra-Mystic-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Shielded by Trust</name>
+            <text>Enchant creature
+Resonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment - Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/wN5Tt53K/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/WWmQCmqc/Shielded-by-Trust-png.png">KPDH</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3633,6 +3591,27 @@ Partner—HUNTR/X</text>
             <tablerow>0</tablerow>
             </card>
         <card>
+            <name>Gwi-ma's Shamegorger</name>
+            <text>Trample
+ Shame  - Whenever an opponent reveals their first card or cards each turn, you gain X life, where X is the greatest mana value among those cards. Each opponent loses 2 life.
+Whenever this creature deals combat damage to a player, each opponent reveals that many cards from the top of their library.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{b}{b}{r}{r}</manacost>
+                <cmc>6</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Demon Incarnation</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/gbBK7Qc7/Gwi-ma-s-Shamegorger-png.png" picurl_large="https://i.ibb.co/nq5J04K0/Gwi-ma-s-Shamegorger-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Price of Secrecy</name>
             <text>At the beginning of each opponent's draw step, draw a card. Then that opponent may draw a card. If they do, they reveal that card. Otherwise, you discard a card.</text>
             <prop>
@@ -5187,6 +5166,27 @@ Partner—Saja  (You can have two commanders if both have this.) </text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/Fk1NbZqg/Gwi-ma-Otherworld-King-png.png" picurl_large="https://i.ibb.co/Fk1NbZqg/Gwi-ma-Otherworld-King-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Queen of Nightmares</name>
+            <text>When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.
+{2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.
+Partner—Lost to Shame</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{ub}{br}</manacost>
+                <cmc>4</cmc>
+                <colors>UBR</colors>
+                <coloridentity>UBR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Demon Warrior Performer</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jvNccpZy/Rumi-Queen-of-Nightmares-png.png" picurl_large="https://i.ibb.co/xSkpp481/Rumi-Queen-of-Nightmares-png.png">KPDH</set>
             <tablerow>2</tablerow>
             </card>
         <card>

@@ -9,10 +9,10 @@ Coalition Buildup // Coalition Blitz
 The Tarian Disaster // Plundered Materiel
 Siege of UH01 // Victory of UH01
 Siege of UH03 // Victory of UH03
-Siege of UH04 // Victory of UH04
+Stealth Strike on Zeeville // XDC-3 “Nesting Doll” Drone
 Siege of UH05 // Victory of UH05
 Siege of UH06 // Victory of UH06
-Siege of UH07 // Victory of UH07
+Gunboat Diplomacy // Diplomatic Victory
 Siege of UH08 // Victory of UH08
 Siege of UH09 // Victory of UH09
 Invasion of Ekhara // March of the War Machines

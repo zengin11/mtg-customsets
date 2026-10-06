@@ -9,6 +9,25 @@
         </sets>
     <cards>
         <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QvHNVtDv/Sol-Ring-png.png" picurl_large="https://i.ibb.co/PGWhy0DG/Sol-Ring-png.png">PHM</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Embrace the Unknown</name>
             <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 Retrace  (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.) </text>
