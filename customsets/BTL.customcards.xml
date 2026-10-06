@@ -1,13 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-02</releasedate>
+        <set> v1.4<releasedate>2026-10-06</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Gunboat Diplomacy</name>
+            <text>When this Siege enters, discard any number of cards, then draw that many cards.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{UR}{UR}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/rTVNqt0/Gunboat-Diplomacy-png.png" picurl_large="https://i.ibb.co/FNFCcW3/Gunboat-Diplomacy-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Diplomatic Victory</related>
+            </card>
+        <card>
+            <name>Operation Grindstone</name>
+            <text>(You defend this battle. Your opponents can attack it.) 
+ Attrition  — At the beginning of each end step, if a nonland permanent left the battlefield this turn, you gain 2 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{BG}</manacost>
+                <cmc>3</cmc>
+                <colors>BG</colors>
+                <coloridentity>BG</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/HfQnm4sd/Operation-Grindstone-png.png" picurl_large="https://i.ibb.co/sdryLRGH/Operation-Grindstone-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Southern Salient</name>
+            <text>(You defend this battle. Your opponents can attack it.) 
+When this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.
+Whenever another battle you control enters, put a +1/+1 counter on each creature you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{GW}{GW}</manacost>
+                <cmc>4</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Vs3dBGQ/The-Southern-Salient-png.png" picurl_large="https://i.ibb.co/3nkwhbM/The-Southern-Salient-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Stealth Strike on Zeeville</name>
+            <text>When this Siege enters, surveil 3. 
+ Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{UB}</manacost>
+                <cmc>1</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/QFMwbdLV/Stealth-Strike-on-Zeeville-png.png" picurl_large="https://i.ibb.co/3ycZrz2b/Stealth-Strike-on-Zeeville-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">XDC-3 "Nesting Doll" Drone</related>
+            </card>
         <card>
             <name>Soldier Token 3</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
@@ -1317,23 +1399,21 @@ When this creature enters, tap target creature an opponent controls and put a st
             </card>
         <card>
             <name>Defense of UH02</name>
-            <text>(You defend this battle. Your opponents can attack it.) 
-When this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.
-Whenever another battle you control enters, put a +1/+1 counter on each creature you control.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{GW}{GW}</manacost>
-                <cmc>4</cmc>
-                <colors>WG</colors>
-                <coloridentity>WG</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>4</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/vvL2SKg1/Defense-of-UH02-png.png" picurl_large="https://i.ibb.co/Pz1Bdf3x/Defense-of-UH02-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/vvL2SKg1/Defense-of-UH02-png.png" picurl_large="https://i.ibb.co/Pz1Bdf3x/Defense-of-UH02-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1881,22 +1961,21 @@ Crew 3</text>
             </card>
         <card>
             <name>Defense of UH10</name>
-            <text>(You defend this battle. Your opponents can attack it.) 
- Attrition  — At the beginning of each end step, if a nonland permanent left the battlefield this turn, you gain 2 life.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{BG}</manacost>
-                <cmc>3</cmc>
-                <colors>BG</colors>
-                <coloridentity>BG</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>4</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/MyQB70vj/Defense-of-UH10-png.png" picurl_large="https://i.ibb.co/mrgN4WjY/Defense-of-UH10-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/MyQB70vj/Defense-of-UH10-png.png" picurl_large="https://i.ibb.co/mrgN4WjY/Defense-of-UH10-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2020,23 +2099,22 @@ Enchanted permanent has flying, vigilance, and lifelink.</text>
             </card>
         <card>
             <name>Siege of UH07</name>
-            <text>When this Siege enters, discard any number of cards, then draw that many cards.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
-                <layout>transform</layout>
+                <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{UR}{UR}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>4</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png" picurl_large="https://i.ibb.co/sf0C8zC/Siege-of-UH07-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png" picurl_large="https://i.ibb.co/sf0C8zC/Siege-of-UH07-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH07</related>
             </card>
         <card>
             <name>Mobile Infantry Platoon</name>
@@ -2244,24 +2322,22 @@ When this creature dies, return a land or battle card from your graveyard to you
             </card>
         <card>
             <name>Siege of UH04</name>
-            <text>When this Siege enters, surveil 3. 
- Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
-                <layout>transform</layout>
+                <layout>normal</layout>
                 <side>front</side>
-                <manacost>{UB}</manacost>
-                <cmc>1</cmc>
-                <colors>UB</colors>
-                <coloridentity>UB</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
                 <pt />
-                <loyalty>4</loyalty>
+                <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png" picurl_large="https://i.ibb.co/WWCVmW9B/Siege-of-UH04-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png" picurl_large="https://i.ibb.co/WWCVmW9B/Siege-of-UH04-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH04</related>
             </card>
         <card>
             <name>Imperial Border Post</name>
@@ -2652,6 +2728,25 @@ When this creature enters or dies, up to one target creature without flying gets
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Victory of UH07</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png" picurl_large="https://i.ibb.co/FbKH1dvh/Victory-of-UH07-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>War Map</name>
             <text>Wartime Measures -  {2}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If you control a battle or have defeated a battle this game, search for two basic land cards instead.</text>
             <prop>
@@ -2872,6 +2967,25 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/MbszSrM/Coolname-Precision-Vanguard-png.png" picurl_large="https://i.ibb.co/z1r3xpG/Coolname-Precision-Vanguard-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Victory of UH04</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png" picurl_large="https://i.ibb.co/zVprS9q4/Victory-of-UH04-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Maneuver Specialists</name>
@@ -4134,7 +4248,7 @@ Crew 4</text>
             <related attach="transform">Siege of UH03</related>
             </card>
         <card>
-            <name>Victory of UH04</name>
+            <name>XDC-3 "Nesting Doll" Drone</name>
             <text>Flying
 Fabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)</text>
             <prop>
@@ -4150,9 +4264,9 @@ Fabricate 3 (When this creature enters, put three +1/+1 counters on it or create
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png" picurl_large="https://i.ibb.co/zVprS9q4/Victory-of-UH04-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/WWKDbGt3/XDC-3-Nesting-Doll-Drone-png.png" picurl_large="https://i.ibb.co/mCzvLb8B/XDC-3-Nesting-Doll-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
-            <related attach="transform">Siege of UH04</related>
+            <related attach="transform">Stealth Strike on Zeeville</related>
             </card>
         <card>
             <name>Victory of UH05</name>
@@ -4198,7 +4312,7 @@ Crew 2</text>
             <related attach="transform">Siege of UH06</related>
             </card>
         <card>
-            <name>Victory of UH07</name>
+            <name>Diplomatic Victory</name>
             <text>Gain control of target artifact with mana value X or less, where X is the number of Pilots and/or Vehicles you control.</text>
             <prop>
                 <layout>transform</layout>
@@ -4213,9 +4327,9 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png" picurl_large="https://i.ibb.co/FbKH1dvh/Victory-of-UH07-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/9Hm2RW7D/Diplomatic-Victory-png.png" picurl_large="https://i.ibb.co/WvNFSfLh/Diplomatic-Victory-png.png">BTL</set>
             <tablerow>3</tablerow>
-            <related attach="transform">Siege of UH07</related>
+            <related attach="transform">Gunboat Diplomacy</related>
             </card>
         <card>
             <name>Victory of UH08</name>

@@ -1137,6 +1137,19 @@
       }
     }
   },
+  "break down": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/dYnr7PZ/Break-Down-png.png"
+        },
+        "name": "Break Down",
+        "oracle_text": "Destroy target artifact or enchantment. Create a Junk token.  (It's an artifact with \"{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\") ",
+        "type_line": "Instant"
+      }
+    }
+  },
   "breakthrough battalion": {
     "default": "BTL",
     "printings": {
@@ -1375,6 +1388,19 @@
         "name": "Cataclysmic Assault",
         "oracle_text": "Cursed -  This spell costs {2} less to cast as long as there are four or more Sorcerer cards in your graveyard.\nDestroy target permanent. Mill one card.",
         "type_line": "Kindred Instant — Sorcerer"
+      }
+    }
+  },
+  "cathartic reunion": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/1f1jh7s8/Cathartic-Reunion-png.png"
+        },
+        "name": "Cathartic Reunion",
+        "oracle_text": "As an additional cost to cast this spell, discard two cards.\nDraw three cards.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -1911,6 +1937,19 @@
       }
     }
   },
+  "confront the unknown": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/pjTXh5qL/Confront-the-Unknown-png.png"
+        },
+        "name": "Confront the Unknown",
+        "oracle_text": "Investigate, then target creature gets +1/+1 until end of turn for each Clue you control.",
+        "type_line": "Instant"
+      }
+    }
+  },
   "constrictai brute": {
     "default": "NGO",
     "printings": {
@@ -2099,6 +2138,19 @@
       }
     }
   },
+  "cunning maneuver": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/x8q8py4B/Cunning-Maneuver-png.png"
+        },
+        "name": "Cunning Maneuver",
+        "oracle_text": "Target creature gets +3/+1 until end of turn.\nCreate a Clue token.  (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\") ",
+        "type_line": "Instant"
+      }
+    }
+  },
   "cybernetic sapper": {
     "default": "BTL",
     "printings": {
@@ -2234,10 +2286,9 @@
         "image_uris": {
           "large": "https://i.ibb.co/vvL2SKg1/Defense-of-UH02-png.png"
         },
-        "loyalty": "4",
         "name": "Defense of UH02",
-        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhen this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.\nWhenever another battle you control enters, put a +1/+1 counter on each creature you control.",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -2248,10 +2299,9 @@
         "image_uris": {
           "large": "https://i.ibb.co/MyQB70vj/Defense-of-UH10-png.png"
         },
-        "loyalty": "4",
         "name": "Defense of UH10",
-        "oracle_text": "(You defend this battle. Your opponents can attack it.) \n Attrition  — At the beginning of each end step, if a nonland permanent left the battlefield this turn, you gain 2 life.",
-        "type_line": "Battle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -2721,6 +2771,19 @@
         "name": "Elspeth, Exploited Exemplar",
         "oracle_text": "At the beginning of each player's upkeep, that player creates a 2/2 white Angel Robot artifact creature token with flying.\n[+2]: Investigate. You gain 3 life.\n[-1]: Put a +1/+1 counter on each creature you control. Nonartifact creatures you control gain flying until your next turn.\n[-8]: Gain control of all artifacts. Untap them. They gain haste. Sacrifice them at end of turn.",
         "type_line": "Legendary Planeswalker — Elspeth"
+      }
+    }
+  },
+  "embrace the unknown": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/1f9DBGsd/Embrace-the-Unknown-png.png"
+        },
+        "name": "Embrace the Unknown",
+        "oracle_text": "Exile the top two cards of your library. Until the end of your next turn, you may play those cards.\nRetrace  (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.) ",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -3574,6 +3637,34 @@
       }
     }
   },
+  "gunboat diplomacy": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/rTVNqt0/Gunboat-Diplomacy-png.png"
+            },
+            "loyalty": "4",
+            "name": "Gunboat Diplomacy",
+            "oracle_text": "When this Siege enters, discard any number of cards, then draw that many cards.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/9Hm2RW7D/Diplomatic-Victory-png.png"
+            },
+            "name": "Diplomatic Victory",
+            "oracle_text": "Gain control of target artifact with mana value X or less, where X is the number of Pilots and/or Vehicles you control.",
+            "type_line": "Sorcery"
+          }
+        ],
+        "layout": "transform",
+        "name": "Gunboat Diplomacy"
+      }
+    }
+  },
   "gwi-ma's griefchaser": {
     "default": "KPDH",
     "printings": {
@@ -3669,7 +3760,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/FbG0bB2k/Gwi-ma-s-Shamegorger-png.png"
+          "large": "https://i.ibb.co/gbBK7Qc7/Gwi-ma-s-Shamegorger-png.png"
         },
         "name": "Gwi-ma's Shamegorger",
         "oracle_text": "Trample\n Shame  - Whenever an opponent reveals their first card or cards each turn, you gain X life, where X is the greatest mana value among those cards. Each opponent loses 2 life.\nWhenever this creature deals combat damage to a player, each opponent reveals that many cards from the top of their library.",
@@ -4253,6 +4344,19 @@
         "name": "Idolized",
         "oracle_text": "Enchant creature\nEnchanted creature has \"Whenever this creature attacks alone, it gets +X/+X until end of turn, where X is the number of nonland permanents you control.\"",
         "type_line": "Enchantment — Aura"
+      }
+    }
+  },
+  "ignite the future": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/4DGBLLY/Ignite-the-Future-png.png"
+        },
+        "name": "Ignite the Future",
+        "oracle_text": "Exile the top three cards of your library. Until the end of your next turn, you may play those cards. If this spell was cast from a graveyard, you may play cards this way without paying their mana costs.\nFlashback {7}{R}",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -5166,6 +5270,32 @@
       }
     }
   },
+  "lost days": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ZRScFZDd/Lost-Days-png.png"
+        },
+        "name": "Lost Days",
+        "oracle_text": "The owner of target creature or enchantment puts it into their library second from the top or on the bottom. You create a Clue token.",
+        "type_line": "Instant — Lesson"
+      }
+    }
+  },
+  "magnifying glass": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ccG1WpPW/Magnifying-Glass-png.png"
+        },
+        "name": "Magnifying Glass",
+        "oracle_text": "{T}: Add {C}.\n{4}, {T}: Investigate.  (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\") ",
+        "type_line": "Artifact"
+      }
+    }
+  },
   "mahito, humanity's bane": {
     "default": "JJK",
     "printings": {
@@ -5677,7 +5807,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/3mfZT84v/Mind-Grind-png.png"
+          "large": "https://i.ibb.co/MyjLY20C/Mind-Grind-png.png"
         },
         "name": "Mind Grind",
         "oracle_text": "Each opponent reveals cards from the top of their library until they reveal X land cards, then puts all cards revealed this way into their graveyard. X can't be 0.",
@@ -6364,6 +6494,19 @@
       }
     }
   },
+  "ongoing investigation": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/yBkvfHRT/Ongoing-Investigation-png.png"
+        },
+        "name": "Ongoing Investigation",
+        "oracle_text": "Whenever one or more creatures you control deal combat damage to a player, investigate.  (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\") \n{1}{G}, Exile a creature card from your graveyard: Investigate. You gain 2 life.",
+        "type_line": "Enchantment"
+      }
+    }
+  },
   "onslaught of victory": {
     "default": "BTL",
     "printings": {
@@ -6400,6 +6543,20 @@
         "name": "Open the Armory Alt",
         "oracle_text": "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.",
         "type_line": "Sorcery"
+      }
+    }
+  },
+  "operation grindstone": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/HfQnm4sd/Operation-Grindstone-png.png"
+        },
+        "loyalty": "4",
+        "name": "Operation Grindstone",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \n Attrition  — At the beginning of each end step, if a nonland permanent left the battlefield this turn, you gain 2 life.",
+        "type_line": "Battle"
       }
     }
   },
@@ -7220,6 +7377,19 @@
       }
     }
   },
+  "rapturous moment": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/gLHzyxMn/Rapturous-Moment-png.png"
+        },
+        "name": "Rapturous Moment",
+        "oracle_text": "Draw three cards, then discard two cards. Add {U}{U}{R}{R}{R}.",
+        "type_line": "Sorcery"
+      }
+    }
+  },
   "raucous audience": {
     "default": "KPDH",
     "printings": {
@@ -7584,6 +7754,21 @@
       }
     }
   },
+  "rocky, eridian engineer": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/KcmVY9HP/Rocky-Eridian-Engineer-png.png"
+        },
+        "name": "Rocky, Eridian Engineer",
+        "oracle_text": "Artifacts you control have hexproof.\nWhenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with \"{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\") \nPartner—Save Stars",
+        "power": "0",
+        "toughness": "4",
+        "type_line": "Legendary Creature — Crab Scientist"
+      }
+    }
+  },
   "rocky, guardian of the crags": {
     "default": "NGO",
     "printings": {
@@ -7785,7 +7970,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/ycn2d0wY/Rumi-Queen-of-Nightmares-png.png"
+          "large": "https://i.ibb.co/jvNccpZy/Rumi-Queen-of-Nightmares-png.png"
         },
         "name": "Rumi, Queen of Nightmares",
         "oracle_text": "When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.\n{2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.\nPartner—Lost to Shame",
@@ -7818,6 +8003,21 @@
         "name": "Run Away Together Alt",
         "oracle_text": "Choose two target creatures controlled by different players. Return those creatures to their owners' hands.",
         "type_line": "Instant"
+      }
+    }
+  },
+  "ryland grace, sentenced to save": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/sdFhx5Ns/Ryland-Grace-Sentenced-to-Save-png.png"
+        },
+        "name": "Ryland Grace, Sentenced to Save",
+        "oracle_text": "Whenever you play a card from exile, create a Clue token.  (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\") \nSacrifice twelve artifacts: You get an emblem with \"Lands you control have  '{t}: Add two mana of any one color.'\" \nPartner—Save Stars",
+        "power": "3",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Human Scientist"
       }
     }
   },
@@ -8207,7 +8407,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/xKQkqkVB/Shielded-by-Trust-png.png"
+          "large": "https://i.ibb.co/wN5Tt53K/Shielded-by-Trust-png.png"
         },
         "name": "Shielded by Trust",
         "oracle_text": "Enchant creature\nResonate - Enchanted creature gains protection from the color of your choice until end of turn. This effect doesn't remove this Aura.  (This triggers whenever an effect has you reveal one or more cards.) ",
@@ -8453,29 +8653,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png"
-            },
-            "loyalty": "4",
-            "name": "Siege of UH04",
-            "oracle_text": "When this Siege enters, surveil 3. \n Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png"
-            },
-            "name": "Victory of UH04",
-            "oracle_text": "Flying\nFabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)",
-            "power": "1",
-            "toughness": "1",
-            "type_line": "Artifact Creature — Robot"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH04"
+        "image_uris": {
+          "large": "https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png"
+        },
+        "name": "Siege of UH04",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8543,27 +8726,12 @@
     "default": "BTL",
     "printings": {
       "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png"
-            },
-            "loyalty": "4",
-            "name": "Siege of UH07",
-            "oracle_text": "When this Siege enters, discard any number of cards, then draw that many cards.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png"
-            },
-            "name": "Victory of UH07",
-            "oracle_text": "Gain control of target artifact with mana value X or less, where X is the number of Pilots and/or Vehicles you control.",
-            "type_line": "Sorcery"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH07"
+        "image_uris": {
+          "large": "https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png"
+        },
+        "name": "Siege of UH07",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9250,6 +9418,36 @@
       }
     }
   },
+  "stealth strike on zeeville": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/QFMwbdLV/Stealth-Strike-on-Zeeville-png.png"
+            },
+            "loyalty": "4",
+            "name": "Stealth Strike on Zeeville",
+            "oracle_text": "When this Siege enters, surveil 3. \n Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/WWKDbGt3/XDC-3-Nesting-Doll-Drone-png.png"
+            },
+            "name": "XDC-3 \"Nesting Doll\" Drone",
+            "oracle_text": "Flying\nFabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)",
+            "power": "1",
+            "toughness": "1",
+            "type_line": "Artifact Creature — Robot"
+          }
+        ],
+        "layout": "transform",
+        "name": "Stealth Strike on Zeeville"
+      }
+    }
+  },
   "steel squad leader": {
     "default": "BTL",
     "printings": {
@@ -9849,6 +10047,21 @@
       }
     }
   },
+  "the hail mary": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/JRDJfjQ2/The-Hail-Mary-png.png"
+        },
+        "name": "The Hail Mary",
+        "oracle_text": "\nability0:{name:Ability 1, Station ( Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) \nability1:{name:Ability 2,Artifacts you control have {t}: Scry 1.\nability2:{name:Ability 3, {2}{u}: Create a 1/1 colorless Spacecraft artifact creature token with flying and Whenever this Spacecraft deals combat to a player, draw a card.",
+        "power": "9",
+        "toughness": "9",
+        "type_line": "Legendary Artifact — Spacecraft"
+      }
+    }
+  },
   "the honmoon reawakened": {
     "default": "KPDH",
     "printings": {
@@ -9973,6 +10186,20 @@
         "name": "The Shurikens of Ice",
         "oracle_text": "Equipped creature gets +1/+1 for each snow permanent on the battlefield and has protection from snow.\nWhenever equipped creature attacks, put an ice counter on target permanent.\nPermanents with ice counters on them are snow.\nEquip {1}",
         "type_line": "Legendary Artifact — Equipment"
+      }
+    }
+  },
+  "the southern salient": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Vs3dBGQ/The-Southern-Salient-png.png"
+        },
+        "loyalty": "4",
+        "name": "The Southern Salient",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhen this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.\nWhenever another battle you control enters, put a +1/+1 counter on each creature you control.",
+        "type_line": "Battle"
       }
     }
   },
@@ -10732,6 +10959,19 @@
       }
     }
   },
+  "uthros, titanic godcore (adrian, storm of salvation)": {
+    "default": "PHM",
+    "printings": {
+      "PHM": {
+        "image_uris": {
+          "large": "https://i.ibb.co/G4NZPRhM/Uthros-Titanic-Godcore-Adrian-Storm-of-Salvation-png.png"
+        },
+        "name": "Uthros, Titanic Godcore (Adrian, Storm of Salvation)",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "valiant rearguard": {
     "default": "BTL",
     "printings": {
@@ -10850,6 +11090,32 @@
           "large": "https://i.ibb.co/q3M4h6vR/Victory-of-CR14-png.png"
         },
         "name": "Victory of CR14",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
+  "victory of uh04": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png"
+        },
+        "name": "Victory of UH04",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
+  "victory of uh07": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png"
+        },
+        "name": "Victory of UH07",
         "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
         "type_line": "Unknown"
       }
