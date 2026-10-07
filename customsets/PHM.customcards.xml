@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-06</releasedate>
+        <set> v1.4<releasedate>2026-10-07</releasedate>
             <name>PHM</name>
             <longname>PHM</longname>
             <settype>Custom</settype>
@@ -9,23 +9,48 @@
         </sets>
     <cards>
         <card>
-            <name>Sol Ring</name>
-            <text>{T}: Add {C}{C}.</text>
+            <name>The Hail Mary</name>
+            <text>
+ability0:{name:Ability 1, Station ( Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) 
+ability1:{name:Ability 2,Artifacts you control have {t}: Scry 1.
+ability2:{name:Ability 3, {2}{u}: Create a 1/1 colorless Spacecraft artifact creature token with flying and Whenever this Spacecraft deals combat to a player, draw a card.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}</manacost>
-                <cmc>1</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
+                <manacost>{g}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>URG</colors>
+                <coloridentity>URG</coloridentity>
+                <maintype>Spacecraft</maintype>
+                <type>Legendary Artifact — Spacecraft</type>
+                <pt>9/9</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/QvHNVtDv/Sol-Ring-png.png" picurl_large="https://i.ibb.co/PGWhy0DG/Sol-Ring-png.png">PHM</set>
+            <set rarity="NA" picurl="https://i.ibb.co/4R7RcmK9/The-Hail-Mary-png.png" picurl_large="https://i.ibb.co/F4K49xmN/The-Hail-Mary-png.png">PHM</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rocky, Eridian Engineer</name>
+            <text>Artifacts you control have hexproof.
+Whenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with "{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.") 
+Partner—Save Stars</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Crab Scientist</type>
+                <pt>0/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xKxQ6Rwg/Rocky-Eridian-Engineer-png.png" picurl_large="https://i.ibb.co/XfcTtv65/Rocky-Eridian-Engineer-png.png">PHM</set>
+            <tablerow>2</tablerow>
+            <related>Junk Token</related>
             </card>
         <card>
             <name>Embrace the Unknown</name>
@@ -46,28 +71,6 @@ Retrace  (You may cast this card from your graveyard by discarding a land card i
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/1f9DBGsd/Embrace-the-Unknown-png.png" picurl_large="https://i.ibb.co/hRKPrFXZ/Embrace-the-Unknown-png.png">PHM</set>
             <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>The Hail Mary</name>
-            <text>
-ability0:{name:Ability 1, Station ( Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) 
-ability1:{name:Ability 2,Artifacts you control have {t}: Scry 1.
-ability2:{name:Ability 3, {2}{u}: Create a 1/1 colorless Spacecraft artifact creature token with flying and Whenever this Spacecraft deals combat to a player, draw a card.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{g}{u}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>URG</colors>
-                <coloridentity>URG</coloridentity>
-                <maintype>Spacecraft</maintype>
-                <type>Legendary Artifact — Spacecraft</type>
-                <pt>9/9</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/JRDJfjQ2/The-Hail-Mary-png.png" picurl_large="https://i.ibb.co/Y7HszBZ8/The-Hail-Mary-png.png">PHM</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Ignite the Future</name>
@@ -153,28 +156,6 @@ Draw three cards.</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Rocky, Eridian Engineer</name>
-            <text>Artifacts you control have hexproof.
-Whenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with "{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.") 
-Partner—Save Stars</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{u}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Crab Scientist</type>
-                <pt>0/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KcmVY9HP/Rocky-Eridian-Engineer-png.png" picurl_large="https://i.ibb.co/gb6tGDC2/Rocky-Eridian-Engineer-png.png">PHM</set>
-            <tablerow>2</tablerow>
-            <related>Junk Token</related>
-            </card>
-        <card>
             <name>Break Down</name>
             <text>Destroy target artifact or enchantment. Create a Junk token.  (It's an artifact with "{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.") </text>
             <prop>
@@ -193,6 +174,25 @@ Partner—Save Stars</text>
             <set rarity="NA" picurl="https://i.ibb.co/dYnr7PZ/Break-Down-png.png" picurl_large="https://i.ibb.co/SCqPJtS/Break-Down-png.png">PHM</set>
             <tablerow>1</tablerow>
             <related>Junk Token</related>
+            </card>
+        <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QvHNVtDv/Sol-Ring-png.png" picurl_large="https://i.ibb.co/PGWhy0DG/Sol-Ring-png.png">PHM</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Rapturous Moment</name>

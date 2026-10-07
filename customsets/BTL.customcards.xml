@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-06</releasedate>
+        <set> v1.4<releasedate>2026-10-07</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
@@ -209,25 +209,6 @@ Crew 2</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/0VYyJmCL/SOF-Sandstorm-Division-png.png" picurl_large="https://i.ibb.co/3YSmh4pb/SOF-Sandstorm-Division-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>CA01</name>
-            <text>{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}</manacost>
-                <cmc>1</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot Soldier</type>
-                <pt>1/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/38BW4vH/CA01-png.png" picurl_large="https://i.ibb.co/zLGbQFw/CA01-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -450,25 +431,6 @@ Crew 1</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/5WsFm521/S-L-I-Ablative-Volunteer-png.png" picurl_large="https://i.ibb.co/Fb8V2Bnh/S-L-I-Ablative-Volunteer-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Bellicose Colonel</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KjXvSGv5/Bellicose-Colonel-png.png" picurl_large="https://i.ibb.co/KjXvSGv5/Bellicose-Colonel-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Frontline Reinforcements</name>
@@ -867,7 +829,7 @@ Modular 1 (This enters with a +1/+1 counter on it. When it dies, you may put its
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gZP2P8F5/Fund-the-Front-png.png" picurl_large="https://i.ibb.co/PG9L9yz7/Fund-the-Front-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/XGZjNqy/Fund-the-Front-png.png" picurl_large="https://i.ibb.co/NG6tQM1/Fund-the-Front-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related>Treasure Token</related>
             </card>
@@ -1010,7 +972,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/fPD6BFg/Oasis-Reclaimer-png.png" picurl_large="https://i.ibb.co/VPwnr91/Oasis-Reclaimer-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/60KSdtnn/Oasis-Reclaimer-png.png" picurl_large="https://i.ibb.co/HTcyJPFF/Oasis-Reclaimer-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1069,7 +1031,8 @@ Crew 3</text>
                 <loyalty>4</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/rTVNqt0/Gunboat-Diplomacy-png.png" picurl_large="https://i.ibb.co/FNFCcW3/Gunboat-Diplomacy-png.png">BTL</set>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/GvVY9KBK/Gunboat-Diplomacy-png.png" picurl_large="https://i.ibb.co/BVgWGXdX/Gunboat-Diplomacy-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Diplomatic Victory</related>
             </card>
@@ -1260,7 +1223,7 @@ Enchanted creature and any Vehicles crewed by it this turn attack each turn if a
             <text>(You defend this battle. Your opponents can attack it.) 
  Attrition  — At the beginning of each end step, if a nonland permanent left the battlefield this turn, you gain 2 life.</text>
             <prop>
-                <layout>normal</layout>
+                <layout>battle</layout>
                 <side>front</side>
                 <manacost>{2}{BG}</manacost>
                 <cmc>3</cmc>
@@ -1272,7 +1235,8 @@ Enchanted creature and any Vehicles crewed by it this turn attack each turn if a
                 <loyalty>4</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/HfQnm4sd/Operation-Grindstone-png.png" picurl_large="https://i.ibb.co/sdryLRGH/Operation-Grindstone-png.png">BTL</set>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/8D8JvMF2/Operation-Grindstone-png.png" picurl_large="https://i.ibb.co/ccTPfJzt/Operation-Grindstone-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1354,25 +1318,6 @@ When this creature enters, tap target creature an opponent controls and put a st
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/JjyPJPw8/Penal-Battalion-png.png" picurl_large="https://i.ibb.co/JjyPJPw8/Penal-Battalion-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Defense of UH02</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/vvL2SKg1/Defense-of-UH02-png.png" picurl_large="https://i.ibb.co/Pz1Bdf3x/Defense-of-UH02-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Order an Ambush</name>
@@ -1757,26 +1702,6 @@ Attrition -&gt; Counters</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Sicario Corp Mercenaries</name>
-            <text>Whenever this creature or a Vehicle crewed by it during a main phase this turn deals combat damage to a player or battle, create a Treasure token.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{4}{R}</manacost>
-                <cmc>5</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Mercenary Pilot</type>
-                <pt>4/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/VpLcHNQg/Sicario-Corp-Mercenaries-png.png" picurl_large="https://i.ibb.co/VpLcHNQg/Sicario-Corp-Mercenaries-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            <related>Treasure Token</related>
-            </card>
-        <card>
             <name>Handy Stick Jockey</name>
             <text>Ace 2 (This creature crews Vehicles as though its power were 2 greater.)
 {T}: Add {U}{U}. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
@@ -1843,7 +1768,7 @@ Crew 1</text>
 When this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.
 Whenever another battle you control enters, put a +1/+1 counter on each creature you control.</text>
             <prop>
-                <layout>normal</layout>
+                <layout>battle</layout>
                 <side>front</side>
                 <manacost>{2}{GW}{GW}</manacost>
                 <cmc>4</cmc>
@@ -1855,7 +1780,8 @@ Whenever another battle you control enters, put a +1/+1 counter on each creature
                 <loyalty>4</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Vs3dBGQ/The-Southern-Salient-png.png" picurl_large="https://i.ibb.co/3nkwhbM/The-Southern-Salient-png.png">BTL</set>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/pvRcpxpz/The-Southern-Salient-png.png" picurl_large="https://i.ibb.co/4ZYzx7xT/The-Southern-Salient-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1936,25 +1862,6 @@ Crew 3</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/k2tXBtby/Battle-of-UB08-png.png" picurl_large="https://i.ibb.co/s9ZqRZxP/Battle-of-UB08-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Defense of UH10</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MyQB70vj/Defense-of-UH10-png.png" picurl_large="https://i.ibb.co/mrgN4WjY/Defense-of-UH10-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2074,25 +1981,6 @@ Enchanted permanent has flying, vigilance, and lifelink.</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/4gptjRbJ/Manafold-Wings-png.png" picurl_large="https://i.ibb.co/4gptjRbJ/Manafold-Wings-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Siege of UH07</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png" picurl_large="https://i.ibb.co/sf0C8zC/Siege-of-UH07-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2298,25 +2186,6 @@ When this creature dies, return a land or battle card from your graveyard to you
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/yKMD5P8/Logistics-Specialist-png.png" picurl_large="https://i.ibb.co/yKMD5P8/Logistics-Specialist-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Siege of UH04</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png" picurl_large="https://i.ibb.co/WWCVmW9B/Siege-of-UH04-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Imperial Border Post</name>
@@ -2588,26 +2457,6 @@ Crew 5</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Cybernetic Sapper</name>
-            <text>This creature enters with X charge counters on it.
-Remove a charge counter from this creature: Remove up to two counters from target permanent.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{X}{W}</manacost>
-                <cmc>2</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Artifact Creature - Robot</type>
-                <pt>1/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/hFWvZRqF/Cybernetic-Sapper-png.png" picurl_large="https://i.ibb.co/4RTxYZQR/Cybernetic-Sapper-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Brother on Deployment</name>
             <text>Haste
 When this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It crews Vehicles as though its power were 2 greater)</text>
@@ -2686,44 +2535,6 @@ When this creature enters or dies, up to one target creature without flying gets
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/HDZSF0bM/Grenade-Dropping-Drone-png.png" picurl_large="https://i.ibb.co/WWChxQMd/Grenade-Dropping-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Big Robot</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png" picurl_large="https://i.ibb.co/4RtT6Nbf/Big-Robot-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Victory of UH07</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png" picurl_large="https://i.ibb.co/FbKH1dvh/Victory-of-UH07-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>War Map</name>
@@ -2948,25 +2759,6 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Victory of UH04</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png" picurl_large="https://i.ibb.co/zVprS9q4/Victory-of-UH04-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Maneuver Specialists</name>
             <text>This creature gets +2/+0 as long as you've activated an ability that isn't a mana ability this turn.
 {8}: This creature gains first strike until end of turn.</text>
@@ -2983,7 +2775,7 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/ynGDKK54/Maneuver-Specialists-png.png" picurl_large="https://i.ibb.co/d01SXX6m/Maneuver-Specialists-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/S1FKGxh/Maneuver-Specialists-png.png" picurl_large="https://i.ibb.co/0WHfvXg/Maneuver-Specialists-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3105,25 +2897,6 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Siege of CR14</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/qMxsLhmv/Siege-of-CR14-png.png" picurl_large="https://i.ibb.co/nsRcq4QF/Siege-of-CR14-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Rods from God</name>
             <text>{7}, {t}, Sacrifice this artifact: Destroy target permanent.</text>
             <prop>
@@ -3221,7 +2994,7 @@ Up to two target creatures can't block or crew Vehicles this turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/PGjqqG0J/Absent-Without-Leave-png.png" picurl_large="https://i.ibb.co/7tCsstLB/Absent-Without-Leave-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/SDPvKT7S/Absent-Without-Leave-png.png" picurl_large="https://i.ibb.co/p6xX3Drq/Absent-Without-Leave-png.png">BTL</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -3241,7 +3014,8 @@ Up to two target creatures can't block or crew Vehicles this turn.</text>
                 <loyalty>4</loyalty>
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/QFMwbdLV/Stealth-Strike-on-Zeeville-png.png" picurl_large="https://i.ibb.co/3ycZrz2b/Stealth-Strike-on-Zeeville-png.png">BTL</set>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/twKXQ0wD/Stealth-Strike-on-Zeeville-png.png" picurl_large="https://i.ibb.co/vCqYVNCk/Stealth-Strike-on-Zeeville-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">XDC-3 "Nesting Doll" Drone</related>
             </card>
@@ -3344,25 +3118,6 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/qMywYf9L/I-A-Workhorse-Fighter-Jet-png.png" picurl_large="https://i.ibb.co/mCD75wtr/I-A-Workhorse-Fighter-Jet-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Victory of CR12</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/tM3QQnm6/Victory-of-CR12-png.png" picurl_large="https://i.ibb.co/N67ttfVq/Victory-of-CR12-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3713,25 +3468,6 @@ Activated ability that makes Soldier tokens?</text>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Siege of CR12</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XxgSWgvh/Siege-of-CR12-png.png" picurl_large="https://i.ibb.co/ZzPWfPkn/Siege-of-CR12-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Inspiring Sergeant</name>
             <text>Flash
  Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on target creature.</text>
@@ -3829,25 +3565,6 @@ Crew 2</text>
                 </prop>
             <set rarity="Rare" picurl="https://i.ibb.co/BVpGFB71/Dr-Korella-Mandalay-png.png" picurl_large="https://i.ibb.co/99DhSWfM/Dr-Korella-Mandalay-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Victory of CR14</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/q3M4h6vR/Victory-of-CR14-png.png" picurl_large="https://i.ibb.co/5gWzCZP5/Victory-of-CR14-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Careful Captain</name>
@@ -4047,6 +3764,87 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             <tablerow>0</tablerow>
             </card>
         <card>
+            <name>Cybernetic Sappers</name>
+            <text>This creature enters with X charge counters on it.
+Remove a charge counter from this creature: Remove up to two counters from target permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{X}{W}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/s9TRC2Cp/Cybernetic-Sappers-png.png" picurl_large="https://i.ibb.co/5hQ4k6kX/Cybernetic-Sappers-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Coalition Buildup</name>
+            <text>When this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{R}</manacost>
+                <cmc>1</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Common" picurl="https://i.ibb.co/kgHGxkdV/Coalition-Buildup-png.png" picurl_large="https://i.ibb.co/ccgy1MmK/Coalition-Buildup-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Coalition Blitz</related>
+            </card>
+        <card>
+            <name>Crusaders' Air Raids</name>
+            <text>When this Siege enters, it deals 3 damage to any target.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{R}</manacost>
+                <cmc>2</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Common" picurl="https://i.ibb.co/tTCnHCyn/Crusaders-Air-Raids-png.png" picurl_large="https://i.ibb.co/RkHtgHLt/Crusaders-Air-Raids-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Katerinsburgh's Repentance</related>
+            </card>
+        <card>
+            <name>Expendable Sniper</name>
+            <text>{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Artifact Creature - Robot Soldier</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/JW3mZRGR/Expendable-Sniper-png.png" picurl_large="https://i.ibb.co/ym4d2nZn/Expendable-Sniper-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>From Rubble</name>
             <text>Proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
             <prop>
@@ -4062,7 +3860,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/cK9wKyt1/From-Rubble-png.png" picurl_large="https://i.ibb.co/9m0hmp2N/From-Rubble-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/qYM6p1P3/From-Rubble-png.png" picurl_large="https://i.ibb.co/1GfcT2wt/From-Rubble-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">The Street War</related>
             </card>
@@ -4162,7 +3960,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/QF4D7SLj/Katerinsburgh-s-Repentance-png.png" picurl_large="https://i.ibb.co/tM9LwjgP/Katerinsburgh-s-Repentance-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/QF4D7SLj/Katerinsburgh-s-Repentance-png.png" picurl_large="https://i.ibb.co/tM9LwjgP/Katerinsburgh-s-Repentance-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">Crusaders' Air Raids</related>
             </card>
@@ -4182,7 +3980,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Vh87ZxC/Coalition-Blitz-png.png" picurl_large="https://i.ibb.co/YKGzMXd/Coalition-Blitz-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Vh87ZxC/Coalition-Blitz-png.png" picurl_large="https://i.ibb.co/YKGzMXd/Coalition-Blitz-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Coalition Buildup</related>
             </card>
@@ -4327,7 +4125,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/9Hm2RW7D/Diplomatic-Victory-png.png" picurl_large="https://i.ibb.co/WvNFSfLh/Diplomatic-Victory-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Q308v44G/Diplomatic-Victory-png.png" picurl_large="https://i.ibb.co/NdR12MMz/Diplomatic-Victory-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">Gunboat Diplomacy</related>
             </card>

@@ -163,7 +163,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/PGjqqG0J/Absent-Without-Leave-png.png"
+          "large": "https://i.ibb.co/SDPvKT7S/Absent-Without-Leave-png.png"
         },
         "name": "Absent Without Leave",
         "oracle_text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nUp to two target creatures can't block or crew Vehicles this turn.",
@@ -858,19 +858,6 @@
       }
     }
   },
-  "bellicose colonel": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/KjXvSGv5/Bellicose-Colonel-png.png"
-        },
-        "name": "Bellicose Colonel",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "belt of giant strength": {
     "default": "KPDH",
     "printings": {
@@ -894,19 +881,6 @@
         "name": "Bestie Beatdown",
         "oracle_text": "Two target creatures you control each deal damage equal to their power to target creature an opponent controls.",
         "type_line": "Sorcery"
-      }
-    }
-  },
-  "big robot": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/1GQqD2Cn/Big-Robot-png.png"
-        },
-        "name": "Big Robot",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -1220,21 +1194,6 @@
         "power": "10",
         "toughness": "10",
         "type_line": "Artifact — Vehicle"
-      }
-    }
-  },
-  "ca01": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/38BW4vH/CA01-png.png"
-        },
-        "name": "CA01",
-        "oracle_text": "{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.",
-        "power": "1",
-        "toughness": "2",
-        "type_line": "Artifact Creature — Robot Soldier"
       }
     }
   },
@@ -1709,6 +1668,34 @@
       }
     }
   },
+  "coalition buildup": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/kgHGxkdV/Coalition-Buildup-png.png"
+            },
+            "loyalty": "4",
+            "name": "Coalition Buildup",
+            "oracle_text": "When this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) ",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/Vh87ZxC/Coalition-Blitz-png.png"
+            },
+            "name": "Coalition Blitz",
+            "oracle_text": "Attacking creatures you control get +1/+0.",
+            "type_line": "Enchantment"
+          }
+        ],
+        "layout": "transform",
+        "name": "Coalition Buildup"
+      }
+    }
+  },
   "coalition field marshal": {
     "default": "BTL",
     "printings": {
@@ -2125,6 +2112,34 @@
       }
     }
   },
+  "crusaders' air raids": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/tTCnHCyn/Crusaders-Air-Raids-png.png"
+            },
+            "loyalty": "4",
+            "name": "Crusaders' Air Raids",
+            "oracle_text": "When this Siege enters, it deals 3 damage to any target.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/QF4D7SLj/Katerinsburgh-s-Repentance-png.png"
+            },
+            "name": "Katerinsburgh's Repentance",
+            "oracle_text": "Destroy target artifact or land. Its controller creates a Wastes token.  (It's a basic land with \"{t}: Add {c}.\") ",
+            "type_line": "Sorcery"
+          }
+        ],
+        "layout": "transform",
+        "name": "Crusaders' Air Raids"
+      }
+    }
+  },
   "cultivate": {
     "default": "KPDH",
     "printings": {
@@ -2151,14 +2166,14 @@
       }
     }
   },
-  "cybernetic sapper": {
+  "cybernetic sappers": {
     "default": "BTL",
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/hFWvZRqF/Cybernetic-Sapper-png.png"
+          "large": "https://i.ibb.co/s9TRC2Cp/Cybernetic-Sappers-png.png"
         },
-        "name": "Cybernetic Sapper",
+        "name": "Cybernetic Sappers",
         "oracle_text": "This creature enters with X charge counters on it.\nRemove a charge counter from this creature: Remove up to two counters from target permanent.",
         "power": "1",
         "toughness": "1",
@@ -2276,32 +2291,6 @@
         "name": "Defense of the Marchwall",
         "oracle_text": "(You defend this battle. Your opponents can attack it.) \nCreatures can't attack you or battles you protect unless their controller pays {X} for each of those creatures, where X is the number of non-Siege battles you control.",
         "type_line": "Battle"
-      }
-    }
-  },
-  "defense of uh02": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/vvL2SKg1/Defense-of-UH02-png.png"
-        },
-        "name": "Defense of UH02",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "defense of uh10": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/MyQB70vj/Defense-of-UH10-png.png"
-        },
-        "name": "Defense of UH10",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -2908,6 +2897,21 @@
       }
     }
   },
+  "expendable sniper": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/JW3mZRGR/Expendable-Sniper-png.png"
+        },
+        "name": "Expendable Sniper",
+        "oracle_text": "{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.",
+        "power": "1",
+        "toughness": "2",
+        "type_line": "Artifact Creature — Robot Soldier"
+      }
+    }
+  },
   "f.l.c. command cruiser (1)": {
     "default": "BTL",
     "printings": {
@@ -3299,7 +3303,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gZP2P8F5/Fund-the-Front-png.png"
+          "large": "https://i.ibb.co/XGZjNqy/Fund-the-Front-png.png"
         },
         "name": "Fund the Front",
         "oracle_text": "Create a 3/3 green Soldier creature token and a Treasure token.  (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\") ",
@@ -3644,7 +3648,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/rTVNqt0/Gunboat-Diplomacy-png.png"
+              "large": "https://i.ibb.co/GvVY9KBK/Gunboat-Diplomacy-png.png"
             },
             "loyalty": "4",
             "name": "Gunboat Diplomacy",
@@ -3653,7 +3657,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/9Hm2RW7D/Diplomatic-Victory-png.png"
+              "large": "https://i.ibb.co/Q308v44G/Diplomatic-Victory-png.png"
             },
             "name": "Diplomatic Victory",
             "oracle_text": "Gain control of target artifact with mana value X or less, where X is the number of Pilots and/or Vehicles you control.",
@@ -5502,7 +5506,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/ynGDKK54/Maneuver-Specialists-png.png"
+          "large": "https://i.ibb.co/S1FKGxh/Maneuver-Specialists-png.png"
         },
         "name": "Maneuver Specialists",
         "oracle_text": "This creature gets +2/+0 as long as you've activated an ability that isn't a mana ability this turn.\n{8}: This creature gains first strike until end of turn.",
@@ -6471,7 +6475,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/fPD6BFg/Oasis-Reclaimer-png.png"
+          "large": "https://i.ibb.co/60KSdtnn/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
         "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.\nCrew 2",
@@ -6551,7 +6555,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/HfQnm4sd/Operation-Grindstone-png.png"
+          "large": "https://i.ibb.co/8D8JvMF2/Operation-Grindstone-png.png"
         },
         "loyalty": "4",
         "name": "Operation Grindstone",
@@ -7759,7 +7763,7 @@
     "printings": {
       "PHM": {
         "image_uris": {
-          "large": "https://i.ibb.co/KcmVY9HP/Rocky-Eridian-Engineer-png.png"
+          "large": "https://i.ibb.co/xKxQ6Rwg/Rocky-Eridian-Engineer-png.png"
         },
         "name": "Rocky, Eridian Engineer",
         "oracle_text": "Artifacts you control have hexproof.\nWhenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with \"{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\") \nPartner—Save Stars",
@@ -8482,21 +8486,6 @@
       }
     }
   },
-  "sicario corp mercenaries": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/VpLcHNQg/Sicario-Corp-Mercenaries-png.png"
-        },
-        "name": "Sicario Corp Mercenaries",
-        "oracle_text": "Whenever this creature or a Vehicle crewed by it during a main phase this turn deals combat damage to a player or battle, create a Treasure token.",
-        "power": "4",
-        "toughness": "4",
-        "type_line": "Creature — Human Mercenary Pilot"
-      }
-    }
-  },
   "sidequest: catch a fish": {
     "default": "KPDH",
     "printings": {
@@ -8532,32 +8521,6 @@
           "large": "https://i.ibb.co/RkdLkcsq/Sidequest-Catch-a-Fish-png.png"
         },
         "name": "Sidequest_ Catch a Fish",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "siege of cr12": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/XxgSWgvh/Siege-of-CR12-png.png"
-        },
-        "name": "Siege of CR12",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "siege of cr14": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/qMxsLhmv/Siege-of-CR14-png.png"
-        },
-        "name": "Siege of CR14",
         "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
         "type_line": "Unknown"
       }
@@ -8649,19 +8612,6 @@
       }
     }
   },
-  "siege of uh04": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/fYJDjYRr/Siege-of-UH04-png.png"
-        },
-        "name": "Siege of UH04",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "siege of uh05": {
     "default": "BTL",
     "printings": {
@@ -8719,19 +8669,6 @@
         ],
         "layout": "transform",
         "name": "Siege of UH06"
-      }
-    }
-  },
-  "siege of uh07": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/KPMDTSD/Siege-of-UH07-png.png"
-        },
-        "name": "Siege of UH07",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -9433,7 +9370,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/QFMwbdLV/Stealth-Strike-on-Zeeville-png.png"
+              "large": "https://i.ibb.co/twKXQ0wD/Stealth-Strike-on-Zeeville-png.png"
             },
             "loyalty": "4",
             "name": "Stealth Strike on Zeeville",
@@ -10060,7 +9997,7 @@
     "printings": {
       "PHM": {
         "image_uris": {
-          "large": "https://i.ibb.co/JRDJfjQ2/The-Hail-Mary-png.png"
+          "large": "https://i.ibb.co/4R7RcmK9/The-Hail-Mary-png.png"
         },
         "name": "The Hail Mary",
         "oracle_text": "\nability0:{name:Ability 1, Station ( Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) \nability1:{name:Ability 2,Artifacts you control have {t}: Scry 1.\nability2:{name:Ability 3, {2}{u}: Create a 1/1 colorless Spacecraft artifact creature token with flying and Whenever this Spacecraft deals combat to a player, draw a card.",
@@ -10202,7 +10139,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Vs3dBGQ/The-Southern-Salient-png.png"
+          "large": "https://i.ibb.co/pvRcpxpz/The-Southern-Salient-png.png"
         },
         "loyalty": "4",
         "name": "The Southern Salient",
@@ -10242,7 +10179,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/cK9wKyt1/From-Rubble-png.png"
+              "large": "https://i.ibb.co/qYM6p1P3/From-Rubble-png.png"
             },
             "name": "From Rubble",
             "oracle_text": "Proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -11074,58 +11011,6 @@
         "name": "Vibrant Cityscape",
         "oracle_text": "{t}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
         "type_line": "Land"
-      }
-    }
-  },
-  "victory of cr12": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/tM3QQnm6/Victory-of-CR12-png.png"
-        },
-        "name": "Victory of CR12",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "victory of cr14": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/q3M4h6vR/Victory-of-CR14-png.png"
-        },
-        "name": "Victory of CR14",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "victory of uh04": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/KxdX94Tr/Victory-of-UH04-png.png"
-        },
-        "name": "Victory of UH04",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
-  "victory of uh07": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/MDsBHJTg/Victory-of-UH07-png.png"
-        },
-        "name": "Victory of UH07",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
