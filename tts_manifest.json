@@ -1684,7 +1684,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/Vh87ZxC/Coalition-Blitz-png.png"
+              "large": "https://i.ibb.co/s9ZT46HS/Coalition-Blitz-png.png"
             },
             "name": "Coalition Blitz",
             "oracle_text": "Attacking creatures you control get +1/+0.",
@@ -2128,7 +2128,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/QF4D7SLj/Katerinsburgh-s-Repentance-png.png"
+              "large": "https://i.ibb.co/847m2464/Katerinsburgh-s-Repentance-png.png"
             },
             "name": "Katerinsburgh's Repentance",
             "oracle_text": "Destroy target artifact or land. Its controller creates a Wastes token.  (It's a basic land with \"{t}: Add {c}.\") ",
@@ -5622,7 +5622,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/DPwkFjDF/Mechanized-Pioneers-png.png"
+          "large": "https://i.ibb.co/jZHdyS1C/Mechanized-Pioneers-png.png"
         },
         "name": "Mechanized Pioneers",
         "oracle_text": "Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  \nTrample\nWhen this creature enters, you gain 4 life. If it was kicked, put four +1/+1 counters on it and it's a Robot artifact creature in addition to its other types.",
@@ -7267,7 +7267,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/jvzZFxVj/R-D-I-Main-Battle-Tank-png.png"
+          "large": "https://i.ibb.co/svwghKvZ/R-D-I-Main-Battle-Tank-png.png"
         },
         "name": "R.D.I. Main Battle Tank",
         "oracle_text": "Haste\nWartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)\nCrew 1",
@@ -7768,8 +7768,8 @@
         "name": "Rocky, Eridian Engineer",
         "oracle_text": "Artifacts you control have hexproof.\nWhenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with \"{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\") \nPartner—Save Stars",
         "power": "0",
-        "toughness": "4",
-        "type_line": "Legendary Creature — Crab Scientist"
+        "toughness": "5",
+        "type_line": "Legendary Creature — Crab Artificer"
       }
     }
   },
@@ -9379,7 +9379,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/WWKDbGt3/XDC-3-Nesting-Doll-Drone-png.png"
+              "large": "https://i.ibb.co/HjcNsFY/XDC-3-Nesting-Doll-Drone-png.png"
             },
             "name": "XDC-3 \"Nesting Doll\" Drone",
             "oracle_text": "Flying\nFabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)",
@@ -10000,9 +10000,7 @@
           "large": "https://i.ibb.co/4R7RcmK9/The-Hail-Mary-png.png"
         },
         "name": "The Hail Mary",
-        "oracle_text": "\nability0:{name:Ability 1, Station ( Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) \nability1:{name:Ability 2,Artifacts you control have {t}: Scry 1.\nability2:{name:Ability 3, {2}{u}: Create a 1/1 colorless Spacecraft artifact creature token with flying and Whenever this Spacecraft deals combat to a player, draw a card.",
-        "power": "9",
-        "toughness": "9",
+        "oracle_text": "\nability0:{name:Ability 1, Station ( Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.) \nability1:{name:Ability 2,Artifacts you control have {t}: Scry 1.\nability2:{name:Ability 3, {2}{u}: Create a 1/1 colorless Spacecraft artifact creature token with flying and Whenever this Spacecraft deals combat damage to a player, draw a card.",
         "type_line": "Legendary Artifact — Spacecraft"
       }
     }
