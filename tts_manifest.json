@@ -2119,11 +2119,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/tTCnHCyn/Crusaders-Air-Raids-png.png"
+              "large": "https://i.ibb.co/5WDkLVbj/Crusaders-Air-Raids-png.png"
             },
             "loyalty": "4",
             "name": "Crusaders' Air Raids",
-            "oracle_text": "When this Siege enters, it deals 3 damage to any target.",
+            "oracle_text": "When this Siege enters, it deals 3 damage to any other target.",
             "type_line": "Battle — Siege"
           },
           {
@@ -4596,6 +4596,21 @@
       }
     }
   },
+  "irena \"firefly\" vanguard": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ycb3jQmC/Irena-Firefly-Vanguard-png.png"
+        },
+        "name": "Irena \"Firefly\" Vanguard",
+        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
+        "power": "3",
+        "toughness": "1",
+        "type_line": "Legendary Creature — Human Pilot"
+      }
+    }
+  },
   "island": {
     "default": "KPDH",
     "printings": {
@@ -5577,7 +5592,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/hRVbnFdf/Martyr-Siegebreaker-png.png"
+          "large": "https://i.ibb.co/6J7640YQ/Martyr-Siegebreaker-png.png"
         },
         "name": "Martyr Siegebreaker",
         "oracle_text": "When this Vehicle enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") \n{2}, Sacrifice an artifact or creature: This Vehicle becomes an artifact creature and gains menace until end of turn.\nCrew 2",
@@ -6623,7 +6638,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/TDJLYqg5/Order-an-Air-Defense-png.png"
+          "large": "https://i.ibb.co/pB6N9cw6/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature or Vehicle with flying.\n•   Populate  (Create a token that's a copy of a creature token you control.) ",
@@ -6636,10 +6651,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Lzz06J7Z/Order-an-Ambush-png.png"
+          "large": "https://i.ibb.co/SX1SZ3FJ/Order-an-Ambush-png.png"
         },
         "name": "Order an Ambush",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target creature with power 4 or greater.\n• Put a +1/+1 counter on each of up to two target creatures.",
+        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target creature with power 4 or greater.\n• Put a +1/+1 counter on each of up to two target creatures or Vehicles.",
         "type_line": "Instant"
       }
     }
@@ -7763,10 +7778,10 @@
     "printings": {
       "PHM": {
         "image_uris": {
-          "large": "https://i.ibb.co/xKxQ6Rwg/Rocky-Eridian-Engineer-png.png"
+          "large": "https://i.ibb.co/cXy2bFL0/Rocky-Eridian-Engineer-png.png"
         },
         "name": "Rocky, Eridian Engineer",
-        "oracle_text": "Artifacts you control have hexproof.\nWhenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with \"{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\") \nPartner—Save Stars",
+        "oracle_text": "Artifacts you control have hexproof.\nWhenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with \"{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\") \nPartner—Save stars",
         "power": "0",
         "toughness": "5",
         "type_line": "Legendary Creature — Crab Artificer"
@@ -8015,10 +8030,10 @@
     "printings": {
       "PHM": {
         "image_uris": {
-          "large": "https://i.ibb.co/sdFhx5Ns/Ryland-Grace-Sentenced-to-Save-png.png"
+          "large": "https://i.ibb.co/Wp2YmtQK/Ryland-Grace-Sentenced-to-Save-png.png"
         },
         "name": "Ryland Grace, Sentenced to Save",
-        "oracle_text": "Whenever you play a card from exile, create a Clue token.  (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\") \nSacrifice twelve artifacts: You get an emblem with \"Lands you control have  '{t}: Add two mana of any one color.'\" \nPartner—Save Stars",
+        "oracle_text": "Whenever you play a card from exile, create a Clue token.  (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\") \nSacrifice twelve artifacts: You get an emblem with \"Lands you control have  '{t}: Add two mana of any one color.'\" \nPartner—Save stars",
         "power": "3",
         "toughness": "3",
         "type_line": "Legendary Creature — Human Scientist"
@@ -8120,10 +8135,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XrKDht2r/Sacrificial-Gambit-png.png"
+          "large": "https://i.ibb.co/gFDXgnz2/Sacrificial-Gambit-png.png"
         },
         "name": "Sacrificial Gambit",
-        "oracle_text": "Each player sacrifices a creature or Vehicle. If you sacrificed a permanent with one or more counters on it this way, draw two cards.",
+        "oracle_text": "Each player sacrifices an artifact or creature. If you sacrificed a permanent with one or more counters on it this way, draw two cards.",
         "type_line": "Sorcery"
       }
     }
@@ -9112,10 +9127,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Wv5F8pKn/Spear-Fleet-Marines-png.png"
+          "large": "https://i.ibb.co/6c01j6ng/Spear-Fleet-Marines-png.png"
         },
         "name": "Spear Fleet Marines",
-        "oracle_text": "Haste\nWhen this creature enters, creatures you control gain trample until end of turn.",
+        "oracle_text": "Haste\nWhen this creature enters, until end of turn, creatures you control have trample.",
         "power": "4",
         "toughness": "3",
         "type_line": "Creature — Human Soldier"
@@ -10741,10 +10756,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/rKyd46x2/U-C-I-T-E-War-Submarine-png.png"
+          "large": "https://i.ibb.co/8DNpsq0T/U-C-I-T-E-War-Submarine-png.png"
         },
         "name": "U.C.I.T. E-War Submarine",
-        "oracle_text": "Arms Race  - {2}, {t}: Tap target artifact, creature, or land. This ability costs {2} less to activate if no opponent controls more artifacts than you.\nCrew 5",
+        "oracle_text": "Arms Race  - {3}, {t}: Tap target artifact, creature, or land. This ability costs {2} less to activate if no opponent controls more artifacts than you.\nCrew 6",
         "power": "6",
         "toughness": "8",
         "type_line": "Artifact — Vehicle"

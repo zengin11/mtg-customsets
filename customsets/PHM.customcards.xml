@@ -1,13 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-07</releasedate>
+        <set> v1.4<releasedate>2026-10-08</releasedate>
             <name>PHM</name>
             <longname>PHM</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Ryland Grace, Sentenced to Save</name>
+            <text>Whenever you play a card from exile, create a Clue token.  (It's an artifact with "{2}, Sacrifice this token: Draw a card.") 
+Sacrifice twelve artifacts: You get an emblem with "Lands you control have  '{t}: Add two mana of any one color.'" 
+Partner—Save stars</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Scientist</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Wp2YmtQK/Ryland-Grace-Sentenced-to-Save-png.png" picurl_large="https://i.ibb.co/HpHk5d0g/Ryland-Grace-Sentenced-to-Save-png.png">PHM</set>
+            <tablerow>2</tablerow>
+            <related>Clue Token</related>
+            </card>
+        <card>
+            <name>Rocky, Eridian Engineer</name>
+            <text>Artifacts you control have hexproof.
+Whenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with "{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.") 
+Partner—Save stars</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Crab Artificer</type>
+                <pt>0/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cXy2bFL0/Rocky-Eridian-Engineer-png.png" picurl_large="https://i.ibb.co/84mPz5cq/Rocky-Eridian-Engineer-png.png">PHM</set>
+            <tablerow>2</tablerow>
+            <related>Junk Token</related>
+            </card>
         <card>
             <name>Embrace the Unknown</name>
             <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
@@ -92,28 +136,6 @@ Create a Clue token.  (It's an artifact with "{2}, Sacrifice this token: Draw a 
             <related>Clue Token</related>
             </card>
         <card>
-            <name>Ryland Grace, Sentenced to Save</name>
-            <text>Whenever you play a card from exile, create a Clue token.  (It's an artifact with "{2}, Sacrifice this token: Draw a card.") 
-Sacrifice twelve artifacts: You get an emblem with "Lands you control have  '{t}: Add two mana of any one color.'" 
-Partner—Save Stars</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{g}{u}</manacost>
-                <cmc>3</cmc>
-                <colors>UG</colors>
-                <coloridentity>UG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Scientist</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/sdFhx5Ns/Ryland-Grace-Sentenced-to-Save-png.png" picurl_large="https://i.ibb.co/Kp9Y4NfV/Ryland-Grace-Sentenced-to-Save-png.png">PHM</set>
-            <tablerow>2</tablerow>
-            <related>Clue Token</related>
-            </card>
-        <card>
             <name>Cathartic Reunion</name>
             <text>As an additional cost to cast this spell, discard two cards.
 Draw three cards.</text>
@@ -132,28 +154,6 @@ Draw three cards.</text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/1f1jh7s8/Cathartic-Reunion-png.png" picurl_large="https://i.ibb.co/BVbFdc4q/Cathartic-Reunion-png.png">PHM</set>
             <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Rocky, Eridian Engineer</name>
-            <text>Artifacts you control have hexproof.
-Whenever you draw your second card each turn, create two Junk tokens.  (They're artifacts with "{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.") 
-Partner—Save Stars</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{u}{r}</manacost>
-                <cmc>4</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Crab Artificer</type>
-                <pt>0/5</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/xKxQ6Rwg/Rocky-Eridian-Engineer-png.png" picurl_large="https://i.ibb.co/XfcTtv65/Rocky-Eridian-Engineer-png.png">PHM</set>
-            <tablerow>2</tablerow>
-            <related>Junk Token</related>
             </card>
         <card>
             <name>Break Down</name>
