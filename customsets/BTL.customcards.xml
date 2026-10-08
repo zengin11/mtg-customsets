@@ -453,6 +453,26 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
             <tablerow>3</tablerow>
             </card>
         <card>
+            <name>Irena "Firefly" Vanguard</name>
+            <text>Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Vehicles crewed by this creature this turn have vigilance and haste.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Pilot</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/fd84pxVC/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/GQsc25fV/Irena-Firefly-Vanguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Fighter</name>
             <text>Flying
 Crew 1</text>
@@ -3843,26 +3863,6 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/KjZf1T0R/Flight-School-png.png" picurl_large="https://i.ibb.co/N6hJ4cVQ/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
-            </card>
-        <card>
-            <name>Irena "Firefly" Vanguard</name>
-            <text>Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
-Vehicles crewed by this creature this turn have vigilance and haste.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Pilot</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/ycb3jQmC/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/NdH4Bygq/Irena-Firefly-Vanguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>From Rubble</name>
