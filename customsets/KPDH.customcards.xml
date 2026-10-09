@@ -3592,9 +3592,8 @@ Partner—HUNTR/X</text>
             </card>
         <card>
             <name>Gwi-ma's Shamegorger</name>
-            <text>Trample
- Shame  - Whenever an opponent reveals their first card or cards each turn, you gain X life, where X is the greatest mana value among those cards. Each opponent loses 2 life.
-Whenever this creature deals combat damage to a player, each opponent reveals that many cards from the top of their library.</text>
+            <text>Whenever this creature becomes blocked, each opponent reveals the top six cards of their library. Put five into their graveyard.
+ Shame  - For each opponent, whenever they reveal one or more cards for the first time each turn, they lose X life and you gain X life, where X is the greatest mana value among those cards.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3712,7 +3711,7 @@ When this creature enters, reveal the top five cards of your library. An opponen
             </card>
         <card>
             <name>Dive in the Fire</name>
-            <text>Resonate -  If you revealed one or more cards this turn, creatures you don't control lose indestructible until end of turn
+            <text>Reverberate -  If you revealed one or more cards this turn, creatures you don't control lose indestructible until end of turn
 This spell deals 3 damage to any target.
 Splice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) </text>
             <prop>
@@ -4254,7 +4253,7 @@ Miracle {u}  (You may reveal this card as you draw it if it's the first card you
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{u}</manacost>
+                <manacost>{1}{u}{u}</manacost>
                 <cmc>3</cmc>
                 <colors>U</colors>
                 <coloridentity>U</coloridentity>
@@ -4264,7 +4263,7 @@ Miracle {u}  (You may reveal this card as you draw it if it's the first card you
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/WNTtSwfx/Candid-Inspiration-png.png" picurl_large="https://i.ibb.co/RG5yLmcv/Candid-Inspiration-png.png">KPDH</set>
+            <set rarity="NA" picurl="https://i.ibb.co/XkSGxfdB/Candid-Inspiration-png.png" picurl_large="https://i.ibb.co/Fqgd4kfv/Candid-Inspiration-png.png">KPDH</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -5171,14 +5170,14 @@ Partner—Saja  (You can have two commanders if both have this.) </text>
         <card>
             <name>Rumi, Queen of Nightmares</name>
             <text>When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.
-{2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.
+{2}{ur}, {t}: Target opponent who revealed a card this turn loses life equal to the number of Demons you control.
 Partner—Lost to Shame</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{ub}{br}</manacost>
+                <manacost>{2}{b}{b}</manacost>
                 <cmc>4</cmc>
-                <colors>UBR</colors>
+                <colors>B</colors>
                 <coloridentity>UBR</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Legendary Creature - Demon Warrior Performer</type>
@@ -5881,6 +5880,86 @@ Whenever you cast a spell, choose up to one —
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png" picurl_large="https://i.ibb.co/0y5ckwxf/Hullbreaker-Horror-png.png">KPDH</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Battle for Hearts and Minds</name>
+            <text>At the beginning of each opponent's upkeep, you may clash with that opponent. If you do, the player who won draws a card.  (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}{r}</manacost>
+                <cmc>2</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Legendary Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jmst8rm/The-Battle-for-Hearts-and-Minds-png.png" picurl_large="https://i.ibb.co/32QKTC2/The-Battle-for-Hearts-and-Minds-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Captivating Glance</name>
+            <text>Enchant creature
+At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature.  (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Aura</maintype>
+                <type>Enchantment — Aura</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/B2MYxywX/Captivating-Glance-png.png" picurl_large="https://i.ibb.co/HT89stXW/Captivating-Glance-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Trepanation Blade</name>
+            <text>Whenever equipped creature attacks, defending player reveals cards from the top of their library until they reveal a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into their graveyard.
+Equip {2}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}</manacost>
+                <cmc>3</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/848kWp2h/Trepanation-Blade-png.png" picurl_large="https://i.ibb.co/DgKdxykq/Trepanation-Blade-png.png">KPDH</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Extract the Truth</name>
+            <text>Choose one —
+•  Target opponent reveals their hand. You may choose a creature, enchantment, or planeswalker card from it. That player discards that card.
+•  Target opponent sacrifices an enchantment of their choice.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/67h620zN/Extract-the-Truth-png.png" picurl_large="https://i.ibb.co/cS5zPh0x/Extract-the-Truth-png.png">KPDH</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Cooking Campsite</name>

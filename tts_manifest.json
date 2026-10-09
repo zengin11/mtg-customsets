@@ -1271,7 +1271,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/WNTtSwfx/Candid-Inspiration-png.png"
+          "large": "https://i.ibb.co/XkSGxfdB/Candid-Inspiration-png.png"
         },
         "name": "Candid Inspiration",
         "oracle_text": "Draw two cards. \n Reverberate  - If you've revealed a card this turn, instead draw three cards.\nMiracle {u}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) ",
@@ -1289,6 +1289,19 @@
         "name": "Canopy Vista",
         "oracle_text": "({T}: Add {G} or {W}.) \nThis land enters tapped unless you control two or more basic lands.",
         "type_line": "Land — Forest Plains"
+      }
+    }
+  },
+  "captivating glance": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/B2MYxywX/Captivating-Glance-png.png"
+        },
+        "name": "Captivating Glance",
+        "oracle_text": "Enchant creature\nAt the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature.  (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.) ",
+        "type_line": "Enchantment — Aura"
       }
     }
   },
@@ -2496,7 +2509,7 @@
           "large": "https://i.ibb.co/mF6Bxzm1/Dive-in-the-Fire-png.png"
         },
         "name": "Dive in the Fire",
-        "oracle_text": "Resonate -  If you revealed one or more cards this turn, creatures you don't control lose indestructible until end of turn\nThis spell deals 3 damage to any target.\nSplice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
+        "oracle_text": "Reverberate -  If you revealed one or more cards this turn, creatures you don't control lose indestructible until end of turn\nThis spell deals 3 damage to any target.\nSplice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
         "type_line": "Instant — Arcane"
       }
     }
@@ -2711,7 +2724,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Q7KDg8M1/EF-14-Spotlight-AWACS-png.png"
+          "large": "https://i.ibb.co/CKmhsZwR/EF-14-Spotlight-AWACS-png.png"
         },
         "name": "EF-14 \"Spotlight\" AWACS",
         "oracle_text": "Flying\nOther creatures you control with flying get +2/+1.\nCrew 2",
@@ -2909,6 +2922,19 @@
         "power": "1",
         "toughness": "2",
         "type_line": "Artifact Creature — Robot Soldier"
+      }
+    }
+  },
+  "extract the truth": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/67h620zN/Extract-the-Truth-png.png"
+        },
+        "name": "Extract the Truth",
+        "oracle_text": "Choose one —\n•  Target opponent reveals their hand. You may choose a creature, enchantment, or planeswalker card from it. That player discards that card.\n•  Target opponent sacrifices an enchantment of their choice.",
+        "type_line": "Sorcery"
       }
     }
   },
@@ -3767,7 +3793,7 @@
           "large": "https://i.ibb.co/gbBK7Qc7/Gwi-ma-s-Shamegorger-png.png"
         },
         "name": "Gwi-ma's Shamegorger",
-        "oracle_text": "Trample\n Shame  - Whenever an opponent reveals their first card or cards each turn, you gain X life, where X is the greatest mana value among those cards. Each opponent loses 2 life.\nWhenever this creature deals combat damage to a player, each opponent reveals that many cards from the top of their library.",
+        "oracle_text": "Whenever this creature becomes blocked, each opponent reveals the top six cards of their library. Put five into their graveyard.\n Shame  - For each opponent, whenever they reveal one or more cards for the first time each turn, they lose X life and you gain X life, where X is the greatest mana value among those cards.",
         "power": "6",
         "toughness": "6",
         "type_line": "Creature — Demon Incarnation"
@@ -5592,10 +5618,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/6J7640YQ/Martyr-Siegebreaker-png.png"
+          "large": "https://i.ibb.co/HDqsF1NC/Martyr-Siegebreaker-png.png"
         },
         "name": "Martyr Siegebreaker",
-        "oracle_text": "When this Vehicle enters, create a Munitions token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to any target.\") \n{2}, Sacrifice an artifact or creature: This Vehicle becomes an artifact creature and gains menace until end of turn.\nCrew 2",
+        "oracle_text": "When this Vehicle enters, create an Ordnance token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") \n{2}, Sacrifice an artifact or creature: This Vehicle becomes an artifact creature and gains menace until end of turn.\nCrew 2",
         "power": "5",
         "toughness": "3",
         "type_line": "Artifact — Vehicle"
@@ -7992,7 +8018,7 @@
           "large": "https://i.ibb.co/jvNccpZy/Rumi-Queen-of-Nightmares-png.png"
         },
         "name": "Rumi, Queen of Nightmares",
-        "oracle_text": "When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.\n{2}{br}, {t}: Rumi deals damage equal to the number of Demons you control to target opponent that revealed a card this turn.\nPartner—Lost to Shame",
+        "oracle_text": "When Rumi enters, search your library for a card, put that card into your hand, then shuffle. Each opponent reveals their hand.\n{2}{ur}, {t}: Target opponent who revealed a card this turn loses life equal to the number of Demons you control.\nPartner—Lost to Shame",
         "power": "2",
         "toughness": "3",
         "type_line": "Legendary Creature — Demon Warrior Performer"
@@ -9918,6 +9944,19 @@
       }
     }
   },
+  "the battle for hearts and minds": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/jmst8rm/The-Battle-for-Hearts-and-Minds-png.png"
+        },
+        "name": "The Battle for Hearts and Minds",
+        "oracle_text": "At the beginning of each opponent's upkeep, you may clash with that opponent. If you do, the player who won draws a card.  (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.) ",
+        "type_line": "Legendary Enchantment"
+      }
+    }
+  },
   "the cyclops, behemoth": {
     "default": "SUB",
     "printings": {
@@ -10614,6 +10653,19 @@
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Soldier"
+      }
+    }
+  },
+  "trepanation blade": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/848kWp2h/Trepanation-Blade-png.png"
+        },
+        "name": "Trepanation Blade",
+        "oracle_text": "Whenever equipped creature attacks, defending player reveals cards from the top of their library until they reveal a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into their graveyard.\nEquip {2}",
+        "type_line": "Artifact — Equipment"
       }
     }
   },

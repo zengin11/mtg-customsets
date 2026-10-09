@@ -105,7 +105,7 @@
       "E-09 Destiny Rail Transport": "2026-09-02T18:37:21Z",
       "E-25 \"Spotlight\" AWACS": "2026-09-11T20:28:34Z",
       "EA-28 \"Howler\" Screening Jet": "2026-09-02T18:37:21Z",
-      "EF-14 \"Spotlight\" AWACS": "2026-09-11T20:22:58Z",
+      "EF-14 \"Spotlight\" AWACS": "2026-10-09T03:44:38Z",
       "Elspeth's Cleansing Fury": "2026-09-02T18:37:21Z",
       "Elspeth, Exploited Exemplar": "2026-09-02T20:26:55Z",
       "Empress Anastasia IV": "2026-09-11T20:22:58Z",
@@ -156,7 +156,7 @@
       "Manafold Wings": "2026-09-02T18:37:21Z",
       "Maneuver Specialists": "2026-10-07T16:01:34Z",
       "March of the War Machines": "2026-09-02T20:04:02Z",
-      "Martyr Siegebreaker": "2026-10-08T21:40:12Z",
+      "Martyr Siegebreaker": "2026-10-09T03:44:38Z",
       "Mechanized Pioneers": "2026-10-07T16:05:51Z",
       "Mobile Infantry Platoon": "2026-09-02T18:37:21Z",
       "Modular Combat Drone": "2026-09-24T01:42:39Z",
@@ -502,8 +502,9 @@
       "Bushwhack": "2026-09-25T02:55:51Z",
       "Cabal Therapist": "2026-09-25T02:55:51Z",
       "Calibrated Blast": "2026-09-25T02:55:51Z",
-      "Candid Inspiration": "2026-10-02T04:11:12Z",
+      "Candid Inspiration": "2026-10-09T03:44:01Z",
       "Canopy Vista": "2026-09-25T02:55:51Z",
+      "Captivating Glance": "2026-10-09T03:44:01Z",
       "Cast for Rehearsal": "2026-09-25T02:55:51Z",
       "Celine, Trainer of Hunters": "2026-09-02T01:02:00Z",
       "Celine, Trainer of Hunters Alt": "2026-09-25T02:55:51Z",
@@ -548,7 +549,7 @@
       "Desperate Ritual": "2026-09-26T21:15:40Z",
       "Disaster Radius": "2026-09-29T04:14:45Z",
       "Distant Melody": "2026-09-25T02:55:51Z",
-      "Dive in the Fire": "2026-09-25T02:55:51Z",
+      "Dive in the Fire": "2026-10-09T03:44:01Z",
       "Djinn of Wishes": "2026-09-24T03:35:11Z",
       "Dragon's Eye Savants": "2026-09-25T02:55:51Z",
       "Eavesdropping Overview": "2026-09-25T02:55:51Z",
@@ -562,6 +563,7 @@
       "Environmental Sciences": "2026-09-25T02:55:51Z",
       "Environmental Scientist": "2026-09-25T02:55:51Z",
       "Everdream": "2026-09-25T02:55:51Z",
+      "Extract the Truth": "2026-10-09T03:44:01Z",
       "Fa'adiyah Seer (Sudogwon Seers)": "2026-09-25T02:55:51Z",
       "Fact or Fiction": "2026-09-25T02:55:51Z",
       "Farewell": "2026-09-25T02:55:51Z",
@@ -588,7 +590,7 @@
       "Gwi-ma's Mindraker": "2026-09-25T02:55:51Z",
       "Gwi-ma's Plaguespitter": "2026-09-25T02:55:51Z",
       "Gwi-ma's Scornlurker": "2026-09-25T02:55:51Z",
-      "Gwi-ma's Shamegorger": "2026-10-06T19:22:07Z",
+      "Gwi-ma's Shamegorger": "2026-10-09T03:44:01Z",
       "Gwi-ma's Soulripper": "2026-09-25T02:55:51Z",
       "Gwi-ma's Woeseeker": "2026-09-25T02:55:51Z",
       "Gwi-ma, Otherworld King": "2026-09-25T02:55:51Z",
@@ -699,7 +701,7 @@
       "Rumi, Cherished Melody": "2026-09-02T01:02:00Z",
       "Rumi, Leader of Idols": "2026-10-01T04:23:36Z",
       "Rumi, Leader of Idols Promo": "2026-09-25T02:55:51Z",
-      "Rumi, Queen of Nightmares": "2026-10-06T19:22:07Z",
+      "Rumi, Queen of Nightmares": "2026-10-09T03:44:01Z",
       "Run Away Together": "2026-09-25T02:55:51Z",
       "Run Away Together Alt": "2026-09-25T02:55:51Z",
       "Sapphire Medallion": "2026-09-25T02:55:51Z",
@@ -756,12 +758,14 @@
       "Temple of Plenty": "2026-09-25T02:55:51Z",
       "Temple of the False God": "2026-09-25T02:55:51Z",
       "Terramorphic Expanse": "2026-09-25T02:55:51Z",
+      "The Battle for Hearts and Minds": "2026-10-09T03:44:01Z",
       "The Honmoon Reawakened": "2026-09-25T02:55:51Z",
       "Thoughtcutter Agent": "2026-09-25T02:55:51Z",
       "Through the Breach": "2026-09-25T02:55:51Z",
       "Thunderous Wrath": "2026-09-25T02:55:51Z",
       "Tranquil Landscape": "2026-09-25T02:55:51Z",
       "Treasure": "2026-09-25T02:55:51Z",
+      "Trepanation Blade": "2026-10-09T03:44:01Z",
       "Truth and Power": "2026-09-25T02:55:51Z",
       "Turbulent Steppe": "2026-09-25T02:55:51Z",
       "Twiddle": "2026-09-25T02:55:51Z",
@@ -919,13 +923,13 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-10-08T21:40:48Z"
+      "updated": "2026-10-09T03:44:38Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-10-06T19:22:07Z"
+      "updated": "2026-10-09T03:44:01Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -944,6 +948,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-10-08T21:39:49Z"
+    "updated": "2026-10-08T21:40:38Z"
   }
 }

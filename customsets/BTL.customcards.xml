@@ -453,26 +453,6 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Irena "Firefly" Vanguard</name>
-            <text>Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
-Vehicles crewed by this creature this turn have vigilance and haste.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Pilot</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/fd84pxVC/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/GQsc25fV/Irena-Firefly-Vanguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Fighter</name>
             <text>Flying
 Crew 1</text>
@@ -572,7 +552,7 @@ Crew 1</text>
             </card>
         <card>
             <name>Martyr Siegebreaker</name>
-            <text>When this Vehicle enters, create a Munitions token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to any target.") 
+            <text>When this Vehicle enters, create an Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") 
 {2}, Sacrifice an artifact or creature: This Vehicle becomes an artifact creature and gains menace until end of turn.
 Crew 2</text>
             <prop>
@@ -588,7 +568,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/6J7640YQ/Martyr-Siegebreaker-png.png" picurl_large="https://i.ibb.co/zHTKSVsd/Martyr-Siegebreaker-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/HDqsF1NC/Martyr-Siegebreaker-png.png" picurl_large="https://i.ibb.co/6RFxnVv8/Martyr-Siegebreaker-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3160,6 +3140,26 @@ Whenever you attack with three or more Soldiers, populate. The token enters tapp
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Irena "Firefly" Vanguard</name>
+            <text>Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Vehicles crewed by this creature this turn have vigilance and haste.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Pilot</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/fd84pxVC/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/GQsc25fV/Irena-Firefly-Vanguard-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
             <name>Order a Counterattack</name>
             <text>Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.
 •   Destroy target creature.
@@ -3462,7 +3462,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Q7KDg8M1/EF-14-Spotlight-AWACS-png.png" picurl_large="https://i.ibb.co/hxmY6XVt/EF-14-Spotlight-AWACS-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/CKmhsZwR/EF-14-Spotlight-AWACS-png.png" picurl_large="https://i.ibb.co/KxbFzk5T/EF-14-Spotlight-AWACS-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
