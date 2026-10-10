@@ -1705,7 +1705,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/kgHGxkdV/Coalition-Buildup-png.png"
+              "large": "https://i.ibb.co/VpmLWv3p/Coalition-Buildup-png.png"
             },
             "loyalty": "4",
             "name": "Coalition Buildup",
@@ -1714,7 +1714,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/s9ZT46HS/Coalition-Blitz-png.png"
+              "large": "https://i.ibb.co/vtqYrL7/Coalition-Blitz-png.png"
             },
             "name": "Coalition Blitz",
             "oracle_text": "Attacking creatures you control get +1/+0.",
@@ -2130,7 +2130,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/847m2464/Katerinsburgh-s-Repentance-png.png"
+              "large": "https://i.ibb.co/HTwdQny3/Katerinsburgh-s-Repentance-png.png"
             },
             "name": "Katerinsburgh's Repentance",
             "oracle_text": "Destroy target artifact or land. Its controller creates a Wastes token.  (It's a basic land with \"{t}: Add {c}.\") ",
@@ -2173,7 +2173,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/s9TRC2Cp/Cybernetic-Sappers-png.png"
+          "large": "https://i.ibb.co/8vs7rbS/Cybernetic-Sappers-png.png"
         },
         "name": "Cybernetic Sappers",
         "oracle_text": "This creature enters with X charge counters on it.\nRemove a charge counter from this creature: Remove up to two counters from target permanent.",
@@ -2934,7 +2934,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/JW3mZRGR/Expendable-Sniper-png.png"
+          "large": "https://i.ibb.co/35gCT0VK/Expendable-Sniper-png.png"
         },
         "name": "Expendable Sniper",
         "oracle_text": "{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.",
@@ -3348,7 +3348,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XGZjNqy/Fund-the-Front-png.png"
+          "large": "https://i.ibb.co/jnWhPCz/Fund-the-Front-png.png"
         },
         "name": "Fund the Front",
         "oracle_text": "Create a 3/3 green Soldier creature token and a Treasure token.  (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\") ",
@@ -5596,7 +5596,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/S1FKGxh/Maneuver-Specialists-png.png"
+          "large": "https://i.ibb.co/RTfRP2Ly/Maneuver-Specialists-png.png"
         },
         "name": "Maneuver Specialists",
         "oracle_text": "This creature gets +2/+0 as long as you've activated an ability that isn't a mana ability this turn.\n{8}: This creature gains first strike until end of turn.",
@@ -5712,7 +5712,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/jZHdyS1C/Mechanized-Pioneers-png.png"
+          "large": "https://i.ibb.co/67R763Gn/Mechanized-Pioneers-png.png"
         },
         "name": "Mechanized Pioneers",
         "oracle_text": "Kicker {2}{g}  (You may pay an additional {2}{g} as you cast this spell.)  \nTrample\nWhen this creature enters, you gain 4 life. If it was kicked, put four +1/+1 counters on it and it's a Robot artifact creature in addition to its other types.",
@@ -6565,7 +6565,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/60KSdtnn/Oasis-Reclaimer-png.png"
+          "large": "https://i.ibb.co/PsmYW2FW/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
         "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.\nCrew 2",
@@ -7385,7 +7385,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/svwghKvZ/R-D-I-Main-Battle-Tank-png.png"
+          "large": "https://i.ibb.co/hFjKgtWz/R-D-I-Main-Battle-Tank-png.png"
         },
         "name": "R.D.I. Main Battle Tank",
         "oracle_text": "Haste\nWartime Measures - When you cast this spell, copy it if you control a battle or have defeated a battle this game. (The copy becomes a token.)\nCrew 1",
@@ -10220,7 +10220,7 @@
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/qYM6p1P3/From-Rubble-png.png"
+              "large": "https://i.ibb.co/kV22pQkN/From-Rubble-png.png"
             },
             "name": "From Rubble",
             "oracle_text": "Proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)",
