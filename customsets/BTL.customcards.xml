@@ -227,7 +227,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Nd079SQ7/Starstruck-Rookies-png.png" picurl_large="https://i.ibb.co/yczV6SGV/Starstruck-Rookies-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/chMWZY61/Starstruck-Rookies-png.png" picurl_large="https://i.ibb.co/b5q4CbsP/Starstruck-Rookies-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -311,8 +311,8 @@ Crew 1</text>
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Home-Base Hangar Bay</name>
-            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+            <name>Home Base Hangar Bay</name>
+            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you cast a battle spell this game, you may choose both.
  • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
  • Populate.  (Create a token that's a copy of a creature token you control.) </text>
             <prop>
@@ -328,12 +328,12 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/qL9ZpwKn/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/nqfWjS90/Home-Base-Hangar-Bay-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/WpY1r1D0/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/n85SXS3B/Home-Base-Hangar-Bay-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Home-Base Hangar Bay</name>
-            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you control a battle or have defeated a battle this game, you may choose both.
+            <name>Home Base Hangar Bay</name>
+            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you cast a battle spell this game, you may choose both.
  • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
  • Populate.  (Create a token that's a copy of a creature token you control.) </text>
             <prop>
@@ -349,7 +349,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/qL9ZpwKn/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/nqfWjS90/Home-Base-Hangar-Bay-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/WpY1r1D0/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/n85SXS3B/Home-Base-Hangar-Bay-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -568,7 +568,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/HDqsF1NC/Martyr-Siegebreaker-png.png" picurl_large="https://i.ibb.co/6RFxnVv8/Martyr-Siegebreaker-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/7dc2vj0R/Martyr-Siegebreaker-png.png" picurl_large="https://i.ibb.co/mVs6JbPX/Martyr-Siegebreaker-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1749,7 +1749,7 @@ Whenever this creature crews a Vehicle during your main phase, double all damage
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/G3JgX7Qd/Crack-Shot-Ace-png.png" picurl_large="https://i.ibb.co/QjcsZ9vJ/Crack-Shot-Ace-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/9kyzP6BH/Crack-Shot-Ace-png.png" picurl_large="https://i.ibb.co/hJ2h0brF/Crack-Shot-Ace-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1878,21 +1878,22 @@ Crew 2</text>
         <card>
             <name>The Assembly</name>
             <text>Hexproof, trample
-Crew 8</text>
+Crew 8
+Vehiclecycling {3}</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{5}{gu}{gu}{gu}</manacost>
+                <manacost>{5}{GU}{GU}{GU}</manacost>
                 <cmc>8</cmc>
                 <colors>UG</colors>
                 <coloridentity>UG</coloridentity>
                 <maintype>Artifact</maintype>
-                <type>Legendary Artifact - Vehicle</type>
-                <pt>{fontcolorwhite}16/16</pt>
+                <type>Artifact - Vehicle</type>
+                <pt>16/16</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/jk94FJmb/The-Assembly-png.png" picurl_large="https://i.ibb.co/VY0B8wRJ/The-Assembly-png.png">BTL</set>
+            <set rarity="Rare" picurl="https://i.ibb.co/JRDRZCxH/The-Assembly-png.png" picurl_large="https://i.ibb.co/C5R5LWJQ/The-Assembly-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2137,22 +2138,21 @@ Whenever this creature crews a Vehicle, that Vehicle gains mobilize 1 until end 
             </card>
         <card>
             <name>The Massive Fella</name>
-            <text>Hexproof
-Crew 8</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{5}{GU}{GU}{GU}</manacost>
-                <cmc>8</cmc>
-                <colors>UG</colors>
-                <coloridentity>UG</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>16/16</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/3Y9Ysbk3/The-Massive-Fella-png.png" picurl_large="https://i.ibb.co/Cs3styWc/The-Massive-Fella-png.png">BTL</set>
+            <set rarity="NA" picurl="https://i.ibb.co/3Y9Ysbk3/The-Massive-Fella-png.png" picurl_large="https://i.ibb.co/Cs3styWc/The-Massive-Fella-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2404,7 +2404,7 @@ When this Siege enters, creatures you control get +1/+0 and gain haste until end
             </card>
         <card>
             <name>EA-28 "Howler" Screening Jet</name>
-            <text>Flying
+            <text>Flying, vigilance
 {2}{U}: Target creature or Vehicle can't be blocked this turn.
 Crew 1</text>
             <prop>
@@ -2420,7 +2420,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/n8z1mdkB/EA-28-Howler-Screening-Jet-png.png" picurl_large="https://i.ibb.co/gFzW9qgd/EA-28-Howler-Screening-Jet-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/vCq5bmnt/EA-28-Howler-Screening-Jet-png.png" picurl_large="https://i.ibb.co/6cwh2bCd/EA-28-Howler-Screening-Jet-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2719,8 +2719,8 @@ Crew 3</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{5}{G}{U}</manacost>
-                <cmc>7</cmc>
+                <manacost>{4}{G}{U}</manacost>
+                <cmc>6</cmc>
                 <colors>UG</colors>
                 <coloridentity>UG</coloridentity>
                 <maintype>Artifact</maintype>
@@ -2729,7 +2729,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Q74LLXqn/U-C-I-T-Command-Cruiser-png.png" picurl_large="https://i.ibb.co/BH9bbw7j/U-C-I-T-Command-Cruiser-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/nqfzJ2ys/U-C-I-T-Command-Cruiser-png.png" picurl_large="https://i.ibb.co/V0D24yGW/U-C-I-T-Command-Cruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3027,7 +3027,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/qF7Y2D8D/Leonin-Logistics-Chopper-png.png" picurl_large="https://i.ibb.co/3Y4mPTbT/Leonin-Logistics-Chopper-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/3YNs3kxV/Leonin-Logistics-Chopper-png.png" picurl_large="https://i.ibb.co/mFqBjSnd/Leonin-Logistics-Chopper-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3150,7 +3150,7 @@ Whenever you attack with three or more Soldiers, populate. The token enters tapp
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/5ggWXnbr/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/9kk9mVQb/Coalition-Field-Marshal-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/wF3tKCLC/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/4n9kjMfM/Coalition-Field-Marshal-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3170,7 +3170,7 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/4wLFyDLQ/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/ZRrfswrZ/Irena-Firefly-Vanguard-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/ks4k5xc8/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/8LrTN085/Irena-Firefly-Vanguard-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3353,7 +3353,7 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Common" picurl="https://i.ibb.co/YTJ6vY0h/Sabotage-of-Narroway-Bridge-png.png" picurl_large="https://i.ibb.co/n84ThZPj/Sabotage-of-Narroway-Bridge-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/j9n5qW52/Sabotage-of-Narroway-Bridge-png.png" picurl_large="https://i.ibb.co/Y4HWJyWM/Sabotage-of-Narroway-Bridge-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Accomplished Saboteur</related>
             </card>
@@ -3684,8 +3684,7 @@ Crew 2</text>
             </card>
         <card>
             <name>Careful Captain</name>
-            <text>Indestructible
-Whenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.</text>
+            <text>Whenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3695,11 +3694,11 @@ Whenever this creature crews a Vehicle during your main phase, put a +1/+1 count
                 <coloridentity>W</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Creature - Human Pilot</type>
-                <pt>2/2</pt>
+                <pt>2/5</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/zHnhGZPF/Careful-Captain-png.png" picurl_large="https://i.ibb.co/Z1L6WxcS/Careful-Captain-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Kpv3KDzy/Careful-Captain-png.png" picurl_large="https://i.ibb.co/Mx03Bf5N/Careful-Captain-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>

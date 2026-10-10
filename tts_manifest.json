@@ -62,7 +62,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/qF7Y2D8D/Leonin-Logistics-Chopper-png.png"
+          "large": "https://i.ibb.co/3YNs3kxV/Leonin-Logistics-Chopper-png.png"
         },
         "name": "\"Leonin\" Logistics Chopper",
         "oracle_text": "Flying\nWhenever one or more Vehicles or Soldiers you control deal combat damage to a player or battle, proliferate.  (Choose any number of permanents and/or players, then give each another counter of each kind already there.) \nCrew 1",
@@ -1297,12 +1297,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/zHnhGZPF/Careful-Captain-png.png"
+          "large": "https://i.ibb.co/Kpv3KDzy/Careful-Captain-png.png"
         },
         "name": "Careful Captain",
-        "oracle_text": "Indestructible\nWhenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.",
+        "oracle_text": "Whenever this creature crews a Vehicle during your main phase, put a +1/+1 counter on that Vehicle. Vehicles you control gain indestructible until end of turn.",
         "power": "2",
-        "toughness": "2",
+        "toughness": "5",
         "type_line": "Creature — Human Pilot"
       }
     }
@@ -1731,7 +1731,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/5ggWXnbr/Coalition-Field-Marshal-png.png"
+          "large": "https://i.ibb.co/wF3tKCLC/Coalition-Field-Marshal-png.png"
         },
         "name": "Coalition Field Marshal",
         "oracle_text": "When this creature enters, create a 2/2 red Soldier creature token.\nWhenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
@@ -2065,7 +2065,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/G3JgX7Qd/Crack-Shot-Ace-png.png"
+          "large": "https://i.ibb.co/9kyzP6BH/Crack-Shot-Ace-png.png"
         },
         "name": "Crack Shot Ace",
         "oracle_text": "First strike\nWhenever this creature crews a Vehicle during your main phase, double all damage that Vehicle would deal this turn.",
@@ -2663,10 +2663,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/n8z1mdkB/EA-28-Howler-Screening-Jet-png.png"
+          "large": "https://i.ibb.co/vCq5bmnt/EA-28-Howler-Screening-Jet-png.png"
         },
         "name": "EA-28 \"Howler\" Screening Jet",
-        "oracle_text": "Flying\n{2}{U}: Target creature or Vehicle can't be blocked this turn.\nCrew 1",
+        "oracle_text": "Flying, vigilance\n{2}{U}: Target creature or Vehicle can't be blocked this turn.\nCrew 1",
         "power": "3",
         "toughness": "1",
         "type_line": "Artifact — Vehicle"
@@ -4106,10 +4106,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XkGD4myY/Home-Base-Hangar-Bay-png.png"
+          "large": "https://i.ibb.co/WpY1r1D0/Home-Base-Hangar-Bay-png.png"
         },
         "name": "Home Base Hangar Bay",
-        "oracle_text": "Wartime Measures -  {1}{r}, {t}, Sacrifice an artifact: Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) \n • Populate.  (Create a token that's a copy of a creature token you control.) ",
+        "oracle_text": "Wartime Measures -  {2}{r}, {t}: Choose one. If you cast a battle spell this game, you may choose both.\n • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) \n • Populate.  (Create a token that's a copy of a creature token you control.) ",
         "type_line": "Artifact"
       }
     }
@@ -4646,7 +4646,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/4wLFyDLQ/Irena-Firefly-Vanguard-png.png"
+          "large": "https://i.ibb.co/ks4k5xc8/Irena-Firefly-Vanguard-png.png"
         },
         "name": "Irena \"Firefly\" Vanguard",
         "oracle_text": "Activated abilities of creatures and Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
@@ -5667,7 +5667,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/HDqsF1NC/Martyr-Siegebreaker-png.png"
+          "large": "https://i.ibb.co/7dc2vj0R/Martyr-Siegebreaker-png.png"
         },
         "name": "Martyr Siegebreaker",
         "oracle_text": "When this Vehicle enters, create an Ordnance token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") \n{2}, Sacrifice an artifact or creature: This Vehicle becomes an artifact creature and gains menace until end of turn.\nCrew 2",
@@ -8210,7 +8210,7 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/YTJ6vY0h/Sabotage-of-Narroway-Bridge-png.png"
+              "large": "https://i.ibb.co/j9n5qW52/Sabotage-of-Narroway-Bridge-png.png"
             },
             "loyalty": "3",
             "name": "Sabotage of Narroway Bridge",
@@ -9293,7 +9293,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Nd079SQ7/Starstruck-Rookies-png.png"
+          "large": "https://i.ibb.co/chMWZY61/Starstruck-Rookies-png.png"
         },
         "name": "Starstruck Rookies",
         "oracle_text": "This creature and Vehicles it crewed this turn have +X/+X, where X is the greatest power among Vehicle creatures you control",
@@ -9822,13 +9822,13 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/jk94FJmb/The-Assembly-png.png"
+          "large": "https://i.ibb.co/JRDRZCxH/The-Assembly-png.png"
         },
         "name": "The Assembly",
-        "oracle_text": "Hexproof, trample\nCrew 8",
-        "power": "{fontcolorwhite}16",
+        "oracle_text": "Hexproof, trample\nCrew 8\nVehiclecycling {3}",
+        "power": "16",
         "toughness": "16",
-        "type_line": "Legendary Artifact — Vehicle"
+        "type_line": "Artifact — Vehicle"
       }
     }
   },
@@ -10024,10 +10024,8 @@
           "large": "https://i.ibb.co/3Y9Ysbk3/The-Massive-Fella-png.png"
         },
         "name": "The Massive Fella",
-        "oracle_text": "Hexproof\nCrew 8",
-        "power": "16",
-        "toughness": "16",
-        "type_line": "Artifact — Vehicle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -10782,7 +10780,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Q74LLXqn/U-C-I-T-Command-Cruiser-png.png"
+          "large": "https://i.ibb.co/nqfzJ2ys/U-C-I-T-Command-Cruiser-png.png"
         },
         "name": "U.C.I.T. Command Cruiser",
         "oracle_text": "Reach, trample\nEach other Vehicle you control gets +2/+2 and has reach and trample if 3 or more power was used to crew it this turn.\nCrew 3",
