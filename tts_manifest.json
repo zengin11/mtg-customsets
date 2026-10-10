@@ -77,10 +77,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/35502m9v/Rampart-APC-Company-png.png"
+          "large": "https://i.ibb.co/LdB47g9r/Rampart-APC-Company-png.png"
         },
         "name": "\"Rampart\" APC Company",
-        "oracle_text": "When this Vehicle enters, create two 1/1 red Soldier creature tokens.\nWartime Measures —\nCrew 2",
+        "oracle_text": "When this Vehicle enters, create two 1/1 white Soldier creature tokens.\nWartime Measures —\nCrew 2",
         "power": "4",
         "toughness": "4",
         "type_line": "Artifact — Vehicle"
@@ -133,10 +133,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/dYpq468/A-44-Honker-Strike-Fighter-png.png"
+          "large": "https://i.ibb.co/h1B6vqqG/A-44-Honker-Strike-Fighter-png.png"
         },
         "name": "A-44 \"Honker\" Strike Fighter",
-        "oracle_text": "Flying, trample\n{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.\nCrew 1",
+        "oracle_text": "Flying, trample\n{2}{R}: This Vehicle deals 1 damage to target player or battle.\nCrew 1",
         "power": "4",
         "toughness": "2",
         "type_line": "Artifact — Vehicle"
@@ -163,7 +163,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/SDPvKT7S/Absent-Without-Leave-png.png"
+          "large": "https://i.ibb.co/fzKDxT3m/Absent-Without-Leave-png.png"
         },
         "name": "Absent Without Leave",
         "oracle_text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nUp to two target creatures can't block or crew Vehicles this turn.",
@@ -189,7 +189,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/s9QwYhQq/AC-30-Booker-Recon-Gunship-png.png"
+          "large": "https://i.ibb.co/20K2Tbn8/AC-30-Booker-Recon-Gunship-png.png"
         },
         "name": "AC.30 Booker Recon Gunship",
         "oracle_text": "Flying\nWhen this Vehicle enters, draw three cards.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
@@ -284,11 +284,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/mVQ4Qqgt/AH-960-Booker-Retrofit-png.png"
+          "large": "https://i.ibb.co/4Z3h4Ry3/AH-960-Booker-Retrofit-png.png"
         },
         "name": "AH.960 Booker Retrofit",
         "oracle_text": "Flying, deathtouch\nWhen this Vehicle dies, put a +1/+1 counter on target creature or Vehicle you control.\nCrew 1",
-        "power": "2",
+        "power": "1",
         "toughness": "1",
         "type_line": "Artifact — Vehicle"
       }
@@ -355,10 +355,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/0V2rPhfs/Alert-5-Airman-png.png"
+          "large": "https://i.ibb.co/tM5hh2nf/Alert-5-Airman-png.png"
         },
         "name": "Alert-5 Airman",
-        "oracle_text": "Flash\nAce 2 (This creature crews Vehicles as though its power were 2 greater.)\nWhen this creature enters, untap target Vehicle you control.",
+        "oracle_text": "Flash\nAce 2 (This creature crews Vehicles as though its power were 2 greater.)\nWhen this creature enters, untap target creature or Vehicle you control.",
         "power": "1",
         "toughness": "1",
         "type_line": "Creature — Human Pilot"
@@ -413,7 +413,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/DHRL5jqW/Amphibious-Infiltrator-png.png"
+          "large": "https://i.ibb.co/hR9J9PCt/Amphibious-Infiltrator-png.png"
         },
         "name": "Amphibious Infiltrator",
         "oracle_text": "This creature can't be blocked.\nWhenever this creature crews a Vehicle, that Vehicle can't be blocked this turn.",
@@ -430,11 +430,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/2399nDCR/Anders-Response-png.png"
+              "large": "https://i.ibb.co/q6239VT/Anders-Response-png.png"
             },
             "loyalty": "5",
             "name": "Anders' Response",
-            "oracle_text": "When this Siege enters, target creature you control gets +2/+2 and gains flying until end of turn.",
+            "oracle_text": "When this Siege enters, target creature or Vehicle you control gets +2/+2 and gains flying until end of turn.",
             "type_line": "Battle — Siege"
           },
           {
@@ -456,10 +456,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/4wJRXTnL/Angel-s-Deliverance-Airlifter-png.png"
+          "large": "https://i.ibb.co/p6wYNPf7/Angel-s-Deliverance-Airlifter-png.png"
         },
         "name": "Angel's Deliverance Airlifter",
-        "oracle_text": "Flying, vigilance\nWhen this Vehicle enters, create three 1/1 red Soldier creature tokens.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
+        "oracle_text": "Flying, vigilance\nWhen this Vehicle enters, create three 1/1 white Soldier creature tokens.\nCrew 3\nBasic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) ",
         "power": "3",
         "toughness": "4",
         "type_line": "Artifact — Vehicle"
@@ -617,10 +617,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/DgHwR1vC/Arctic-Warfare-Veterans-png.png"
+          "large": "https://i.ibb.co/bj22Rwm2/Arctic-Warfare-Veterans-png.png"
         },
         "name": "Arctic Warfare Veterans",
-        "oracle_text": "Vigilance\nWhen this creature enters, tap target creature an opponent controls and put a stun counter on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.) ",
+        "oracle_text": "Vigilance\nWhen this creature enters, tap target creature or Vehicle an opponent controls and put a stun counter on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.) ",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Soldier"
@@ -663,19 +663,6 @@
         "name": "Ascendant Finale",
         "oracle_text": "Creatures you control get +1/+0 and gain indestructible until end of turn.\n Reverberate -  If you revealed one or more cards this turn, those creatures also gain flying until end of turn.\nMiracle {w}  (You may reveal this card as you draw it if it's the first card you drew this turn. If you do, you may cast it for its miracle cost.) ",
         "type_line": "Instant — Arcane"
-      }
-    }
-  },
-  "assembly lab": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/dsTwNMpS/Assembly-Lab-png.png"
-        },
-        "name": "Assembly Lab",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -1325,10 +1312,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/d4dGMyDs/Carrier-Crew-Chief-png.png"
+          "large": "https://i.ibb.co/tMYfNnmC/Carrier-Crew-Chief-png.png"
         },
         "name": "Carrier Crew Chief",
-        "oracle_text": "{2}{W}, {t}: Put a +1/+1 counter or a charge counter on target permanent. Untap this creature if that permanent has flying. Activate only as a sorcery.",
+        "oracle_text": "When this creature enters, creatures and Vehicles you control with flying get +2/+0 until end of turn. Other creatures and Vehicles you control gain flying until end of turn.",
         "power": "3",
         "toughness": "3",
         "type_line": "Creature — Human Artificer Advisor"
@@ -1478,6 +1465,36 @@
         "name": "Chaos Warp",
         "oracle_text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library.  If it's a permanent card, they put it onto the battlefield.",
         "type_line": "Instant"
+      }
+    }
+  },
+  "charge of the heavy brigade": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/5WQSn4VH/Charge-of-the-Heavy-Brigade-png.png"
+            },
+            "loyalty": "3",
+            "name": "Charge of the Heavy Brigade",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, create a 2/2 red Soldier creature token. It gains haste until end of turn.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/SXLbWLc5/Hero-of-the-Heavy-Brigade-png.png"
+            },
+            "name": "Hero of the Heavy Brigade",
+            "oracle_text": "Whenever one or more creatures you control deal combat damage to a player or battle, populate.",
+            "power": "2",
+            "toughness": "3",
+            "type_line": "Creature — Human Soldier"
+          }
+        ],
+        "layout": "transform",
+        "name": "Charge of the Heavy Brigade"
       }
     }
   },
@@ -1692,7 +1709,7 @@
             },
             "loyalty": "4",
             "name": "Coalition Buildup",
-            "oracle_text": "When this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) ",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) ",
             "type_line": "Battle — Siege"
           },
           {
@@ -1714,10 +1731,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/FqjJk9f1/Coalition-Field-Marshal-png.png"
+          "large": "https://i.ibb.co/5ggWXnbr/Coalition-Field-Marshal-png.png"
         },
         "name": "Coalition Field Marshal",
-        "oracle_text": "When this creature enters, create a 2/2 white Soldier creature token.\nWhenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
+        "oracle_text": "When this creature enters, create a 2/2 red Soldier creature token.\nWhenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) ",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Soldier Advisor"
@@ -1929,7 +1946,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/FkbB7VmF/Confessor-General-png.png"
+          "large": "https://i.ibb.co/k2pKscHN/Confessor-General-png.png"
         },
         "name": "Confessor-General",
         "oracle_text": "Creates Munitions\nWhenever a permanent you control leaves the battlefield, [do something with counters]",
@@ -1963,19 +1980,6 @@
       }
     }
   },
-  "construction lab": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/Pz9W1FTd/Construction-Lab-png.png"
-        },
-        "name": "Construction Lab",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "consuming aberration": {
     "default": "KPDH",
     "printings": {
@@ -2001,21 +2005,6 @@
         "name": "Cooking Campsite",
         "oracle_text": "{T}: Add {W}.\n{3}, {T}, Sacrifice an artifact: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.",
         "type_line": "Land"
-      }
-    }
-  },
-  "coolname, precision vanguard": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "image_uris": {
-          "large": "https://i.ibb.co/MbszSrM/Coolname-Precision-Vanguard-png.png"
-        },
-        "name": "Coolname, Precision Vanguard",
-        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
-        "power": "3",
-        "toughness": "1",
-        "type_line": "Legendary Creature — Human Pilot"
       }
     }
   },
@@ -2089,10 +2078,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/wh82ZRzQ/Crafty-Cadet-png.png"
+          "large": "https://i.ibb.co/4RzrZKHc/Crafty-Cadet-png.png"
         },
         "name": "Crafty Cadet",
-        "oracle_text": "Arms Race — Whenever this creature crews a Vehicle, draw a card. Then if any opponent controls more artifacts than you, discard a card.",
+        "oracle_text": "Arms Race — Whenever this creature becomes tapped, draw a card. Then if any opponent controls more artifacts than you, discard a card.",
         "power": "2",
         "toughness": "2",
         "type_line": "Creature — Human Pilot"
@@ -2132,11 +2121,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/5WDkLVbj/Crusaders-Air-Raids-png.png"
+              "large": "https://i.ibb.co/BVJ94mpp/Crusaders-Air-Raids-png.png"
             },
             "loyalty": "4",
             "name": "Crusaders' Air Raids",
-            "oracle_text": "When this Siege enters, it deals 3 damage to any other target.",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, it deals 3 damage to any other target.",
             "type_line": "Battle — Siege"
           },
           {
@@ -2221,6 +2210,36 @@
         "power": "1",
         "toughness": "1",
         "type_line": "Creature — Merfolk Wizard"
+      }
+    }
+  },
+  "dancing with the angels": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/XZPK3PyX/Dancing-with-the-Angels-png.png"
+            },
+            "loyalty": "3",
+            "name": "Dancing with the Angels",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nFlash\nWhen this Siege enters, target creature gains double strike until end of turn.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/hFHZPbty/Ekharan-Holdout-png.png"
+            },
+            "name": "Ekharan Holdout",
+            "oracle_text": "Whenever this creature is dealt damage, it deals that much damage to any target.",
+            "power": "3",
+            "toughness": "3",
+            "type_line": "Creature — Human Soldier"
+          }
+        ],
+        "layout": "transform",
+        "name": "Dancing with the Angels"
       }
     }
   },
@@ -2614,10 +2633,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/PvF7fQPC/Drill-Instructor-png.png"
+          "large": "https://i.ibb.co/WpxpLPLs/Drill-Instructor-png.png"
         },
         "name": "Drill Instructor",
-        "oracle_text": "When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)\n{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.",
+        "oracle_text": "When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)\n{R}, Sacrifice this creature: Until end of turn, creatures you control get +1/+0 and have haste.",
         "power": "1",
         "toughness": "2",
         "type_line": "Creature — Human Soldier Advisor"
@@ -2644,10 +2663,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/ksSQ62ZZ/EA-28-Howler-Screening-Jet-png.png"
+          "large": "https://i.ibb.co/n8z1mdkB/EA-28-Howler-Screening-Jet-png.png"
         },
         "name": "EA-28 \"Howler\" Screening Jet",
-        "oracle_text": "Flying\n{2}{U}: Target creature can't be blocked this turn.\nCrew 1",
+        "oracle_text": "Flying\n{2}{U}: Target creature or Vehicle can't be blocked this turn.\nCrew 1",
         "power": "3",
         "toughness": "1",
         "type_line": "Artifact — Vehicle"
@@ -3303,10 +3322,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png"
+          "large": "https://i.ibb.co/KRc21Vq/Frontline-Reinforcements-png.png"
         },
         "name": "Frontline Reinforcements",
-        "oracle_text": "Create a 1/1 red Soldier creature token and a 0/1 blue Pilot creature token with ace 2.  (It crews Vehicles as though its power were 2 greater).  \nPopulate.  (Create a token that's a copy of a creature token you control.) ",
+        "oracle_text": "Create a 1/1 white Soldier creature token and a 0/1 blue Pilot creature token with ace 2.  (It crews Vehicles as though its power were 2 greater).  \nPopulate.  (Create a token that's a copy of a creature token you control.) ",
         "type_line": "Sorcery"
       }
     }
@@ -3674,16 +3693,16 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/GvVY9KBK/Gunboat-Diplomacy-png.png"
+              "large": "https://i.ibb.co/wNm3WcM7/Gunboat-Diplomacy-png.png"
             },
             "loyalty": "4",
             "name": "Gunboat Diplomacy",
-            "oracle_text": "When this Siege enters, discard any number of cards, then draw that many cards.",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, discard any number of cards, then draw that many cards.",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/Q308v44G/Diplomatic-Victory-png.png"
+              "large": "https://i.ibb.co/yFhLfYHT/Diplomatic-Victory-png.png"
             },
             "name": "Diplomatic Victory",
             "oracle_text": "Gain control of target artifact with mana value X or less, where X is the number of Pilots and/or Vehicles you control.",
@@ -4113,10 +4132,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/WWDLhtMV/Home-Front-Supporter-png.png"
+          "large": "https://i.ibb.co/cKvDMyWD/Home-Front-Supporter-png.png"
         },
         "name": "Home-Front Supporter",
-        "oracle_text": "Attrition — At the beginning of your end step, put a +1/+1 counter on another target creature or Vehicle. If a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature as well.",
+        "oracle_text": "Attrition — At the beginning of your end step, put a +1/+1 counter on up to one other target creature or Vehicle. Then if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.",
         "power": "0",
         "toughness": "4",
         "type_line": "Creature — Human Citizen"
@@ -4627,10 +4646,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/fd84pxVC/Irena-Firefly-Vanguard-png.png"
+          "large": "https://i.ibb.co/4wLFyDLQ/Irena-Firefly-Vanguard-png.png"
         },
         "name": "Irena \"Firefly\" Vanguard",
-        "oracle_text": "Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
+        "oracle_text": "Activated abilities of creatures and Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.\nVehicles crewed by this creature this turn have vigilance and haste.",
         "power": "3",
         "toughness": "1",
         "type_line": "Legendary Creature — Human Pilot"
@@ -4916,6 +4935,36 @@
       }
     }
   },
+  "katerin's bay blockade": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/G4FPk0CM/Katerin-s-Bay-Blockade-png.png"
+            },
+            "loyalty": "4",
+            "name": "Katerin's Bay Blockade",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, put your choice of two charge counters or two +1/+1 counters on target permanent you control.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/cX8tgD7p/Anointed-Arrow-Destroyer-png.png"
+            },
+            "name": "Anointed Arrow Destroyer",
+            "oracle_text": "Lifelink\nWhen this artifact enters, redistribute any number of counters among artifacts and/or creatures you control.\nThis Vehicle gets +2/+0 for each charge counter on it.\nCrew 2",
+            "power": "2",
+            "toughness": "4",
+            "type_line": "Artifact — Vehicle"
+          }
+        ],
+        "layout": "transform",
+        "name": "Katerin's Bay Blockade"
+      }
+    }
+  },
   "kenjaku's edict": {
     "default": "JJK",
     "printings": {
@@ -5089,12 +5138,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/vxbkRQ1j/Kraken-Missile-Cruiser-png.png"
+          "large": "https://i.ibb.co/604KdH9Z/Kraken-Missile-Cruiser-png.png"
         },
         "name": "Kraken Missile Cruiser",
         "oracle_text": "When this Vehicle enters, destroy up to one target artifact or enchantment.\nCrew 3",
-        "power": "7",
-        "toughness": "7",
+        "power": "6",
+        "toughness": "6",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -5275,7 +5324,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gM2Jgc7N/Logistics-Truck-png.png"
+          "large": "https://i.ibb.co/Vp9d7kSm/Logistics-Truck-png.png"
         },
         "name": "Logistics Truck",
         "oracle_text": "{t}: Add one mana of any color.\n{t}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.\nCrew 1",
@@ -6591,12 +6640,40 @@
       }
     }
   },
+  "operation airmail": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/VckX73GJ/Operation-Airmail-png.png"
+            },
+            "loyalty": "2",
+            "name": "Operation Airmail",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, put a flying counter on target creature or Vehicle you control.",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/xKL7FZGB/Preening-the-Wings-png.png"
+            },
+            "name": "Preening the Wings",
+            "oracle_text": "Put a +1/+1 counter on each creature and/or Vehicle you control with flying.",
+            "type_line": "Sorcery"
+          }
+        ],
+        "layout": "transform",
+        "name": "Operation Airmail"
+      }
+    }
+  },
   "operation grindstone": {
     "default": "BTL",
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8D8JvMF2/Operation-Grindstone-png.png"
+          "large": "https://i.ibb.co/pS3k51Y/Operation-Grindstone-png.png"
         },
         "loyalty": "4",
         "name": "Operation Grindstone",
@@ -6664,7 +6741,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/pB6N9cw6/Order-an-Air-Defense-png.png"
+          "large": "https://i.ibb.co/Nd6m094x/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature or Vehicle with flying.\n•   Populate  (Create a token that's a copy of a creature token you control.) ",
@@ -6677,7 +6754,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/SX1SZ3FJ/Order-an-Ambush-png.png"
+          "large": "https://i.ibb.co/Lzb1QkNF/Order-an-Ambush-png.png"
         },
         "name": "Order an Ambush",
         "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target creature with power 4 or greater.\n• Put a +1/+1 counter on each of up to two target creatures or Vehicles.",
@@ -7068,10 +7145,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/spPwJGfG/Preserver-of-the-Penitent-png.png"
+          "large": "https://i.ibb.co/B2CfbJpB/Preserver-of-the-Penitent-png.png"
         },
         "name": "Preserver of the Penitent",
-        "oracle_text": "Lifelink\n{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle.\nCrew 2",
+        "oracle_text": "{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle. You gain 1 life. Activate only as a sorcery.\nCrew 2",
         "power": "2",
         "toughness": "3",
         "type_line": "Artifact — Vehicle"
@@ -7293,10 +7370,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/sdgt4rML/R-D-I-Armored-Car-png.png"
+          "large": "https://i.ibb.co/N2rK0b6K/R-D-I-Armored-Car-png.png"
         },
         "name": "R.D.I. Armored Car",
-        "oracle_text": "Haste\nWhen this Vehicle enters, create a 1/1 red Soldier creature token.\nCrew 1",
+        "oracle_text": "Haste\nWhen this Vehicle enters, create a 1/1 white Soldier creature token.\nCrew 1",
         "power": "2",
         "toughness": "1",
         "type_line": "Artifact — Vehicle"
@@ -8133,11 +8210,11 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/Zz0d3cPc/Sabotage-of-Narroway-Bridge-png.png"
+              "large": "https://i.ibb.co/YTJ6vY0h/Sabotage-of-Narroway-Bridge-png.png"
             },
             "loyalty": "3",
             "name": "Sabotage of Narroway Bridge",
-            "oracle_text": "When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+            "oracle_text": "When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature or Vehicle, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
             "type_line": "Battle — Siege"
           },
           {
@@ -8161,7 +8238,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gFDXgnz2/Sacrificial-Gambit-png.png"
+          "large": "https://i.ibb.co/23hMpTZ1/Sacrificial-Gambit-png.png"
         },
         "name": "Sacrificial Gambit",
         "oracle_text": "Each player sacrifices an artifact or creature. If you sacrificed a permanent with one or more counters on it this way, draw two cards.",
@@ -8595,184 +8672,6 @@
       }
     }
   },
-  "siege of uh01": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/tMB1x2q9/Siege-of-UH01-png.png"
-            },
-            "loyalty": "2",
-            "name": "Siege of UH01",
-            "oracle_text": "When this Siege enters, put a flying counter on target creature or Vehicle you control.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/WN4n4Wbd/Victory-of-UH01-png.png"
-            },
-            "name": "Victory of UH01",
-            "oracle_text": "Put a +1/+1 counter on each creature and/or Vehicle you control with flying.",
-            "type_line": "Sorcery"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH01"
-      }
-    }
-  },
-  "siege of uh03": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/4w8MPbcL/Siege-of-UH03-png.png"
-            },
-            "loyalty": "6",
-            "name": "Siege of UH03",
-            "oracle_text": "When this Siege enters, create two 0/1 blue Pilot creature tokens with ace 2. (They crew Vehicles as though their power were 2 greater.)",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/23LhVfHh/Victory-of-UH03-png.png"
-            },
-            "name": "Victory of UH03",
-            "oracle_text": "Trample, vigilance, ward {2}\nCrew 4",
-            "power": "6",
-            "toughness": "6",
-            "type_line": "Artifact — Vehicle"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH03"
-      }
-    }
-  },
-  "siege of uh05": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/TxfxtbsM/Siege-of-UH05-png.png"
-            },
-            "loyalty": "3",
-            "name": "Siege of UH05",
-            "oracle_text": "When this Siege enters, create a 2/2 white Soldier creature token. It gains haste until end of turn.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/CsVDVdqP/Victory-of-UH05-png.png"
-            },
-            "name": "Victory of UH05",
-            "oracle_text": "Whenever one or more creatures you control deal combat damage to a player or battle, populate.",
-            "power": "2",
-            "toughness": "3",
-            "type_line": "Creature — Human Soldier"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH05"
-      }
-    }
-  },
-  "siege of uh06": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/JWc47Qdx/Siege-of-UH06-png.png"
-            },
-            "loyalty": "4",
-            "name": "Siege of UH06",
-            "oracle_text": "When this Siege enters, choose one —\n• Put two charge counters on target permanent you control.\n• Put two +1/+1 counters on target permanent you control.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/1Y5YbdwR/Victory-of-UH06-png.png"
-            },
-            "name": "Victory of UH06",
-            "oracle_text": "Lifelink\nWhen this artifact enters, redistribute any number of counters among artifacts and creatures you control.\nThis Vehicle gets +2/+0 for each charge counter on it.\nCrew 2",
-            "power": "2",
-            "toughness": "4",
-            "type_line": "Artifact — Vehicle"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH06"
-      }
-    }
-  },
-  "siege of uh08": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/svRbM47C/Siege-of-UH08-png.png"
-            },
-            "loyalty": "3",
-            "name": "Siege of UH08",
-            "oracle_text": "Flash\nWhen this Siege enters, target creature gains double strike until end of turn.",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/TBZXZ8ww/Victory-of-UH08-png.png"
-            },
-            "name": "Victory of UH08",
-            "oracle_text": "Whenever this creature is dealt damage, it deals that much damage to any target.",
-            "power": "3",
-            "toughness": "3",
-            "type_line": "Creature — Human Soldier"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH08"
-      }
-    }
-  },
-  "siege of uh09": {
-    "default": "BTL",
-    "printings": {
-      "BTL": {
-        "card_faces": [
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/Vpxd8Hpm/Siege-of-UH09-png.png"
-            },
-            "loyalty": "3",
-            "name": "Siege of UH09",
-            "oracle_text": "When this Siege enters, create an Ordnance token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") ",
-            "type_line": "Battle — Siege"
-          },
-          {
-            "image_uris": {
-              "large": "https://i.ibb.co/mrmFwff6/Victory-of-UH09-png.png"
-            },
-            "name": "Victory of UH09",
-            "oracle_text": "Menace\nMobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",
-            "power": "1",
-            "toughness": "4",
-            "type_line": "Creature — Human Soldier"
-          }
-        ],
-        "layout": "transform",
-        "name": "Siege of UH09"
-      }
-    }
-  },
   "silco, undercity kingpin": {
     "default": "ARC",
     "printings": {
@@ -9153,7 +9052,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/6c01j6ng/Spear-Fleet-Marines-png.png"
+          "large": "https://i.ibb.co/Z1VjPmZj/Spear-Fleet-Marines-png.png"
         },
         "name": "Spear Fleet Marines",
         "oracle_text": "Haste\nWhen this creature enters, until end of turn, creatures you control have trample.",
@@ -9411,16 +9310,16 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/twKXQ0wD/Stealth-Strike-on-Zeeville-png.png"
+              "large": "https://i.ibb.co/jXtjW9j/Stealth-Strike-on-Zeeville-png.png"
             },
             "loyalty": "4",
             "name": "Stealth Strike on Zeeville",
-            "oracle_text": "When this Siege enters, surveil 3. \n Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, surveil 3. \n Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/HjcNsFY/XDC-3-Nesting-Doll-Drone-png.png"
+              "large": "https://i.ibb.co/RxVVC05/XDC-3-Nesting-Doll-Drone-png.png"
             },
             "name": "XDC-3 \"Nesting Doll\" Drone",
             "oracle_text": "Flying\nFabricate 3 (When this creature enters, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)",
@@ -9918,6 +9817,21 @@
       }
     }
   },
+  "the assembly": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/jk94FJmb/The-Assembly-png.png"
+        },
+        "name": "The Assembly",
+        "oracle_text": "Hexproof, trample\nCrew 8",
+        "power": "{fontcolorwhite}16",
+        "toughness": "16",
+        "type_line": "Legendary Artifact — Vehicle"
+      }
+    }
+  },
   "the aurora's wreckage": {
     "default": "SUB",
     "printings": {
@@ -10059,6 +9973,36 @@
       }
     }
   },
+  "the harbor heist": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/xS5PQ9xS/The-Harbor-Heist-png.png"
+            },
+            "loyalty": "6",
+            "name": "The Harbor Heist",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, create two 0/1 blue Pilot creature tokens with ace 2. (They crew Vehicles as though their power were 2 greater.)",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/N2RCcb2Y/S-L-I-Prototype-Lineship-png.png"
+            },
+            "name": "S.L.I. Prototype Lineship",
+            "oracle_text": "Trample, vigilance, ward {2}\nWhenever this Vehicle attacks, untap each creature that crewed it this turn.\nCrew 4",
+            "power": "6",
+            "toughness": "6",
+            "type_line": "Artifact — Vehicle"
+          }
+        ],
+        "layout": "transform",
+        "name": "The Harbor Heist"
+      }
+    }
+  },
   "the honmoon reawakened": {
     "default": "KPDH",
     "printings": {
@@ -10069,6 +10013,21 @@
         "name": "The Honmoon Reawakened",
         "oracle_text": "Ward {2}\nInstant and sorcery spells you cast are Arcane.\nWhenever you cast a spell, copy it for each spell spliced onto it. You may choose new targets for the copy.\nPerformers you control have flying.",
         "type_line": "Legendary Enchantment"
+      }
+    }
+  },
+  "the massive fella": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "image_uris": {
+          "large": "https://i.ibb.co/3Y9Ysbk3/The-Massive-Fella-png.png"
+        },
+        "name": "The Massive Fella",
+        "oracle_text": "Hexproof\nCrew 8",
+        "power": "16",
+        "toughness": "16",
+        "type_line": "Artifact — Vehicle"
       }
     }
   },
@@ -10127,6 +10086,36 @@
         "power": "*+1",
         "toughness": "*+1",
         "type_line": "Legendary Artifact — Vehicle"
+      }
+    }
+  },
+  "the purifying rain": {
+    "default": "BTL",
+    "printings": {
+      "BTL": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/FLBGLsQ6/The-Purifying-Rain-png.png"
+            },
+            "loyalty": "3",
+            "name": "The Purifying Rain",
+            "oracle_text": "(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) \nWhen this Siege enters, create an Ordnance token.  (It's an artifact with \"When this token leaves the battlefield, it deals 2 damage to target player or battle.\") ",
+            "type_line": "Battle — Siege"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/60HpPQ7y/Purifier-Captain-png.png"
+            },
+            "name": "Purifier-Captain",
+            "oracle_text": "Menace\nMobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",
+            "power": "1",
+            "toughness": "4",
+            "type_line": "Creature — Human Soldier Advisor"
+          }
+        ],
+        "layout": "transform",
+        "name": "The Purifying Rain"
       }
     }
   },
@@ -10191,11 +10180,11 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/pvRcpxpz/The-Southern-Salient-png.png"
+          "large": "https://i.ibb.co/PsGLsTWk/The-Southern-Salient-png.png"
         },
         "loyalty": "4",
         "name": "The Southern Salient",
-        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhen this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.\nWhenever another battle you control enters, put a +1/+1 counter on each creature you control.",
+        "oracle_text": "(You defend this battle. Your opponents can attack it.) \nWhen this battle enters, put X +1/+1 counters on each creature and/or Vehicle you control, where X is the number of battles you control.\nWhenever another battle you control enters, put a +1/+1 counter on each creature and/or Vehicle you control.",
         "type_line": "Battle"
       }
     }
@@ -10263,19 +10252,19 @@
         "card_faces": [
           {
             "image_uris": {
-              "large": "https://i.ibb.co/7JPtF59S/The-Tarian-Disaster-png.png"
+              "large": "https://i.ibb.co/27zNfF4M/The-Tarian-Disaster-png.png"
             },
             "loyalty": "5",
             "name": "The Tarian Disaster",
-            "oracle_text": "Flash\nWhen this Siege enters, target creature you control deals damage equal to its power to another target creature or battle.",
+            "oracle_text": "Flash\nWhen this Siege enters, target creature you control deals damage equal to its power to target creature or battle.",
             "type_line": "Battle — Siege"
           },
           {
             "image_uris": {
-              "large": "https://i.ibb.co/RTnX2SrS/Plundered-Materiel-png.png"
+              "large": "https://i.ibb.co/3yj7Dppq/Plundered-Materiel-png.png"
             },
             "name": "Plundered Materiel",
-            "oracle_text": "Put a +1/+1 counter on each creature and Vehicle you control.",
+            "oracle_text": "Put a +1/+1 counter on each creature and/or Vehicle you control.",
             "type_line": "Sorcery"
           }
         ],
@@ -10793,12 +10782,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/JWh7KwBM/U-C-I-T-Command-Cruiser-png.png"
+          "large": "https://i.ibb.co/Q74LLXqn/U-C-I-T-Command-Cruiser-png.png"
         },
         "name": "U.C.I.T. Command Cruiser",
         "oracle_text": "Reach, trample\nEach other Vehicle you control gets +2/+2 and has reach and trample if 3 or more power was used to crew it this turn.\nCrew 3",
-        "power": "6",
-        "toughness": "6",
+        "power": "7",
+        "toughness": "7",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -10808,7 +10797,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/8DNpsq0T/U-C-I-T-E-War-Submarine-png.png"
+          "large": "https://i.ibb.co/LyfpVYY/U-C-I-T-E-War-Submarine-png.png"
         },
         "name": "U.C.I.T. E-War Submarine",
         "oracle_text": "Arms Race  - {3}, {t}: Tap target artifact, creature, or land. This ability costs {2} less to activate if no opponent controls more artifacts than you.\nCrew 6",
@@ -11207,12 +11196,12 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/TMgQp6ff/Wary-WSO-png.png"
+          "large": "https://i.ibb.co/XfkmGvPz/Wary-WSO-png.png"
         },
         "name": "Wary WSO",
-        "oracle_text": "Whenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigilance until end of turn.",
+        "oracle_text": "Vigilance\nWhenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigilance until end of turn.",
         "power": "1",
-        "toughness": "2",
+        "toughness": "3",
         "type_line": "Creature — Human Pilot"
       }
     }

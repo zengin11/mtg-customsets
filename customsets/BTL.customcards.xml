@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-08</releasedate>
+        <set> v1.4<releasedate>2026-10-10</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
@@ -127,7 +127,7 @@ Whenever this creature crews a Vehicle, that Vehicle can't be blocked this turn.
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/DHRL5jqW/Amphibious-Infiltrator-png.png" picurl_large="https://i.ibb.co/DHRL5jqW/Amphibious-Infiltrator-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/hR9J9PCt/Amphibious-Infiltrator-png.png" picurl_large="https://i.ibb.co/4Ztnt6J5/Amphibious-Infiltrator-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -307,7 +307,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/pB6N9cw6/Order-an-Air-Defense-png.png" picurl_large="https://i.ibb.co/Xrf6v1Lf/Order-an-Air-Defense-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Nd6m094x/Order-an-Air-Defense-png.png" picurl_large="https://i.ibb.co/jPvWCyph/Order-an-Air-Defense-png.png">BTL</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -355,7 +355,7 @@ Crew 1</text>
         <card>
             <name>A-44 "Honker" Strike Fighter</name>
             <text>Flying, trample
-{2}{R}: This Vehicle deals 1 damage to target player or battle. Activate only if this Vehicle is a creature.
+{2}{R}: This Vehicle deals 1 damage to target player or battle.
 Crew 1</text>
             <prop>
                 <layout>normal</layout>
@@ -370,7 +370,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/dYpq468/A-44-Honker-Strike-Fighter-png.png" picurl_large="https://i.ibb.co/fwN5dtj/A-44-Honker-Strike-Fighter-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/h1B6vqqG/A-44-Honker-Strike-Fighter-png.png" picurl_large="https://i.ibb.co/Fq5rtPPQ/A-44-Honker-Strike-Fighter-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -396,7 +396,7 @@ Crew 1</text>
             </card>
         <card>
             <name>Home-Front Supporter</name>
-            <text>Attrition — At the beginning of your end step, put a +1/+1 counter on another target creature or Vehicle. If a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature as well.</text>
+            <text>Attrition — At the beginning of your end step, put a +1/+1 counter on up to one other target creature or Vehicle. Then if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -410,7 +410,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/WWDLhtMV/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/tMZ9GXvL/Home-Front-Supporter-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/cKvDMyWD/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/LDPnb0Tn/Home-Front-Supporter-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -434,7 +434,7 @@ Crew 1</text>
             </card>
         <card>
             <name>Frontline Reinforcements</name>
-            <text>Create a 1/1 red Soldier creature token and a 0/1 blue Pilot creature token with ace 2.  (It crews Vehicles as though its power were 2 greater).  
+            <text>Create a 1/1 white Soldier creature token and a 0/1 blue Pilot creature token with ace 2.  (It crews Vehicles as though its power were 2 greater).  
 Populate.  (Create a token that's a copy of a creature token you control.) </text>
             <prop>
                 <layout>normal</layout>
@@ -449,7 +449,7 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png" picurl_large="https://i.ibb.co/BVgMFmfs/Frontline-Reinforcements-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/KRc21Vq/Frontline-Reinforcements-png.png" picurl_large="https://i.ibb.co/NQg94Wj/Frontline-Reinforcements-png.png">BTL</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -512,7 +512,7 @@ Crew 1</text>
             </card>
         <card>
             <name>Crafty Cadet</name>
-            <text>Arms Race — Whenever this creature crews a Vehicle, draw a card. Then if any opponent controls more artifacts than you, discard a card.</text>
+            <text>Arms Race — Whenever this creature becomes tapped, draw a card. Then if any opponent controls more artifacts than you, discard a card.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -526,7 +526,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/wh82ZRzQ/Crafty-Cadet-png.png" picurl_large="https://i.ibb.co/wh82ZRzQ/Crafty-Cadet-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/4RzrZKHc/Crafty-Cadet-png.png" picurl_large="https://i.ibb.co/k2jCg5tp/Crafty-Cadet-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -650,7 +650,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gM2Jgc7N/Logistics-Truck-png.png" picurl_large="https://i.ibb.co/hR6V8TMb/Logistics-Truck-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Vp9d7kSm/Logistics-Truck-png.png" picurl_large="https://i.ibb.co/x8LyprjH/Logistics-Truck-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -735,7 +735,7 @@ Crew 1</text>
             <name>Alert-5 Airman</name>
             <text>Flash
 Ace 2 (This creature crews Vehicles as though its power were 2 greater.)
-When this creature enters, untap target Vehicle you control.</text>
+When this creature enters, untap target creature or Vehicle you control.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -749,7 +749,7 @@ When this creature enters, untap target Vehicle you control.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/0V2rPhfs/Alert-5-Airman-png.png" picurl_large="https://i.ibb.co/0V2rPhfs/Alert-5-Airman-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/tM5hh2nf/Alert-5-Airman-png.png" picurl_large="https://i.ibb.co/TB5TT0JX/Alert-5-Airman-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -890,7 +890,7 @@ When this creature enters, until end of turn, creatures you control have trample
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/6c01j6ng/Spear-Fleet-Marines-png.png" picurl_large="https://i.ibb.co/rK2cDn74/Spear-Fleet-Marines-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Z1VjPmZj/Spear-Fleet-Marines-png.png" picurl_large="https://i.ibb.co/Wp6hwtTh/Spear-Fleet-Marines-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1037,7 +1037,8 @@ Crew 3</text>
             </card>
         <card>
             <name>Gunboat Diplomacy</name>
-            <text>When this Siege enters, discard any number of cards, then draw that many cards.</text>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, discard any number of cards, then draw that many cards.</text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -1052,7 +1053,7 @@ Crew 3</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/GvVY9KBK/Gunboat-Diplomacy-png.png" picurl_large="https://i.ibb.co/BVgWGXdX/Gunboat-Diplomacy-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/wNm3WcM7/Gunboat-Diplomacy-png.png" picurl_large="https://i.ibb.co/3yZGNRBv/Gunboat-Diplomacy-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Diplomatic Victory</related>
             </card>
@@ -1084,17 +1085,17 @@ Crew 3</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{3}{G}{G}</manacost>
-                <cmc>5</cmc>
+                <manacost>{2}{G}{G}</manacost>
+                <cmc>4</cmc>
                 <colors>G</colors>
                 <coloridentity>G</coloridentity>
                 <maintype>Artifact</maintype>
                 <type>Artifact - Vehicle</type>
-                <pt>7/7</pt>
+                <pt>6/6</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/vxbkRQ1j/Kraken-Missile-Cruiser-png.png" picurl_large="https://i.ibb.co/fYbHLnMx/Kraken-Missile-Cruiser-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/604KdH9Z/Kraken-Missile-Cruiser-png.png" picurl_large="https://i.ibb.co/ZzhQZB4J/Kraken-Missile-Cruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1200,7 +1201,7 @@ Enchanted permanent gets +Whatever, has keyword, and is an artifact creature in 
         <card>
             <name>Drill Instructor</name>
             <text>When this creature enters, populate. (To populate, create a token that's a copy of a creature token you control.)
-{R}, Sacrifice this creature: Creatures you control get +1/+0 and gain haste until end of turn.</text>
+{R}, Sacrifice this creature: Until end of turn, creatures you control get +1/+0 and have haste.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1214,7 +1215,7 @@ Enchanted permanent gets +Whatever, has keyword, and is an artifact creature in 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/PvF7fQPC/Drill-Instructor-png.png" picurl_large="https://i.ibb.co/KpbM3wfy/Drill-Instructor-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/WpxpLPLs/Drill-Instructor-png.png" picurl_large="https://i.ibb.co/Z1L10Y0N/Drill-Instructor-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1256,7 +1257,7 @@ Enchanted creature and any Vehicles crewed by it this turn attack each turn if a
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/8D8JvMF2/Operation-Grindstone-png.png" picurl_large="https://i.ibb.co/ccTPfJzt/Operation-Grindstone-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/pS3k51Y/Operation-Grindstone-png.png" picurl_large="https://i.ibb.co/Q46xtJy/Operation-Grindstone-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1302,7 +1303,7 @@ When this creature enters, create an Ordnance token.  (It's an artifact with "Wh
         <card>
             <name>Arctic Warfare Veterans</name>
             <text>Vigilance
-When this creature enters, tap target creature an opponent controls and put a stun counter on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.) </text>
+When this creature enters, tap target creature or Vehicle an opponent controls and put a stun counter on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.) </text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1316,7 +1317,7 @@ When this creature enters, tap target creature an opponent controls and put a st
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/DgHwR1vC/Arctic-Warfare-Veterans-png.png" picurl_large="https://i.ibb.co/rfR5wQz6/Arctic-Warfare-Veterans-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/bj22Rwm2/Arctic-Warfare-Veterans-png.png" picurl_large="https://i.ibb.co/p6RRrVwR/Arctic-Warfare-Veterans-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1357,7 +1358,7 @@ When this creature enters, tap target creature an opponent controls and put a st
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/SX1SZ3FJ/Order-an-Ambush-png.png" picurl_large="https://i.ibb.co/d03ZH587/Order-an-Ambush-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/Lzb1QkNF/Order-an-Ambush-png.png" picurl_large="https://i.ibb.co/3yGcfrR3/Order-an-Ambush-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1382,27 +1383,6 @@ When this creature enters, tap target creature an opponent controls and put a st
             <related attach="transform">From Rubble</related>
             </card>
         <card>
-            <name>Siege of UH08</name>
-            <text>Flash
-When this Siege enters, target creature gains double strike until end of turn.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{1}{RW}</manacost>
-                <cmc>2</cmc>
-                <colors>WR</colors>
-                <coloridentity>WR</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>3</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/svRbM47C/Siege-of-UH08-png.png" picurl_large="https://i.ibb.co/6RwrfSQ8/Siege-of-UH08-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH08</related>
-            </card>
-        <card>
             <name>Armed by the Lowest Bidder</name>
             <text>Target creature gets +3/-1 until end of turn. Create a Treasure token.  (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") </text>
             <prop>
@@ -1421,25 +1401,6 @@ When this Siege enters, target creature gains double strike until end of turn.</
             <set rarity="Common" picurl="https://i.ibb.co/VptY8VTR/Armed-by-the-Lowest-Bidder-png.png" picurl_large="https://i.ibb.co/VptY8VTR/Armed-by-the-Lowest-Bidder-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related>Treasure Token</related>
-            </card>
-        <card>
-            <name>Assembly Lab</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dsTwNMpS/Assembly-Lab-png.png" picurl_large="https://i.ibb.co/fVgz3FNb/Assembly-Lab-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>"Draugr" Rocket Trucks</name>
@@ -1500,26 +1461,6 @@ Untap this creature during each other player's untap step.</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/0RdjXCDV/Clever-Tactician-png.png" picurl_large="https://i.ibb.co/bM8g3sWR/Clever-Tactician-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Siege of UH09</name>
-            <text>When this Siege enters, create an Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{BR}</manacost>
-                <cmc>1</cmc>
-                <colors>BR</colors>
-                <coloridentity>BR</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>3</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Vpxd8Hpm/Siege-of-UH09-png.png" picurl_large="https://i.ibb.co/sJChr5JH/Siege-of-UH09-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH09</related>
             </card>
         <card>
             <name>"Groundpounder" Brigade</name>
@@ -1785,8 +1726,8 @@ Crew 1</text>
         <card>
             <name>The Southern Salient</name>
             <text>(You defend this battle. Your opponents can attack it.) 
-When this battle enters, put X +1/+1 counters on each creature you control, where X is the number of battles you control.
-Whenever another battle you control enters, put a +1/+1 counter on each creature you control.</text>
+When this battle enters, put X +1/+1 counters on each creature and/or Vehicle you control, where X is the number of battles you control.
+Whenever another battle you control enters, put a +1/+1 counter on each creature and/or Vehicle you control.</text>
             <prop>
                 <layout>battle</layout>
                 <side>front</side>
@@ -1801,19 +1742,18 @@ Whenever another battle you control enters, put a +1/+1 counter on each creature
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/pvRcpxpz/The-Southern-Salient-png.png" picurl_large="https://i.ibb.co/4ZYzx7xT/The-Southern-Salient-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/PsGLsTWk/The-Southern-Salient-png.png" picurl_large="https://i.ibb.co/203908MJ/The-Southern-Salient-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
             <name>Preserver of the Penitent</name>
-            <text>Lifelink
-{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle.
+            <text>{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this Vehicle. You gain 1 life. Activate only as a sorcery.
 Crew 2</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{B}</manacost>
-                <cmc>3</cmc>
+                <manacost>{1}{B}</manacost>
+                <cmc>2</cmc>
                 <colors>B</colors>
                 <coloridentity>B</coloridentity>
                 <maintype>Artifact</maintype>
@@ -1822,7 +1762,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/spPwJGfG/Preserver-of-the-Penitent-png.png" picurl_large="https://i.ibb.co/5X98xy0y/Preserver-of-the-Penitent-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/B2CfbJpB/Preserver-of-the-Penitent-png.png" picurl_large="https://i.ibb.co/whzdVqk4/Preserver-of-the-Penitent-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -1848,7 +1788,7 @@ Crew 3</text>
             </card>
         <card>
             <name>Carrier Crew Chief</name>
-            <text>{2}{W}, {t}: Put a +1/+1 counter or a charge counter on target permanent. Untap this creature if that permanent has flying. Activate only as a sorcery.</text>
+            <text>When this creature enters, creatures and Vehicles you control with flying get +2/+0 until end of turn. Other creatures and Vehicles you control gain flying until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -1862,7 +1802,7 @@ Crew 3</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/d4dGMyDs/Carrier-Crew-Chief-png.png" picurl_large="https://i.ibb.co/v47Zq8kC/Carrier-Crew-Chief-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/tMYfNnmC/Carrier-Crew-Chief-png.png" picurl_large="https://i.ibb.co/fYrRKZ10/Carrier-Crew-Chief-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -1925,7 +1865,8 @@ Crew 3</text>
             </card>
         <card>
             <name>Coalition Buildup</name>
-            <text>When this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) </text>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, populate.  (Create a token that's a copy of a creature token you control.) </text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -2103,28 +2044,6 @@ Wartime Measures — If you control a battle or have defeated a battle this game
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/7NZjNLZV/Swift-Retaliation-png.png" picurl_large="https://i.ibb.co/R4sY4dsP/Swift-Retaliation-png.png">BTL</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Siege of UH06</name>
-            <text>When this Siege enters, choose one —
-• Put two charge counters on target permanent you control.
-• Put two +1/+1 counters on target permanent you control.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{1}{WB}</manacost>
-                <cmc>2</cmc>
-                <colors>WB</colors>
-                <coloridentity>WB</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>4</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/JWc47Qdx/Siege-of-UH06-png.png" picurl_large="https://i.ibb.co/twHtsXhZ/Siege-of-UH06-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH06</related>
             </card>
         <card>
             <name>Prototype Railgun</name>
@@ -2334,29 +2253,9 @@ When this Siege enters, creatures you control get +1/+0 and gain haste until end
             <related attach="transform">March of the War Machines</related>
             </card>
         <card>
-            <name>Siege of UH05</name>
-            <text>When this Siege enters, create a 2/2 white Soldier creature token. It gains haste until end of turn.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{1}{RG}</manacost>
-                <cmc>2</cmc>
-                <colors>RG</colors>
-                <coloridentity>RG</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>3</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/TxfxtbsM/Siege-of-UH05-png.png" picurl_large="https://i.ibb.co/67M7F1k0/Siege-of-UH05-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH05</related>
-            </card>
-        <card>
             <name>EA-28 "Howler" Screening Jet</name>
             <text>Flying
-{2}{U}: Target creature can't be blocked this turn.
+{2}{U}: Target creature or Vehicle can't be blocked this turn.
 Crew 1</text>
             <prop>
                 <layout>normal</layout>
@@ -2371,7 +2270,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/ksSQ62ZZ/EA-28-Howler-Screening-Jet-png.png" picurl_large="https://i.ibb.co/Pv6wzGkk/EA-28-Howler-Screening-Jet-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/n8z1mdkB/EA-28-Howler-Screening-Jet-png.png" picurl_large="https://i.ibb.co/gFzW9qgd/EA-28-Howler-Screening-Jet-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2494,12 +2393,13 @@ Crew 6</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/8DNpsq0T/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/MDZ4SrsW/U-C-I-T-E-War-Submarine-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/LyfpVYY/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/F1t7Rmm/U-C-I-T-E-War-Submarine-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
             <name>Crusaders' Air Raids</name>
-            <text>When this Siege enters, it deals 3 damage to any other target.</text>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, it deals 3 damage to any other target.</text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -2514,7 +2414,7 @@ Crew 6</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Common" picurl="https://i.ibb.co/5WDkLVbj/Crusaders-Air-Raids-png.png" picurl_large="https://i.ibb.co/QFBkMGyH/Crusaders-Air-Raids-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/BVJ94mpp/Crusaders-Air-Raids-png.png" picurl_large="https://i.ibb.co/Y7SxD6CC/Crusaders-Air-Raids-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Katerinsburgh's Repentance</related>
             </card>
@@ -2537,26 +2437,6 @@ When this creature dies, create a 0/1 blue Pilot creature token with ace 2. (It 
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/Y46WFCs8/Brother-on-Deployment-png.png" picurl_large="https://i.ibb.co/RG1SkFwP/Brother-on-Deployment-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Siege of UH01</name>
-            <text>When this Siege enters, put a flying counter on target creature or Vehicle you control.</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{WU}</manacost>
-                <cmc>1</cmc>
-                <colors>WU</colors>
-                <coloridentity>WU</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>2</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/tMB1x2q9/Siege-of-UH01-png.png" picurl_large="https://i.ibb.co/4ZW0YS8H/Siege-of-UH01-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH01</related>
             </card>
         <card>
             <name>Tunnel Run</name>
@@ -2666,17 +2546,17 @@ Crew 3</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{2}{G}{U}</manacost>
-                <cmc>4</cmc>
+                <manacost>{5}{G}{U}</manacost>
+                <cmc>7</cmc>
                 <colors>UG</colors>
                 <coloridentity>UG</coloridentity>
                 <maintype>Artifact</maintype>
                 <type>Artifact - Vehicle</type>
-                <pt>6/6</pt>
+                <pt>7/7</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/JWh7KwBM/U-C-I-T-Command-Cruiser-png.png" picurl_large="https://i.ibb.co/MyXVsx23/U-C-I-T-Command-Cruiser-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Q74LLXqn/U-C-I-T-Command-Cruiser-png.png" picurl_large="https://i.ibb.co/BH9bbw7j/U-C-I-T-Command-Cruiser-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2742,7 +2622,7 @@ Crew 1</text>
         <card>
             <name>Angel's Deliverance Airlifter</name>
             <text>Flying, vigilance
-When this Vehicle enters, create three 1/1 red Soldier creature tokens.
+When this Vehicle enters, create three 1/1 white Soldier creature tokens.
 Crew 3
 Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.) </text>
             <prop>
@@ -2758,7 +2638,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/4wJRXTnL/Angel-s-Deliverance-Airlifter-png.png" picurl_large="https://i.ibb.co/nqRMYcNy/Angel-s-Deliverance-Airlifter-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/p6wYNPf7/Angel-s-Deliverance-Airlifter-png.png" picurl_large="https://i.ibb.co/bjmcY3s0/Angel-s-Deliverance-Airlifter-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2801,26 +2681,6 @@ Whenever this creature crews a Vehicle, that Vehicle gains trample until end of 
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Coolname, Precision Vanguard</name>
-            <text>Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
-Vehicles crewed by this creature this turn have vigilance and haste.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}{r}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Pilot</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/MbszSrM/Coolname-Precision-Vanguard-png.png" picurl_large="https://i.ibb.co/z1r3xpG/Coolname-Precision-Vanguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Maneuver Specialists</name>
             <text>This creature gets +2/+0 as long as you've activated an ability that isn't a mana ability this turn.
 {8}: This creature gains first strike until end of turn.</text>
@@ -2858,26 +2718,6 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 </prop>
             <set rarity="Rare" picurl="https://i.ibb.co/Qvvqp6F7/Dr-Leonard-Tocsky-png.png" picurl_large="https://i.ibb.co/yFFMd8nm/Dr-Leonard-Tocsky-png.png">BTL</set>
             <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Siege of UH03</name>
-            <text>When this Siege enters, create two 0/1 blue Pilot creature tokens with ace 2. (They crew Vehicles as though their power were 2 greater.)</text>
-            <prop>
-                <layout>transform</layout>
-                <side>front</side>
-                <manacost>{1}{GU}</manacost>
-                <cmc>2</cmc>
-                <colors>UG</colors>
-                <coloridentity>UG</coloridentity>
-                <maintype>Battle</maintype>
-                <type>Battle - Siege</type>
-                <pt />
-                <loyalty>6</loyalty>
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/4w8MPbcL/Siege-of-UH03-png.png" picurl_large="https://i.ibb.co/Kc27FtYg/Siege-of-UH03-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            <related attach="transform">Victory of UH03</related>
             </card>
         <card>
             <name>Ready for Anything</name>
@@ -3036,7 +2876,7 @@ Basic landcycling {2}  ({2}, Discard this card: Search your library for a basic 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/s9QwYhQq/AC-30-Booker-Recon-Gunship-png.png" picurl_large="https://i.ibb.co/b5LB9xLX/AC-30-Booker-Recon-Gunship-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/20K2Tbn8/AC-30-Booker-Recon-Gunship-png.png" picurl_large="https://i.ibb.co/6cshkdnv/AC-30-Booker-Recon-Gunship-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3075,12 +2915,13 @@ Up to two target creatures can't block or crew Vehicles this turn.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/SDPvKT7S/Absent-Without-Leave-png.png" picurl_large="https://i.ibb.co/p6xX3Drq/Absent-Without-Leave-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/fzKDxT3m/Absent-Without-Leave-png.png" picurl_large="https://i.ibb.co/Zpw2MbQy/Absent-Without-Leave-png.png">BTL</set>
             <tablerow>3</tablerow>
             </card>
         <card>
             <name>Stealth Strike on Zeeville</name>
-            <text>When this Siege enters, surveil 3. 
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, surveil 3. 
  Arms Race  — As long as no opponent controls more artifacts than you, creatures attacking this battle can't be blocked.</text>
             <prop>
                 <layout>transform</layout>
@@ -3096,7 +2937,7 @@ Up to two target creatures can't block or crew Vehicles this turn.</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/twKXQ0wD/Stealth-Strike-on-Zeeville-png.png" picurl_large="https://i.ibb.co/vCqYVNCk/Stealth-Strike-on-Zeeville-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/jXtjW9j/Stealth-Strike-on-Zeeville-png.png" picurl_large="https://i.ibb.co/GSmrtfr/Stealth-Strike-on-Zeeville-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">XDC-3 "Nesting Doll" Drone</related>
             </card>
@@ -3121,7 +2962,7 @@ Up to two target creatures can't block or crew Vehicles this turn.</text>
             </card>
         <card>
             <name>Coalition Field Marshal</name>
-            <text>When this creature enters, create a 2/2 white Soldier creature token.
+            <text>When this creature enters, create a 2/2 red Soldier creature token.
 Whenever you attack with three or more Soldiers, populate. The token enters tapped and attacking.  (To populate, create a token that's a copy of a creature token you control.) </text>
             <prop>
                 <layout>normal</layout>
@@ -3136,12 +2977,12 @@ Whenever you attack with three or more Soldiers, populate. The token enters tapp
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/FqjJk9f1/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/h1tHxknN/Coalition-Field-Marshal-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/5ggWXnbr/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/9kk9mVQb/Coalition-Field-Marshal-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
             <name>Irena "Firefly" Vanguard</name>
-            <text>Activated abilities of Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+            <text>Activated abilities of creatures and Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
 Vehicles crewed by this creature this turn have vigilance and haste.</text>
             <prop>
                 <layout>normal</layout>
@@ -3156,7 +2997,7 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/fd84pxVC/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/GQsc25fV/Irena-Firefly-Vanguard-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/4wLFyDLQ/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/ZRrfswrZ/Irena-Firefly-Vanguard-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3250,17 +3091,17 @@ Crew 1</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{B}</manacost>
-                <cmc>2</cmc>
+                <manacost>{B}</manacost>
+                <cmc>1</cmc>
                 <colors>B</colors>
                 <coloridentity>B</coloridentity>
                 <maintype>Artifact</maintype>
                 <type>Artifact - Vehicle</type>
-                <pt>2/1</pt>
+                <pt>1/1</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/mVQ4Qqgt/AH-960-Booker-Retrofit-png.png" picurl_large="https://i.ibb.co/gLsJsThw/AH-960-Booker-Retrofit-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/4Z3h4Ry3/AH-960-Booker-Retrofit-png.png" picurl_large="https://i.ibb.co/hRw32F5w/AH-960-Booker-Retrofit-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3279,7 +3120,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/gFDXgnz2/Sacrificial-Gambit-png.png" picurl_large="https://i.ibb.co/WpcdKTgh/Sacrificial-Gambit-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/23hMpTZ1/Sacrificial-Gambit-png.png" picurl_large="https://i.ibb.co/v4qdMSX6/Sacrificial-Gambit-png.png">BTL</set>
             <tablerow>3</tablerow>
             </card>
         <card>
@@ -3289,17 +3130,17 @@ Whenever a permanent you control leaves the battlefield, [do something with coun
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{W}{B}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>WBR</colors>
-                <coloridentity>WBR</coloridentity>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
                 <maintype>Creature</maintype>
                 <type>Legendary Creature - Human Soldier Advisor</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/FkbB7VmF/Confessor-General-png.png" picurl_large="https://i.ibb.co/ZR6hTmG0/Confessor-General-png.png">BTL</set>
+            <set rarity="Rare" picurl="https://i.ibb.co/k2pKscHN/Confessor-General-png.png" picurl_large="https://i.ibb.co/nMTrNkgx/Confessor-General-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3324,7 +3165,7 @@ Crew 1</text>
             </card>
         <card>
             <name>Sabotage of Narroway Bridge</name>
-            <text>When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+            <text>When this Siege enters, put a +1/+1 counter and a lifelink counter on target creature or Vehicle, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -3339,7 +3180,7 @@ Crew 1</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Common" picurl="https://i.ibb.co/Zz0d3cPc/Sabotage-of-Narroway-Bridge-png.png" picurl_large="https://i.ibb.co/xqNhyz0z/Sabotage-of-Narroway-Bridge-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/YTJ6vY0h/Sabotage-of-Narroway-Bridge-png.png" picurl_large="https://i.ibb.co/n84ThZPj/Sabotage-of-Narroway-Bridge-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Accomplished Saboteur</related>
             </card>
@@ -3426,7 +3267,7 @@ Modular 1 (This creature enters with a +1/+1 counter on it. When it dies, you ma
         <card>
             <name>R.D.I. Armored Car</name>
             <text>Haste
-When this Vehicle enters, create a 1/1 red Soldier creature token.
+When this Vehicle enters, create a 1/1 white Soldier creature token.
 Crew 1</text>
             <prop>
                 <layout>normal</layout>
@@ -3441,7 +3282,7 @@ Crew 1</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/sdgt4rML/R-D-I-Armored-Car-png.png" picurl_large="https://i.ibb.co/21F5rBfX/R-D-I-Armored-Car-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/N2rK0b6K/R-D-I-Armored-Car-png.png" picurl_large="https://i.ibb.co/8gb9ytD9/R-D-I-Armored-Car-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3468,7 +3309,7 @@ Crew 2</text>
         <card>
             <name>The Tarian Disaster</name>
             <text>Flash
-When this Siege enters, target creature you control deals damage equal to its power to another target creature or battle.</text>
+When this Siege enters, target creature you control deals damage equal to its power to target creature or battle.</text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -3483,7 +3324,7 @@ When this Siege enters, target creature you control deals damage equal to its po
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Common" picurl="https://i.ibb.co/7JPtF59S/The-Tarian-Disaster-png.png" picurl_large="https://i.ibb.co/LzmdfWG0/The-Tarian-Disaster-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/27zNfF4M/The-Tarian-Disaster-png.png" picurl_large="https://i.ibb.co/6RKBfyCt/The-Tarian-Disaster-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Plundered Materiel</related>
             </card>
@@ -3590,7 +3431,8 @@ Activated ability that makes Soldier tokens?</text>
             </card>
         <card>
             <name>Wary WSO</name>
-            <text>Whenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigilance until end of turn.</text>
+            <text>Vigilance
+Whenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigilance until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -3600,11 +3442,11 @@ Activated ability that makes Soldier tokens?</text>
                 <coloridentity>W</coloridentity>
                 <maintype>Creature</maintype>
                 <type>Creature - Human Pilot</type>
-                <pt>1/2</pt>
+                <pt>1/3</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/TMgQp6ff/Wary-WSO-png.png" picurl_large="https://i.ibb.co/7t138Pff/Wary-WSO-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/XfkmGvPz/Wary-WSO-png.png" picurl_large="https://i.ibb.co/rKfnX1hZ/Wary-WSO-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -3629,7 +3471,7 @@ When this creature enters, proliferate. (Choose any number of permanents and/or 
             </card>
         <card>
             <name>"Rampart" APC Company</name>
-            <text>When this Vehicle enters, create two 1/1 red Soldier creature tokens.
+            <text>When this Vehicle enters, create two 1/1 white Soldier creature tokens.
 Wartime Measures —
 Crew 2</text>
             <prop>
@@ -3645,7 +3487,7 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/35502m9v/Rampart-APC-Company-png.png" picurl_large="https://i.ibb.co/HLLr6TfC/Rampart-APC-Company-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/LdB47g9r/Rampart-APC-Company-png.png" picurl_large="https://i.ibb.co/0y1Pb9YK/Rampart-APC-Company-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -3728,7 +3570,7 @@ Activated ability that can interact with Sieges</text>
             </card>
         <card>
             <name>Anders' Response</name>
-            <text>When this Siege enters, target creature you control gets +2/+2 and gains flying until end of turn.</text>
+            <text>When this Siege enters, target creature or Vehicle you control gets +2/+2 and gains flying until end of turn.</text>
             <prop>
                 <layout>transform</layout>
                 <side>front</side>
@@ -3743,28 +3585,9 @@ Activated ability that can interact with Sieges</text>
                 <format-commander>legal</format-commander>
                 </prop>
             <landscapeOrientation>1</landscapeOrientation>
-            <set rarity="Common" picurl="https://i.ibb.co/2399nDCR/Anders-Response-png.png" picurl_large="https://i.ibb.co/VY11j7zb/Anders-Response-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/q6239VT/Anders-Response-png.png" picurl_large="https://i.ibb.co/9Pdk2SQ/Anders-Response-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Anders' Reclamation</related>
-            </card>
-        <card>
-            <name>Construction Lab</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/Pz9W1FTd/Construction-Lab-png.png" picurl_large="https://i.ibb.co/cXC82kbj/Construction-Lab-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Defilade Ambuscade</name>
@@ -3863,6 +3686,179 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/KjZf1T0R/Flight-School-png.png" picurl_large="https://i.ibb.co/N6hJ4cVQ/Flight-School-png.png">BTL</set>
             <tablerow>0</tablerow>
+            </card>
+        <card>
+            <name>The Purifying Rain</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, create an Ordnance token.  (It's an artifact with "When this token leaves the battlefield, it deals 2 damage to target player or battle.") </text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{BR}</manacost>
+                <cmc>1</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/FLBGLsQ6/The-Purifying-Rain-png.png" picurl_large="https://i.ibb.co/pB3CBWH2/The-Purifying-Rain-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Purifier-Captain</related>
+            </card>
+        <card>
+            <name>The Harbor Heist</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, create two 0/1 blue Pilot creature tokens with ace 2. (They crew Vehicles as though their power were 2 greater.)</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{GU}</manacost>
+                <cmc>2</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>6</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/xS5PQ9xS/The-Harbor-Heist-png.png" picurl_large="https://i.ibb.co/LzpbfjVz/The-Harbor-Heist-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">S.L.I. Prototype Lineship</related>
+            </card>
+        <card>
+            <name>Operation Airmail</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, put a flying counter on target creature or Vehicle you control.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{WU}</manacost>
+                <cmc>1</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>2</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/VckX73GJ/Operation-Airmail-png.png" picurl_large="https://i.ibb.co/0RzPgQLm/Operation-Airmail-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Preening the Wings</related>
+            </card>
+        <card>
+            <name>Katerin's Bay Blockade</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, put your choice of two charge counters or two +1/+1 counters on target permanent you control.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{WB}</manacost>
+                <cmc>2</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>4</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/G4FPk0CM/Katerin-s-Bay-Blockade-png.png" picurl_large="https://i.ibb.co/XrVJpbF5/Katerin-s-Bay-Blockade-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Anointed Arrow Destroyer</related>
+            </card>
+        <card>
+            <name>Charge of the Heavy Brigade</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+When this Siege enters, create a 2/2 red Soldier creature token. It gains haste until end of turn.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{RG}</manacost>
+                <cmc>2</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/5WQSn4VH/Charge-of-the-Heavy-Brigade-png.png" picurl_large="https://i.ibb.co/qMHcWjwQ/Charge-of-the-Heavy-Brigade-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Hero of the Heavy Brigade</related>
+            </card>
+        <card>
+            <name>The Assembly</name>
+            <text>Hexproof, trample
+Crew 8</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{gu}{gu}{gu}</manacost>
+                <cmc>8</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>{fontcolorwhite}16/16</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jk94FJmb/The-Assembly-png.png" picurl_large="https://i.ibb.co/VY0B8wRJ/The-Assembly-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>The Massive Fella</name>
+            <text>Hexproof
+Crew 8</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{5}{GU}{GU}{GU}</manacost>
+                <cmc>8</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>16/16</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Rare" picurl="https://i.ibb.co/3Y9Ysbk3/The-Massive-Fella-png.png" picurl_large="https://i.ibb.co/Cs3styWc/The-Massive-Fella-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Dancing with the Angels</name>
+            <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) 
+Flash
+When this Siege enters, target creature gains double strike until end of turn.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{1}{RW}</manacost>
+                <cmc>2</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Battle</maintype>
+                <type>Battle - Siege</type>
+                <pt />
+                <loyalty>3</loyalty>
+                <format-commander>legal</format-commander>
+                </prop>
+            <landscapeOrientation>1</landscapeOrientation>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/XZPK3PyX/Dancing-with-the-Angels-png.png" picurl_large="https://i.ibb.co/SXgMdgQN/Dancing-with-the-Angels-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Ekharan Holdout</related>
             </card>
         <card>
             <name>From Rubble</name>
@@ -4006,7 +4002,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             </card>
         <card>
             <name>Plundered Materiel</name>
-            <text>Put a +1/+1 counter on each creature and Vehicle you control.</text>
+            <text>Put a +1/+1 counter on each creature and/or Vehicle you control.</text>
             <prop>
                 <layout>transform</layout>
                 <side>back</side>
@@ -4020,12 +4016,12 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/RTnX2SrS/Plundered-Materiel-png.png" picurl_large="https://i.ibb.co/0yN0qX4X/Plundered-Materiel-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/3yj7Dppq/Plundered-Materiel-png.png" picurl_large="https://i.ibb.co/27CyDvvQ/Plundered-Materiel-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">The Tarian Disaster</related>
             </card>
         <card>
-            <name>Victory of UH01</name>
+            <name>Preening the Wings</name>
             <text>Put a +1/+1 counter on each creature and/or Vehicle you control with flying.</text>
             <prop>
                 <layout>transform</layout>
@@ -4040,13 +4036,14 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/WN4n4Wbd/Victory-of-UH01-png.png" picurl_large="https://i.ibb.co/201q17DL/Victory-of-UH01-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/xKL7FZGB/Preening-the-Wings-png.png" picurl_large="https://i.ibb.co/4wtV1kMX/Preening-the-Wings-png.png">BTL</set>
             <tablerow>3</tablerow>
-            <related attach="transform">Siege of UH01</related>
+            <related attach="transform">Operation Airmail</related>
             </card>
         <card>
-            <name>Victory of UH03</name>
+            <name>S.L.I. Prototype Lineship</name>
             <text>Trample, vigilance, ward {2}
+Whenever this Vehicle attacks, untap each creature that crewed it this turn.
 Crew 4</text>
             <prop>
                 <layout>transform</layout>
@@ -4061,9 +4058,9 @@ Crew 4</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/23LhVfHh/Victory-of-UH03-png.png" picurl_large="https://i.ibb.co/b5ymw8Dm/Victory-of-UH03-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/N2RCcb2Y/S-L-I-Prototype-Lineship-png.png" picurl_large="https://i.ibb.co/Zz9Xq7zT/S-L-I-Prototype-Lineship-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Siege of UH03</related>
+            <related attach="transform">The Harbor Heist</related>
             </card>
         <card>
             <name>XDC-3 "Nesting Doll" Drone</name>
@@ -4082,12 +4079,12 @@ Fabricate 3 (When this creature enters, put three +1/+1 counters on it or create
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/HjcNsFY/XDC-3-Nesting-Doll-Drone-png.png" picurl_large="https://i.ibb.co/xNnm0CG/XDC-3-Nesting-Doll-Drone-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/RxVVC05/XDC-3-Nesting-Doll-Drone-png.png" picurl_large="https://i.ibb.co/WbYYcyT/XDC-3-Nesting-Doll-Drone-png.png">BTL</set>
             <tablerow>2</tablerow>
             <related attach="transform">Stealth Strike on Zeeville</related>
             </card>
         <card>
-            <name>Victory of UH05</name>
+            <name>Hero of the Heavy Brigade</name>
             <text>Whenever one or more creatures you control deal combat damage to a player or battle, populate.</text>
             <prop>
                 <layout>transform</layout>
@@ -4102,14 +4099,14 @@ Fabricate 3 (When this creature enters, put three +1/+1 counters on it or create
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/CsVDVdqP/Victory-of-UH05-png.png" picurl_large="https://i.ibb.co/vvLRL5bX/Victory-of-UH05-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/SXLbWLc5/Hero-of-the-Heavy-Brigade-png.png" picurl_large="https://i.ibb.co/Y7rmYrXP/Hero-of-the-Heavy-Brigade-png.png">BTL</set>
             <tablerow>2</tablerow>
-            <related attach="transform">Siege of UH05</related>
+            <related attach="transform">Charge of the Heavy Brigade</related>
             </card>
         <card>
-            <name>Victory of UH06</name>
+            <name>Anointed Arrow Destroyer</name>
             <text>Lifelink
-When this artifact enters, redistribute any number of counters among artifacts and creatures you control.
+When this artifact enters, redistribute any number of counters among artifacts and/or creatures you control.
 This Vehicle gets +2/+0 for each charge counter on it.
 Crew 2</text>
             <prop>
@@ -4125,9 +4122,9 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/1Y5YbdwR/Victory-of-UH06-png.png" picurl_large="https://i.ibb.co/FkMkn0j8/Victory-of-UH06-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/cX8tgD7p/Anointed-Arrow-Destroyer-png.png" picurl_large="https://i.ibb.co/fGNt14PK/Anointed-Arrow-Destroyer-png.png">BTL</set>
             <tablerow>1</tablerow>
-            <related attach="transform">Siege of UH06</related>
+            <related attach="transform">Katerin's Bay Blockade</related>
             </card>
         <card>
             <name>Diplomatic Victory</name>
@@ -4145,12 +4142,12 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Q308v44G/Diplomatic-Victory-png.png" picurl_large="https://i.ibb.co/NdR12MMz/Diplomatic-Victory-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/yFhLfYHT/Diplomatic-Victory-png.png" picurl_large="https://i.ibb.co/ZzHyLYqs/Diplomatic-Victory-png.png">BTL</set>
             <tablerow>3</tablerow>
             <related attach="transform">Gunboat Diplomacy</related>
             </card>
         <card>
-            <name>Victory of UH08</name>
+            <name>Ekharan Holdout</name>
             <text>Whenever this creature is dealt damage, it deals that much damage to any target.</text>
             <prop>
                 <layout>transform</layout>
@@ -4165,12 +4162,12 @@ Crew 2</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/TBZXZ8ww/Victory-of-UH08-png.png" picurl_large="https://i.ibb.co/VWdydSLL/Victory-of-UH08-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/hFHZPbty/Ekharan-Holdout-png.png" picurl_large="https://i.ibb.co/F4J0S2jK/Ekharan-Holdout-png.png">BTL</set>
             <tablerow>2</tablerow>
-            <related attach="transform">Siege of UH08</related>
+            <related attach="transform">Dancing with the Angels</related>
             </card>
         <card>
-            <name>Victory of UH09</name>
+            <name>Purifier-Captain</name>
             <text>Menace
 Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)</text>
             <prop>
@@ -4181,14 +4178,14 @@ Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 
                 <colors />
                 <coloridentity />
                 <maintype>Creature</maintype>
-                <type>Creature - Human Soldier</type>
+                <type>Creature - Human Soldier Advisor</type>
                 <pt>1/4</pt>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/mrmFwff6/Victory-of-UH09-png.png" picurl_large="https://i.ibb.co/Fk9qMRRg/Victory-of-UH09-png.png">BTL</set>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/60HpPQ7y/Purifier-Captain-png.png" picurl_large="https://i.ibb.co/YBcKkgFN/Purifier-Captain-png.png">BTL</set>
             <tablerow>2</tablerow>
-            <related attach="transform">Siege of UH09</related>
+            <related attach="transform">The Purifying Rain</related>
             </card>
         <card>
             <name>March of the War Machines</name>
