@@ -1974,7 +1974,7 @@ Crew 3</text>
             <tablerow>2</tablerow>
             </card>
         <card>
-            <name>Victory of UB11@</name>
+            <name>Victory of UB11</name>
             <text>???</text>
             <prop>
                 <layout>transform</layout>
@@ -3941,7 +3941,7 @@ Ace 6  (This creature crews Vehicles as though its power were 6 greater.) </text
             <related attach="transform">Sabotage of Narroway Bridge</related>
             </card>
         <card>
-            <name>Victory of UB11@</name>
+            <name>Victory of UB11</name>
             <text>???</text>
             <prop>
                 <layout>transform</layout>
