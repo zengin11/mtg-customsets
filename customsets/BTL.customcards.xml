@@ -453,26 +453,6 @@ Populate.  (Create a token that's a copy of a creature token you control.) </tex
             <tablerow>3</tablerow>
             </card>
         <card>
-            <name>Irena "Firefly" Vanguard</name>
-            <text>Activated abilities of creatures and Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
-Vehicles crewed by this creature this turn have vigilance and haste.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>UR</colors>
-                <coloridentity>UR</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Pilot</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/4wLFyDLQ/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/ZRrfswrZ/Irena-Firefly-Vanguard-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
             <name>Fighter</name>
             <text>Flying
 Crew 1</text>
@@ -3171,6 +3151,26 @@ Whenever you attack with three or more Soldiers, populate. The token enters tapp
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/5ggWXnbr/Coalition-Field-Marshal-png.png" picurl_large="https://i.ibb.co/9kk9mVQb/Coalition-Field-Marshal-png.png">BTL</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Irena "Firefly" Vanguard</name>
+            <text>Activated abilities of creatures and Vehicles you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Vehicles crewed by this creature this turn have vigilance and haste.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Pilot</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/4wLFyDLQ/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/ZRrfswrZ/Irena-Firefly-Vanguard-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
