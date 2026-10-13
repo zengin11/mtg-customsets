@@ -80,9 +80,9 @@
           "large": "https://i.ibb.co/LdB47g9r/Rampart-APC-Company-png.png"
         },
         "name": "\"Rampart\" APC Company",
-        "oracle_text": "When this Vehicle enters, create two 1/1 white Soldier creature tokens.\nWartime Measures —\nCrew 2",
+        "oracle_text": "When this Vehicle enters, create two 1/1 white Soldier creature tokens.\n Wartime Measures  — Whenever this Vehicle attacks, if you've cast a battle spell this game, put a +1/+1 counter on each other creature you control.\nCrew 2",
         "power": "4",
-        "toughness": "4",
+        "toughness": "5",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -3405,9 +3405,9 @@
           "large": "https://i.ibb.co/4ngLFL9v/Gallandi-Gunship-Crew-png.png"
         },
         "name": "Gallandi Gunship Crew",
-        "oracle_text": "Ace 2 (This creature crews Vehicles as though its power were 2 greater.)\nWhenever one or more Vehicles you control with flying attack, you may tap target nonland permanent.",
+        "oracle_text": "Ace 2 (This creature crews Vehicles as though its power were 2 greater.)\nWhenever one or more creatures you control with flying attack, you may tap target nonland permanent.",
         "power": "1",
-        "toughness": "1",
+        "toughness": "2",
         "type_line": "Creature — Human Pilot"
       }
     }
@@ -3653,9 +3653,9 @@
           "large": "https://i.ibb.co/yJkmBnN/Griffin-Border-Patrol-png.png"
         },
         "name": "Griffin Border Patrol",
-        "oracle_text": "Flying, vigilance\n{w}, {t}: This Vehicle deals 1 damage to target attacking or blocking creature.\nCrew 1",
+        "oracle_text": "Flying, vigilance\n{w}, {t}: This Vehicle deals 1 damage to target attacking or blocking creature.\nCrew 2",
         "power": "3",
-        "toughness": "1",
+        "toughness": "3",
         "type_line": "Artifact — Vehicle"
       }
     }
@@ -4106,10 +4106,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/WpY1r1D0/Home-Base-Hangar-Bay-png.png"
+          "large": "https://i.ibb.co/Gb3H6F1/Home-Base-Hangar-Bay-png.png"
         },
         "name": "Home Base Hangar Bay",
-        "oracle_text": "Wartime Measures -  {2}{r}, {t}: Choose one. If you cast a battle spell this game, you may choose both.\n • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) \n • Populate.  (Create a token that's a copy of a creature token you control.) ",
+        "oracle_text": "Wartime Measures -  {2}{r}, {t}: Choose one. If you've cast a battle spell this game, you may choose both.\n • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) \n • Populate.  (Create a token that's a copy of a creature token you control.) ",
         "type_line": "Artifact"
       }
     }
@@ -4132,7 +4132,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/cKvDMyWD/Home-Front-Supporter-png.png"
+          "large": "https://i.ibb.co/DNmv9Bd/Home-Front-Supporter-png.png"
         },
         "name": "Home-Front Supporter",
         "oracle_text": "Attrition — At the beginning of your end step, put a +1/+1 counter on up to one other target creature or Vehicle. Then if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.",
@@ -4554,9 +4554,9 @@
           "large": "https://i.ibb.co/rRLhF2Dn/Inspiring-Sergeant-png.png"
         },
         "name": "Inspiring Sergeant",
-        "oracle_text": "Flash\n Attrition  — When this creature enters, if a nonland permanent left the battlefield this turn, put a +1/+1 counter on target creature.",
+        "oracle_text": "Attrition  — At the beginning of your second main phase, if a nonland permanent left the battlefield this turn, untap target creature or land and you gain 1 life.",
         "power": "2",
-        "toughness": "1",
+        "toughness": "2",
         "type_line": "Creature — Human Soldier"
       }
     }
@@ -5085,10 +5085,8 @@
           "large": "https://i.ibb.co/Kxt01KVT/Knight-s-Beacon-Interceptor-png.png"
         },
         "name": "Knight's Beacon Interceptor",
-        "oracle_text": "Flying, lifelink\n{1}{B}, {T}, Sacrifice this Vehicle: Return target Soldier, Pilot, or Vehicle card from your graveyard to the battlefield.\nCrew 1",
-        "power": "2",
-        "toughness": "2",
-        "type_line": "Artifact — Vehicle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -6565,10 +6563,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/PsmYW2FW/Oasis-Reclaimer-png.png"
+          "large": "https://i.ibb.co/MvSQbH4/Oasis-Reclaimer-png.png"
         },
         "name": "Oasis Reclaimer",
-        "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you control a battle or have defeated a battle this game, this Vehicle is an artifact creature.\nCrew 2",
+        "oracle_text": "Flying, first strike\nWartime Measures — As long as it's your turn and you've cast a battle spell this game, this Vehicle is an artifact creature.\nCrew 2",
         "power": "3",
         "toughness": "2",
         "type_line": "Artifact — Vehicle"
@@ -6702,10 +6700,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/0xS04L9/Order-a-Counterattack-png.png"
+          "large": "https://i.ibb.co/xK1JYp06/Order-a-Counterattack-png.png"
         },
         "name": "Order a Counterattack",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature.\n•   Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.",
+        "oracle_text": "Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.\n•   Destroy target creature.\n•   Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.",
         "type_line": "Instant"
       }
     }
@@ -6715,10 +6713,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/k6hmpX1G/Order-a-Raid-png.png"
+          "large": "https://i.ibb.co/N2mbdTfG/Order-a-Raid-png.png"
         },
         "name": "Order a Raid",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target artifact.\n•   Up to two target creatures each get +2/+0 until end of turn.",
+        "oracle_text": "Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.\n•   Destroy target artifact.\n•   Up to two target creatures each get +2/+0 until end of turn.",
         "type_line": "Instant"
       }
     }
@@ -6728,10 +6726,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/gM0bZLvm/Order-a-Resupply-png.png"
+          "large": "https://i.ibb.co/wr3jLQkx/Order-a-Resupply-png.png"
         },
         "name": "Order a Resupply",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Draw two cards.\n•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
+        "oracle_text": "Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.\n•   Draw two cards.\n•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)",
         "type_line": "Sorcery"
       }
     }
@@ -6741,10 +6739,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Nd6m094x/Order-an-Air-Defense-png.png"
+          "large": "https://i.ibb.co/tMMXYFTR/Order-an-Air-Defense-png.png"
         },
         "name": "Order an Air Defense",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n•   Destroy target creature or Vehicle with flying.\n•   Populate  (Create a token that's a copy of a creature token you control.) ",
+        "oracle_text": "Wartime Measures  — Choose one. If you've played a battle card this game, you may choose both.\n•   Destroy target creature or Vehicle with flying.\n•   Populate  (Create a token that's a copy of a creature token you control.) ",
         "type_line": "Sorcery"
       }
     }
@@ -6754,10 +6752,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/Lzb1QkNF/Order-an-Ambush-png.png"
+          "large": "https://i.ibb.co/xSSYQNM1/Order-an-Ambush-png.png"
         },
         "name": "Order an Ambush",
-        "oracle_text": "Wartime Measures  — Choose one. If you control a battle or have defeated a battle this game, you may choose both.\n• Destroy target creature with power 4 or greater.\n• Put a +1/+1 counter on each of up to two target creatures or Vehicles.",
+        "oracle_text": "Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.\n• Destroy target creature with power 4 or greater.\n• Put a +1/+1 counter on each of up to two target creatures or Vehicles.",
         "type_line": "Instant"
       }
     }
@@ -7358,10 +7356,8 @@
           "large": "https://i.ibb.co/DDbYgp5V/QRF-2-Toc-Mand-Drone-Ship-png.png"
         },
         "name": "QRF.2 Toc-Mand Drone Ship",
-        "oracle_text": "Flying\nFabricate 3  (When this enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.) \nCrew 3",
-        "power": "5",
-        "toughness": "4",
-        "type_line": "Artifact — Vehicle"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9592,10 +9588,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/7NZjNLZV/Swift-Retaliation-png.png"
+          "large": "https://i.ibb.co/Dfx99KVT/Swift-Retaliation-png.png"
         },
         "name": "Swift Retaliation",
-        "oracle_text": "This spell deals 3 damage to target attacking or blocking creature.\nWartime Measures — If you control a battle or have defeated a battle this game, it instead deals 3 damage divided as you choose among any number of target attacking or blocking creatures.",
+        "oracle_text": "This spell deals 3 damage to target attacking or blocking creature.\nWartime Measures — If you've cast a battle spell this game, it instead deals 3 damage divided as you choose among any number of target attacking or blocking creatures.",
         "type_line": "Instant"
       }
     }
@@ -10352,10 +10348,8 @@
           "large": "https://i.ibb.co/tMdtMD7g/Thrull-Squad-Support-Drone-png.png"
         },
         "name": "Thrull Squad Support Drone",
-        "oracle_text": "Menace\nFabricate 1  (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.) \nModular 1 (This enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
-        "power": "1",
-        "toughness": "1",
-        "type_line": "Artifact Creature — Robot"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -10395,7 +10389,7 @@
           "large": "https://i.ibb.co/FkWw3ghR/Tocsky-s-Tungsten-Terrors-png.png"
         },
         "name": "Tocsky's Tungsten Terrors",
-        "oracle_text": "Squad—{1}, Sacrifice an artifact (As an additional cost to cast this spell, you may pay its squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)\nModular 1 (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+        "oracle_text": "Squad—{1}, Sacrifice an artifact. (As an additional cost to cast this spell, you may pay its squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)\nModular 1 (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
         "power": "1",
         "toughness": "1",
         "type_line": "Artifact Creature — Robot Soldier"
@@ -10795,10 +10789,10 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/LyfpVYY/U-C-I-T-E-War-Submarine-png.png"
+          "large": "https://i.ibb.co/jkYTyKbx/U-C-I-T-E-War-Submarine-png.png"
         },
         "name": "U.C.I.T. E-War Submarine",
-        "oracle_text": "Arms Race  - {3}, {t}: Tap target artifact, creature, or land. This ability costs {2} less to activate if no opponent controls more artifacts than you.\nCrew 6",
+        "oracle_text": "Arms Race  - {2}, {t}: Tap target artifact or creature. This ability costs {2} less to activate if no opponent controls more artifacts than you.\nCrew 6",
         "power": "6",
         "toughness": "8",
         "type_line": "Artifact — Vehicle"
