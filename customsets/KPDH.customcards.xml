@@ -1,13 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-13</releasedate>
+        <set> v1.4<releasedate>2026-10-15</releasedate>
             <name>KPDH</name>
             <longname>Kpop Demon Hunters</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
+        <card>
+            <name>Zoey, Colors Swirling</name>
+            <text>Each instant and sorcery card you own has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice, reveal a card from your hand and pay its splice cost as you cast another spell. Add the revealed card's effects to that spell.) 
+Partner—HUNTR/X</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>1/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/TM0xsDF6/Zoey-Colors-Swirling-png.png" picurl_large="https://i.ibb.co/3mF9n5L2/Zoey-Colors-Swirling-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Rumi, Cherished Melody</name>
+            <text>Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
+Partner—HUNTR/X
+---
+Prepare Spell — Found Harmony
+{2}{g} Sorcery - Arcane
+Draw a card for each creature you control.
+ (While Rumi is prepared, you may cast a copy of this spell. Doing so unprepares her.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{g}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Demon Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jk30Fd2N/Rumi-Cherished-Melody-png.png" picurl_large="https://i.ibb.co/nMQdSTvG/Rumi-Cherished-Melody-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>HUNTR/X, Roar of the Crowd</name>
+            <text>First strike, vigilance, reach
+Resonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
+HUNTR/X gets +1/+0 for each Citizen you control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}{w}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>WUG</colors>
+                <coloridentity>WUG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior Performer</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Qz07hLm/HUNTR-X-Roar-of-the-Crowd-png.png" picurl_large="https://i.ibb.co/w3tZ8V6/HUNTR-X-Roar-of-the-Crowd-png.png">KPDH</set>
+            <tablerow>2</tablerow>
+            </card>
         <card>
             <name>Chorus of the First Hunters</name>
             <text>Cycling {2u}, flashback {2r}</text>
@@ -328,26 +394,6 @@ Cycling {G}{W}{U}  ({G}{W}{U}, Discard this card: Draw a card.) </text>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/vC5vw0j4/Shameful-Distortion-png.png" picurl_large="https://i.ibb.co/vC5vw0j4/Shameful-Distortion-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Zoey, Colors Swirling</name>
-            <text>Each instant and sorcery card you own has "Splice onto instant or sorcery that shares a color with this card." The splice cost is equal to its mana cost.  (To splice, reveal a card from your hand and pay its splice cost as you cast another spell. Add the revealed card's effects to that spell.) 
-Partner—HUNTR/X</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{u}</manacost>
-                <cmc>2</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>1/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/3mCHyJnw/Zoey-Colors-Swirling-png.png" picurl_large="https://i.ibb.co/N2yz64MX/Zoey-Colors-Swirling-png.png">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Soulbound Reinforcements</name>
@@ -864,25 +910,23 @@ Flashback {3}{U}{R}  (You may cast this card from your graveyard for its flashba
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>HUNTR/X, Ft. the Fans</name>
-            <text>First strike, vigilance, reach
-Resonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
-HUNTR/X gets +1/+0 for each Citizen you control.</text>
+            <name>HUNTR_X, Ft. the Fans</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{g}{w}{u}</manacost>
-                <cmc>4</cmc>
-                <colors>WUG</colors>
-                <coloridentity>WUG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>3/3</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/qYpPVKn8/HUNTR-X-Ft-the-Fans-png.png" picurl_large="https://i.ibb.co/qYpPVKn8/HUNTR-X-Ft-the-Fans-png.png">KPDH</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Celine, Veteran Reaper</name>
@@ -1867,31 +1911,6 @@ Resonate - Enchanted creature gains protection from the color of your choice unt
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/wN5Tt53K/Shielded-by-Trust-png.png" picurl_large="https://i.ibb.co/WWmQCmqc/Shielded-by-Trust-png.png">KPDH</set>
             <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Rumi, Cherished Melody</name>
-            <text>Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) 
-Partner—HUNTR/X
----
-Prepare Spell — Found Harmony
-{2}{g} Sorcery - Arcane
-Draw a card for each creature you control.
- (While Rumi is prepared, you may cast a copy of this spell. Doing so unprepares her.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{g}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Demon Performer</type>
-                <pt>3/3</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/dwCNPs7M/Rumi-Cherished-Melody-png.png" picurl_large="https://i.ibb.co/dwCNPs7M/Rumi-Cherished-Melody-png.png">KPDH</set>
-            <tablerow>2</tablerow>
             </card>
         <card>
             <name>Darling of the Masses</name>
@@ -3670,24 +3689,22 @@ Partner—HUNTR/X</text>
             </card>
         <card>
             <name>HUNTR_X, Ft. the Fans Promo</name>
-            <text>First strike, vigilance, reach
-Resonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) 
-HUNTR/X gets +1/+0 for each Citizen you control.</text>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{1}{g}{w}{u}</manacost>
-                <cmc>4</cmc>
-                <colors>WUG</colors>
-                <coloridentity>WUG</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Legendary Creature - Human Warrior Performer</type>
-                <pt>3/3</pt>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/PZfd2njd/HUNTR-X-Ft-the-Fans-Promo-png.png" picurl_large="https://i.ibb.co/PZfd2njd/HUNTR-X-Ft-the-Fans-Promo-png.png">KPDH</set>
-            <tablerow>2</tablerow>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Sphinx of Uthuun (Tiger of the Hojak-do)</name>

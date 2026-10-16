@@ -4271,6 +4271,21 @@
       }
     }
   },
+  "huntr/x, roar of the crowd": {
+    "default": "KPDH",
+    "printings": {
+      "KPDH": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Qz07hLm/HUNTR-X-Roar-of-the-Crowd-png.png"
+        },
+        "name": "HUNTR/X, Roar of the Crowd",
+        "oracle_text": "First strike, vigilance, reach\nResonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) \nHUNTR/X gets +1/+0 for each Citizen you control.",
+        "power": "3",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Human Warrior Performer"
+      }
+    }
+  },
   "huntr_x, feast of the fans": {
     "default": "KPDH",
     "printings": {
@@ -4305,10 +4320,8 @@
           "large": "https://i.ibb.co/PZfd2njd/HUNTR-X-Ft-the-Fans-Promo-png.png"
         },
         "name": "HUNTR_X, Ft. the Fans Promo",
-        "oracle_text": "First strike, vigilance, reach\nResonate - Create a 1/1 green and white Citizen creature token.  (Do so whenever an effect has you reveal one or more cards.) \nHUNTR/X gets +1/+0 for each Citizen you control.",
-        "power": "3",
-        "toughness": "3",
-        "type_line": "Legendary Creature — Human Warrior Performer"
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -8043,7 +8056,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/dwCNPs7M/Rumi-Cherished-Melody-png.png"
+          "large": "https://i.ibb.co/jk30Fd2N/Rumi-Cherished-Melody-png.png"
         },
         "name": "Rumi, Cherished Melody",
         "oracle_text": "Resonate - You gain 3 life. If this isn't the first time this ability has resolved this turn, Rumi becomes prepared.  (Resonate abilities trigger whenever an effect has you reveal one or more cards.) \nPartner—HUNTR/X\n---\nPrepare Spell — Found Harmony\n{2}{g} Sorcery - Arcane\nDraw a card for each creature you control.\n (While Rumi is prepared, you may cast a copy of this spell. Doing so unprepares her.) ",
@@ -9818,7 +9831,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/JRDRZCxH/The-Assembly-png.png"
+          "large": "https://i.ibb.co/zTGyYx32/The-Assembly-png.png"
         },
         "name": "The Assembly",
         "oracle_text": "Hexproof, trample\nCrew 8\nVehiclecycling {3}",
@@ -11188,7 +11201,7 @@
     "printings": {
       "BTL": {
         "image_uris": {
-          "large": "https://i.ibb.co/XfkmGvPz/Wary-WSO-png.png"
+          "large": "https://i.ibb.co/1fF5PBcs/Wary-WSO-png.png"
         },
         "name": "Wary WSO",
         "oracle_text": "Vigilance\nWhenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigilance until end of turn.",
@@ -11465,7 +11478,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/3mCHyJnw/Zoey-Colors-Swirling-png.png"
+          "large": "https://i.ibb.co/TM0xsDF6/Zoey-Colors-Swirling-png.png"
         },
         "name": "Zoey, Colors Swirling",
         "oracle_text": "Each instant and sorcery card you own has \"Splice onto instant or sorcery that shares a color with this card.\" The splice cost is equal to its mana cost.  (To splice, reveal a card from your hand and pay its splice cost as you cast another spell. Add the revealed card's effects to that spell.) \nPartner—HUNTR/X",

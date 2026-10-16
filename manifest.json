@@ -257,7 +257,7 @@
       "Strategic Bomber": "2026-09-02T01:01:58Z",
       "Supportive Seamen": "2026-09-26T21:15:11Z",
       "Swift Retaliation": "2026-10-13T17:11:20Z",
-      "The Assembly": "2026-10-10T23:10:09Z",
+      "The Assembly": "2026-10-16T02:05:36Z",
       "The Harbor Heist": "2026-10-10T18:55:37Z",
       "The Massive Fella": "2026-10-10T23:10:09Z",
       "The Purifying Rain": "2026-10-10T18:55:37Z",
@@ -301,7 +301,7 @@
       "Victory of UU10": "2026-09-02T18:37:21Z",
       "War Fever": "2026-09-02T18:37:21Z",
       "War Map": "2026-09-02T19:13:09Z",
-      "Wary WSO": "2026-10-10T18:55:37Z",
+      "Wary WSO": "2026-10-16T02:05:36Z",
       "Wastes": "2026-09-02T01:01:58Z",
       "X.55 Mandalay Executor": "2026-09-02T20:04:02Z",
       "XDC-3 \"Nesting Doll\" Drone": "2026-10-10T18:55:37Z"
@@ -611,9 +611,10 @@
       "Gwi-ma, Otherworld King": "2026-09-25T02:55:51Z",
       "HUNTR/X, Feast of the Fans": "2026-09-25T02:55:51Z",
       "HUNTR/X, Ft. the Fans": "2026-09-25T02:55:51Z",
+      "HUNTR/X, Roar of the Crowd": "2026-10-16T02:04:41Z",
       "HUNTR_X, Feast of the Fans": "2026-09-25T02:55:05Z",
-      "HUNTR_X, Ft. the Fans": "2026-09-25T02:55:05Z",
-      "HUNTR_X, Ft. the Fans Promo": "2026-09-25T02:55:51Z",
+      "HUNTR_X, Ft. the Fans": "2026-10-16T02:04:41Z",
+      "HUNTR_X, Ft. the Fans Promo": "2026-10-16T02:04:41Z",
       "Halo Fountain": "2026-09-25T02:55:51Z",
       "Halo Fountain Alt": "2026-09-25T02:55:51Z",
       "Harmonic Restoration": "2026-09-25T02:55:51Z",
@@ -713,7 +714,7 @@
       "Rumi and Jinu, Idyllic": "2026-09-25T02:55:51Z",
       "Rumi's Sain-geom": "2026-09-25T02:55:51Z",
       "Rumi, Broken Glass": "2026-09-25T02:55:51Z",
-      "Rumi, Cherished Melody": "2026-09-02T01:02:00Z",
+      "Rumi, Cherished Melody": "2026-10-16T02:04:41Z",
       "Rumi, Leader of Idols": "2026-10-01T04:23:36Z",
       "Rumi, Leader of Idols Promo": "2026-09-25T02:55:51Z",
       "Rumi, Queen of Nightmares": "2026-10-09T03:44:01Z",
@@ -800,7 +801,7 @@
       "Weathered Wayfarer": "2026-09-25T02:55:51Z",
       "Wrath of God": "2026-09-25T02:55:51Z",
       "Zoey's Shin-kal": "2026-09-25T02:55:51Z",
-      "Zoey, Colors Swirling": "2026-09-25T02:55:51Z",
+      "Zoey, Colors Swirling": "2026-10-16T02:04:41Z",
       "Zoey, Crowd Pleaser": "2026-10-01T04:23:36Z",
       "Zoey, Crowd Pleaser Promo": "2026-10-01T18:08:07Z",
       "Zoey, HUNTR/X Maknae": "2026-09-24T01:48:01Z",
@@ -938,13 +939,13 @@
       "updated": "2026-09-02T01:02:03Z"
     },
     "BTL": {
-      "updated": "2026-10-13T17:11:20Z"
+      "updated": "2026-10-16T02:05:36Z"
     },
     "JJK": {
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-10-09T03:44:01Z"
+      "updated": "2026-10-16T02:04:41Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -963,6 +964,6 @@
     }
   },
   "site_info": {
-    "updated": "2026-10-10T23:08:39Z"
+    "updated": "2026-10-15T20:33:38Z"
   }
 }

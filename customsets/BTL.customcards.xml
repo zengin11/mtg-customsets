@@ -1,219 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-10-13</releasedate>
+        <set> v1.4<releasedate>2026-10-15</releasedate>
             <name>BTL</name>
             <longname>Bellonarra: The Last War</longname>
             <settype>Custom</settype>
             </set>
         </sets>
     <cards>
-        <card>
-            <name>Order a Resupply</name>
-            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
-•   Draw two cards.
-•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{U}</manacost>
-                <cmc>3</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/wr3jLQkx/Order-a-Resupply-png.png" picurl_large="https://i.ibb.co/k6kvyD7W/Order-a-Resupply-png.png">BTL</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Order an Air Defense</name>
-            <text>Wartime Measures  — Choose one. If you've played a battle card this game, you may choose both.
-•   Destroy target creature or Vehicle with flying.
-•   Populate  (Create a token that's a copy of a creature token you control.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{G}</manacost>
-                <cmc>2</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Sorcery</maintype>
-                <type>Sorcery</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/tMMXYFTR/Order-an-Air-Defense-png.png" picurl_large="https://i.ibb.co/5WWFswgZ/Order-an-Air-Defense-png.png">BTL</set>
-            <tablerow>3</tablerow>
-            </card>
-        <card>
-            <name>Home Base Hangar Bay</name>
-            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you've cast a battle spell this game, you may choose both.
- • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
- • Populate.  (Create a token that's a copy of a creature token you control.) </text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Uncommon" picurl="https://i.ibb.co/Gb3H6F1/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/dzJmT73/Home-Base-Hangar-Bay-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Home-Front Supporter</name>
-            <text>Attrition — At the beginning of your end step, put a +1/+1 counter on up to one other target creature or Vehicle. Then if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{G}</manacost>
-                <cmc>3</cmc>
-                <colors>G</colors>
-                <coloridentity>G</coloridentity>
-                <maintype>Creature</maintype>
-                <type>Creature - Human Citizen</type>
-                <pt>0/4</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/DNmv9Bd/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/mmd29np/Home-Front-Supporter-png.png">BTL</set>
-            <tablerow>2</tablerow>
-            </card>
-        <card>
-            <name>Oasis Reclaimer</name>
-            <text>Flying, first strike
-Wartime Measures — As long as it's your turn and you've cast a battle spell this game, this Vehicle is an artifact creature.
-Crew 2</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{W}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>3/2</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/MvSQbH4/Oasis-Reclaimer-png.png" picurl_large="https://i.ibb.co/072vkLS/Oasis-Reclaimer-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Order an Ambush</name>
-            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
-• Destroy target creature with power 4 or greater.
-• Put a +1/+1 counter on each of up to two target creatures or Vehicles.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{W}</manacost>
-                <cmc>3</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/xSSYQNM1/Order-an-Ambush-png.png" picurl_large="https://i.ibb.co/PZZM8d5c/Order-an-Ambush-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Swift Retaliation</name>
-            <text>This spell deals 3 damage to target attacking or blocking creature.
-Wartime Measures — If you've cast a battle spell this game, it instead deals 3 damage divided as you choose among any number of target attacking or blocking creatures.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{W}</manacost>
-                <cmc>4</cmc>
-                <colors>W</colors>
-                <coloridentity>W</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/Dfx99KVT/Swift-Retaliation-png.png" picurl_large="https://i.ibb.co/5hNrrcMw/Swift-Retaliation-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>U.C.I.T. E-War Submarine</name>
-            <text>Arms Race  - {2}, {t}: Tap target artifact or creature. This ability costs {2} less to activate if no opponent controls more artifacts than you.
-Crew 6</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{U}</manacost>
-                <cmc>1</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>6/8</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/jkYTyKbx/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/XxPb7Bjd/U-C-I-T-E-War-Submarine-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Order a Raid</name>
-            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
-•   Destroy target artifact.
-•   Up to two target creatures each get +2/+0 until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{2}{R}</manacost>
-                <cmc>3</cmc>
-                <colors>R</colors>
-                <coloridentity>R</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/N2mbdTfG/Order-a-Raid-png.png" picurl_large="https://i.ibb.co/tpxFTLn1/Order-a-Raid-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Order a Counterattack</name>
-            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
-•   Destroy target creature.
-•   Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{3}{B}</manacost>
-                <cmc>4</cmc>
-                <colors>B</colors>
-                <coloridentity>B</coloridentity>
-                <maintype>Instant</maintype>
-                <type>Instant</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/xK1JYp06/Order-a-Counterattack-png.png" picurl_large="https://i.ibb.co/HLtnCWsq/Order-a-Counterattack-png.png">BTL</set>
-            <tablerow>1</tablerow>
-            </card>
         <card>
             <name>Soldier Token 3</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
@@ -274,6 +68,27 @@ Crew 3</text>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/SD4dK46m/I-A-Point-Defense-Destroyer-png.png" picurl_large="https://i.ibb.co/NgdmLdFN/I-A-Point-Defense-Destroyer-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Order a Resupply</name>
+            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
+•   Draw two cards.
+•   Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{U}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/wr3jLQkx/Order-a-Resupply-png.png" picurl_large="https://i.ibb.co/k6kvyD7W/Order-a-Resupply-png.png">BTL</set>
+            <tablerow>3</tablerow>
             </card>
         <card>
             <name>Genesis Tactical Assault Unit</name>
@@ -473,6 +288,48 @@ Crew 2</text>
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Order an Air Defense</name>
+            <text>Wartime Measures  — Choose one. If you've played a battle card this game, you may choose both.
+•   Destroy target creature or Vehicle with flying.
+•   Populate  (Create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{G}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <type>Sorcery</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/tMMXYFTR/Order-an-Air-Defense-png.png" picurl_large="https://i.ibb.co/5WWFswgZ/Order-an-Air-Defense-png.png">BTL</set>
+            <tablerow>3</tablerow>
+            </card>
+        <card>
+            <name>Home Base Hangar Bay</name>
+            <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you've cast a battle spell this game, you may choose both.
+ • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
+ • Populate.  (Create a token that's a copy of a creature token you control.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Uncommon" picurl="https://i.ibb.co/Gb3H6F1/Home-Base-Hangar-Bay-png.png" picurl_large="https://i.ibb.co/dzJmT73/Home-Base-Hangar-Bay-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Home Base Hangar Bay</name>
             <text>Wartime Measures -  {2}{r}, {t}: Choose one. If you've cast a battle spell this game, you may choose both.
  • Create a Fighter token.  (It's a 3/1 Vehicle artifact with flying and crew 1.) 
@@ -534,6 +391,25 @@ Crew 1</text>
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/hFjKgtWz/R-D-I-Main-Battle-Tank-png.png" picurl_large="https://i.ibb.co/8gpjmS5Z/R-D-I-Main-Battle-Tank-png.png">BTL</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Home-Front Supporter</name>
+            <text>Attrition — At the beginning of your end step, put a +1/+1 counter on up to one other target creature or Vehicle. Then if a nonland permanent left the battlefield this turn, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{G}</manacost>
+                <cmc>3</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature - Human Citizen</type>
+                <pt>0/4</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/DNmv9Bd/Home-Front-Supporter-png.png" picurl_large="https://i.ibb.co/mmd29np/Home-Front-Supporter-png.png">BTL</set>
+            <tablerow>2</tablerow>
             </card>
         <card>
             <name>S.L.I. Ablative VolunteerTM</name>
@@ -1139,6 +1015,27 @@ Crew 3</text>
             <tablerow>0</tablerow>
             </card>
         <card>
+            <name>Oasis Reclaimer</name>
+            <text>Flying, first strike
+Wartime Measures — As long as it's your turn and you've cast a battle spell this game, this Vehicle is an artifact creature.
+Crew 2</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{W}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>3/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/MvSQbH4/Oasis-Reclaimer-png.png" picurl_large="https://i.ibb.co/072vkLS/Oasis-Reclaimer-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Modular Combat Drone</name>
             <text>Modular 2  (This creature enters with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.) </text>
             <prop>
@@ -1524,6 +1421,27 @@ When this creature enters, tap target creature or Vehicle an opponent controls a
                 </prop>
             <set rarity="Common" picurl="https://i.ibb.co/JjyPJPw8/Penal-Battalion-png.png" picurl_large="https://i.ibb.co/JjyPJPw8/Penal-Battalion-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Order an Ambush</name>
+            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
+• Destroy target creature with power 4 or greater.
+• Put a +1/+1 counter on each of up to two target creatures or Vehicles.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{W}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/xSSYQNM1/Order-an-Ambush-png.png" picurl_large="https://i.ibb.co/PZZM8d5c/Order-an-Ambush-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>The Street War</name>
@@ -1969,7 +1887,7 @@ Vehiclecycling {3}</text>
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Rare" picurl="https://i.ibb.co/JRDRZCxH/The-Assembly-png.png" picurl_large="https://i.ibb.co/C5R5LWJQ/The-Assembly-png.png">BTL</set>
+            <set rarity="Rare" picurl="https://i.ibb.co/zTGyYx32/The-Assembly-png.png" picurl_large="https://i.ibb.co/8L6Wpsyx/The-Assembly-png.png">BTL</set>
             <tablerow>1</tablerow>
             </card>
         <card>
@@ -2252,6 +2170,26 @@ Modular 1  (This creature enters with a +1/+1 counter on it. When it dies, you m
             <tablerow>2</tablerow>
             </card>
         <card>
+            <name>Swift Retaliation</name>
+            <text>This spell deals 3 damage to target attacking or blocking creature.
+Wartime Measures — If you've cast a battle spell this game, it instead deals 3 damage divided as you choose among any number of target attacking or blocking creatures.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/Dfx99KVT/Swift-Retaliation-png.png" picurl_large="https://i.ibb.co/5hNrrcMw/Swift-Retaliation-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Prototype Railgun</name>
             <text>Arms Race -  At the beginning of your upkeep, put a charge counter on this artifact. If no opponent controls more artifacts than you, put two charge counters on it instead.
 {1}{b}{b}, {t}, Sacrifice this artifact: Each opponent loses life equal to the number of counters on this artifact.</text>
@@ -2293,27 +2231,6 @@ When this Siege enters, destroy up to one target nonland permanent.</text>
             <set rarity="Uncommon" picurl="https://i.ibb.co/svDTPnCD/Trench-Clashes-of-El-Gelly-png.png" picurl_large="https://i.ibb.co/rGLBtY3L/Trench-Clashes-of-El-Gelly-png.png">BTL</set>
             <tablerow>1</tablerow>
             <related attach="transform">Price of a Mile</related>
-            </card>
-        <card>
-            <name>EA-28 "Howler" Screening Jet</name>
-            <text>Flying, vigilance
-{2}{U}: Target creature or Vehicle can't be blocked this turn.
-Crew 1</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost>{1}{U}</manacost>
-                <cmc>2</cmc>
-                <colors>U</colors>
-                <coloridentity>U</coloridentity>
-                <maintype>Artifact</maintype>
-                <type>Artifact - Vehicle</type>
-                <pt>3/1</pt>
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/vCq5bmnt/EA-28-Howler-Screening-Jet-png.png" picurl_large="https://i.ibb.co/6cwh2bCd/EA-28-Howler-Screening-Jet-png.png">BTL</set>
-            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Battlefield Engineer</name>
@@ -2480,6 +2397,27 @@ When this Siege enters, creatures you control get +1/+0 and gain haste until end
             <related attach="transform">March of the War Machines</related>
             </card>
         <card>
+            <name>EA-28 "Howler" Screening Jet</name>
+            <text>Flying, vigilance
+{2}{U}: Target creature or Vehicle can't be blocked this turn.
+Crew 1</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{U}</manacost>
+                <cmc>2</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/vCq5bmnt/EA-28-Howler-Screening-Jet-png.png" picurl_large="https://i.ibb.co/6cwh2bCd/EA-28-Howler-Screening-Jet-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>X.55 Mandalay Executor</name>
             <text>This Vehicle's power and toughness are each equal to the number of artifacts you control.
  Arms Race —This Vehicle has flying as long as no opponent controls more artifacts than you.
@@ -2581,6 +2519,26 @@ Other artifact creatures you control get +1/+1.</text>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/jkrbtRnq/Steel-Squad-Leader-png.png" picurl_large="https://i.ibb.co/jkrbtRnq/Steel-Squad-Leader-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>U.C.I.T. E-War Submarine</name>
+            <text>Arms Race  - {2}, {t}: Tap target artifact or creature. This ability costs {2} less to activate if no opponent controls more artifacts than you.
+Crew 6</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{U}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Artifact - Vehicle</type>
+                <pt>6/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/jkYTyKbx/U-C-I-T-E-War-Submarine-png.png" picurl_large="https://i.ibb.co/XxPb7Bjd/U-C-I-T-E-War-Submarine-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Dancing with the Angels</name>
@@ -2987,6 +2945,27 @@ Whenever this creature crews a Vehicle, that Vehicle gains trample until end of 
             <tablerow>1</tablerow>
             </card>
         <card>
+            <name>Order a Raid</name>
+            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
+•   Destroy target artifact.
+•   Up to two target creatures each get +2/+0 until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/N2mbdTfG/Order-a-Raid-png.png" picurl_large="https://i.ibb.co/tpxFTLn1/Order-a-Raid-png.png">BTL</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
             <name>Rods from God</name>
             <text>{7}, {t}, Sacrifice this artifact: Destroy target permanent.</text>
             <prop>
@@ -3187,6 +3166,27 @@ Vehicles crewed by this creature this turn have vigilance and haste.</text>
                 </prop>
             <set rarity="Uncommon" picurl="https://i.ibb.co/ks4k5xc8/Irena-Firefly-Vanguard-png.png" picurl_large="https://i.ibb.co/8LrTN085/Irena-Firefly-Vanguard-png.png">BTL</set>
             <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Order a Counterattack</name>
+            <text>Wartime Measures  — Choose one. If you've cast a battle spell this game, you may choose both.
+•   Destroy target creature.
+•   Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{B}</manacost>
+                <cmc>4</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="Common" picurl="https://i.ibb.co/xK1JYp06/Order-a-Counterattack-png.png" picurl_large="https://i.ibb.co/HLtnCWsq/Order-a-Counterattack-png.png">BTL</set>
+            <tablerow>1</tablerow>
             </card>
         <card>
             <name>Munitions Stockpile</name>
@@ -3612,7 +3612,7 @@ Whenever this creature crews a Vehicle, that Vehicle gets +1/+2 and gains vigila
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="Common" picurl="https://i.ibb.co/XfkmGvPz/Wary-WSO-png.png" picurl_large="https://i.ibb.co/rKfnX1hZ/Wary-WSO-png.png">BTL</set>
+            <set rarity="Common" picurl="https://i.ibb.co/1fF5PBcs/Wary-WSO-png.png" picurl_large="https://i.ibb.co/nsxvY4p3/Wary-WSO-png.png">BTL</set>
             <tablerow>2</tablerow>
             </card>
         <card>
