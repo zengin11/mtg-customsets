@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-01</releasedate>
+        <set> v1.4<releasedate>2026-11-02</releasedate>
             <name>Z11</name>
             <longname>Zengin11 Misc Customs</longname>
             <settype>Custom</settype>
@@ -349,6 +349,143 @@
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/KzsQwZgn/Generous-Fleshgrafter-png.png" picurl_large="https://i.ibb.co/KzsQwZgn/Generous-Fleshgrafter-png.png">Z11</set>
             <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Hexdrink</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Xxr48Kmc/Hexdrink-png.png" picurl_large="https://i.ibb.co/YBFWZ1vH/Hexdrink-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Failure to Thrive</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/MyRwTPvT/Failure-to-Thrive-png.png" picurl_large="https://i.ibb.co/7xGMcrfc/Failure-to-Thrive-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Spark of Denial</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XrgDQ3Zf/Spark-of-Denial-png.png" picurl_large="https://i.ibb.co/bMZF02gj/Spark-of-Denial-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Tokashiki, Of Infinite Hands</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QBvY0mm/Tokashiki-Of-Infinite-Hands-png.png" picurl_large="https://i.ibb.co/yTFg2ss/Tokashiki-Of-Infinite-Hands-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Rescind Authorization</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/vg2pFJ9/Rescind-Authorization-png.png" picurl_large="https://i.ibb.co/YYvmCtg/Rescind-Authorization-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Life-Changing Climb</name>
+            <text>Target creature gains flying and double strike until end of turn.
+As long as this spell is on the stack, any player may pay {2} to transfem it.  (It's like transform, but it turns spells into permanents without resolving.) </text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost>{r}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Kcwv34pg/Life-Changing-Climb-png.png" picurl_large="https://i.ibb.co/WNtJY84X/Life-Changing-Climb-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Push for the Pinnacle</related>
+            </card>
+        <card>
+            <name>Push for the Pinnacle</name>
+            <text>{1}{r}{w}: Target creature gains flying and double strike until end of turn. When it deals combat damage to a player this turn, create a Food token.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>back</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity>WR</coloridentity>
+                <maintype>Enchantment</maintype>
+                <type>Enchantment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/hFRSsJzT/Push-for-the-Pinnacle-png.png" picurl_large="https://i.ibb.co/xqSNhtTr/Push-for-the-Pinnacle-png.png">Z11</set>
+            <tablerow>1</tablerow>
+            <related attach="transform">Life-Changing Climb</related>
+            <related>Food Token</related>
             </card>
         </cards>
     </cockatrice_carddatabase>

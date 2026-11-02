@@ -666,6 +666,19 @@
       }
     }
   },
+  "attack on vah ruta": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/mFrqkGk6/Attack-on-Vah-Ruta-png.png"
+        },
+        "name": "Attack on Vah Ruta",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "austere command": {
     "default": "JJK",
     "printings": {
@@ -721,6 +734,37 @@
         "power": "2",
         "toughness": "3",
         "type_line": "Legendary Creature — Demon Performer"
+      }
+    }
+  },
+  "bahamut, warden of light (zelda, spirit of light)": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/4gSNrBK3/Bahamut-Warden-of-Light-Zelda-Spirit-of-Light-png.png"
+            },
+            "name": "Bahamut, Warden of Light (Zelda, Spirit of Light)",
+            "oracle_text": "\n---\nFlying",
+            "power": "5",
+            "toughness": "5",
+            "type_line": "Legendary Enchantment Creature — Saga Dragon"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/GQqWcmpL/Dion-Bahamut-s-Dominant-Zelda-History-s-Guardian-png.png"
+            },
+            "name": "Dion, Bahamut's Dominant (Zelda, History's Guardian)",
+            "oracle_text": "During your turn, Zelda and other Knights you control have flying.\nWhen Zelda enters, create a 2/2 white Knight creature token.\n{4}{W}{W}, {T}: Exile Zelda, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.",
+            "power": "3",
+            "toughness": "3",
+            "type_line": "Legendary Creature — Human Noble Knight"
+          }
+        ],
+        "layout": "transform",
+        "name": "Bahamut, Warden of Light (Zelda, Spirit of Light)"
       }
     }
   },
@@ -2258,6 +2302,21 @@
       }
     }
   },
+  "daruk, good-natured guardian": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ZRJZr0cH/Daruk-Good-Natured-Guardian-png.png"
+        },
+        "name": "Daruk, Good-Natured Guardian",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nDaruk and creatures paired with him have trample and \"{2}{w}: This creature gains indestructible until end of  turn.\"",
+        "power": "3",
+        "toughness": "5",
+        "type_line": "Legendary Creature — Elemental Warrior"
+      }
+    }
+  },
   "deadly espionage": {
     "default": "BTL",
     "printings": {
@@ -2530,6 +2589,66 @@
         "name": "Dive in the Fire",
         "oracle_text": "Reverberate -  If you revealed one or more cards this turn, creatures you don't control lose indestructible until end of turn\nThis spell deals 3 damage to any target.\nSplice onto instant or sorcery {2}{r}  (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.) ",
         "type_line": "Instant — Arcane"
+      }
+    }
+  },
+  "divine beast vah medoh": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/qYdqPq7w/Divine-Beast-Vah-Medoh-png.png"
+        },
+        "name": "Divine Beast Vah Medoh",
+        "oracle_text": "When Medoh enters, airbend up to one target nonland permanent.\nStation  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) \n[3+]: {t}: Add {w}.\n[12+]: Flying",
+        "power": "6",
+        "toughness": "6",
+        "type_line": "Legendary Artifact"
+      }
+    }
+  },
+  "divine beast vah naboris": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ZpGHhYZm/Divine-Beast-Vah-Naboris-png.png"
+        },
+        "name": "Divine Beast Vah Naboris",
+        "oracle_text": "When Naboris enters, permanents you control gain shroud until end of turn. Prevent all damage that would be dealt to them this turn.\nStation  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) \n[5+]: {t}: Add {g}{g}.\n[12+]: Trample",
+        "power": "8",
+        "toughness": "8",
+        "type_line": "Legendary Artifact"
+      }
+    }
+  },
+  "divine beast vah rudania": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/yckDZRgb/Divine-Beast-Vah-Rudania-png.png"
+        },
+        "name": "Divine Beast Vah Rudania",
+        "oracle_text": "When Rudania enters, it deals 3 damage to target creature and 3 damage that creature's controller.\nStation  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) \n[3+]: {t}: Add {r}.\n[12+]: Menace",
+        "power": "8",
+        "toughness": "6",
+        "type_line": "Legendary Artifact"
+      }
+    }
+  },
+  "divine beast vah ruta": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/rKm2BzH8/Divine-Beast-Vah-Ruta-png.png"
+        },
+        "name": "Divine Beast Vah Ruta",
+        "oracle_text": "When Ruta enters, put a flood counter on target land. It's an Island in addition to its other types.\nStation  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) \n[1+]: {t}: Add {u}.\n[12+]: Islandwalk",
+        "power": "5",
+        "toughness": "8",
+        "type_line": "Legendary Artifact"
       }
     }
   },
@@ -2998,6 +3117,19 @@
       }
     }
   },
+  "failure to thrive": {
+    "default": "Z11",
+    "printings": {
+      "Z11": {
+        "image_uris": {
+          "large": "https://i.ibb.co/MyRwTPvT/Failure-to-Thrive-png.png"
+        },
+        "name": "Failure to Thrive",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "fallen shinobi": {
     "default": "NGO",
     "printings": {
@@ -3010,6 +3142,19 @@
         "power": "5",
         "toughness": "4",
         "type_line": "Creature — Zombie Ninja"
+      }
+    }
+  },
+  "fang, roku's companion (dinraal, spirit of flame)": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/D3LD9hS/Fang-Roku-s-Companion-Dinraal-Spirit-of-Flame-png.png"
+        },
+        "name": "Fang, Roku's Companion (Dinraal, Spirit of Flame)",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -3089,7 +3234,7 @@
     }
   },
   "fierce guardianship": {
-    "default": "KPDH",
+    "default": "TLZ",
     "printings": {
       "KPDH": {
         "image_uris": {
@@ -3098,6 +3243,14 @@
         "name": "Fierce Guardianship",
         "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
         "type_line": "Instant"
+      },
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/67nYw7xd/Fierce-Guardianship-png.png"
+        },
+        "name": "Fierce Guardianship",
+        "oracle_text": "",
+        "type_line": ""
       }
     }
   },
@@ -4045,6 +4198,19 @@
       }
     }
   },
+  "hexdrink": {
+    "default": "Z11",
+    "printings": {
+      "Z11": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Xxr48Kmc/Hexdrink-png.png"
+        },
+        "name": "Hexdrink",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "hidden lair": {
     "default": "KPDH",
     "printings": {
@@ -4197,6 +4363,21 @@
         "power": "3",
         "toughness": "4",
         "type_line": "Artifact Creature — Robot"
+      }
+    }
+  },
+  "hraesvelgr of the first brood (naydra, spirit of ice)": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ynvzVwby/Hraesvelgr-of-the-First-Brood-Naydra-Spirit-of-Ice-png.png"
+        },
+        "name": "Hraesvelgr of the First Brood (Naydra, Spirit of Ice)",
+        "oracle_text": "Flying, vigilance, ward {2}\nWhen Naydra enters and whenever you cast a noncreature spell, target creature gets +1/+0 until end of turn and can't be blocked this turn.",
+        "power": "5",
+        "toughness": "5",
+        "type_line": "Legendary Creature — Elder Dragon"
       }
     }
   },
@@ -4848,6 +5029,19 @@
       }
     }
   },
+  "jugan, the rising star (farosh, spirit of lightning)": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/jvq8vbsB/Jugan-the-Rising-Star-Farosh-Spirit-of-Lightning-png.png"
+        },
+        "name": "Jugan, the Rising Star (Farosh, Spirit of Lightning)",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "jujutsu tech, tokyo's bastion": {
     "default": "JJK",
     "printings": {
@@ -5258,6 +5452,33 @@
       }
     }
   },
+  "life-changing climb": {
+    "default": "Z11",
+    "printings": {
+      "Z11": {
+        "card_faces": [
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/Kcwv34pg/Life-Changing-Climb-png.png"
+            },
+            "name": "Life-Changing Climb",
+            "oracle_text": "Target creature gains flying and double strike until end of turn.\nAs long as this spell is on the stack, any player may pay {2} to transfem it.  (It's like transform, but it turns spells into permanents without resolving.) ",
+            "type_line": "Instant"
+          },
+          {
+            "image_uris": {
+              "large": "https://i.ibb.co/hFRSsJzT/Push-for-the-Pinnacle-png.png"
+            },
+            "name": "Push for the Pinnacle",
+            "oracle_text": "{1}{r}{w}: Target creature gains flying and double strike until end of turn. When it deals combat damage to a player this turn, create a Food token.",
+            "type_line": "Enchantment"
+          }
+        ],
+        "layout": "transform",
+        "name": "Life-Changing Climb"
+      }
+    }
+  },
   "lifted by clouds": {
     "default": "KPDH",
     "printings": {
@@ -5281,6 +5502,21 @@
         "name": "Lightning Bolt",
         "oracle_text": "Lightning Bolt deals 3 damage to any target.",
         "type_line": "Instant"
+      }
+    }
+  },
+  "link, champion of hyrule": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Q3WmP9J6/Link-Champion-of-Hyrule-png.png"
+        },
+        "name": "Link, Champion of Hyrule",
+        "oracle_text": "Link can pair as though he were unpaired, and can remain paired with any number of creatures.\nEach creature paired with Link gets +1/+1, and Link gets +1/+1 for each creature paired with him.\nPartner - Spirit and blood",
+        "power": "2",
+        "toughness": "2",
+        "type_line": "Legendary Creature — Elf Warrior"
       }
     }
   },
@@ -5930,6 +6166,64 @@
         "name": "Mindblaze",
         "oracle_text": "Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles.",
         "type_line": "Sorcery"
+      }
+    }
+  },
+  "mineru's construct": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/8gVK0Y6v/Mineru-s-Construct-png.png"
+        },
+        "name": "Mineru's Construct",
+        "oracle_text": "Vigilance, trample, indestructible\nAs long as this Vehicle is paired, it's an artifact creature.\nCrew 2  (Tap any number of other untapped creatures you control with total power 2 or greater: This permanent becomes an artifact creature until end of turn.) ",
+        "power": "6",
+        "toughness": "6",
+        "type_line": "Legendary Artifact — Vehicle"
+      }
+    }
+  },
+  "mineru, sage of spirit": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/QjMhnp3x/Mineru-Sage-of-Spirit-png.png"
+        },
+        "name": "Mineru, Sage of Spirit",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \n{4}, {t}: If Mineru is paired, put a +1/+1 counter on the paired creature, then transform Mineru.  (They remain paired.) ",
+        "power": "{fontcolorwhite}0",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Goat Artificer"
+      }
+    }
+  },
+  "mipha, graceful savior": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/DPJqsJGP/Mipha-Graceful-Savior-png.png"
+        },
+        "name": "Mipha, Graceful Savior",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
+  "mipha, steadfast savior": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/XkdZdfs9/Mipha-Steadfast-Savior-png.png"
+        },
+        "name": "Mipha, Steadfast Savior",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nMipha and creatures paired with her have vigilance and \"{1}{g}, {t}: Regenerate target creature.\"",
+        "power": "1",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Merfolk Cleric"
       }
     }
   },
@@ -7693,6 +7987,19 @@
       }
     }
   },
+  "rescind authorization": {
+    "default": "Z11",
+    "printings": {
+      "Z11": {
+        "image_uris": {
+          "large": "https://i.ibb.co/vg2pFJ9/Rescind-Authorization-png.png"
+        },
+        "name": "Rescind Authorization",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "reserve crew": {
     "default": "BTL",
     "printings": {
@@ -7829,6 +8136,34 @@
       }
     }
   },
+  "revali, prideful prodigy": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/cXhLb1qQ/Revali-Prideful-Prodigy-png.png"
+        },
+        "name": "Revali, Prideful Prodigy",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nRevali and creatures paired with him have flying and \"Whenever this creature attacks, tap target creature defending player controls.\"",
+        "power": "3",
+        "toughness": "1",
+        "type_line": "Legendary Creature — Bird Archer"
+      }
+    }
+  },
+  "revali, proud prodigy": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/6RxGnPr0/Revali-Proud-Prodigy-png.png"
+        },
+        "name": "Revali, Proud Prodigy",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "revenge of the hunted": {
     "default": "KPDH",
     "printings": {
@@ -7852,6 +8187,21 @@
         "name": "Riding the Rhythm",
         "oracle_text": "Reverberate  - Instant and sorcery spells you cast cost {1} less to cast for each color they share with cards you revealed this turn.\nWhenever you cast an instant or sorcery spell, draw a card, then discard a card.",
         "type_line": "Enchantment"
+      }
+    }
+  },
+  "riju, sage of lightning": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/9mPfqvNd/Riju-Sage-of-Lightning-png.png"
+        },
+        "name": "Riju, Sage of Lightning",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nAs long as Riju is paired with another creature, both creatures get +3/+0 and have reach and first strike.",
+        "power": "1",
+        "toughness": "1",
+        "type_line": "Legendary Creature — Human Warrior"
       }
     }
   },
@@ -8653,6 +9003,21 @@
       }
     }
   },
+  "sidon, sage of water": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/Z1NRZHDY/Sidon-Sage-of-Water-png.png"
+        },
+        "name": "Sidon, Sage of Water",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nAs long as Sidon is paired with another creature, both creatures get +0/+3 and have ward {3}.",
+        "power": "3",
+        "toughness": "1",
+        "type_line": "Legendary Creature — Merfolk Noble"
+      }
+    }
+  },
   "siege of ub11": {
     "default": "BTL",
     "printings": {
@@ -8911,7 +9276,7 @@
     }
   },
   "sol ring": {
-    "default": "KPDH",
+    "default": "TLZ",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -8932,6 +9297,14 @@
       "PHM": {
         "image_uris": {
           "large": "https://i.ibb.co/QvHNVtDv/Sol-Ring-png.png"
+        },
+        "name": "Sol Ring",
+        "oracle_text": "{T}: Add {C}{C}.",
+        "type_line": "Artifact"
+      },
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/fKMbZyn/Sol-Ring-png.png"
         },
         "name": "Sol Ring",
         "oracle_text": "{T}: Add {C}{C}.",
@@ -9053,6 +9426,19 @@
         "name": "Soulbound Reinforcements",
         "oracle_text": "Choose one - \n•  Reveal your hand. Create a 1/1 green and Citizen creature token for each card you revealed this turn.\n•  Each opponent reveals their hand. Create a 1/1 red Demon creature token. Put a +1/+1 counter on it for each card your opponents revealed this turn.",
         "type_line": "Instant — Arcane"
+      }
+    }
+  },
+  "spark of denial": {
+    "default": "Z11",
+    "printings": {
+      "Z11": {
+        "image_uris": {
+          "large": "https://i.ibb.co/XrgDQ3Zf/Spark-of-Denial-png.png"
+        },
+        "name": "Spark of Denial",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
       }
     }
   },
@@ -9610,7 +9996,7 @@
     }
   },
   "swiftfoot boots": {
-    "default": "KPDH",
+    "default": "TLZ",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -9623,6 +10009,14 @@
       "KPDH": {
         "image_uris": {
           "large": "https://i.ibb.co/9zNBKTy/Swiftfoot-Boots-png.png"
+        },
+        "name": "Swiftfoot Boots",
+        "oracle_text": "Equipped creature has hexproof and haste.  (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.) \nEquip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.) ",
+        "type_line": "Artifact — Equipment"
+      },
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/ZzDwzn11/Swiftfoot-Boots-png.png"
         },
         "name": "Swiftfoot Boots",
         "oracle_text": "Equipped creature has hexproof and haste.  (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.) \nEquip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.) ",
@@ -10035,6 +10429,19 @@
         "name": "The Massive Fella",
         "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
         "type_line": "Unknown"
+      }
+    }
+  },
+  "the master sword": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/351RfSkz/The-Master-Sword-png.png"
+        },
+        "name": "The Master Sword",
+        "oracle_text": "Equipped creature gets +2/+1.\nAs long as equipped creature is paired, it has double strike and protection from black.\nEquip {3}",
+        "type_line": "Legendary Artifact — Equipment"
       }
     }
   },
@@ -10499,6 +10906,19 @@
       }
     }
   },
+  "tokashiki, of infinite hands": {
+    "default": "Z11",
+    "printings": {
+      "Z11": {
+        "image_uris": {
+          "large": "https://i.ibb.co/QBvY0mm/Tokashiki-Of-Infinite-Hands-png.png"
+        },
+        "name": "Tokashiki, Of Infinite Hands",
+        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
+        "type_line": "Unknown"
+      }
+    }
+  },
   "topplegeist": {
     "default": "NGO",
     "printings": {
@@ -10696,6 +11116,21 @@
         "name": "Truth and Power",
         "oracle_text": "Play with your hand revealed.\nCards you own have flash.\nCreatures you control have haste.",
         "type_line": "Enchantment"
+      }
+    }
+  },
+  "tulin, sage of wind": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/pBQYcScQ/Tulin-Sage-of-Wind-png.png"
+        },
+        "name": "Tulin, Sage of Wind",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nAs long as Tulin is paired with another creature, both creatures get +1/+1 and have flying.",
+        "power": "1",
+        "toughness": "1",
+        "type_line": "Legendary Creature — Bird Archer"
       }
     }
   },
@@ -10945,6 +11380,21 @@
         "name": "Urban Retreat",
         "oracle_text": "This land enters tapped.\n{T}: Add {G}, {W}, or {U}.\n{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",
         "type_line": "Land"
+      }
+    }
+  },
+  "urbosa, crackling queen": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/BV0LwNxL/Urbosa-Crackling-Queen-png.png"
+        },
+        "name": "Urbosa, Crackling Queen",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nUrbosa and creatures paired with her have \"Whenever this creature attacks, it deals 1 damage to target creature. That creature can't block this turn.\"",
+        "power": "5",
+        "toughness": "5",
+        "type_line": "Legendary Creature — Human Warrior"
       }
     }
   },
@@ -11384,6 +11834,21 @@
       }
     }
   },
+  "yunobo, sage of fire": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/xtQZf4L8/Yunobo-Sage-of-Fire-png.png"
+        },
+        "name": "Yunobo, Sage of Fire",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \nAs long as Yunobo is paired with another creature, both creatures get +1/+0 and have trample.",
+        "power": "2",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Elemental Citizen"
+      }
+    }
+  },
   "yuta okkotsu": {
     "default": "JJK",
     "printings": {
@@ -11457,6 +11922,21 @@
         ],
         "layout": "transform",
         "name": "Zane, the White Ninja"
+      }
+    }
+  },
+  "zelda, sage of time": {
+    "default": "TLZ",
+    "printings": {
+      "TLZ": {
+        "image_uris": {
+          "large": "https://i.ibb.co/bkSjvNb/Zelda-Sage-of-Time-png.png"
+        },
+        "name": "Zelda, Sage of Time",
+        "oracle_text": "Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) \n{2}, {t}: Exile target permanent until the beginning of the next end step. Until end of turn, paired creatures have haste.\nPartner - Spirit and blood",
+        "power": "1",
+        "toughness": "3",
+        "type_line": "Legendary Creature — Elf Avatar Noble"
       }
     }
   },
@@ -11553,7 +12033,7 @@
     "printings": {
       "KPDH": {
         "image_uris": {
-          "large": "https://i.ibb.co/KcRQMHtT/Zoey-Lyrical-Genius-png.png"
+          "large": "https://i.ibb.co/392Xw513/Zoey-Lyrical-Genius-png.png"
         },
         "name": "Zoey, Lyrical Genius",
         "oracle_text": "Spells you cast cost {1} less to cast for each card spliced onto them.\nResonate — Zoey deals 1 damage to each opponent.  (Do so whenever an effect has you reveal one or more cards.) \nWhenever you cast an Arcane spell, draw a card.",

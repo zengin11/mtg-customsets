@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set> v1.4<releasedate>2026-11-02</releasedate>
+            <name>TLZ</name>
+            <longname>TLZ</longname>
+            <settype>Custom</settype>
+            </set>
+        </sets>
+    <cards>
+        <card>
+            <name>Sidon, Sage of Water</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+As long as Sidon is paired with another creature, both creatures get +0/+3 and have ward {3}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{u}</manacost>
+                <cmc>4</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Merfolk Noble</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Z1NRZHDY/Sidon-Sage-of-Water-png.png" picurl_large="https://i.ibb.co/LhvDGQ7J/Sidon-Sage-of-Water-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Divine Beast Vah Rudania</name>
+            <text>When Rudania enters, it deals 3 damage to target creature and 3 damage that creature's controller.
+Station  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) 
+[3+]: {t}: Add {r}.
+[12+]: Menace</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact</type>
+                <pt>8/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/yckDZRgb/Divine-Beast-Vah-Rudania-png.png" picurl_large="https://i.ibb.co/9k4J1vyC/Divine-Beast-Vah-Rudania-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Tulin, Sage of Wind</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+As long as Tulin is paired with another creature, both creatures get +1/+1 and have flying.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Bird Archer</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/pBQYcScQ/Tulin-Sage-of-Wind-png.png" picurl_large="https://i.ibb.co/zTFqpzpF/Tulin-Sage-of-Wind-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Mineru, Sage of Spirit</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+{4}, {t}: If Mineru is paired, put a +1/+1 counter on the paired creature, then transform Mineru.  (They remain paired.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}</manacost>
+                <cmc>1</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Goat Artificer</type>
+                <pt>{fontcolorwhite}0/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/QjMhnp3x/Mineru-Sage-of-Spirit-png.png" picurl_large="https://i.ibb.co/849G2NLQ/Mineru-Sage-of-Spirit-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Bahamut, Warden of Light (Zelda, Spirit of Light)</name>
+            <text>
+---
+Flying</text>
+            <prop>
+                <layout>transform</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Creature</maintype>
+                <type>Legendary Enchantment Creature - Saga Dragon</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/4gSNrBK3/Bahamut-Warden-of-Light-Zelda-Spirit-of-Light-png.png" picurl_large="https://i.ibb.co/7Npym7jL/Bahamut-Warden-of-Light-Zelda-Spirit-of-Light-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            <related attach="transform">Dion, Bahamut's Dominant (Zelda, History's Guardian)</related>
+            </card>
+        <card>
+            <name>Mineru's Construct</name>
+            <text>Vigilance, trample, indestructible
+As long as this Vehicle is paired, it's an artifact creature.
+Crew 2  (Tap any number of other untapped creatures you control with total power 2 or greater: This permanent becomes an artifact creature until end of turn.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Vehicle</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/8gVK0Y6v/Mineru-s-Construct-png.png" picurl_large="https://i.ibb.co/d4yWrmGC/Mineru-s-Construct-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Fierce Guardianship</name>
+            <text />
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Creature</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/67nYw7xd/Fierce-Guardianship-png.png" picurl_large="https://i.ibb.co/9k8ngkLM/Fierce-Guardianship-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Hraesvelgr of the First Brood (Naydra, Spirit of Ice)</name>
+            <text>Flying, vigilance, ward {2}
+When Naydra enters and whenever you cast a noncreature spell, target creature gets +1/+0 until end of turn and can't be blocked this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{4}{U}</manacost>
+                <cmc>5</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Dragon</maintype>
+                <type>Legendary Creature — Elder Dragon</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ynvzVwby/Hraesvelgr-of-the-First-Brood-Naydra-Spirit-of-Ice-png.png" picurl_large="https://i.ibb.co/Kj4tmM3q/Hraesvelgr-of-the-First-Brood-Naydra-Spirit-of-Ice-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Divine Beast Vah Naboris</name>
+            <text>When Naboris enters, permanents you control gain shroud until end of turn. Prevent all damage that would be dealt to them this turn.
+Station  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) 
+[5+]: {t}: Add {g}{g}.
+[12+]: Trample</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{g}</manacost>
+                <cmc>2</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact</type>
+                <pt>8/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZpGHhYZm/Divine-Beast-Vah-Naboris-png.png" picurl_large="https://i.ibb.co/DHzG78qp/Divine-Beast-Vah-Naboris-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mipha, Graceful Savior</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/DPJqsJGP/Mipha-Graceful-Savior-png.png" picurl_large="https://i.ibb.co/gb2nH2vb/Mipha-Graceful-Savior-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Fang, Roku's Companion (Dinraal, Spirit of Flame)</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/D3LD9hS/Fang-Roku-s-Companion-Dinraal-Spirit-of-Flame-png.png" picurl_large="https://i.ibb.co/VX3WgRP/Fang-Roku-s-Companion-Dinraal-Spirit-of-Flame-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Revali, Proud Prodigy</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/6RxGnPr0/Revali-Proud-Prodigy-png.png" picurl_large="https://i.ibb.co/8DpGK5Ng/Revali-Proud-Prodigy-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Mipha, Steadfast Savior</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+Mipha and creatures paired with her have vigilance and "{1}{g}, {t}: Regenerate target creature."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}{u}</manacost>
+                <cmc>2</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Merfolk Cleric</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/XkdZdfs9/Mipha-Steadfast-Savior-png.png" picurl_large="https://i.ibb.co/jZxvx9Md/Mipha-Steadfast-Savior-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Riju, Sage of Lightning</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+As long as Riju is paired with another creature, both creatures get +3/+0 and have reach and first strike.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}{r}</manacost>
+                <cmc>5</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>1/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/9mPfqvNd/Riju-Sage-of-Lightning-png.png" picurl_large="https://i.ibb.co/WNCdc36R/Riju-Sage-of-Lightning-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Revali, Prideful Prodigy</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+Revali and creatures paired with him have flying and "Whenever this creature attacks, tap target creature defending player controls."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{w}{u}</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Bird Archer</type>
+                <pt>3/1</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/cXhLb1qQ/Revali-Prideful-Prodigy-png.png" picurl_large="https://i.ibb.co/JFjQxKZH/Revali-Prideful-Prodigy-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Attack on Vah Ruta</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/mFrqkGk6/Attack-on-Vah-Ruta-png.png" picurl_large="https://i.ibb.co/cXKF010D/Attack-on-Vah-Ruta-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Swiftfoot Boots</name>
+            <text>Equipped creature has hexproof and haste.  (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.) 
+Equip {1}  ({1}: Attach to target creature you control. Equip only as a sorcery.) </text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}</manacost>
+                <cmc>2</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Equipment</maintype>
+                <type>Artifact — Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZzDwzn11/Swiftfoot-Boots-png.png" picurl_large="https://i.ibb.co/k2Cr2R66/Swiftfoot-Boots-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Urbosa, Crackling Queen</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+Urbosa and creatures paired with her have "Whenever this creature attacks, it deals 1 damage to target creature. That creature can't block this turn."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{3}{r}{g}</manacost>
+                <cmc>5</cmc>
+                <colors>RG</colors>
+                <coloridentity>RG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Warrior</type>
+                <pt>5/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/BV0LwNxL/Urbosa-Crackling-Queen-png.png" picurl_large="https://i.ibb.co/0jHqQtSq/Urbosa-Crackling-Queen-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Jugan, the Rising Star (Farosh, Spirit of Lightning)</name>
+            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost />
+                <cmc>0</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Unknown</maintype>
+                <type>Unknown</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/jvq8vbsB/Jugan-the-Rising-Star-Farosh-Spirit-of-Lightning-png.png" picurl_large="https://i.ibb.co/bgY6gQDq/Jugan-the-Rising-Star-Farosh-Spirit-of-Lightning-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Daruk, Good-Natured Guardian</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+Daruk and creatures paired with him have trample and "{2}{w}: This creature gains indestructible until end of  turn."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}{w}</manacost>
+                <cmc>4</cmc>
+                <colors>WR</colors>
+                <coloridentity>WR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Warrior</type>
+                <pt>3/5</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/ZRJZr0cH/Daruk-Good-Natured-Guardian-png.png" picurl_large="https://i.ibb.co/qLnZ8vm0/Daruk-Good-Natured-Guardian-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>The Master Sword</name>
+            <text>Equipped creature gets +2/+1.
+As long as equipped creature is paired, it has double strike and protection from black.
+Equip {3}</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{w}</manacost>
+                <cmc>1</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact - Equipment</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/351RfSkz/The-Master-Sword-png.png" picurl_large="https://i.ibb.co/NgxT1W7S/The-Master-Sword-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Yunobo, Sage of Fire</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+As long as Yunobo is paired with another creature, both creatures get +1/+0 and have trample.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elemental Citizen</type>
+                <pt>2/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/xtQZf4L8/Yunobo-Sage-of-Fire-png.png" picurl_large="https://i.ibb.co/4nxkYQtg/Yunobo-Sage-of-Fire-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Link, Champion of Hyrule</name>
+            <text>Link can pair as though he were unpaired, and can remain paired with any number of creatures.
+Each creature paired with Link gets +1/+1, and Link gets +1/+1 for each creature paired with him.
+Partner - Spirit and blood</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{g}{w}</manacost>
+                <cmc>2</cmc>
+                <colors>WG</colors>
+                <coloridentity>WG</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elf Warrior</type>
+                <pt>2/2</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/Q3WmP9J6/Link-Champion-of-Hyrule-png.png" picurl_large="https://i.ibb.co/pBHXf213/Link-Champion-of-Hyrule-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}</manacost>
+                <cmc>1</cmc>
+                <colors />
+                <coloridentity />
+                <maintype>Artifact</maintype>
+                <type>Artifact</type>
+                <pt />
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/fKMbZyn/Sol-Ring-png.png" picurl_large="https://i.ibb.co/by1xYC2/Sol-Ring-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Zelda, Sage of Time</name>
+            <text>Soulbond  (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.) 
+{2}, {t}: Exile target permanent until the beginning of the next end step. Until end of turn, paired creatures have haste.
+Partner - Spirit and blood</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{1}{u}{r}</manacost>
+                <cmc>3</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Elf Avatar Noble</type>
+                <pt>1/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/bkSjvNb/Zelda-Sage-of-Time-png.png" picurl_large="https://i.ibb.co/nFHq1QP/Zelda-Sage-of-Time-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            </card>
+        <card>
+            <name>Divine Beast Vah Medoh</name>
+            <text>When Medoh enters, airbend up to one target nonland permanent.
+Station  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) 
+[3+]: {t}: Add {w}.
+[12+]: Flying</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{2}{w}</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact</type>
+                <pt>6/6</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/qYdqPq7w/Divine-Beast-Vah-Medoh-png.png" picurl_large="https://i.ibb.co/b5Pw8wQn/Divine-Beast-Vah-Medoh-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Divine Beast Vah Ruta</name>
+            <text>When Ruta enters, put a flood counter on target land. It's an Island in addition to its other types.
+Station  (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery. It's an artifact creature at 12+.) 
+[1+]: {t}: Add {u}.
+[12+]: Islandwalk</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <manacost>{u}</manacost>
+                <cmc>1</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <maintype>Artifact</maintype>
+                <type>Legendary Artifact</type>
+                <pt>5/8</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/rKm2BzH8/Divine-Beast-Vah-Ruta-png.png" picurl_large="https://i.ibb.co/V0tYFzTn/Divine-Beast-Vah-Ruta-png.png">TLZ</set>
+            <tablerow>1</tablerow>
+            </card>
+        <card>
+            <name>Dion, Bahamut's Dominant (Zelda, History's Guardian)</name>
+            <text>During your turn, Zelda and other Knights you control have flying.
+When Zelda enters, create a 2/2 white Knight creature token.
+{4}{W}{W}, {T}: Exile Zelda, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.</text>
+            <prop>
+                <layout>transform</layout>
+                <side>back</side>
+                <manacost>{3}{W}</manacost>
+                <cmc>4</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <maintype>Creature</maintype>
+                <type>Legendary Creature - Human Noble Knight</type>
+                <pt>3/3</pt>
+                <loyalty />
+                <format-commander>legal</format-commander>
+                </prop>
+            <set rarity="NA" picurl="https://i.ibb.co/GQqWcmpL/Dion-Bahamut-s-Dominant-Zelda-History-s-Guardian-png.png" picurl_large="https://i.ibb.co/xqN1JZL0/Dion-Bahamut-s-Dominant-Zelda-History-s-Guardian-png.png">TLZ</set>
+            <tablerow>2</tablerow>
+            <related attach="transform">Bahamut, Warden of Light (Zelda, Spirit of Light)</related>
+            </card>
+        </cards>
+    </cockatrice_carddatabase>

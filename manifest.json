@@ -807,7 +807,7 @@
       "Zoey, HUNTR/X Maknae": "2026-09-24T01:48:01Z",
       "Zoey, HUNTR_X Maknae Promo": "2026-09-25T02:55:51Z",
       "Zoey, Infernal Thrall": "2026-09-25T02:55:51Z",
-      "Zoey, Lyrical Genius": "2026-09-25T02:55:51Z",
+      "Zoey, Lyrical Genius": "2026-11-02T22:35:58Z",
       "Zoey, Rap Genius": "2026-09-24T01:48:01Z"
     },
     "NGO": {
@@ -913,24 +913,61 @@
       "Unstoppable Sea Dragon": "2026-09-02T01:02:03Z",
       "Ventgarden": "2026-09-02T01:02:03Z"
     },
+    "TLZ": {
+      "Attack on Vah Ruta": "2026-11-02T22:39:22Z",
+      "Bahamut, Warden of Light (Zelda, Spirit of Light)": "2026-11-02T22:39:22Z",
+      "Daruk, Good-Natured Guardian": "2026-11-02T22:39:22Z",
+      "Dion, Bahamut's Dominant (Zelda, History's Guardian)": "2026-11-02T22:39:22Z",
+      "Divine Beast Vah Medoh": "2026-11-02T22:39:22Z",
+      "Divine Beast Vah Naboris": "2026-11-02T22:39:22Z",
+      "Divine Beast Vah Rudania": "2026-11-02T22:39:22Z",
+      "Divine Beast Vah Ruta": "2026-11-02T22:39:22Z",
+      "Fang, Roku's Companion (Dinraal, Spirit of Flame)": "2026-11-02T22:39:22Z",
+      "Fierce Guardianship": "2026-11-02T22:39:22Z",
+      "Hraesvelgr of the First Brood (Naydra, Spirit of Ice)": "2026-11-02T22:39:22Z",
+      "Jugan, the Rising Star (Farosh, Spirit of Lightning)": "2026-11-02T22:39:22Z",
+      "Link, Champion of Hyrule": "2026-11-02T22:39:22Z",
+      "Mineru's Construct": "2026-11-02T22:39:22Z",
+      "Mineru, Sage of Spirit": "2026-11-02T22:39:22Z",
+      "Mipha, Graceful Savior": "2026-11-02T22:39:22Z",
+      "Mipha, Steadfast Savior": "2026-11-02T22:39:22Z",
+      "Revali, Prideful Prodigy": "2026-11-02T22:39:22Z",
+      "Revali, Proud Prodigy": "2026-11-02T22:39:22Z",
+      "Riju, Sage of Lightning": "2026-11-02T22:39:22Z",
+      "Sidon, Sage of Water": "2026-11-02T22:39:22Z",
+      "Sol Ring": "2026-11-02T22:39:22Z",
+      "Swiftfoot Boots": "2026-11-02T22:39:22Z",
+      "The Master Sword": "2026-11-02T22:39:22Z",
+      "Tulin, Sage of Wind": "2026-11-02T22:39:22Z",
+      "Urbosa, Crackling Queen": "2026-11-02T22:39:22Z",
+      "Yunobo, Sage of Fire": "2026-11-02T22:39:22Z",
+      "Zelda, Sage of Time": "2026-11-02T22:39:22Z"
+    },
     "Z11": {
       "A Real Brawl": "2026-09-02T01:02:03Z",
       "Calculus of War": "2026-09-02T01:02:03Z",
       "Chroma, Radiant Prismatist": "2026-09-02T01:02:03Z",
       "Court of Law": "2026-09-02T01:02:03Z",
       "Everyone's Gone Home": "2026-09-02T01:02:03Z",
+      "Failure to Thrive": "2026-11-02T22:40:15Z",
       "Generous Fleshgrafter": "2026-09-02T01:02:03Z",
       "Grounded Lightning": "2026-09-02T01:02:03Z",
+      "Hexdrink": "2026-11-02T22:40:15Z",
       "Impassioned Forum": "2026-09-02T01:02:03Z",
       "Impending Order": "2026-09-02T01:02:03Z",
       "It That Slaps Your Face": "2026-09-02T01:02:03Z",
       "Jeskai Secrets": "2026-09-02T01:02:03Z",
       "Kyodai, The Veil Sundered": "2026-09-02T01:02:03Z",
+      "Life-Changing Climb": "2026-11-02T22:40:15Z",
       "Murderous Rage": "2026-09-02T01:02:03Z",
       "Plagarize": "2026-09-02T01:02:03Z",
+      "Push for the Pinnacle": "2026-11-02T22:40:15Z",
+      "Rescind Authorization": "2026-11-02T22:40:15Z",
       "Shock, ft. Gambling": "2026-09-02T01:02:03Z",
       "Soul of Slumbering Chimes": "2026-09-02T01:02:03Z",
+      "Spark of Denial": "2026-11-02T22:40:15Z",
       "Tezzeret's Finale": "2026-09-02T01:02:03Z",
+      "Tokashiki, Of Infinite Hands": "2026-11-02T22:40:15Z",
       "Traitorous Sliver": "2026-09-02T01:02:03Z"
     }
   },
@@ -945,7 +982,7 @@
       "updated": "2026-09-02T01:02:02Z"
     },
     "KPDH": {
-      "updated": "2026-10-16T02:04:41Z"
+      "updated": "2026-11-02T22:35:58Z"
     },
     "NGO": {
       "updated": "2026-09-02T01:02:02Z"
@@ -959,11 +996,14 @@
     "SUB": {
       "updated": "2026-09-02T01:02:03Z"
     },
+    "TLZ": {
+      "updated": "2026-11-02T22:39:22Z"
+    },
     "Z11": {
-      "updated": "2026-09-02T01:02:03Z"
+      "updated": "2026-11-02T22:40:15Z"
     }
   },
   "site_info": {
-    "updated": "2026-10-15T20:33:38Z"
+    "updated": "2026-11-02T22:27:29Z"
   }
 }
