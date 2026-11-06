@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version="4">
     <sets>
-        <set> v1.4<releasedate>2026-09-01</releasedate>
+        <set> v1.4<releasedate>2026-11-06</releasedate>
             <name>JJK</name>
             <longname>Jujutsu Kaisen</longname>
             <settype>Custom</settype>
@@ -1186,16 +1186,17 @@ Technique - {2}{2r}{2w}: The next time target creature would deal damage this tu
             </card>
         <card>
             <name>Deflecting Swat</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <text>If you control a commander, you may cast this spell without paying its mana cost.
+You may choose new targets for target spell or ability.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
+                <manacost>{2}{R}</manacost>
+                <cmc>3</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>
@@ -2571,7 +2572,7 @@ Technique — {1}, {t}: Add {r}{r}. Until end of turn, you don't lose this mana 
         <card>
             <name>Nobara, Unswayed</name>
             <text>First strike
-Whenever a source deals damage to one or more creatures a player controls, that source deals damage to that player equal to the greatest damage dealt to a creature this way.</text>
+Whenever a source deals damage to a creature, it deals that much damage to that creature's controller.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
@@ -2585,7 +2586,7 @@ Whenever a source deals damage to one or more creatures a player controls, that 
                 <loyalty />
                 <format-commander>legal</format-commander>
                 </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/XkxVP0sZ/Nobara-Unswayed-png.png" picurl_large="https://i.ibb.co/XkxVP0sZ/Nobara-Unswayed-png.png">JJK</set>
+            <set rarity="NA" picurl="https://i.ibb.co/7dKvZCw5/Nobara-Unswayed-png.png" picurl_large="https://i.ibb.co/5gLTS4Ny/Nobara-Unswayed-png.png">JJK</set>
             <tablerow>2</tablerow>
             </card>
         <card>
@@ -2982,8 +2983,8 @@ Technique - {2}{r}: Haruta fights target creature you don't control.  (Whenever 
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost>{b}{r}</manacost>
-                <cmc>2</cmc>
+                <manacost>{1}{b}{r}</manacost>
+                <cmc>3</cmc>
                 <colors>BR</colors>
                 <coloridentity>BR</coloridentity>
                 <maintype>Creature</maintype>
@@ -3361,16 +3362,16 @@ Whenever Jogo attacks, he gets +1/+0 until end of turn for each attacking creatu
             </card>
         <card>
             <name>Overkill</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
+            <text>Target creature gets -0/-9999 until end of turn.</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
+                <manacost>{2}{B}</manacost>
+                <cmc>3</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <maintype>Instant</maintype>
+                <type>Instant</type>
                 <pt />
                 <loyalty />
                 <format-commander>legal</format-commander>

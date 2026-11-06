@@ -538,7 +538,7 @@
     }
   },
   "arcane signet": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -997,7 +997,7 @@
     }
   },
   "blasphemous act": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -1492,7 +1492,7 @@
     }
   },
   "chaos warp": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -2426,15 +2426,15 @@
     }
   },
   "deflecting swat": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
           "large": "https://i.ibb.co/G46K7Jd7/Deflecting-Swat-png.png"
         },
         "name": "Deflecting Swat",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability.",
+        "type_line": "Instant"
       },
       "KPDH": {
         "image_uris": {
@@ -2546,7 +2546,7 @@
     }
   },
   "disaster radius": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -3187,7 +3187,7 @@
     }
   },
   "fell": {
-    "default": "NGO",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -3324,7 +3324,7 @@
     }
   },
   "flawless maneuver": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -3397,7 +3397,7 @@
     }
   },
   "forest": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -4851,7 +4851,7 @@
     }
   },
   "island": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -6199,19 +6199,6 @@
       }
     }
   },
-  "mipha, graceful savior": {
-    "default": "TLZ",
-    "printings": {
-      "TLZ": {
-        "image_uris": {
-          "large": "https://i.ibb.co/DPJqsJGP/Mipha-Graceful-Savior-png.png"
-        },
-        "name": "Mipha, Graceful Savior",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
-      }
-    }
-  },
   "mipha, steadfast savior": {
     "default": "TLZ",
     "printings": {
@@ -6478,7 +6465,7 @@
     }
   },
   "mountain": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -6779,10 +6766,10 @@
     "printings": {
       "JJK": {
         "image_uris": {
-          "large": "https://i.ibb.co/XkxVP0sZ/Nobara-Unswayed-png.png"
+          "large": "https://i.ibb.co/7dKvZCw5/Nobara-Unswayed-png.png"
         },
         "name": "Nobara, Unswayed",
-        "oracle_text": "First strike\nWhenever a source deals damage to one or more creatures a player controls, that source deals damage to that player equal to the greatest damage dealt to a creature this way.",
+        "oracle_text": "First strike\nWhenever a source deals damage to a creature, it deals that much damage to that creature's controller.",
         "power": "3",
         "toughness": "3",
         "type_line": "Legendary Creature — Human Sorcerer"
@@ -7088,8 +7075,8 @@
           "large": "https://i.ibb.co/xSFkZj7W/Overkill-png.png"
         },
         "name": "Overkill",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
+        "oracle_text": "Target creature gets -0/-9999 until end of turn.",
+        "type_line": "Instant"
       }
     }
   },
@@ -7161,7 +7148,7 @@
     }
   },
   "path to exile": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -7308,7 +7295,7 @@
     }
   },
   "plains": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -8148,19 +8135,6 @@
         "power": "3",
         "toughness": "1",
         "type_line": "Legendary Creature — Bird Archer"
-      }
-    }
-  },
-  "revali, proud prodigy": {
-    "default": "TLZ",
-    "printings": {
-      "TLZ": {
-        "image_uris": {
-          "large": "https://i.ibb.co/6RxGnPr0/Revali-Proud-Prodigy-png.png"
-        },
-        "name": "Revali, Proud Prodigy",
-        "oracle_text": "Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.",
-        "type_line": "Unknown"
       }
     }
   },
@@ -9276,7 +9250,7 @@
     }
   },
   "sol ring": {
-    "default": "TLZ",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -9949,7 +9923,7 @@
     }
   },
   "swamp": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -9996,7 +9970,7 @@
     }
   },
   "swiftfoot boots": {
-    "default": "TLZ",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -10025,7 +9999,7 @@
     }
   },
   "swords to plowshares": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {
@@ -11099,7 +11073,7 @@
     }
   },
   "truth and power": {
-    "default": "KPDH",
+    "default": "JJK",
     "printings": {
       "JJK": {
         "image_uris": {

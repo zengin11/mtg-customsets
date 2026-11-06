@@ -195,25 +195,6 @@ Station  (Tap another creature you control: Put charge counters equal to its pow
             <tablerow>1</tablerow>
             </card>
         <card>
-            <name>Mipha, Graceful Savior</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/DPJqsJGP/Mipha-Graceful-Savior-png.png" picurl_large="https://i.ibb.co/gb2nH2vb/Mipha-Graceful-Savior-png.png">TLZ</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
             <name>Fang, Roku's Companion (Dinraal, Spirit of Flame)</name>
             <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
             <prop>
@@ -230,25 +211,6 @@ Station  (Tap another creature you control: Put charge counters equal to its pow
                 <format-commander>legal</format-commander>
                 </prop>
             <set rarity="NA" picurl="https://i.ibb.co/D3LD9hS/Fang-Roku-s-Companion-Dinraal-Spirit-of-Flame-png.png" picurl_large="https://i.ibb.co/VX3WgRP/Fang-Roku-s-Companion-Dinraal-Spirit-of-Flame-png.png">TLZ</set>
-            <tablerow>1</tablerow>
-            </card>
-        <card>
-            <name>Revali, Proud Prodigy</name>
-            <text>Zengin must have deleted the save file for this one. Go yell at him, but not too loud; it was definitely an accident.</text>
-            <prop>
-                <layout>normal</layout>
-                <side>front</side>
-                <manacost />
-                <cmc>0</cmc>
-                <colors />
-                <coloridentity />
-                <maintype>Unknown</maintype>
-                <type>Unknown</type>
-                <pt />
-                <loyalty />
-                <format-commander>legal</format-commander>
-                </prop>
-            <set rarity="NA" picurl="https://i.ibb.co/6RxGnPr0/Revali-Proud-Prodigy-png.png" picurl_large="https://i.ibb.co/8DpGK5Ng/Revali-Proud-Prodigy-png.png">TLZ</set>
             <tablerow>1</tablerow>
             </card>
         <card>
